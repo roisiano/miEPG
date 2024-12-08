@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/12/2024 23:09" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 08/12/2024 23:18" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 Espana">
     <display-name>DAZN 1 Espana</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
@@ -14,6 +14,22 @@
   </channel>
   <channel id="DAZN 4 Espana">
     <display-name>DAZN 4 Espana</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
+  </channel>
+  <channel id=" DAZN 1 Espana">
+    <display-name> DAZN 1 Espana</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
+  </channel>
+  <channel id=" DAZN 2 Espana">
+    <display-name> DAZN 2 Espana</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
+  </channel>
+  <channel id=" DAZN 3 Espana">
+    <display-name> DAZN 3 Espana</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
+  </channel>
+  <channel id=" DAZN 4 Espana">
+    <display-name> DAZN 4 Espana</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
   </channel>
   <channel id="DAZN 1">
@@ -34,6 +50,24 @@
   <channel id="DAZN 6">
     <display-name>DAZN 6</display-name>
   </channel>
+  <channel id=" DAZN 1">
+    <display-name> DAZN 1</display-name>
+  </channel>
+  <channel id=" DAZN 2">
+    <display-name> DAZN 2</display-name>
+  </channel>
+  <channel id=" DAZN 3">
+    <display-name> DAZN 3</display-name>
+  </channel>
+  <channel id=" DAZN 4">
+    <display-name> DAZN 4</display-name>
+  </channel>
+  <channel id=" DAZN 5">
+    <display-name> DAZN 5</display-name>
+  </channel>
+  <channel id=" DAZN 6">
+    <display-name> DAZN 6</display-name>
+  </channel>
   <channel id="Ziggo HD">
     <display-name>Ziggo HD</display-name>
   </channel>
@@ -52,11 +86,29 @@
   <channel id="Ziggo 6 HD">
     <display-name>Ziggo 6 HD</display-name>
   </channel>
-  <channel id="">
-    <display-name></display-name>
+  <channel id=" Ziggo HD">
+    <display-name> Ziggo HD</display-name>
+  </channel>
+  <channel id=" Ziggo 2 HD">
+    <display-name> Ziggo 2 HD</display-name>
+  </channel>
+  <channel id=" Ziggo 3 HD">
+    <display-name> Ziggo 3 HD</display-name>
+  </channel>
+  <channel id=" Ziggo 4 HD">
+    <display-name> Ziggo 4 HD</display-name>
+  </channel>
+  <channel id=" Ziggo 5 HD">
+    <display-name> Ziggo 5 HD</display-name>
+  </channel>
+  <channel id=" Ziggo 6 HD">
+    <display-name> Ziggo 6 HD</display-name>
   </channel>
   <channel id="ESPN">
     <display-name>ESPN</display-name>
+  </channel>
+  <channel id=" ESPN">
+    <display-name> ESPN</display-name>
   </channel>
   <programme start="20241208060000 +0100" stop="20241208115000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
@@ -1448,6 +1500,1396 @@
 · La Venezuela Master Final 2024 se desarrollará entre el 11 y el 15 de diciembre en las canchas de la Universidad Metropolitana.
 · País: Venezuela</desc>
   </programme>
+  <programme start="20241208060000 +0100" stop="20241208115000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208115000 +0100" stop="20241208140300 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 12: SD Eibar - Real Sociedad T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241208140300 +0100" stop="20241208141600 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20241208141600 +0100" stop="20241208145000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
+· País: España</desc>
+  </programme>
+  <programme start="20241208145000 +0100" stop="20241208170500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 15: Fulham - Arsenal T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241208170500 +0100" stop="20241208172000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20241208172000 +0100" stop="20241208193500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 15: Tottenham - Chelsea T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241208193500 +0100" stop="20241208200100 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
+· País: España</desc>
+  </programme>
+  <programme start="20241208200100 +0100" stop="20241208205700 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP Las Américas: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
+· El Gran Premio de las Américas de Motociclismo es una carrera de motociclismo de velocidad que se disputa en el Circuito de las Américas desde la temporada 2013 del Campeonato del Mundo de Motociclismo. Votos: 2.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241208205700 +0100" stop="20241208215800 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP Las Américas: Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio de las Américas de Motociclismo es una carrera de motociclismo de velocidad que se disputa en el Circuito de las Américas desde la temporada 2013 del Campeonato del Mundo de Motociclismo. Votos: 1.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241208215800 +0100" stop="20241208230300 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP Las Américas: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El Gran Premio de las Américas de Motociclismo es una carrera de motociclismo de velocidad que se disputa en el Circuito de las Américas desde la temporada 2013 del Campeonato del Mundo de Motociclismo. Votos: 5.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241208230300 +0100" stop="20241209010300 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 15: Fulham - Arsenal T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241209010300 +0100" stop="20241209060000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209060000 +0100" stop="20241209130000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209130000 +0100" stop="20241209150200 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier League T24/25 · Jornada 15: Crystal Palace - Manchester City</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241209150200 +0100" stop="20241209152900 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier League Stories T23/24 · Las calles no olvidarán a Michu</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una descripción completa de la Premier League en todo el mundo. Las últimas noticias, entrevistas, curiosidades e historias sobre la pasión de los aficionados por el fútbol inglés. Votos: 11.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241209152900 +0100" stop="20241209162800 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Australia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· Phillip Island es un lugar icónico en el Mundial de MotoGP. La ubicación pintoresca del circuito, con vistas al océano, y su diseño rápido y fluido, con muchas curvas rápidas y cambios de elevación, lo convierten en uno de los favoritos. Votos: 26.
+· País: Australia y España</desc>
+  </programme>
+  <programme start="20241209162800 +0100" stop="20241209172600 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Tailandia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· La gira oriental del Mundial de motocicliso llega al circuito internacional de Chang, ubicado en Buriram. El trazado tiene una longitud de 4,6 kilómetros y consta de 12 curvas que enlazan zonas de largas rectas. Votos: 3.
+· País: España y Tailandia</desc>
+  </programme>
+  <programme start="20241209172600 +0100" stop="20241209182800 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Japón: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *8.0/10
+· El circuito de Motegi es uno de los más desafiantes del calendario del Mundial de motociclismo. Su combinación de curvas rápidas y lentas, largas rectas y fuertes frenadas dan pie a batallas épicas. Las Honda pretenden brillar en casa. Votos: 11.
+· País: Japón</desc>
+  </programme>
+  <programme start="20241209182800 +0100" stop="20241209194600 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Malasia: Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· Llega uno de los grandes premios más imprevisibles, sobre todo en lo climatológico. El circuito de Sepang cuenta con una pista muy amplia, una larga recta y una combinación de curvas desafiantes para los pilotos. Votos: 3.
+· País: España</desc>
+  </programme>
+  <programme start="20241209194600 +0100" stop="20241209205000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20241209205000 +0100" stop="20241209230500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 15: West Ham - Wolverhampton T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241209230500 +0100" stop="20241209232100 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
+· País: España</desc>
+  </programme>
+  <programme start="20241209232100 +0100" stop="20241210011100 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Liga F T24/25 · Jornada 12: FC Barcelona - Real Betis Féminas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 7.
+· País: España</desc>
+  </programme>
+  <programme start="20241210011100 +0100" stop="20241210060000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210060000 +0100" stop="20241210130000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210130000 +0100" stop="20241210151500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier League T24/25 · Jornada 15: Everton - Liverpool</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Derbi del Merseyside. Los Toffees intentarán contener a unos Reds imparables en una semana de mucha exigencia. El líder demostró su poderío ante el M.City pero viene de una exigente visita a St. James Park. Votos: 4.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241210151500 +0100" stop="20241210173000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 15: West Ham - Wolverhampton T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241210173000 +0100" stop="20241210175000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Código MotoGP T2024 · Malasia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241210175000 +0100" stop="20241210180000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Código MotoGP T2024 · Barcelona</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241210180000 +0100" stop="20241210190000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 1</title>
+    <desc lang="es">Deportes/Motor | 2024 | TP
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
+</desc>
+  </programme>
+  <programme start="20241210190000 +0100" stop="20241210203000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 2</title>
+    <desc lang="es">Deportes/Motor | 2024 | TP
+· Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
+</desc>
+  </programme>
+  <programme start="20241210203000 +0100" stop="20241210210000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Carla Suárez - Imbatida</title>
+    <desc lang="es">Deportes/Programa deportes | 2021 | TP | *6.0/10
+· Carla Suárez ha superado una dura enfermedad, en uno de sus peores momentos, y vuelve para seguir a lo grande. Votos: 7.
+· País: España</desc>
+  </programme>
+  <programme start="20241210210000 +0100" stop="20241211000500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Desde el corazón de una final</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· Detrás de un gran evento como la final de la UEFA Women Champions League, hay un gran equipo volcado para que no os perdáis ningún detalle de lo que ocurre dentro, y fuera del césped. El FC consigue su tercer título europeo.
+</desc>
+  </programme>
+  <programme start="20241211000500 +0100" stop="20241211002500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Francis Ngannou, forjado en la adversidad</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | +18
+· Francis Ngannou es uno de los luchadores de artes marciales mixtas más importantes.
+</desc>
+  </programme>
+  <programme start="20241211002500 +0100" stop="20241211002700 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Off the cuff con Jake Paul</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | +18
+· Entrevista con Jake Paul, uno de los boxeadores punteros del verano de boxeo en DAZN.
+</desc>
+  </programme>
+  <programme start="20241211002700 +0100" stop="20241211060000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211060000 +0100" stop="20241211130000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211130000 +0100" stop="20241211135500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 3.
+· País: España</desc>
+  </programme>
+  <programme start="20241211135500 +0100" stop="20241211145000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera de Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20241211145000 +0100" stop="20241211155500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
+· El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20241211155500 +0100" stop="20241211180000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Liga F T24/25 · Jornada 12: Real Madrid - Sevilla FC</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241211180000 +0100" stop="20241211182000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">MotoGP Features T2024 · Pedro Acosta se pone a prueba</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Pedro Acosta se sienta con Izaskun Ruiz para responder algunas preguntas: unas fáciles y otras, no tanto.
+</desc>
+  </programme>
+  <programme start="20241211182000 +0100" stop="20241211184500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Equals T1 · La presión es un privilegio</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20241211184500 +0100" stop="20241211191000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Equals T1 · Desde el Norte</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20241211191000 +0100" stop="20241211193500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Equals T1 · De todo a nada</title>
+    <desc lang="es">Deportes/Programa deportes | 2023 | TP | *6.0/10
+· Un acercamiento a las principales estrellas del fútbol femenino como nunca antes. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20241211193500 +0100" stop="20241211202000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier League Stories T23/24 · Alexis McAllister, sueños de campeón</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El jugador del Liverpool campeón del mundo con Argentina repasa los momentos de una vida marcada por y para el fútbol.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241211202000 +0100" stop="20241211204000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos.
+· País: España</desc>
+  </programme>
+  <programme start="20241211204000 +0100" stop="20241211205000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 3: Barcelona - Sankt Polten</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20241211205000 +0100" stop="20241211222500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 5: Celtic - Real Madrid T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241211222500 +0100" stop="20241211231500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 3: Real Madrid - Twente</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20241211231500 +0100" stop="20241211232500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20241211232500 +0100" stop="20241212012200 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241212012200 +0100" stop="20241212060000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212060000 +0100" stop="20241212130000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212130000 +0100" stop="20241212145500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 5: Celtic - Real Madrid T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241212145500 +0100" stop="20241212170000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Final T2024 · A1 Padel San Juan</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP
+· La ciudad argentina de San Juan acoge una nueva cita del A1 Padel Tour. Del 2 al 8 de diciembre, el estadio Aldo Cantoni reúne a algunas de las mejores parejas del circuito, quienes pelean por los más de 24.000 dólares de premio para la dupla ganadora.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20241212170000 +0100" stop="20241212174500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">La Central T24/25 · Paredes, una central reconvertida</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20241212174500 +0100" stop="20241212182000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Cara B - Cañada Real Galiana</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
+· Título original: Cara B | Cañada Real Galiana
+· País: España</desc>
+  </programme>
+  <programme start="20241212182000 +0100" stop="20241212183500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">MotoGP Features T2024 · Un día con Aprilia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Nuestra compañera Izaskun Ruiz se cuela por un día en el box de Aprilia para conocer desde dentro el trabajo de un equipo de MotoGP en un fin de semana de Gran Premio.
+</desc>
+  </programme>
+  <programme start="20241212183500 +0100" stop="20241212205000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 5: Bayern Múnich - Juventus T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del mundo del fútbol femenino.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241212205000 +0100" stop="20241212230000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 5: Hammarby - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Suecia</desc>
+  </programme>
+  <programme start="20241212230000 +0100" stop="20241212233000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">La Central T24/25 E8</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20241212233000 +0100" stop="20241213003000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Boxeo: velada Paro vs Hitchins T2024 · Liam Paro vs Richardson Hitchins (velada completa)</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18
+· El Coliseo Roberto Clemente de San Juan, en Puerto Rico alberga la velada de boxeo que enfrenta en el cartel principal a Liam Paro contra Richardson Hitchins por el título superligero.
+· País: Puerto Rico</desc>
+  </programme>
+  <programme start="20241213003000 +0100" stop="20241213013600 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Zurdo vs. Billam Smith</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18
+· Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241213013600 +0100" stop="20241213060000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213060000 +0100" stop="20241213120000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213120000 +0100" stop="20241213130000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Erasmus FC T24/25 E9</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20241213130000 +0100" stop="20241213133000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">La Central T24/25 E8</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+· País: España
+· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  </programme>
+  <programme start="20241213133000 +0100" stop="20241213152000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 5: Bayern Múnich - Juventus T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del mundo del fútbol femenino.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241213152000 +0100" stop="20241213155000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20241213155000 +0100" stop="20241213175500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier League T24/25 · Jornada 15: Everton - Liverpool</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Derbi del Merseyside. Los Toffees intentarán contener a unos Reds imparables en una semana de mucha exigencia. El líder demostró su poderío ante el M.City pero viene de una exigente visita a St. James Park. Votos: 4.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241213175500 +0100" stop="20241213183000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">El mentor de Rafa</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Toni Nadal, mentor de Rafa Nadal habla sobre la retirada del tenista balear, que culminará su carrera deportiva con este Six Kings Slam y la Copa Davis que se disputa en Málaga el próximo mes. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20241213183000 +0100" stop="20241213190500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">David Alonso, historia para Colombia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él.
+</desc>
+  </programme>
+  <programme start="20241213190500 +0100" stop="20241213220000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 5: Hammarby - Barcelona T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Suecia</desc>
+  </programme>
+  <programme start="20241213220000 +0100" stop="20241213223000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
+· País: España</desc>
+  </programme>
+  <programme start="20241213223000 +0100" stop="20241213233000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Erasmus FC T24/25 E9</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
+  </programme>
+  <programme start="20241213233000 +0100" stop="20241214005400 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241214005400 +0100" stop="20241214060000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214060000 +0100" stop="20241214115000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214115000 +0100" stop="20241214140000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 13: Granada - Madrid CFF T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241214140000 +0100" stop="20241214141500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Código MotoGP T2024 · Australia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241214141500 +0100" stop="20241214143500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Código MotoGP T2024 · Tailandia</title>
+    <desc lang="es">Deportes/Programa deportes | 2004 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241214143500 +0100" stop="20241214145500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Código MotoGP T2024 · Malasia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241214145500 +0100" stop="20241214155000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Código MotoGP T2024 · Barcelona</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· ¡Llega Código MotoGP! El programa en el que Natacha Alfageme nos descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva. Votos: 1.
+· País: España
+· Presenta: Natacha Alfageme.</desc>
+  </programme>
+  <programme start="20241214155000 +0100" stop="20241214182000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 16: Arsenal - Everton T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241214182000 +0100" stop="20241214202500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 16: Nottingham Forest - Aston Villa T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241214202500 +0100" stop="20241214213000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Documental sobre Ducati, la fuerza mayor de MotoGP.
+</desc>
+  </programme>
+  <programme start="20241214213000 +0100" stop="20241214220000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos.
+· País: España</desc>
+  </programme>
+  <programme start="20241214220000 +0100" stop="20241214223000 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20241214223000 +0100" stop="20241214225500 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
+· País: España</desc>
+  </programme>
+  <programme start="20241214225500 +0100" stop="20241215004100 +0100" channel=" DAZN 1 Espana">
+    <title lang="es">Premier League T24/25 · Jornada 16: Wolverhampton - Ipswich Town</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241208060000 +0100" stop="20241208100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208100000 +0100" stop="20241208140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208140000 +0100" stop="20241208145000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208145000 +0100" stop="20241208175000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Jornada 15: Ipswich Town - Bournemouth T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241208175000 +0100" stop="20241208200000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Jornada 12: Espanyol - Valencia T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20241208200000 +0100" stop="20241208220000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208220000 +0100" stop="20241208230000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208230000 +0100" stop="20241209013000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Final T2024 · A1 Padel San Juan</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP
+· La ciudad argentina de San Juan acoge una nueva cita del A1 Padel Tour. Del 2 al 8 de diciembre, el estadio Aldo Cantoni reúne a algunas de las mejores parejas del circuito, quienes pelean por los más de 24.000 dólares de premio para la dupla ganadora.
+· País: Argentina</desc>
+  </programme>
+  <programme start="20241209013000 +0100" stop="20241209020000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209020000 +0100" stop="20241209060000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209060000 +0100" stop="20241209100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209100000 +0100" stop="20241209140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209140000 +0100" stop="20241209180000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209180000 +0100" stop="20241209220000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209220000 +0100" stop="20241210020000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210020000 +0100" stop="20241210060000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210060000 +0100" stop="20241210100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210100000 +0100" stop="20241210140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210140000 +0100" stop="20241210180000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210180000 +0100" stop="20241210220000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210220000 +0100" stop="20241211020000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211020000 +0100" stop="20241211060000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211060000 +0100" stop="20241211100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211100000 +0100" stop="20241211140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211140000 +0100" stop="20241211180000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211180000 +0100" stop="20241211210000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211210000 +0100" stop="20241212030500 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">A1 Padel: Venezuela Máster T2024</title>
+    <desc lang="es">Deportes
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241212030500 +0100" stop="20241212060000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212060000 +0100" stop="20241212100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212100000 +0100" stop="20241212140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212140000 +0100" stop="20241212180000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212180000 +0100" stop="20241212183900 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212183900 +0100" stop="20241212210000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Jornada 5: Valerenga - Arsenal T24/25 · Liga de Campeones (F)</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
+· País: Noruega</desc>
+  </programme>
+  <programme start="20241212210000 +0100" stop="20241213030500 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Día 2 T2024 · A1 Padel: Venezuela Máster</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP
+· La Venezuela Master Final 2024 se desarrollará entre el 11 y el 15 de diciembre en las canchas de la Universidad Metropolitana.
+· País: Venezuela</desc>
+  </programme>
+  <programme start="20241213030500 +0100" stop="20241213060000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213060000 +0100" stop="20241213100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213100000 +0100" stop="20241213140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213140000 +0100" stop="20241213180000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213180000 +0100" stop="20241213210000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213210000 +0100" stop="20241214030500 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Día 3 T2024 · A1 Padel: Venezuela Máster</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP
+· La Venezuela Master Final 2024 se desarrollará entre el 11 y el 15 de diciembre en las canchas de la Universidad Metropolitana.
+· País: Venezuela</desc>
+  </programme>
+  <programme start="20241214030500 +0100" stop="20241214060000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214060000 +0100" stop="20241214100000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214100000 +0100" stop="20241214140000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214140000 +0100" stop="20241214155000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214155000 +0100" stop="20241214180000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Jornada 16: Liverpool - Fulham T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241214180000 +0100" stop="20241214230000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">DIRECTO Velada completa T2024 · PFL Europe 4: Championships</title>
+    <desc lang="es">Deportes/Artes marciales | 2024 | +18
+· El LDLC Arena de Lyon acoge este campeonato de la Profesional Fighters League. El combate principal es el que enfrenta a Abdoul Abdouraguimov y a Laureano Staropoli en el peso welter.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241214230000 +0100" stop="20241215020000 +0100" channel=" DAZN 2 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208060000 +0100" stop="20241208100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208100000 +0100" stop="20241208140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208140000 +0100" stop="20241208145000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208145000 +0100" stop="20241208174000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">DIRECTO Jornada 15: Leicester - Brighton &amp; Hove Albion T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241208174000 +0100" stop="20241208180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208180000 +0100" stop="20241208220000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208220000 +0100" stop="20241209020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209020000 +0100" stop="20241209060000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209060000 +0100" stop="20241209100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209100000 +0100" stop="20241209140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209140000 +0100" stop="20241209180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209180000 +0100" stop="20241209220000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209220000 +0100" stop="20241210020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210020000 +0100" stop="20241210060000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210060000 +0100" stop="20241210100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210100000 +0100" stop="20241210140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210140000 +0100" stop="20241210180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210180000 +0100" stop="20241210220000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210220000 +0100" stop="20241211020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211020000 +0100" stop="20241211060000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211060000 +0100" stop="20241211100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211100000 +0100" stop="20241211140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211140000 +0100" stop="20241211180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211180000 +0100" stop="20241211220000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211220000 +0100" stop="20241212020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212020000 +0100" stop="20241212060000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212060000 +0100" stop="20241212100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212100000 +0100" stop="20241212140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212140000 +0100" stop="20241212180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212180000 +0100" stop="20241212220000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212220000 +0100" stop="20241213020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213020000 +0100" stop="20241213060000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213060000 +0100" stop="20241213100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213100000 +0100" stop="20241213140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213140000 +0100" stop="20241213180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213180000 +0100" stop="20241213220000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213220000 +0100" stop="20241214020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214020000 +0100" stop="20241214060000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214060000 +0100" stop="20241214100000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214100000 +0100" stop="20241214140000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214140000 +0100" stop="20241214155000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214155000 +0100" stop="20241214180000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">DIRECTO Jornada 16: Newcastle - Leicester T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241214180000 +0100" stop="20241214190000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214190000 +0100" stop="20241215000000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">DIRECTO Murodjon Akhmadaliev vs. Ricardo Espinoza Franco T2024 · Boxeo: velada Clarke vs Mosquea</title>
+    <desc lang="es">Deportes/Boxeo | 2024 | +18
+· La Salle des Étoiles de Monte Carlo en Monaco alberga la velada de boxeo que enfrenta en el combate principal al británico Cheavon Clarke contra el francés Leonardo Mosquea.
+· País: Mónaco</desc>
+  </programme>
+  <programme start="20241215000000 +0100" stop="20241215020000 +0100" channel=" DAZN 3 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208060000 +0100" stop="20241208100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208100000 +0100" stop="20241208125000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208125000 +0100" stop="20241208155000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">DIRECTO Jornada 12: Costa Adeje Tenerife - Atlético de Madrid T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20241208155000 +0100" stop="20241208180000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">DIRECTO Jornada 12: Madrid CFF - Levante UD T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241208180000 +0100" stop="20241208220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241208220000 +0100" stop="20241209020000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209020000 +0100" stop="20241209060000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209060000 +0100" stop="20241209100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209100000 +0100" stop="20241209140000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209140000 +0100" stop="20241209180000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209180000 +0100" stop="20241209220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241209220000 +0100" stop="20241210020000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210020000 +0100" stop="20241210060000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210060000 +0100" stop="20241210100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210100000 +0100" stop="20241210140000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210140000 +0100" stop="20241210180000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210180000 +0100" stop="20241210220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241210220000 +0100" stop="20241211020000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211020000 +0100" stop="20241211060000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211060000 +0100" stop="20241211100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211100000 +0100" stop="20241211140000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211140000 +0100" stop="20241211180000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211180000 +0100" stop="20241211220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241211220000 +0100" stop="20241212020000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212020000 +0100" stop="20241212060000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212060000 +0100" stop="20241212100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212100000 +0100" stop="20241212140000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212140000 +0100" stop="20241212180000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212180000 +0100" stop="20241212220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241212220000 +0100" stop="20241213020000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213020000 +0100" stop="20241213060000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213060000 +0100" stop="20241213100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213100000 +0100" stop="20241213140000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213140000 +0100" stop="20241213180000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213180000 +0100" stop="20241213220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241213220000 +0100" stop="20241214020000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214020000 +0100" stop="20241214060000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214060000 +0100" stop="20241214100000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214100000 +0100" stop="20241214135000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214135000 +0100" stop="20241214160000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">DIRECTO Jornada 13: Real Betis Féminas - Atlético de Madrid T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241214160000 +0100" stop="20241214162000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214162000 +0100" stop="20241214182000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">DIRECTO Jornada 13: Deportivo Abanca - Real Madrid T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241214182000 +0100" stop="20241214203000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">DIRECTO Jornada 13: Real Sociedad - Costa Adeje Tenerife T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20241214203000 +0100" stop="20241214220000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241214220000 +0100" stop="20241215000000 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241215000000 +0100" stop="20241215050500 +0100" channel=" DAZN 4 Espana">
+    <title lang="es">DIRECTO Semifinales T2024 · A1 Padel: Venezuela Máster</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP
+· La Venezuela Master Final 2024 se desarrollará entre el 11 y el 15 de diciembre en las canchas de la Universidad Metropolitana.
+· País: Venezuela</desc>
+  </programme>
 <programme start="20241207004500 +0000" stop="20241207011500 +0000" channel="DAZN 1">
 <programme start="20241207011500 +0000" stop="20241207031000 +0000" channel="DAZN 1">
 <programme start="20241207031000 +0000" stop="20241207050000 +0000" channel="DAZN 1">
@@ -1644,6 +3086,202 @@
 <programme start="20241209110000 +0000" stop="20241209170000 +0000" channel="DAZN 6">
 <programme start="20241209170000 +0000" stop="20241209230000 +0000" channel="DAZN 6">
 <programme start="20241209230000 +0000" stop="20241210050000 +0000" channel="DAZN 6">
+<programme start="20241207004500 +0000" stop="20241207011500 +0000" channel=" DAZN 1">
+<programme start="20241207011500 +0000" stop="20241207031000 +0000" channel=" DAZN 1">
+<programme start="20241207031000 +0000" stop="20241207050000 +0000" channel=" DAZN 1">
+<programme start="20241207050000 +0000" stop="20241207070000 +0000" channel=" DAZN 1">
+<programme start="20241207070000 +0000" stop="20241207090000 +0000" channel=" DAZN 1">
+<programme start="20241207090000 +0000" stop="20241207093000 +0000" channel=" DAZN 1">
+<programme start="20241207093000 +0000" stop="20241207113000 +0000" channel=" DAZN 1">
+<programme start="20241207113000 +0000" stop="20241207123000 +0000" channel=" DAZN 1">
+<programme start="20241207123000 +0000" stop="20241207143500 +0000" channel=" DAZN 1">
+<programme start="20241207143500 +0000" stop="20241207150000 +0000" channel=" DAZN 1">
+<programme start="20241207150000 +0000" stop="20241207170000 +0000" channel=" DAZN 1">
+<programme start="20241207170000 +0000" stop="20241207173000 +0000" channel=" DAZN 1">
+<programme start="20241207173000 +0000" stop="20241207193000 +0000" channel=" DAZN 1">
+<programme start="20241207193000 +0000" stop="20241207200000 +0000" channel=" DAZN 1">
+<programme start="20241207200000 +0000" stop="20241207220000 +0000" channel=" DAZN 1">
+<programme start="20241207220000 +0000" stop="20241208000000 +0000" channel=" DAZN 1">
+<programme start="20241208000000 +0000" stop="20241208020000 +0000" channel=" DAZN 1">
+<programme start="20241208020000 +0000" stop="20241208021500 +0000" channel=" DAZN 1">
+<programme start="20241208021500 +0000" stop="20241208024500 +0000" channel=" DAZN 1">
+<programme start="20241208024500 +0000" stop="20241208044500 +0000" channel=" DAZN 1">
+<programme start="20241208044500 +0000" stop="20241208050000 +0000" channel=" DAZN 1">
+<programme start="20241208050000 +0000" stop="20241208070000 +0000" channel=" DAZN 1">
+<programme start="20241208070000 +0000" stop="20241208073000 +0000" channel=" DAZN 1">
+<programme start="20241208073000 +0000" stop="20241208093000 +0000" channel=" DAZN 1">
+<programme start="20241208093000 +0000" stop="20241208113000 +0000" channel=" DAZN 1">
+<programme start="20241208113000 +0000" stop="20241208120000 +0000" channel=" DAZN 1">
+<programme start="20241208120000 +0000" stop="20241208140000 +0000" channel=" DAZN 1">
+<programme start="20241208140000 +0000" stop="20241208160500 +0000" channel=" DAZN 1">
+<programme start="20241208160500 +0000" stop="20241208163000 +0000" channel=" DAZN 1">
+<programme start="20241208163000 +0000" stop="20241208183500 +0000" channel=" DAZN 1">
+<programme start="20241208183500 +0000" stop="20241208190500 +0000" channel=" DAZN 1">
+<programme start="20241208190500 +0000" stop="20241208191500 +0000" channel=" DAZN 1">
+<programme start="20241208191500 +0000" stop="20241208192500 +0000" channel=" DAZN 1">
+<programme start="20241208192500 +0000" stop="20241208194000 +0000" channel=" DAZN 1">
+<programme start="20241208194000 +0000" stop="20241208200000 +0000" channel=" DAZN 1">
+<programme start="20241208200000 +0000" stop="20241208220000 +0000" channel=" DAZN 1">
+<programme start="20241208220000 +0000" stop="20241209050000 +0000" channel=" DAZN 1">
+<programme start="20241209050000 +0000" stop="20241209070000 +0000" channel=" DAZN 1">
+<programme start="20241209070000 +0000" stop="20241209090000 +0000" channel=" DAZN 1">
+<programme start="20241209090000 +0000" stop="20241209110000 +0000" channel=" DAZN 1">
+<programme start="20241209110000 +0000" stop="20241209112500 +0000" channel=" DAZN 1">
+<programme start="20241209112500 +0000" stop="20241209131500 +0000" channel=" DAZN 1">
+<programme start="20241209131500 +0000" stop="20241209150000 +0000" channel=" DAZN 1">
+<programme start="20241209150000 +0000" stop="20241209170000 +0000" channel=" DAZN 1">
+<programme start="20241209170000 +0000" stop="20241209180000 +0000" channel=" DAZN 1">
+<programme start="20241209180000 +0000" stop="20241209200000 +0000" channel=" DAZN 1">
+<programme start="20241209200000 +0000" stop="20241209220000 +0000" channel=" DAZN 1">
+<programme start="20241209220000 +0000" stop="20241209221500 +0000" channel=" DAZN 1">
+<programme start="20241209221500 +0000" stop="20241209223000 +0000" channel=" DAZN 1">
+<programme start="20241209223000 +0000" stop="20241209230000 +0000" channel=" DAZN 1">
+<programme start="20241209230000 +0000" stop="20241210010000 +0000" channel=" DAZN 1">
+<programme start="20241210010000 +0000" stop="20241210024500 +0000" channel=" DAZN 1">
+<programme start="20241207020000 +0000" stop="20241207030000 +0000" channel=" DAZN 2">
+<programme start="20241207030000 +0000" stop="20241207050000 +0000" channel=" DAZN 2">
+<programme start="20241207050000 +0000" stop="20241207070000 +0000" channel=" DAZN 2">
+<programme start="20241207070000 +0000" stop="20241207090000 +0000" channel=" DAZN 2">
+<programme start="20241207090000 +0000" stop="20241207110000 +0000" channel=" DAZN 2">
+<programme start="20241207110000 +0000" stop="20241207130000 +0000" channel=" DAZN 2">
+<programme start="20241207130000 +0000" stop="20241207151500 +0000" channel=" DAZN 2">
+<programme start="20241207151500 +0000" stop="20241207173000 +0000" channel=" DAZN 2">
+<programme start="20241207173000 +0000" stop="20241207193500 +0000" channel=" DAZN 2">
+<programme start="20241207193500 +0000" stop="20241207195500 +0000" channel=" DAZN 2">
+<programme start="20241207195500 +0000" stop="20241207201500 +0000" channel=" DAZN 2">
+<programme start="20241207201500 +0000" stop="20241207221500 +0000" channel=" DAZN 2">
+<programme start="20241207221500 +0000" stop="20241207223000 +0000" channel=" DAZN 2">
+<programme start="20241207223000 +0000" stop="20241208003000 +0000" channel=" DAZN 2">
+<programme start="20241208003000 +0000" stop="20241208023000 +0000" channel=" DAZN 2">
+<programme start="20241208023000 +0000" stop="20241208043000 +0000" channel=" DAZN 2">
+<programme start="20241208043000 +0000" stop="20241208050000 +0000" channel=" DAZN 2">
+<programme start="20241208050000 +0000" stop="20241208070000 +0000" channel=" DAZN 2">
+<programme start="20241208070000 +0000" stop="20241208090000 +0000" channel=" DAZN 2">
+<programme start="20241208090000 +0000" stop="20241208110000 +0000" channel=" DAZN 2">
+<programme start="20241208110000 +0000" stop="20241208130000 +0000" channel=" DAZN 2">
+<programme start="20241208130000 +0000" stop="20241208151500 +0000" channel=" DAZN 2">
+<programme start="20241208151500 +0000" stop="20241208173000 +0000" channel=" DAZN 2">
+<programme start="20241208173000 +0000" stop="20241208193000 +0000" channel=" DAZN 2">
+<programme start="20241208193000 +0000" stop="20241208212500 +0000" channel=" DAZN 2">
+<programme start="20241208212500 +0000" stop="20241209050000 +0000" channel=" DAZN 2">
+<programme start="20241209050000 +0000" stop="20241209070000 +0000" channel=" DAZN 2">
+<programme start="20241209070000 +0000" stop="20241209090000 +0000" channel=" DAZN 2">
+<programme start="20241209090000 +0000" stop="20241209120000 +0000" channel=" DAZN 2">
+<programme start="20241209120000 +0000" stop="20241209140000 +0000" channel=" DAZN 2">
+<programme start="20241209140000 +0000" stop="20241209150000 +0000" channel=" DAZN 2">
+<programme start="20241209150000 +0000" stop="20241209170000 +0000" channel=" DAZN 2">
+<programme start="20241209170000 +0000" stop="20241209190000 +0000" channel=" DAZN 2">
+<programme start="20241209190000 +0000" stop="20241209191500 +0000" channel=" DAZN 2">
+<programme start="20241209191500 +0000" stop="20241209193000 +0000" channel=" DAZN 2">
+<programme start="20241209193000 +0000" stop="20241209200000 +0000" channel=" DAZN 2">
+<programme start="20241209200000 +0000" stop="20241209220000 +0000" channel=" DAZN 2">
+<programme start="20241209220000 +0000" stop="20241210000000 +0000" channel=" DAZN 2">
+<programme start="20241210000000 +0000" stop="20241210020000 +0000" channel=" DAZN 2">
+<programme start="20241207010000 +0000" stop="20241207050000 +0000" channel="DAZN 3.pt" channel=" DAZN 2">
+<programme start="20241207010000 +0000" stop="20241207050000 +0000" channel=" DAZN 3">
+<programme start="20241207050000 +0000" stop="20241207100000 +0000" channel=" DAZN 3">
+<programme start="20241207100000 +0000" stop="20241207103000 +0000" channel=" DAZN 3">
+<programme start="20241207103000 +0000" stop="20241207114500 +0000" channel=" DAZN 3">
+<programme start="20241207114500 +0000" stop="20241207120000 +0000" channel=" DAZN 3">
+<programme start="20241207120000 +0000" stop="20241207121500 +0000" channel=" DAZN 3">
+<programme start="20241207121500 +0000" stop="20241207123000 +0000" channel=" DAZN 3">
+<programme start="20241207123000 +0000" stop="20241207141500 +0000" channel=" DAZN 3">
+<programme start="20241207141500 +0000" stop="20241207142500 +0000" channel=" DAZN 3">
+<programme start="20241207142500 +0000" stop="20241207150000 +0000" channel=" DAZN 3">
+<programme start="20241207150000 +0000" stop="20241207170500 +0000" channel=" DAZN 3">
+<programme start="20241207170500 +0000" stop="20241207173000 +0000" channel=" DAZN 3">
+<programme start="20241207173000 +0000" stop="20241207193000 +0000" channel=" DAZN 3">
+<programme start="20241207193000 +0000" stop="20241207203000 +0000" channel=" DAZN 3">
+<programme start="20241207203000 +0000" stop="20241207210000 +0000" channel=" DAZN 3">
+<programme start="20241207210000 +0000" stop="20241208000000 +0000" channel=" DAZN 3">
+<programme start="20241208000000 +0000" stop="20241208003000 +0000" channel=" DAZN 3">
+<programme start="20241208003000 +0000" stop="20241208004500 +0000" channel=" DAZN 3">
+<programme start="20241208004500 +0000" stop="20241208010000 +0000" channel=" DAZN 3">
+<programme start="20241208010000 +0000" stop="20241208050000 +0000" channel=" DAZN 3">
+<programme start="20241208050000 +0000" stop="20241208100000 +0000" channel=" DAZN 3">
+<programme start="20241208100000 +0000" stop="20241208105500 +0000" channel=" DAZN 3">
+<programme start="20241208105500 +0000" stop="20241208111500 +0000" channel=" DAZN 3">
+<programme start="20241208111500 +0000" stop="20241208113000 +0000" channel=" DAZN 3">
+<programme start="20241208113000 +0000" stop="20241208133500 +0000" channel=" DAZN 3">
+<programme start="20241208133500 +0000" stop="20241208140000 +0000" channel=" DAZN 3">
+<programme start="20241208140000 +0000" stop="20241208160000 +0000" channel=" DAZN 3">
+<programme start="20241208160000 +0000" stop="20241208163000 +0000" channel=" DAZN 3">
+<programme start="20241208163000 +0000" stop="20241208164500 +0000" channel=" DAZN 3">
+<programme start="20241208164500 +0000" stop="20241208170000 +0000" channel=" DAZN 3">
+<programme start="20241208170000 +0000" stop="20241208190000 +0000" channel=" DAZN 3">
+<programme start="20241208190000 +0000" stop="20241208210000 +0000" channel=" DAZN 3">
+<programme start="20241208210000 +0000" stop="20241208213000 +0000" channel=" DAZN 3">
+<programme start="20241208213000 +0000" stop="20241208214500 +0000" channel=" DAZN 3">
+<programme start="20241208214500 +0000" stop="20241208220000 +0000" channel=" DAZN 3">
+<programme start="20241208220000 +0000" stop="20241209050000 +0000" channel=" DAZN 3">
+<programme start="20241209050000 +0000" stop="20241209100000 +0000" channel=" DAZN 3">
+<programme start="20241209100000 +0000" stop="20241209120000 +0000" channel=" DAZN 3">
+<programme start="20241209120000 +0000" stop="20241209123000 +0000" channel=" DAZN 3">
+<programme start="20241209123000 +0000" stop="20241209143000 +0000" channel=" DAZN 3">
+<programme start="20241209143000 +0000" stop="20241209163000 +0000" channel=" DAZN 3">
+<programme start="20241209163000 +0000" stop="20241209183000 +0000" channel=" DAZN 3">
+<programme start="20241209183000 +0000" stop="20241209193000 +0000" channel=" DAZN 3">
+<programme start="20241209193000 +0000" stop="20241209213000 +0000" channel=" DAZN 3">
+<programme start="20241209213000 +0000" stop="20241209215000 +0000" channel=" DAZN 3">
+<programme start="20241209215000 +0000" stop="20241209220500 +0000" channel=" DAZN 3">
+<programme start="20241209220500 +0000" stop="20241210010000 +0000" channel=" DAZN 3">
+<programme start="20241210010000 +0000" stop="20241210050000 +0000" channel=" DAZN 3">
+<programme start="20241207020000 +0000" stop="20241207040000 +0000" channel=" DAZN 4">
+<programme start="20241207040000 +0000" stop="20241207050000 +0000" channel=" DAZN 4">
+<programme start="20241207050000 +0000" stop="20241207121500 +0000" channel=" DAZN 4">
+<programme start="20241207121500 +0000" stop="20241207123000 +0000" channel=" DAZN 4">
+<programme start="20241207123000 +0000" stop="20241207143000 +0000" channel=" DAZN 4">
+<programme start="20241207143000 +0000" stop="20241207163500 +0000" channel=" DAZN 4">
+<programme start="20241207163500 +0000" stop="20241207165500 +0000" channel=" DAZN 4">
+<programme start="20241207165500 +0000" stop="20241207184500 +0000" channel=" DAZN 4">
+<programme start="20241207184500 +0000" stop="20241207204500 +0000" channel=" DAZN 4">
+<programme start="20241207204500 +0000" stop="20241208050000 +0000" channel=" DAZN 4">
+<programme start="20241208050000 +0000" stop="20241208120000 +0000" channel=" DAZN 4">
+<programme start="20241208120000 +0000" stop="20241208140000 +0000" channel=" DAZN 4">
+<programme start="20241208140000 +0000" stop="20241208160000 +0000" channel=" DAZN 4">
+<programme start="20241208160000 +0000" stop="20241208180000 +0000" channel=" DAZN 4">
+<programme start="20241208180000 +0000" stop="20241208200000 +0000" channel=" DAZN 4">
+<programme start="20241208200000 +0000" stop="20241209050000 +0000" channel=" DAZN 4">
+<programme start="20241209050000 +0000" stop="20241209110000 +0000" channel=" DAZN 4">
+<programme start="20241209110000 +0000" stop="20241209170000 +0000" channel=" DAZN 4">
+<programme start="20241209170000 +0000" stop="20241209230000 +0000" channel=" DAZN 4">
+<programme start="20241209230000 +0000" stop="20241210050000 +0000" channel=" DAZN 4">
+<programme start="20241207050000 +0000" stop="20241207141500 +0000" channel=" DAZN 5">
+<programme start="20241207141500 +0000" stop="20241207143000 +0000" channel=" DAZN 5">
+<programme start="20241207143000 +0000" stop="20241207163000 +0000" channel=" DAZN 5">
+<programme start="20241207163000 +0000" stop="20241207164500 +0000" channel=" DAZN 5">
+<programme start="20241207164500 +0000" stop="20241207171500 +0000" channel=" DAZN 5">
+<programme start="20241207171500 +0000" stop="20241207191500 +0000" channel=" DAZN 5">
+<programme start="20241207191500 +0000" stop="20241208050000 +0000" channel=" DAZN 5">
+<programme start="20241208050000 +0000" stop="20241208123000 +0000" channel=" DAZN 5">
+<programme start="20241208123000 +0000" stop="20241208143000 +0000" channel=" DAZN 5">
+<programme start="20241208143000 +0000" stop="20241208163500 +0000" channel=" DAZN 5">
+<programme start="20241208163500 +0000" stop="20241208171000 +0000" channel=" DAZN 5">
+<programme start="20241208171000 +0000" stop="20241208173000 +0000" channel=" DAZN 5">
+<programme start="20241208173000 +0000" stop="20241208193000 +0000" channel=" DAZN 5">
+<programme start="20241208193000 +0000" stop="20241209050000 +0000" channel=" DAZN 5">
+<programme start="20241209050000 +0000" stop="20241209110000 +0000" channel=" DAZN 5">
+<programme start="20241209110000 +0000" stop="20241209170000 +0000" channel=" DAZN 5">
+<programme start="20241209170000 +0000" stop="20241209230000 +0000" channel=" DAZN 5">
+<programme start="20241209230000 +0000" stop="20241210050000 +0000" channel=" DAZN 5">
+<programme start="20241207050000 +0000" stop="20241207141500 +0000" channel=" DAZN 6">
+<programme start="20241207141500 +0000" stop="20241207143000 +0000" channel=" DAZN 6">
+<programme start="20241207143000 +0000" stop="20241207163000 +0000" channel=" DAZN 6">
+<programme start="20241207163000 +0000" stop="20241207223000 +0000" channel=" DAZN 6">
+<programme start="20241207223000 +0000" stop="20241208043000 +0000" channel=" DAZN 6">
+<programme start="20241208043000 +0000" stop="20241208050000 +0000" channel=" DAZN 6">
+<programme start="20241208050000 +0000" stop="20241208130000 +0000" channel=" DAZN 6">
+<programme start="20241208130000 +0000" stop="20241208150000 +0000" channel=" DAZN 6">
+<programme start="20241208150000 +0000" stop="20241208153000 +0000" channel=" DAZN 6">
+<programme start="20241208153000 +0000" stop="20241208154500 +0000" channel=" DAZN 6">
+<programme start="20241208154500 +0000" stop="20241208161500 +0000" channel=" DAZN 6">
+<programme start="20241208161500 +0000" stop="20241208163000 +0000" channel=" DAZN 6">
+<programme start="20241208163000 +0000" stop="20241208183000 +0000" channel=" DAZN 6">
+<programme start="20241208183000 +0000" stop="20241209050000 +0000" channel=" DAZN 6">
+<programme start="20241209050000 +0000" stop="20241209110000 +0000" channel=" DAZN 6">
+<programme start="20241209110000 +0000" stop="20241209170000 +0000" channel=" DAZN 6">
+<programme start="20241209170000 +0000" stop="20241209230000 +0000" channel=" DAZN 6">
+<programme start="20241209230000 +0000" stop="20241210050000 +0000" channel=" DAZN 6">
 <programme start="20241208000000 +0000" stop="20241208010000 +0000" channel="Ziggo HD">
 <programme start="20241208010000 +0000" stop="20241208013000 +0000" channel="Ziggo HD">
 <programme start="20241208013000 +0000" stop="20241208062500 +0000" channel="Ziggo HD">
@@ -2046,76 +3684,408 @@
 <programme start="20241210090000 +0000" stop="20241210100000 +0000" channel="Ziggo 6 HD">
 <programme start="20241210100000 +0000" stop="20241210103000 +0000" channel="Ziggo 6 HD">
 <programme start="20241208000000 +0000" stop="20241208010000 +0000" channel="Ziggo Sport.nl" channel="Ziggo 6 HD">
-<programme start="20241208000000 +0000" stop="20241208010000 +0000" channel="">
-<programme start="20241208010000 +0000" stop="20241208013000 +0000" channel="">
-<programme start="20241208013000 +0000" stop="20241208062500 +0000" channel="">
-<programme start="20241208062500 +0000" stop="20241208065500 +0000" channel="">
-<programme start="20241208065500 +0000" stop="20241208074500 +0000" channel="">
-<programme start="20241208074500 +0000" stop="20241208081500 +0000" channel="">
-<programme start="20241208081500 +0000" stop="20241208084500 +0000" channel="">
-<programme start="20241208084500 +0000" stop="20241208101500 +0000" channel="">
-<programme start="20241208101500 +0000" stop="20241208111500 +0000" channel="">
-<programme start="20241208111500 +0000" stop="20241208120000 +0000" channel="">
-<programme start="20241208120000 +0000" stop="20241208130000 +0000" channel="">
-<programme start="20241208130000 +0000" stop="20241208132500 +0000" channel="">
-<programme start="20241208132500 +0000" stop="20241208134000 +0000" channel="">
-<programme start="20241208134000 +0000" stop="20241208135000 +0000" channel="">
-<programme start="20241208135000 +0000" stop="20241208160000 +0000" channel="">
-<programme start="20241208160000 +0000" stop="20241208170000 +0000" channel="">
-<programme start="20241208170000 +0000" stop="20241208171000 +0000" channel="">
-<programme start="20241208171000 +0000" stop="20241208172500 +0000" channel="">
-<programme start="20241208172500 +0000" stop="20241208193000 +0000" channel="">
-<programme start="20241208193000 +0000" stop="20241208193500 +0000" channel="">
-<programme start="20241208193500 +0000" stop="20241208195500 +0000" channel="">
-<programme start="20241208195500 +0000" stop="20241208220000 +0000" channel="">
-<programme start="20241208220000 +0000" stop="20241208230000 +0000" channel="">
-<programme start="20241208230000 +0000" stop="20241209004500 +0000" channel="">
-<programme start="20241209004500 +0000" stop="20241209023000 +0000" channel="">
-<programme start="20241209023000 +0000" stop="20241209041500 +0000" channel="">
-<programme start="20241209041500 +0000" stop="20241209060000 +0000" channel="">
-<programme start="20241209060000 +0000" stop="20241209061000 +0000" channel="">
-<programme start="20241209061000 +0000" stop="20241209062500 +0000" channel="">
-<programme start="20241209062500 +0000" stop="20241209064000 +0000" channel="">
-<programme start="20241209064000 +0000" stop="20241209065500 +0000" channel="">
-<programme start="20241209065500 +0000" stop="20241209071000 +0000" channel="">
-<programme start="20241209071000 +0000" stop="20241209072000 +0000" channel="">
-<programme start="20241209072000 +0000" stop="20241209073000 +0000" channel="">
-<programme start="20241209073000 +0000" stop="20241209074000 +0000" channel="">
-<programme start="20241209074000 +0000" stop="20241209075000 +0000" channel="">
-<programme start="20241209075000 +0000" stop="20241209080000 +0000" channel="">
-<programme start="20241209080000 +0000" stop="20241209090000 +0000" channel="">
-<programme start="20241209090000 +0000" stop="20241209100000 +0000" channel="">
-<programme start="20241209100000 +0000" stop="20241209103000 +0000" channel="">
-<programme start="20241209103000 +0000" stop="20241209110000 +0000" channel="">
-<programme start="20241209110000 +0000" stop="20241209111000 +0000" channel="">
-<programme start="20241209111000 +0000" stop="20241209112500 +0000" channel="">
-<programme start="20241209112500 +0000" stop="20241209114000 +0000" channel="">
-<programme start="20241209114000 +0000" stop="20241209115500 +0000" channel="">
-<programme start="20241209115500 +0000" stop="20241209120500 +0000" channel="">
-<programme start="20241209120500 +0000" stop="20241209121500 +0000" channel="">
-<programme start="20241209121500 +0000" stop="20241209122500 +0000" channel="">
-<programme start="20241209122500 +0000" stop="20241209123500 +0000" channel="">
-<programme start="20241209123500 +0000" stop="20241209124500 +0000" channel="">
-<programme start="20241209124500 +0000" stop="20241209134500 +0000" channel="">
-<programme start="20241209134500 +0000" stop="20241209141500 +0000" channel="">
-<programme start="20241209141500 +0000" stop="20241209161500 +0000" channel="">
-<programme start="20241209161500 +0000" stop="20241209170500 +0000" channel="">
-<programme start="20241209170500 +0000" stop="20241209180000 +0000" channel="">
-<programme start="20241209180000 +0000" stop="20241209190000 +0000" channel="">
-<programme start="20241209190000 +0000" stop="20241209193000 +0000" channel="">
-<programme start="20241209193000 +0000" stop="20241209204500 +0000" channel="">
-<programme start="20241209204500 +0000" stop="20241209211500 +0000" channel="">
-<programme start="20241209211500 +0000" stop="20241209220000 +0000" channel="">
-<programme start="20241209220000 +0000" stop="20241209231500 +0000" channel="">
-<programme start="20241209231500 +0000" stop="20241209234500 +0000" channel="">
-<programme start="20241209234500 +0000" stop="20241210004500 +0000" channel="">
-<programme start="20241210004500 +0000" stop="20241210023000 +0000" channel="">
-<programme start="20241210023000 +0000" stop="20241210041500 +0000" channel="">
-<programme start="20241210041500 +0000" stop="20241210060000 +0000" channel="">
-<programme start="20241210060000 +0000" stop="20241210071500 +0000" channel="">
-<programme start="20241210071500 +0000" stop="20241210081000 +0000" channel="">
-<programme start="20241210081000 +0000" stop="20241210091000 +0000" channel="">
-<programme start="20241210091000 +0000" stop="20241210102500 +0000" channel="">
+<programme start="20241208000000 +0000" stop="20241208010000 +0000" channel=" Ziggo HD">
+<programme start="20241208010000 +0000" stop="20241208013000 +0000" channel=" Ziggo HD">
+<programme start="20241208013000 +0000" stop="20241208062500 +0000" channel=" Ziggo HD">
+<programme start="20241208062500 +0000" stop="20241208065500 +0000" channel=" Ziggo HD">
+<programme start="20241208065500 +0000" stop="20241208074500 +0000" channel=" Ziggo HD">
+<programme start="20241208074500 +0000" stop="20241208081500 +0000" channel=" Ziggo HD">
+<programme start="20241208081500 +0000" stop="20241208084500 +0000" channel=" Ziggo HD">
+<programme start="20241208084500 +0000" stop="20241208101500 +0000" channel=" Ziggo HD">
+<programme start="20241208101500 +0000" stop="20241208111500 +0000" channel=" Ziggo HD">
+<programme start="20241208111500 +0000" stop="20241208120000 +0000" channel=" Ziggo HD">
+<programme start="20241208120000 +0000" stop="20241208130000 +0000" channel=" Ziggo HD">
+<programme start="20241208130000 +0000" stop="20241208132500 +0000" channel=" Ziggo HD">
+<programme start="20241208132500 +0000" stop="20241208134000 +0000" channel=" Ziggo HD">
+<programme start="20241208134000 +0000" stop="20241208135000 +0000" channel=" Ziggo HD">
+<programme start="20241208135000 +0000" stop="20241208160000 +0000" channel=" Ziggo HD">
+<programme start="20241208160000 +0000" stop="20241208170000 +0000" channel=" Ziggo HD">
+<programme start="20241208170000 +0000" stop="20241208171000 +0000" channel=" Ziggo HD">
+<programme start="20241208171000 +0000" stop="20241208172500 +0000" channel=" Ziggo HD">
+<programme start="20241208172500 +0000" stop="20241208193000 +0000" channel=" Ziggo HD">
+<programme start="20241208193000 +0000" stop="20241208193500 +0000" channel=" Ziggo HD">
+<programme start="20241208193500 +0000" stop="20241208195500 +0000" channel=" Ziggo HD">
+<programme start="20241208195500 +0000" stop="20241208220000 +0000" channel=" Ziggo HD">
+<programme start="20241208220000 +0000" stop="20241208230000 +0000" channel=" Ziggo HD">
+<programme start="20241208230000 +0000" stop="20241209004500 +0000" channel=" Ziggo HD">
+<programme start="20241209004500 +0000" stop="20241209023000 +0000" channel=" Ziggo HD">
+<programme start="20241209023000 +0000" stop="20241209041500 +0000" channel=" Ziggo HD">
+<programme start="20241209041500 +0000" stop="20241209060000 +0000" channel=" Ziggo HD">
+<programme start="20241209060000 +0000" stop="20241209061000 +0000" channel=" Ziggo HD">
+<programme start="20241209061000 +0000" stop="20241209062500 +0000" channel=" Ziggo HD">
+<programme start="20241209062500 +0000" stop="20241209064000 +0000" channel=" Ziggo HD">
+<programme start="20241209064000 +0000" stop="20241209065500 +0000" channel=" Ziggo HD">
+<programme start="20241209065500 +0000" stop="20241209071000 +0000" channel=" Ziggo HD">
+<programme start="20241209071000 +0000" stop="20241209072000 +0000" channel=" Ziggo HD">
+<programme start="20241209072000 +0000" stop="20241209073000 +0000" channel=" Ziggo HD">
+<programme start="20241209073000 +0000" stop="20241209074000 +0000" channel=" Ziggo HD">
+<programme start="20241209074000 +0000" stop="20241209075000 +0000" channel=" Ziggo HD">
+<programme start="20241209075000 +0000" stop="20241209080000 +0000" channel=" Ziggo HD">
+<programme start="20241209080000 +0000" stop="20241209090000 +0000" channel=" Ziggo HD">
+<programme start="20241209090000 +0000" stop="20241209100000 +0000" channel=" Ziggo HD">
+<programme start="20241209100000 +0000" stop="20241209103000 +0000" channel=" Ziggo HD">
+<programme start="20241209103000 +0000" stop="20241209110000 +0000" channel=" Ziggo HD">
+<programme start="20241209110000 +0000" stop="20241209111000 +0000" channel=" Ziggo HD">
+<programme start="20241209111000 +0000" stop="20241209112500 +0000" channel=" Ziggo HD">
+<programme start="20241209112500 +0000" stop="20241209114000 +0000" channel=" Ziggo HD">
+<programme start="20241209114000 +0000" stop="20241209115500 +0000" channel=" Ziggo HD">
+<programme start="20241209115500 +0000" stop="20241209120500 +0000" channel=" Ziggo HD">
+<programme start="20241209120500 +0000" stop="20241209121500 +0000" channel=" Ziggo HD">
+<programme start="20241209121500 +0000" stop="20241209122500 +0000" channel=" Ziggo HD">
+<programme start="20241209122500 +0000" stop="20241209123500 +0000" channel=" Ziggo HD">
+<programme start="20241209123500 +0000" stop="20241209124500 +0000" channel=" Ziggo HD">
+<programme start="20241209124500 +0000" stop="20241209134500 +0000" channel=" Ziggo HD">
+<programme start="20241209134500 +0000" stop="20241209141500 +0000" channel=" Ziggo HD">
+<programme start="20241209141500 +0000" stop="20241209161500 +0000" channel=" Ziggo HD">
+<programme start="20241209161500 +0000" stop="20241209170500 +0000" channel=" Ziggo HD">
+<programme start="20241209170500 +0000" stop="20241209180000 +0000" channel=" Ziggo HD">
+<programme start="20241209180000 +0000" stop="20241209190000 +0000" channel=" Ziggo HD">
+<programme start="20241209190000 +0000" stop="20241209193000 +0000" channel=" Ziggo HD">
+<programme start="20241209193000 +0000" stop="20241209204500 +0000" channel=" Ziggo HD">
+<programme start="20241209204500 +0000" stop="20241209211500 +0000" channel=" Ziggo HD">
+<programme start="20241209211500 +0000" stop="20241209220000 +0000" channel=" Ziggo HD">
+<programme start="20241209220000 +0000" stop="20241209231500 +0000" channel=" Ziggo HD">
+<programme start="20241209231500 +0000" stop="20241209234500 +0000" channel=" Ziggo HD">
+<programme start="20241209234500 +0000" stop="20241210004500 +0000" channel=" Ziggo HD">
+<programme start="20241210004500 +0000" stop="20241210023000 +0000" channel=" Ziggo HD">
+<programme start="20241210023000 +0000" stop="20241210041500 +0000" channel=" Ziggo HD">
+<programme start="20241210041500 +0000" stop="20241210060000 +0000" channel=" Ziggo HD">
+<programme start="20241210060000 +0000" stop="20241210071500 +0000" channel=" Ziggo HD">
+<programme start="20241210071500 +0000" stop="20241210081000 +0000" channel=" Ziggo HD">
+<programme start="20241210081000 +0000" stop="20241210091000 +0000" channel=" Ziggo HD">
+<programme start="20241210091000 +0000" stop="20241210102500 +0000" channel=" Ziggo HD">
+<programme start="20241207224500 +0000" stop="20241208002500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208002500 +0000" stop="20241208021000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208021000 +0000" stop="20241208035500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208035500 +0000" stop="20241208054000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208054000 +0000" stop="20241208055000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208055000 +0000" stop="20241208060000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208060000 +0000" stop="20241208074000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208074000 +0000" stop="20241208092500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208092500 +0000" stop="20241208111000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208111000 +0000" stop="20241208112000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208112000 +0000" stop="20241208133000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208133000 +0000" stop="20241208135500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208135500 +0000" stop="20241208142000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208142000 +0000" stop="20241208143000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208143000 +0000" stop="20241208144000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208144000 +0000" stop="20241208145000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208145000 +0000" stop="20241208151000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208151000 +0000" stop="20241208172500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208172500 +0000" stop="20241208193500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208193500 +0000" stop="20241208214000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208214000 +0000" stop="20241208220500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208220500 +0000" stop="20241208225500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241208225500 +0000" stop="20241209004000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209004000 +0000" stop="20241209022500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209022500 +0000" stop="20241209041500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209041500 +0000" stop="20241209060000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209060000 +0000" stop="20241209074000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209074000 +0000" stop="20241209075500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209075500 +0000" stop="20241209094000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209094000 +0000" stop="20241209100500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209100500 +0000" stop="20241209115000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209115000 +0000" stop="20241209133000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209133000 +0000" stop="20241209142000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209142000 +0000" stop="20241209143500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209143500 +0000" stop="20241209144000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209144000 +0000" stop="20241209145000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209145000 +0000" stop="20241209150500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209150500 +0000" stop="20241209164500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209164500 +0000" stop="20241209171500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209171500 +0000" stop="20241209180500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209180500 +0000" stop="20241209195500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209195500 +0000" stop="20241209220000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209220000 +0000" stop="20241209225000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241209225000 +0000" stop="20241210003500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210003500 +0000" stop="20241210022000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210022000 +0000" stop="20241210023000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210023000 +0000" stop="20241210041500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210041500 +0000" stop="20241210060000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210060000 +0000" stop="20241210070000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210070000 +0000" stop="20241210081500 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210081500 +0000" stop="20241210100000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241210100000 +0000" stop="20241210105000 +0000" channel=" Ziggo 2 HD">
+<programme start="20241207234000 +0000" stop="20241208003500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208003500 +0000" stop="20241208013000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208013000 +0000" stop="20241208022500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208022500 +0000" stop="20241208031500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208031500 +0000" stop="20241208052000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208052000 +0000" stop="20241208054500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208054500 +0000" stop="20241208060000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208060000 +0000" stop="20241208070000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208070000 +0000" stop="20241208073000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208073000 +0000" stop="20241208081500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208081500 +0000" stop="20241208091500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208091500 +0000" stop="20241208112500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208112500 +0000" stop="20241208115500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208115500 +0000" stop="20241208135500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208135500 +0000" stop="20241208142500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208142500 +0000" stop="20241208152000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208152000 +0000" stop="20241208161500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208161500 +0000" stop="20241208171500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208171500 +0000" stop="20241208181000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208181000 +0000" stop="20241208191000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208191000 +0000" stop="20241208194000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208194000 +0000" stop="20241208203500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208203500 +0000" stop="20241208213500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208213500 +0000" stop="20241208220500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241208220500 +0000" stop="20241209001000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209001000 +0000" stop="20241209010500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209010500 +0000" stop="20241209020000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209020000 +0000" stop="20241209025500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209025500 +0000" stop="20241209034500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209034500 +0000" stop="20241209044000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209044000 +0000" stop="20241209053000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209053000 +0000" stop="20241209060000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209060000 +0000" stop="20241209070000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209070000 +0000" stop="20241209080000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209080000 +0000" stop="20241209083000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209083000 +0000" stop="20241209103500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209103500 +0000" stop="20241209113500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209113500 +0000" stop="20241209123000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209123000 +0000" stop="20241209132500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209132500 +0000" stop="20241209142500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209142500 +0000" stop="20241209152000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209152000 +0000" stop="20241209162000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209162000 +0000" stop="20241209182500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209182500 +0000" stop="20241209191500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209191500 +0000" stop="20241209201500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209201500 +0000" stop="20241209204500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209204500 +0000" stop="20241209214000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209214000 +0000" stop="20241209224000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209224000 +0000" stop="20241209234000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241209234000 +0000" stop="20241210003500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210003500 +0000" stop="20241210013000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210013000 +0000" stop="20241210033000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210033000 +0000" stop="20241210042500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210042500 +0000" stop="20241210045000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210045000 +0000" stop="20241210054500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210054500 +0000" stop="20241210060000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210060000 +0000" stop="20241210063000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210063000 +0000" stop="20241210073000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210073000 +0000" stop="20241210080000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210080000 +0000" stop="20241210090000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210090000 +0000" stop="20241210100000 +0000" channel=" Ziggo 3 HD">
+<programme start="20241210100000 +0000" stop="20241210105500 +0000" channel=" Ziggo 3 HD">
+<programme start="20241207223500 +0000" stop="20241208000500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208000500 +0000" stop="20241208003500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208003500 +0000" stop="20241208023000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208023000 +0000" stop="20241208040000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208040000 +0000" stop="20241208043000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208043000 +0000" stop="20241208060000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208060000 +0000" stop="20241208072500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208072500 +0000" stop="20241208075500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208075500 +0000" stop="20241208101500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208101500 +0000" stop="20241208111000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208111000 +0000" stop="20241208112500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208112500 +0000" stop="20241208125500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208125500 +0000" stop="20241208150000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208150000 +0000" stop="20241208153000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208153000 +0000" stop="20241208170000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208170000 +0000" stop="20241208183000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208183000 +0000" stop="20241208190000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208190000 +0000" stop="20241208210000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208210000 +0000" stop="20241208223000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208223000 +0000" stop="20241208230000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241208230000 +0000" stop="20241209010000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209010000 +0000" stop="20241209020000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209020000 +0000" stop="20241209030000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209030000 +0000" stop="20241209033000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209033000 +0000" stop="20241209034500 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209034500 +0000" stop="20241209060000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209060000 +0000" stop="20241209073000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209073000 +0000" stop="20241209090000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209090000 +0000" stop="20241209103000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209103000 +0000" stop="20241209120000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209120000 +0000" stop="20241209133000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209133000 +0000" stop="20241209143000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209143000 +0000" stop="20241209160000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209160000 +0000" stop="20241209163000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209163000 +0000" stop="20241209173000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209173000 +0000" stop="20241209190000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209190000 +0000" stop="20241209193000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209193000 +0000" stop="20241209210000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209210000 +0000" stop="20241209223000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241209223000 +0000" stop="20241210000000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210000000 +0000" stop="20241210003000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210003000 +0000" stop="20241210020000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210020000 +0000" stop="20241210030000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210030000 +0000" stop="20241210033000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210033000 +0000" stop="20241210043000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210043000 +0000" stop="20241210060000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210060000 +0000" stop="20241210063000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210063000 +0000" stop="20241210070000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210070000 +0000" stop="20241210083000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210083000 +0000" stop="20241210100000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241210100000 +0000" stop="20241210103000 +0000" channel=" Ziggo 4 HD">
+<programme start="20241207233500 +0000" stop="20241208010000 +0000" channel="Ziggo Sport 5.nl" channel=" Ziggo 4 HD">
+<programme start="20241207233500 +0000" stop="20241208010000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208010000 +0000" stop="20241208012500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208012500 +0000" stop="20241208015000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208015000 +0000" stop="20241208021500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208021500 +0000" stop="20241208024000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208024000 +0000" stop="20241208032500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208032500 +0000" stop="20241208035000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208035000 +0000" stop="20241208042000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208042000 +0000" stop="20241208051500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208051500 +0000" stop="20241208052500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208052500 +0000" stop="20241208053500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208053500 +0000" stop="20241208060000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208060000 +0000" stop="20241208062500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208062500 +0000" stop="20241208065000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208065000 +0000" stop="20241208071500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208071500 +0000" stop="20241208073500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208073500 +0000" stop="20241208080000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208080000 +0000" stop="20241208082500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208082500 +0000" stop="20241208085000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208085000 +0000" stop="20241208091500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208091500 +0000" stop="20241208100000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208100000 +0000" stop="20241208102500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208102500 +0000" stop="20241208105000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208105000 +0000" stop="20241208111500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208111500 +0000" stop="20241208113500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208113500 +0000" stop="20241208120000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208120000 +0000" stop="20241208122500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208122500 +0000" stop="20241208125000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208125000 +0000" stop="20241208131500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208131500 +0000" stop="20241208133500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208133500 +0000" stop="20241208140000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208140000 +0000" stop="20241208142500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208142500 +0000" stop="20241208145000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208145000 +0000" stop="20241208151000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208151000 +0000" stop="20241208153500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208153500 +0000" stop="20241208163000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208163000 +0000" stop="20241208165500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208165500 +0000" stop="20241208172000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208172000 +0000" stop="20241208175000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208175000 +0000" stop="20241208181500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208181500 +0000" stop="20241208184000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208184000 +0000" stop="20241208190500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208190500 +0000" stop="20241208193000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208193000 +0000" stop="20241208195000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208195000 +0000" stop="20241208201500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208201500 +0000" stop="20241208204500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208204500 +0000" stop="20241208211000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208211000 +0000" stop="20241208213500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208213500 +0000" stop="20241208220000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208220000 +0000" stop="20241208222500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208222500 +0000" stop="20241208224500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208224500 +0000" stop="20241208231000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208231000 +0000" stop="20241208233500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241208233500 +0000" stop="20241209000000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209000000 +0000" stop="20241209005500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209005500 +0000" stop="20241209012500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209012500 +0000" stop="20241209014500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209014500 +0000" stop="20241209021000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209021000 +0000" stop="20241209023500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209023500 +0000" stop="20241209032500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209032500 +0000" stop="20241209035000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209035000 +0000" stop="20241209041500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209041500 +0000" stop="20241209050500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209050500 +0000" stop="20241209053000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209053000 +0000" stop="20241209060000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209060000 +0000" stop="20241209062500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209062500 +0000" stop="20241209065000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209065000 +0000" stop="20241209071500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209071500 +0000" stop="20241209074000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209074000 +0000" stop="20241209080500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209080500 +0000" stop="20241209082500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209082500 +0000" stop="20241209085000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209085000 +0000" stop="20241209091500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209091500 +0000" stop="20241209100500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209100500 +0000" stop="20241209102500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209102500 +0000" stop="20241209105000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209105000 +0000" stop="20241209111500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209111500 +0000" stop="20241209114000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209114000 +0000" stop="20241209120500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209120500 +0000" stop="20241209122500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209122500 +0000" stop="20241209125000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209125000 +0000" stop="20241209131500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209131500 +0000" stop="20241209134000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209134000 +0000" stop="20241209140000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209140000 +0000" stop="20241209142500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209142500 +0000" stop="20241209145000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209145000 +0000" stop="20241209151500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209151500 +0000" stop="20241209154000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209154000 +0000" stop="20241209163500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209163500 +0000" stop="20241209170000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209170000 +0000" stop="20241209173000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209173000 +0000" stop="20241209175500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209175500 +0000" stop="20241209182500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209182500 +0000" stop="20241209185000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209185000 +0000" stop="20241209191500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209191500 +0000" stop="20241209193500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209193500 +0000" stop="20241209200000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209200000 +0000" stop="20241209202500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209202500 +0000" stop="20241209205500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209205500 +0000" stop="20241209212000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209212000 +0000" stop="20241209214000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209214000 +0000" stop="20241209220500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209220500 +0000" stop="20241209223000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209223000 +0000" stop="20241209225500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209225500 +0000" stop="20241209231500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209231500 +0000" stop="20241209234000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241209234000 +0000" stop="20241210000500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210000500 +0000" stop="20241210010000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210010000 +0000" stop="20241210012500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210012500 +0000" stop="20241210015000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210015000 +0000" stop="20241210021500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210021500 +0000" stop="20241210024000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210024000 +0000" stop="20241210032500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210032500 +0000" stop="20241210035000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210035000 +0000" stop="20241210042000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210042000 +0000" stop="20241210051500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210051500 +0000" stop="20241210053500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210053500 +0000" stop="20241210060000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210060000 +0000" stop="20241210062500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210062500 +0000" stop="20241210065000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210065000 +0000" stop="20241210071500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210071500 +0000" stop="20241210073500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210073500 +0000" stop="20241210080000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210080000 +0000" stop="20241210082500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210082500 +0000" stop="20241210085000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210085000 +0000" stop="20241210091000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210091000 +0000" stop="20241210100000 +0000" channel=" Ziggo 5 HD">
+<programme start="20241210100000 +0000" stop="20241210102500 +0000" channel=" Ziggo 5 HD">
+<programme start="20241207220500 +0000" stop="20241208010500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208010500 +0000" stop="20241208020000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208020000 +0000" stop="20241208040000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208040000 +0000" stop="20241208060000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208060000 +0000" stop="20241208090000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208090000 +0000" stop="20241208143500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208143500 +0000" stop="20241208150000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208150000 +0000" stop="20241208160000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208160000 +0000" stop="20241208163000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208163000 +0000" stop="20241208213500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208213500 +0000" stop="20241209003500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209003500 +0000" stop="20241209013500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209013500 +0000" stop="20241209020000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209020000 +0000" stop="20241209023500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209023500 +0000" stop="20241209032500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209032500 +0000" stop="20241209040000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209040000 +0000" stop="20241209050000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209050000 +0000" stop="20241209060000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209060000 +0000" stop="20241209090000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209090000 +0000" stop="20241209092500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209092500 +0000" stop="20241209103000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209103000 +0000" stop="20241209110000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209110000 +0000" stop="20241209140000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209140000 +0000" stop="20241209170500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209170500 +0000" stop="20241209173500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209173500 +0000" stop="20241209180500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209180500 +0000" stop="20241209190000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209190000 +0000" stop="20241209200000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209200000 +0000" stop="20241209220000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209220000 +0000" stop="20241209225500 +0000" channel=" Ziggo 6 HD">
+<programme start="20241209225500 +0000" stop="20241210020000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241210020000 +0000" stop="20241210030000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241210030000 +0000" stop="20241210060000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241210060000 +0000" stop="20241210070000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241210070000 +0000" stop="20241210090000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241210090000 +0000" stop="20241210100000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241210100000 +0000" stop="20241210103000 +0000" channel=" Ziggo 6 HD">
+<programme start="20241208000000 +0000" stop="20241208010000 +0000" channel="Ziggo Sport.nl" channel=" Ziggo 6 HD">
 <programme start="20241208000000 +0000" stop="20241208010000 +0000" channel="ESPN">
 <programme start="20241208010000 +0000" stop="20241208015600 +0000" channel="ESPN">
 <programme start="20241208015600 +0000" stop="20241208024700 +0000" channel="ESPN">
@@ -2176,4 +4146,64 @@
 <programme start="20241210083000 +0000" stop="20241210090000 +0000" channel="ESPN">
 <programme start="20241210090000 +0000" stop="20241210100000 +0000" channel="ESPN">
 <programme start="20241210100000 +0000" stop="20241210103000 +0000" channel="ESPN">
+<programme start="20241208000000 +0000" stop="20241208010000 +0000" channel=" ESPN">
+<programme start="20241208010000 +0000" stop="20241208015600 +0000" channel=" ESPN">
+<programme start="20241208015600 +0000" stop="20241208024700 +0000" channel=" ESPN">
+<programme start="20241208024700 +0000" stop="20241208033700 +0000" channel=" ESPN">
+<programme start="20241208033700 +0000" stop="20241208042900 +0000" channel=" ESPN">
+<programme start="20241208042900 +0000" stop="20241208043900 +0000" channel=" ESPN">
+<programme start="20241208043900 +0000" stop="20241208044900 +0000" channel=" ESPN">
+<programme start="20241208044900 +0000" stop="20241208050000 +0000" channel=" ESPN">
+<programme start="20241208050000 +0000" stop="20241208060000 +0000" channel=" ESPN">
+<programme start="20241208060000 +0000" stop="20241208070000 +0000" channel=" ESPN">
+<programme start="20241208070000 +0000" stop="20241208080000 +0000" channel=" ESPN">
+<programme start="20241208080000 +0000" stop="20241208090000 +0000" channel=" ESPN">
+<programme start="20241208090000 +0000" stop="20241208110500 +0000" channel=" ESPN">
+<programme start="20241208110500 +0000" stop="20241208131500 +0000" channel=" ESPN">
+<programme start="20241208131500 +0000" stop="20241208133000 +0000" channel=" ESPN">
+<programme start="20241208133000 +0000" stop="20241208152500 +0000" channel=" ESPN">
+<programme start="20241208152500 +0000" stop="20241208153500 +0000" channel=" ESPN">
+<programme start="20241208153500 +0000" stop="20241208174500 +0000" channel=" ESPN">
+<programme start="20241208174500 +0000" stop="20241208185500 +0000" channel=" ESPN">
+<programme start="20241208185500 +0000" stop="20241208210000 +0000" channel=" ESPN">
+<programme start="20241208210000 +0000" stop="20241208221500 +0000" channel=" ESPN">
+<programme start="20241208221500 +0000" stop="20241208233000 +0000" channel=" ESPN">
+<programme start="20241208233000 +0000" stop="20241209004000 +0000" channel=" ESPN">
+<programme start="20241209004000 +0000" stop="20241209011500 +0000" channel=" ESPN">
+<programme start="20241209011500 +0000" stop="20241209021900 +0000" channel=" ESPN">
+<programme start="20241209021900 +0000" stop="20241209022900 +0000" channel=" ESPN">
+<programme start="20241209022900 +0000" stop="20241209034500 +0000" channel=" ESPN">
+<programme start="20241209034500 +0000" stop="20241209045000 +0000" channel=" ESPN">
+<programme start="20241209045000 +0000" stop="20241209050000 +0000" channel=" ESPN">
+<programme start="20241209050000 +0000" stop="20241209061500 +0000" channel=" ESPN">
+<programme start="20241209061500 +0000" stop="20241209063000 +0000" channel=" ESPN">
+<programme start="20241209063000 +0000" stop="20241209074500 +0000" channel=" ESPN">
+<programme start="20241209074500 +0000" stop="20241209090000 +0000" channel=" ESPN">
+<programme start="20241209090000 +0000" stop="20241209101500 +0000" channel=" ESPN">
+<programme start="20241209101500 +0000" stop="20241209113000 +0000" channel=" ESPN">
+<programme start="20241209113000 +0000" stop="20241209124500 +0000" channel=" ESPN">
+<programme start="20241209124500 +0000" stop="20241209133000 +0000" channel=" ESPN">
+<programme start="20241209133000 +0000" stop="20241209143000 +0000" channel=" ESPN">
+<programme start="20241209143000 +0000" stop="20241209154500 +0000" channel=" ESPN">
+<programme start="20241209154500 +0000" stop="20241209160000 +0000" channel=" ESPN">
+<programme start="20241209160000 +0000" stop="20241209170000 +0000" channel=" ESPN">
+<programme start="20241209170000 +0000" stop="20241209173000 +0000" channel=" ESPN">
+<programme start="20241209173000 +0000" stop="20241209180000 +0000" channel=" ESPN">
+<programme start="20241209180000 +0000" stop="20241209185000 +0000" channel=" ESPN">
+<programme start="20241209185000 +0000" stop="20241209210000 +0000" channel=" ESPN">
+<programme start="20241209210000 +0000" stop="20241209220000 +0000" channel=" ESPN">
+<programme start="20241209220000 +0000" stop="20241209223100 +0000" channel=" ESPN">
+<programme start="20241209223100 +0000" stop="20241209230000 +0000" channel=" ESPN">
+<programme start="20241209230000 +0000" stop="20241210010000 +0000" channel=" ESPN">
+<programme start="20241210010000 +0000" stop="20241210011000 +0000" channel=" ESPN">
+<programme start="20241210011000 +0000" stop="20241210041500 +0000" channel=" ESPN">
+<programme start="20241210041500 +0000" stop="20241210050000 +0000" channel=" ESPN">
+<programme start="20241210050000 +0000" stop="20241210060000 +0000" channel=" ESPN">
+<programme start="20241210060000 +0000" stop="20241210063000 +0000" channel=" ESPN">
+<programme start="20241210063000 +0000" stop="20241210070000 +0000" channel=" ESPN">
+<programme start="20241210070000 +0000" stop="20241210080000 +0000" channel=" ESPN">
+<programme start="20241210080000 +0000" stop="20241210083000 +0000" channel=" ESPN">
+<programme start="20241210083000 +0000" stop="20241210090000 +0000" channel=" ESPN">
+<programme start="20241210090000 +0000" stop="20241210100000 +0000" channel=" ESPN">
+<programme start="20241210100000 +0000" stop="20241210103000 +0000" channel=" ESPN">
 </tv>
