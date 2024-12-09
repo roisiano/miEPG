@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 09/12/2024 10:07" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 09/12/2024 11:37" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="DAZN 1 Espana">
     <display-name>DAZN 1 Espana</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
@@ -3744,186 +3744,6 @@
       <value>M3</value>
     </rating>
   </programme>
-  <programme start="20241208000000 +0100" stop="20241208003000 +0100" channel="Ziggo HD">
-    <title lang="nl">Round up</title>
-    <desc lang="nl">Alle hoogtepunten van de gespeelde wedstrijden in de Spaanse LaLiga, Italiaanse Serie A, Franse Ligue 1 en Belgische Pro League op zaterdag.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fa-womens-super-league-583526961.jpg" />
-  </programme>
-  <programme start="20241208003000 +0100" stop="20241208010000 +0100" channel="Ziggo HD">
-    <title lang="nl">Handbal samenvatting</title>
-    <desc lang="nl">Verslag van een handbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/h/carrousel/handbal-samenvatting-587032191.jpg" />
-  </programme>
-  <programme start="20241208010000 +0100" stop="20241208020000 +0100" channel="Ziggo HD">
-    <title lang="nl">Formule E hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475691.jpg" />
-  </programme>
-  <programme start="20241208020000 +0100" stop="20241208023000 +0100" channel="Ziggo HD">
-    <title lang="nl">Round up</title>
-    <desc lang="nl">Alle hoogtepunten van de gespeelde wedstrijden in de Spaanse LaLiga, Italiaanse Serie A, Franse Ligue 1 en Belgische Pro League op zaterdag.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fa-womens-super-league-583526961.jpg" />
-  </programme>
-  <programme start="20241208023000 +0100" stop="20241208051500 +0100" channel="Ziggo HD">
-    <title lang="nl">Boksen: Top rank boxing</title>
-    <desc lang="nl">Verslag van een bokswedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241208051500 +0100" stop="20241208072500 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
-  </programme>
-  <programme start="20241208072500 +0100" stop="20241208075500 +0100" channel="Ziggo HD">
-    <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sc-heerenveen-tv-583569411.jpg" />
-  </programme>
-  <programme start="20241208075500 +0100" stop="20241208084500 +0100" channel="Ziggo HD">
-    <title lang="nl">UEFA Europa League &amp; UEFA Conference League magazine</title>
-    <desc lang="nl">Nieuws, achtergronden en interviews uit de UEFA Europa League en de UEFA Conference League.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-  </programme>
-  <programme start="20241208084500 +0100" stop="20241208091500 +0100" channel="Ziggo HD">
-    <title lang="nl">Round up</title>
-    <desc lang="nl">Alle hoogtepunten van de gespeelde wedstrijden in de Spaanse LaLiga, Italiaanse Serie A, Franse Ligue 1 en Belgische Pro League op zaterdag.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208091500 +0100" stop="20241208094500 +0100" channel="Ziggo HD">
-    <title lang="nl">Handbal samenvatting</title>
-    <desc lang="nl">Verslag van een handbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/h/carrousel/handbal-samenvatting-587032191.jpg" />
-  </programme>
-  <programme start="20241208094500 +0100" stop="20241208111500 +0100" channel="Ziggo HD">
-    <title lang="nl">Boksen: Top rank boxing samenvatting</title>
-    <desc lang="nl">Samenvatting van een bokswedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/b/carrousel/boksen-top-rank-boxing-samenvatting-583890061.jpg" />
-  </programme>
-  <programme start="20241208111500 +0100" stop="20241208121500 +0100" channel="Ziggo HD">
-    <title lang="nl">Formule E hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475691.jpg" />
-  </programme>
-  <programme start="20241208121500 +0100" stop="20241208130000 +0100" channel="Ziggo HD">
-    <title lang="nl">Formule 1 samenvatting</title>
-    <desc lang="nl">Samenvatting van een training, kwalificatie of race in de Formule 1.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-1-gp-van-abu-dhabi-583633781.jpg" />
-  </programme>
-  <programme start="20241208130000 +0100" stop="20241208140000 +0100" channel="Ziggo HD">
-    <title lang="nl">Ziggo Sport race café</title>
-    <desc lang="nl">In het Ziggo Sport race café ontvangt Rob Kamphues raceliefhebbers en -experts zoals Robert Doornbos en worden de laatste ontwikkelingen besproken uit de verschillende raceklasses zoals Formule 1, MotoGP, Indycar, Nascar en andere categorieën. Er wordt ook vooruitgekeken naar de race-actie van komend weekend.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/z/carrousel/ziggo-sport-race-cafe-584097751.jpg" />
-  </programme>
-  <programme start="20241208140000 +0100" stop="20241208142500 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-586428351.jpg" />
-  </programme>
-  <programme start="20241208142500 +0100" stop="20241208144000 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal samenvatting</title>
-    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208144000 +0100" stop="20241208145000 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal samenvatting</title>
-    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208145000 +0100" stop="20241208170000 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
-  </programme>
-  <programme start="20241208170000 +0100" stop="20241208180000 +0100" channel="Ziggo HD">
-    <title lang="nl">Ziggo Sport race café</title>
-    <desc lang="nl">In het Ziggo Sport race café ontvangt Rob Kamphues raceliefhebbers en -experts zoals Robert Doornbos en worden de laatste ontwikkelingen besproken uit de verschillende raceklasses zoals Formule 1, MotoGP, Indycar, Nascar en andere categorieën. Er wordt ook vooruitgekeken naar de race-actie van komend weekend.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/z/carrousel/ziggo-sport-race-cafe-584097751.jpg" />
-  </programme>
-  <programme start="20241208180000 +0100" stop="20241208181000 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal samenvatting</title>
-    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208181000 +0100" stop="20241208182500 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal samenvatting</title>
-    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208182500 +0100" stop="20241208203000 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-laliga-583947371.jpg" />
-  </programme>
-  <programme start="20241208203000 +0100" stop="20241208203500 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal samenvatting</title>
-    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208203500 +0100" stop="20241208205500 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal samenvatting</title>
-    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
-  </programme>
-  <programme start="20241208205500 +0100" stop="20241208230000 +0100" channel="Ziggo HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-laliga-583947371.jpg" />
-  </programme>
-  <programme start="20241208230000 +0100" stop="20241209000000 +0100" channel="Ziggo HD">
-    <title lang="nl">Ziggo Sport race café</title>
-    <desc lang="nl">In het Ziggo Sport race café ontvangt Rob Kamphues raceliefhebbers en -experts zoals Robert Doornbos en worden de laatste ontwikkelingen besproken uit de verschillende raceklasses zoals Formule 1, MotoGP, Indycar, Nascar en andere categorieën. Er wordt ook vooruitgekeken naar de race-actie van komend weekend.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/z/carrousel/ziggo-sport-race-cafe-584097751.jpg" />
-  </programme>
   <programme start="20241209000000 +0100" stop="20241209014500 +0100" channel="Ziggo HD">
     <title lang="nl">Voetbal: LaLiga</title>
     <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
@@ -3943,7 +3763,6 @@
     <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
   </programme>
   <programme start="20241209051500 +0100" stop="20241209070000 +0100" channel="Ziggo HD">
     <title lang="nl">Voetbal: LaLiga</title>
@@ -4254,9 +4073,9 @@
   </programme>
   <programme start="20241210112500 +0100" stop="20241210115500 +0100" channel="Ziggo HD">
     <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
+    <desc lang="nl">Aandacht voor de actuele ontwikkelingen in de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
+    <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sc-heerenveen-tv-583569411.jpg" />
   </programme>
   <programme start="20241210115500 +0100" stop="20241210122500 +0100" channel="Ziggo HD">
@@ -4483,18 +4302,11 @@
     <category lang="nl">Samenvatting</category>
     <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fa-womens-super-league-583526961.jpg" />
   </programme>
-  <programme start="20241211201500 +0100" stop="20241211210000 +0100" channel="Ziggo HD">
+  <programme start="20241211201500 +0100" stop="20241211233000 +0100" channel="Ziggo HD">
     <title lang="nl">UEFA matchday</title>
     <desc lang="nl">Voorbeschouwing op en analyses van de wedstrijden in de Europese competities.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
-  </programme>
-  <programme start="20241211210000 +0100" stop="20241211233000 +0100" channel="Ziggo HD">
-    <title lang="nl">UEFA Champions League</title>
-    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/b/carrousel/brianpriskefeyenoordd.jpg" />
   </programme>
   <programme start="20241211233000 +0100" stop="20241212003000 +0100" channel="Ziggo HD">
     <title lang="nl">UEFA Champions League hoogtepunten</title>
@@ -4524,158 +4336,147 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
   </programme>
-  <programme start="20241208012500 +0100" stop="20241208031000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
+  <programme start="20241212043500 +0100" stop="20241212062500 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/national-womens-soccer-league-583511221.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
   </programme>
-  <programme start="20241208031000 +0100" stop="20241208045500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
+  <programme start="20241212062500 +0100" stop="20241212070000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA content</title>
+    <desc lang="nl">In deze documentaire van de UEFA Youth League, kijken we terug op de positieve impact van de competitie gedurende de afgelopen tien jaar.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
   </programme>
-  <programme start="20241208045500 +0100" stop="20241208064000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
+  <programme start="20241212070000 +0100" stop="20241212080000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Champions League hoogtepunten</title>
+    <desc lang="nl">Alle hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-laliga-587465201.jpg" />
-  </programme>
-  <programme start="20241208064000 +0100" stop="20241208065000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">LaLiga hoogtepunten</title>
-    <desc lang="nl">Alle hoogtepunten van de laatste speelronde in de Spaanse LaLiga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/laliga-hoogtepunten-587465021.jpg" />
-  </programme>
-  <programme start="20241208065000 +0100" stop="20241208070000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal (samenvatting): Serie A</title>
-    <desc lang="nl">Samenvatting van de voetbalwedstrijd Juventus - Bologna, gespeeld in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-587465081.jpg" />
-  </programme>
-  <programme start="20241208070000 +0100" stop="20241208084000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Liga Portugal</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Portugese Primeira Liga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-liga-portugal-582534741.jpg" />
-  </programme>
-  <programme start="20241208084000 +0100" stop="20241208102500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/national-womens-soccer-league-583511221.jpg" />
-  </programme>
-  <programme start="20241208102500 +0100" stop="20241208121000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
-  </programme>
-  <programme start="20241208121000 +0100" stop="20241208122000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal (samenvatting): Serie A</title>
-    <desc lang="nl">Samenvatting van de voetbalwedstrijd Juventus - Bologna, gespeeld in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <category lang="nl">Sportprogramma</category>
     <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-584854001.jpg" />
   </programme>
-  <programme start="20241208122000 +0100" stop="20241208143000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
+  <programme start="20241212080000 +0100" stop="20241212094500 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
   </programme>
-  <programme start="20241208143000 +0100" stop="20241208145500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Round up</title>
-    <desc lang="nl">Alle hoogtepunten van de gespeelde wedstrijden in de Spaanse LaLiga, Italiaanse Serie A, Franse Ligue 1 en Belgische Pro League op zaterdag.</desc>
+  <programme start="20241212094500 +0100" stop="20241212100000 +0100" channel="Ziggo HD">
+    <title lang="nl">Voetbal samenvatting</title>
+    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
+  </programme>
+  <programme start="20241212100000 +0100" stop="20241212110000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Champions League hoogtepunten</title>
+    <desc lang="nl">Alle hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fa-womens-super-league-583526961.jpg" />
-  </programme>
-  <programme start="20241208145500 +0100" stop="20241208152000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-magazine-582271451.jpg" />
-  </programme>
-  <programme start="20241208152000 +0100" stop="20241208153000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal (samenvatting): Serie A</title>
-    <desc lang="nl">Samenvatting van de voetbalwedstrijd Juventus - Bologna, gespeeld in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-584854001.jpg" />
   </programme>
-  <programme start="20241208153000 +0100" stop="20241208154000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">LaLiga hoogtepunten</title>
-    <desc lang="nl">Alle hoogtepunten van de laatste speelronde in de Spaanse LaLiga.</desc>
+  <programme start="20241212110000 +0100" stop="20241212135500 +0100" channel="Ziggo HD">
+    <title lang="nl">Golf: Alfred Dunhill Championship</title>
+    <desc lang="nl">Verslag van een golftoernooi of -wedstrijd.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583997291.jpg" />
+  </programme>
+  <programme start="20241212135500 +0100" stop="20241212153000 +0100" channel="Ziggo HD">
+    <title lang="nl">Freestyleskiën: Wereldbeker Val Thorens</title>
+    <desc lang="nl">Verslag van een wereldbekerwedstrijd freestyleskiën.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/freestyleskien-wereldbeker-val-thorens-583997101.jpg" />
+  </programme>
+  <programme start="20241212153000 +0100" stop="20241212160000 +0100" channel="Ziggo HD">
+    <title lang="nl">Golf: Alfred Dunhill Championship</title>
+    <desc lang="nl">Verslag van een golftoernooi of -wedstrijd.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583997291.jpg" />
+  </programme>
+  <programme start="20241212160000 +0100" stop="20241212162000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA: Outraged</title>
+    <desc lang="nl">In deze documentaire bekijken we de heldenstatus rol van de voetballers bij het helpen van amateurspelers, toeschouwers en scheidrechter die leven met een handicap.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Documentaire</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-outraged-584191731.jpg" />
+  </programme>
+  <programme start="20241212162000 +0100" stop="20241212163500 +0100" channel="Ziggo HD">
+    <title lang="nl">Voetbal samenvatting</title>
+    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/laliga-hoogtepunten-582362521.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
   </programme>
-  <programme start="20241208154000 +0100" stop="20241208155000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">LaLiga hoogtepunten</title>
-    <desc lang="nl">Alle hoogtepunten van de laatste speelronde in de Spaanse LaLiga.</desc>
+  <programme start="20241212163500 +0100" stop="20241212164500 +0100" channel="Ziggo HD">
+    <title lang="nl">Voetbal samenvatting</title>
+    <desc lang="nl">Samenvatting van een voetbalwedstrijd.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/laliga-hoogtepunten-582362521.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191811.jpg" />
   </programme>
-  <programme start="20241208155000 +0100" stop="20241208161000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal (samenvatting): Serie A</title>
-    <desc lang="nl">Samenvatting van de voetbalwedstrijd Juventus - Bologna, gespeeld in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-587465081.jpg" />
-  </programme>
-  <programme start="20241208161000 +0100" stop="20241208182500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/national-womens-soccer-league-583511221.jpg" />
-  </programme>
-  <programme start="20241208182500 +0100" stop="20241208203500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Belgische Pro League</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Pro League in België.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-belgische-pro-league-583524711.jpg" />
-  </programme>
-  <programme start="20241208203500 +0100" stop="20241208224000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
-  </programme>
-  <programme start="20241208224000 +0100" stop="20241208230500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Round up</title>
-    <desc lang="nl">Alle hoogtepunten van de gespeelde wedstrijden in de Spaanse LaLiga, Italiaanse Serie A, Franse Ligue 1 en Belgische Pro League op zaterdag.</desc>
+  <programme start="20241212164500 +0100" stop="20241212174500 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Champions League hoogtepunten</title>
+    <desc lang="nl">Alle hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fa-womens-super-league-583526961.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-584854001.jpg" />
   </programme>
-  <programme start="20241208230500 +0100" stop="20241208235500 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Europa en Conference League magazine</title>
-    <desc lang="nl">Het laatste nieuws over de Europa League en de Conference League.</desc>
+  <programme start="20241212174500 +0100" stop="20241212184500 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA matchday</title>
+    <desc lang="nl">Voorbeschouwing op en analyses van de wedstrijden in de Europese competities.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/europa-en-conference-league-magazine-585514251.jpg" />
   </programme>
-  <programme start="20241208235500 +0100" stop="20241209014000 +0100" channel="Ziggo 2 HD">
-    <title lang="nl">Voetbal: Serie A</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
+  <programme start="20241212184500 +0100" stop="20241212194500 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fctwentebaskuijperss.jpg" />
+  </programme>
+  <programme start="20241212194500 +0100" stop="20241212210000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA matchday</title>
+    <desc lang="nl">Voorbeschouwing op en analyses van de wedstrijden in de Europese competities.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Sportprogramma</category>
+  </programme>
+  <programme start="20241212210000 +0100" stop="20241212233000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191821.jpg" />
+  </programme>
+  <programme start="20241212233000 +0100" stop="20241213003000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Europa League hoogtepunten &amp; UEFA Europa Conference League hoogtepunten</title>
+    <desc lang="nl">Alle hoogtepunten van de wedstrijden gespeeld in de UEFA Europa League en de UEFA Europa Conference League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+  </programme>
+  <programme start="20241213003000 +0100" stop="20241213010000 +0100" channel="Ziggo HD">
+    <title lang="nl">FIS Skicross World Cup: Val Thorens samenvatting</title>
+    <desc lang="nl">Samenvatting van de skicross World Cup in Val Thorens, Frankrijk.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+  </programme>
+  <programme start="20241213010000 +0100" stop="20241213025000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191821.jpg" />
+  </programme>
+  <programme start="20241213025000 +0100" stop="20241213044000 +0100" channel="Ziggo HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-584191821.jpg" />
   </programme>
   <programme start="20241209014000 +0100" stop="20241209032500 +0100" channel="Ziggo 2 HD">
     <title lang="nl">Voetbal: LaLiga</title>
@@ -4689,7 +4490,6 @@
     <desc lang="nl">Verslag van een voetbalwedstrijd in de Italiaanse Serie A.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
   </programme>
   <programme start="20241209051500 +0100" stop="20241209070000 +0100" channel="Ziggo 2 HD">
     <title lang="nl">Voetbal: LaLiga</title>
@@ -4721,9 +4521,9 @@
   </programme>
   <programme start="20241209104000 +0100" stop="20241209110500 +0100" channel="Ziggo 2 HD">
     <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
+    <desc lang="nl">Aandacht voor de actuele ontwikkelingen in de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
+    <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-magazine-582271451.jpg" />
   </programme>
   <programme start="20241209110500 +0100" stop="20241209124500 +0100" channel="Ziggo 2 HD">
@@ -4749,7 +4549,7 @@
   </programme>
   <programme start="20241209152000 +0100" stop="20241209153500 +0100" channel="Ziggo 2 HD">
     <title lang="nl">Voetbal (samenvatting): Serie A</title>
-    <desc lang="nl">Samenvatting van de voetbalwedstrijd Juventus - Bologna, gespeeld in de Italiaanse Serie A.</desc>
+    <desc lang="nl">Samenvatting van de voetbalwedstrijd Napoli - Lazio, gespeeld in de Italiaanse Serie A.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-584854001.jpg" />
@@ -4784,9 +4584,9 @@
   </programme>
   <programme start="20241209174500 +0100" stop="20241209181000 +0100" channel="Ziggo 2 HD">
     <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
+    <desc lang="nl">Aandacht voor de actuele ontwikkelingen in de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
+    <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-magazine-582271451.jpg" />
   </programme>
   <programme start="20241209181000 +0100" stop="20241209190000 +0100" channel="Ziggo 2 HD">
@@ -4889,9 +4689,9 @@
   </programme>
   <programme start="20241210124500 +0100" stop="20241210131000 +0100" channel="Ziggo 2 HD">
     <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
+    <desc lang="nl">Aandacht voor de actuele ontwikkelingen in de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
+    <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-magazine-582271451.jpg" />
   </programme>
   <programme start="20241210131000 +0100" stop="20241210141000 +0100" channel="Ziggo 2 HD">
@@ -4917,7 +4717,7 @@
   </programme>
   <programme start="20241210170500 +0100" stop="20241210172000 +0100" channel="Ziggo 2 HD">
     <title lang="nl">Voetbal (samenvatting): Serie A</title>
-    <desc lang="nl">Samenvatting van de voetbalwedstrijd Juventus - Bologna, gespeeld in de Italiaanse Serie A.</desc>
+    <desc lang="nl">Samenvatting van de voetbalwedstrijd Napoli - Lazio, gespeeld in de Italiaanse Serie A.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-584854001.jpg" />
@@ -4938,9 +4738,9 @@
   </programme>
   <programme start="20241210174500 +0100" stop="20241210181500 +0100" channel="Ziggo 2 HD">
     <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
+    <desc lang="nl">Aandacht voor de actuele ontwikkelingen in de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
+    <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-magazine-582271451.jpg" />
   </programme>
   <programme start="20241210181500 +0100" stop="20241210184000 +0100" channel="Ziggo 2 HD">
@@ -5085,9 +4885,9 @@
   </programme>
   <programme start="20241212002000 +0100" stop="20241212004500 +0100" channel="Ziggo 2 HD">
     <title lang="nl">UEFA Champions League magazine</title>
-    <desc lang="nl">Voetbalprogramma waarin een overzicht wordt gegeven van de belangrijkste ontwikkelingen rondom de UEFA Champions League, met interviews en achtergrondverhalen.</desc>
+    <desc lang="nl">Aandacht voor de actuele ontwikkelingen in de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
+    <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-magazine-582271451.jpg" />
   </programme>
   <programme start="20241212004500 +0100" stop="20241212014500 +0100" channel="Ziggo 2 HD">
@@ -5104,175 +4904,131 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
   </programme>
-  <programme start="20241208004000 +0100" stop="20241208013500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Supercars Championship Hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van de race gereden in de Supercars Championship, op in Adelaide, Zuid-Australië.</desc>
+  <programme start="20241212033000 +0100" stop="20241212051500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/supercars-championship-hoogtepunten-584098071.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
   </programme>
-  <programme start="20241208013500 +0100" stop="20241208023000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Nascar Cup Series hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van de races in de Nascar Cup Series.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/nascar-cup-series-hoogtepunten-583475441.jpg" />
-  </programme>
-  <programme start="20241208023000 +0100" stop="20241208032500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Nascar Xfinity Series hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een race in de Nascar Xfinity Series.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/nascar-cup-series-hoogtepunten-583475441.jpg" />
-  </programme>
-  <programme start="20241208032500 +0100" stop="20241208041500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Nascar Craftsman Truck Series hoogtepunten</title>
-    <desc lang="nl">Verslag van de Nascar Craftsman World Truck Series.</desc>
+  <programme start="20241212051500 +0100" stop="20241212070000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-1-gp-van-las-vegas-583478871.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
   </programme>
-  <programme start="20241208041500 +0100" stop="20241208062000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">FIA Motorsport Games</title>
-    <desc lang="nl">Hoogtepunten van de De FIA ​​Motorsport Games, gehouden van 23 tot en met 27 oktober in Valencia, Spanje. FIA Motorsport Games is een tweejaarlijks autosportevenement beheerd door de Fédération Internationale de l'Automobile. Het omvat competities uit meerdere autosportdisciplines en wordt door nationale autosportautoriteiten onder hun nationale vlag ingeschreven.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241208062000 +0100" stop="20241208064500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Crashen in de keuken</title>
-    <desc lang="nl">Aan de keukentafel blikken Rob Kamphues en Robert Doornbos terug op het afgelopen race-weekend.</desc>
+  <programme start="20241212070000 +0100" stop="20241212080000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League hoogtepunten</title>
+    <desc lang="nl">Alle hoogtepunten van de wedstrijden gespeeld in de UEFA Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/c/carrousel/crashen-in-de-keuken-583475671.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-samenvatting-serie-a-584854001.jpg" />
   </programme>
-  <programme start="20241208064500 +0100" stop="20241208070000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Racing history</title>
-    <desc lang="nl">Aandacht voor de geschiedenis van de racesport.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Reportages</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/r/carrousel/racing-history-587464301.jpg" />
-  </programme>
-  <programme start="20241208070000 +0100" stop="20241208080000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Formule E hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475691.jpg" />
-  </programme>
-  <programme start="20241208080000 +0100" stop="20241208083000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Belgian Rally Championship</title>
-    <desc lang="nl">Hoogtepunten van de Spa Rally, gereden in de Belgian Rally Championship van 2023.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/b/carrousel/belgian-rally-championship-583475721.jpg" />
-  </programme>
-  <programme start="20241208083000 +0100" stop="20241208091500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Formule 1: GP van Abu Dhabi (samenvatting)</title>
-    <desc lang="nl">Vanuit de Ziggo Sport Pitbox kijkt u samen met Robert Doornbos en Rob Kamphues naar de samenvatting van de kwalificatie van de GP van Abu Dahbi, gereden op het Yas Marina Circuit in Yas Marina, Abu Dhabi.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Formula X</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-1-gp-van-abu-dhabi-samenvatting-583477951.jpg" />
-  </programme>
-  <programme start="20241208091500 +0100" stop="20241208101500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Ziggo Sport race café</title>
-    <desc lang="nl">In het Ziggo Sport race café ontvangt Rob Kamphues raceliefhebbers en -experts zoals Robert Doornbos en worden de laatste ontwikkelingen besproken uit de verschillende raceklasses zoals Formule 1, MotoGP, Indycar, Nascar en andere categorieën. Er wordt ook vooruitgekeken naar de race-actie van komend weekend.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/z/carrousel/ziggo-sport-race-cafe-583478931.jpg" />
-  </programme>
-  <programme start="20241208101500 +0100" stop="20241208122500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">FIA Motorsport Games</title>
-    <desc lang="nl">Hoogtepunten van de De FIA ​​Motorsport Games, gehouden van 23 tot en met 27 oktober in Valencia, Spanje. FIA Motorsport Games is een tweejaarlijks autosportevenement beheerd door de Fédération Internationale de l'Automobile. Het omvat competities uit meerdere autosportdisciplines en wordt door nationale autosportautoriteiten onder hun nationale vlag ingeschreven.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241208122500 +0100" stop="20241208125500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Formule 1: Grand Prix insights</title>
-    <desc lang="nl">Vooruitblik op het aankomende Formule 1-weekend, met aandacht voor het laatste nieuws, achtergronden, interviews en 3D-animaties.</desc>
+  <programme start="20241212080000 +0100" stop="20241212085000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">Europa en Conference League magazine</title>
+    <desc lang="nl">Het laatste nieuws over de Europa League en de Conference League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/europa-en-conference-league-magazine-585514251.jpg" />
   </programme>
-  <programme start="20241208125500 +0100" stop="20241208145500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">FA Women's Super League</title>
-    <desc lang="nl">Liveverslag van de wedstrijden in de Women's Super League.</desc>
+  <programme start="20241212085000 +0100" stop="20241212103500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
+  </programme>
+  <programme start="20241212103500 +0100" stop="20241212122000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
+  </programme>
+  <programme start="20241212122000 +0100" stop="20241212140500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
+  </programme>
+  <programme start="20241212140500 +0100" stop="20241212155000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-584941241.jpg" />
+  </programme>
+  <programme start="20241212155000 +0100" stop="20241212174500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Champions League</title>
+    <desc lang="nl">Rechtstreeks verslag van een UEFA Champions League-wedstrijd, de meest prestigieuze voetbalcompetitie voor clubs ter wereld. De beroemdste en beste teams uit Europa strijden tegen elkaar om de meest iconische trofee die er voor clubs te winnen is.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-587256471.jpg" />
+  </programme>
+  <programme start="20241212174500 +0100" stop="20241212184500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
-  <programme start="20241208145500 +0100" stop="20241208152500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">The Inside Line</title>
-    <desc lang="nl">Wekelijkse magazine met het laatste nieuws en achtergronden uit de Formule 1.</desc>
+  <programme start="20241212184500 +0100" stop="20241212205500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-inside-line-583478961.jpg" />
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
-  <programme start="20241208152500 +0100" stop="20241208162000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Supercars Championship Hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van de race gereden in de Supercars Championship, op in Adelaide, Zuid-Australië.</desc>
+  <programme start="20241212205500 +0100" stop="20241212230500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/supercars-championship-hoogtepunten-584098071.jpg" />
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
-  <programme start="20241208162000 +0100" stop="20241208171500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Supercars Championship Hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van de race gereden in de Supercars Championship, op in Adelaide, Zuid-Australië.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/supercars-championship-hoogtepunten-584098071.jpg" />
-  </programme>
-  <programme start="20241208171500 +0100" stop="20241208181500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Nascar Cup Series hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van de races in de Nascar Cup Series.</desc>
+  <programme start="20241212230500 +0100" stop="20241212232000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">Samenvatting: UEFA Champions League</title>
+    <desc lang="nl">Samenvatting van een wedstrijd in de Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/nascar-cup-series-hoogtepunten-583475441.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/samenvatting-uefa-champions-league-585230451.jpg" />
   </programme>
-  <programme start="20241208181500 +0100" stop="20241208191000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Nascar Xfinity Series hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een race in de Nascar Xfinity Series.</desc>
+  <programme start="20241212232000 +0100" stop="20241212233000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">Samenvatting: UEFA Champions League</title>
+    <desc lang="nl">Samenvatting van een wedstrijd in de Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/nascar-cup-series-hoogtepunten-583475441.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/samenvatting-uefa-champions-league-585230451.jpg" />
   </programme>
-  <programme start="20241208191000 +0100" stop="20241208201000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Nascar Craftsman Truck Series hoogtepunten</title>
-    <desc lang="nl">Verslag van de Nascar Craftsman World Truck Series.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-1-gp-van-las-vegas-583478871.jpg" />
-  </programme>
-  <programme start="20241208201000 +0100" stop="20241208204000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Formule 1: Grand Prix insights</title>
-    <desc lang="nl">Vooruitblik op het aankomende Formule 1-weekend, met aandacht voor het laatste nieuws, achtergronden, interviews en 3D-animaties.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-  </programme>
-  <programme start="20241208204000 +0100" stop="20241208213500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">SailGP hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een zeilwedstrijd.</desc>
+  <programme start="20241212233000 +0100" stop="20241212234500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">Samenvatting: UEFA Champions League</title>
+    <desc lang="nl">Samenvatting van een wedstrijd in de Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sailgp-hoogtepunten-585494061.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/samenvatting-uefa-champions-league-585230451.jpg" />
   </programme>
-  <programme start="20241208213500 +0100" stop="20241208223500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Formule E hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
+  <programme start="20241212234500 +0100" stop="20241213000000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">Samenvatting: UEFA Champions League</title>
+    <desc lang="nl">Samenvatting van een wedstrijd in de Champions League.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475691.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/samenvatting-uefa-champions-league-585230451.jpg" />
   </programme>
-  <programme start="20241208223500 +0100" stop="20241208230500 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">Belgian Rally Championship</title>
-    <desc lang="nl">Hoogtepunten van de Spa Rally, gereden in de Belgian Rally Championship van 2023.</desc>
+  <programme start="20241213000000 +0100" stop="20241213014500 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/b/carrousel/belgian-rally-championship-583475721.jpg" />
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
-  <programme start="20241208230500 +0100" stop="20241209011000 +0100" channel="Ziggo 3 HD">
-    <title lang="nl">FIA Motorsport Games</title>
-    <desc lang="nl">Hoogtepunten van de De FIA ​​Motorsport Games, gehouden van 23 tot en met 27 oktober in Valencia, Spanje. FIA Motorsport Games is een tweejaarlijks autosportevenement beheerd door de Fédération Internationale de l'Automobile. Het omvat competities uit meerdere autosportdisciplines en wordt door nationale autosportautoriteiten onder hun nationale vlag ingeschreven.</desc>
+  <programme start="20241213014500 +0100" stop="20241213033000 +0100" channel="Ziggo 2 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
   <programme start="20241209011000 +0100" stop="20241209020500 +0100" channel="Ziggo 3 HD">
     <title lang="nl">Ziggo Sport race café</title>
@@ -5300,7 +5056,6 @@
     <desc lang="nl">Verslag van de Nascar Craftsman World Truck Series.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-1-gp-van-las-vegas-583478871.jpg" />
   </programme>
   <programme start="20241209044500 +0100" stop="20241209054000 +0100" channel="Ziggo 3 HD">
     <title lang="nl">Supercars Championship Hoogtepunten</title>
@@ -5806,137 +5561,198 @@
     <category lang="nl">Samenvatting</category>
     <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/nascar-cup-series-hoogtepunten-583475441.jpg" />
   </programme>
-  <programme start="20241208010500 +0100" stop="20241208013500 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP Tour: This week</title>
-    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
-  </programme>
-  <programme start="20241208013500 +0100" stop="20241208033000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: Davis Cup Finals</title>
-    <desc lang="nl">Verslag van een tennistoernooi.</desc>
+  <programme start="20241212042500 +0100" stop="20241212052000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Nascar Craftsman Truck Series hoogtepunten</title>
+    <desc lang="nl">Verslag van de Nascar Craftsman World Truck Series.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-davis-cup-finals-584191781.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-1-gp-van-las-vegas-583478871.jpg" />
   </programme>
-  <programme start="20241208033000 +0100" stop="20241208050000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: ATP 500 - ABN Amro Open</title>
-    <desc lang="nl">Verslag van het ABN Amro Open in Ahoy Rotterdam.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241208050000 +0100" stop="20241208053000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP Tour: This week</title>
-    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
-  </programme>
-  <programme start="20241208053000 +0100" stop="20241208070000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: Wimbledon</title>
-    <desc lang="nl">Verslag van het grandslamtoernooi Wimbledon, gespeeld op de All England Lawn Tennis and Croquet Club in de buitenwijk Wimbledon in Londen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-wimbledon-582533201.jpg" />
-  </programme>
-  <programme start="20241208070000 +0100" stop="20241208082500 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: ATP 500 - ABN Amro Open</title>
-    <desc lang="nl">Verslag van het ABN Amro Open in Ahoy Rotterdam.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-atp-500-abn-amro-open-582532821.jpg" />
-  </programme>
-  <programme start="20241208082500 +0100" stop="20241208085500 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP Tour: This week</title>
-    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
-  </programme>
-  <programme start="20241208085500 +0100" stop="20241208111500 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis history</title>
-    <desc lang="nl">Documentaireserie over de geschiedenis van tennis.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-history-584030221.jpg" />
-  </programme>
-  <programme start="20241208111500 +0100" stop="20241208121000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: Nitto ATP Finals hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van de Nitto ATP Finals, gespeeld in Turijn, Italië.</desc>
+  <programme start="20241212052000 +0100" stop="20241212061500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Formule E hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-nitto-atp-finals-hoogtepunten-583887551.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475411.jpg" />
   </programme>
-  <programme start="20241208121000 +0100" stop="20241208122500 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">De eeuwige sportvelden</title>
-    <desc lang="nl">Een portret van een overleden topsporter.</desc>
+  <programme start="20241212061500 +0100" stop="20241212070000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">GT World Challenge hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van de GT World Challenge.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/de-eeuwige-sportvelden-583888081.jpg" />
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/gt-world-challenge-hoogtepunten-583475461.jpg" />
   </programme>
-  <programme start="20241208122500 +0100" stop="20241208135500 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP 250: Fayez Sarofim &amp; Co. US Men's Clay Court Championship</title>
-    <desc lang="nl">Verslag van een tennistoernooi.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-atp-500-rio-open-582533901.jpg" />
-  </programme>
-  <programme start="20241208135500 +0100" stop="20241208160000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Voetbal: LaLiga</title>
-    <desc lang="nl">Verslag van een voetbalwedstrijd in de Spaanse La Liga.</desc>
+  <programme start="20241212070000 +0100" stop="20241212073000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-laliga-583947371.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-583475351.jpg" />
   </programme>
-  <programme start="20241208160000 +0100" stop="20241208163000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP Tour: This week</title>
-    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
-  </programme>
-  <programme start="20241208163000 +0100" stop="20241208180000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: ATP 500 - ABN Amro Open</title>
-    <desc lang="nl">Verslag van het ABN Amro Open in Ahoy Rotterdam.</desc>
+  <programme start="20241212073000 +0100" stop="20241212080000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-atp-500-abn-amro-open-582532821.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-583475331.jpg" />
   </programme>
-  <programme start="20241208180000 +0100" stop="20241208193000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: Madrid Open</title>
-    <desc lang="nl">Verslag van een tennistoernooi.</desc>
+  <programme start="20241212080000 +0100" stop="20241212083000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">The Inside Line</title>
+    <desc lang="nl">Wekelijkse magazine met het laatste nieuws en achtergronden uit de Formule 1.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-miami-open-582801901.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-inside-line-583478961.jpg" />
   </programme>
-  <programme start="20241208193000 +0100" stop="20241208200000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP Tour: This week</title>
-    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
+  <programme start="20241212083000 +0100" stop="20241212090000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Crashen in de keuken</title>
+    <desc lang="nl">Aan de keukentafel blikken Rob Kamphues en Robert Doornbos terug op het afgelopen race-weekend.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/c/carrousel/crashen-in-de-keuken-583475391.jpg" />
   </programme>
-  <programme start="20241208200000 +0100" stop="20241208220000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: Davis Cup Finals</title>
-    <desc lang="nl">Verslag van een tennistoernooi.</desc>
+  <programme start="20241212090000 +0100" stop="20241212100000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Formule E hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475551.jpg" />
+  </programme>
+  <programme start="20241212100000 +0100" stop="20241212103000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Belgian Rally Championship</title>
+    <desc lang="nl">Hoogtepunten van de Spa Rally, gereden in de Belgian Rally Championship van 2023.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-davis-cup-finals-584191781.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/b/carrousel/belgian-rally-championship-583475491.jpg" />
   </programme>
-  <programme start="20241208220000 +0100" stop="20241208233000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">Tennis: ATP 500 - ABN Amro Open</title>
-    <desc lang="nl">Verslag van het ABN Amro Open in Ahoy Rotterdam.</desc>
+  <programme start="20241212103000 +0100" stop="20241212113000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">MotoGP</title>
+    <desc lang="nl">Verslag van een race in de MotoGP.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-atp-500-abn-amro-open-582532821.jpg" />
+    <icon src="https://tvgidsassets.nl/v348/upload/m/carrousel/motogp-583879901.jpg" />
   </programme>
-  <programme start="20241208233000 +0100" stop="20241209000000 +0100" channel="Ziggo 4 HD">
-    <title lang="nl">ATP Tour: This week</title>
-    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
+  <programme start="20241212113000 +0100" stop="20241212133000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">FIA Motorsport Games</title>
+    <desc lang="nl">Hoogtepunten van de De FIA ​​Motorsport Games, gehouden van 23 tot en met 27 oktober in Valencia, Spanje. FIA Motorsport Games is een tweejaarlijks autosportevenement beheerd door de Fédération Internationale de l'Automobile. Het omvat competities uit meerdere autosportdisciplines en wordt door nationale autosportautoriteiten onder hun nationale vlag ingeschreven.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+  </programme>
+  <programme start="20241212133000 +0100" stop="20241212135500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">The Inside Line</title>
+    <desc lang="nl">Wekelijkse magazine met het laatste nieuws en achtergronden uit de Formule 1.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-inside-line-583478961.jpg" />
+  </programme>
+  <programme start="20241212135500 +0100" stop="20241212153500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">FIS Skicross: World Cup Val Thorens</title>
+    <desc lang="nl">Verslag van de skicross World Cup in Val Thorens, Frankrijk.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/fis-skicross-world-cup-val-thorens-583475371.jpg" />
+  </programme>
+  <programme start="20241212153500 +0100" stop="20241212160500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-583475291.jpg" />
+  </programme>
+  <programme start="20241212160500 +0100" stop="20241212163500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-583475271.jpg" />
+  </programme>
+  <programme start="20241212163500 +0100" stop="20241212173000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">MotoGP</title>
+    <desc lang="nl">Verslag van een race in de MotoGP.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/m/carrousel/motogp-583879901.jpg" />
+  </programme>
+  <programme start="20241212173000 +0100" stop="20241212174500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Racing history</title>
+    <desc lang="nl">Aandacht voor de geschiedenis van de racesport.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Reportages</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/r/carrousel/racing-history-587464301.jpg" />
+  </programme>
+  <programme start="20241212174500 +0100" stop="20241212184500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">UEFA matchday</title>
+    <desc lang="nl">Voorbeschouwing op en analyses van de wedstrijden in de Europese competities.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Sportprogramma</category>
+  </programme>
+  <programme start="20241212184500 +0100" stop="20241212212000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
+  </programme>
+  <programme start="20241212212000 +0100" stop="20241212215000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">The Inside Line</title>
+    <desc lang="nl">Wekelijkse magazine met het laatste nieuws en achtergronden uit de Formule 1.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-inside-line-583478961.jpg" />
+  </programme>
+  <programme start="20241212215000 +0100" stop="20241212235500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">FIA Motorsport Games</title>
+    <desc lang="nl">Hoogtepunten van de De FIA ​​Motorsport Games, gehouden van 23 tot en met 27 oktober in Valencia, Spanje. FIA Motorsport Games is een tweejaarlijks autosportevenement beheerd door de Fédération Internationale de l'Automobile. Het omvat competities uit meerdere autosportdisciplines en wordt door nationale autosportautoriteiten onder hun nationale vlag ingeschreven.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+  </programme>
+  <programme start="20241212235500 +0100" stop="20241213002500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-583475201.jpg" />
+  </programme>
+  <programme start="20241213002500 +0100" stop="20241213005500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-583475181.jpg" />
+  </programme>
+  <programme start="20241213005500 +0100" stop="20241213013000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Aquabike World Championship (hoogtepunten)</title>
+    <desc lang="nl">Hoogtepunten van de afgelopen jaar 2024 in de AquaX Classe.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/aquabike-world-championship-hoogtepunten-587464261.jpg" />
+  </programme>
+  <programme start="20241213013000 +0100" stop="20241213015500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Nascar Cup Series hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van de races in de Nascar Cup Series.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/n/carrousel/nascar-cup-series-hoogtepunten-587233621.jpg" />
+  </programme>
+  <programme start="20241213015500 +0100" stop="20241213025000 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Formule E hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een race in de Formule E.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/f/carrousel/formule-e-hoogtepunten-583475691.jpg" />
+  </programme>
+  <programme start="20241213025000 +0100" stop="20241213031500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">Belgian Rally Championship</title>
+    <desc lang="nl">Hoogtepunten van de Spa Rally, gereden in de Belgian Rally Championship van 2023.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/b/carrousel/belgian-rally-championship-583475721.jpg" />
+  </programme>
+  <programme start="20241213031500 +0100" stop="20241213041500 +0100" channel="Ziggo 3 HD">
+    <title lang="nl">MotoGP</title>
+    <desc lang="nl">Verslag van een race in de MotoGP.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/m/carrousel/motogp-583879901.jpg" />
   </programme>
   <programme start="20241209000000 +0100" stop="20241209020000 +0100" channel="Ziggo 4 HD">
     <title lang="nl">Tennis: Billie Jean King Cup</title>
@@ -5971,7 +5787,6 @@
     <desc lang="nl">Een portret van een overleden topsporter.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/de-eeuwige-sportvelden-583888081.jpg" />
   </programme>
   <programme start="20241209044500 +0100" stop="20241209070000 +0100" channel="Ziggo 4 HD">
     <title lang="nl">Tennis history</title>
@@ -6381,365 +6196,136 @@
     <category lang="nl">Sportnieuws</category>
     <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
   </programme>
-  <programme start="20241208001000 +0100" stop="20241208003500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Sports women</title>
-    <desc lang="nl">Over de prestaties van vrouwen in de sport.</desc>
+  <programme start="20241212040000 +0100" stop="20241212053000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Internazionali BNL d'Italia</title>
+    <desc lang="nl">Verslag van het tennistoernooi van Rome, gespeeld op de gravelbanen van Foro Italico in Rome, Italië.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sports-women-583622701.jpg" />
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-internazionali-bnl-ditalia-582533261.jpg" />
   </programme>
-  <programme start="20241208003500 +0100" stop="20241208020000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">De zolder van El Sierd</title>
-    <desc lang="nl">Sierd de Vos is al vier decennia sportjournalist en al jaren commentator van het Spaans voetbal. Daarnaast staat hij bekend om de reportages en verhalen die hij door de jaren heeft gemaakt over en met sporters.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/de-zolder-van-el-sierd-583622831.jpg" />
-  </programme>
-  <programme start="20241208020000 +0100" stop="20241208022500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Tussen de palen</title>
-    <desc lang="nl">Wytse van de Goot spreekt met een ex-voetballer of coach over hun voetbalcarrière.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-afc-champions-league-583510951.jpg" />
-  </programme>
-  <programme start="20241208022500 +0100" stop="20241208025000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+  <programme start="20241212053000 +0100" stop="20241212063000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Legends</title>
     <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
+    <category lang="nl">Documentaire</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/legends-583887191.jpg" />
   </programme>
-  <programme start="20241208025000 +0100" stop="20241208031500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208031500 +0100" stop="20241208034000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208034000 +0100" stop="20241208042500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The power of sport</title>
-    <desc lang="nl">Documentaireserie over de relatie tussen sport en maatschappelijke vraagstukken zoals klimaatverandering.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-power-of-sport-583622521.jpg" />
-  </programme>
-  <programme start="20241208042500 +0100" stop="20241208045000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Top vintage goals</title>
-    <desc lang="nl">Een compilatie van de mooiste en meest bijzondere doelpunten ooit gescoord.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-  </programme>
-  <programme start="20241208045000 +0100" stop="20241208052000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">LaLiga clubs</title>
-    <desc lang="nl">Over de verschillende Spaanse voetbalclubs en hun geschiedenis.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/laliga-clubs-587482521.jpg" />
-  </programme>
-  <programme start="20241208052000 +0100" stop="20241208061500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">UEFA Champions League</title>
-    <desc lang="nl">Documentaireserie over de geschiedenis van de UEFA Champions League.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-champions-league-583958861.jpg" />
-  </programme>
-  <programme start="20241208061500 +0100" stop="20241208062500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">LaLiga 5 things</title>
-    <desc lang="nl">Vijf wetenswaardigheden over een voetbalclub uit de Spaanse LaLiga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/laliga-5-things-584902411.jpg" />
-  </programme>
-  <programme start="20241208062500 +0100" stop="20241208063500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">LaLiga 5 things</title>
-    <desc lang="nl">Vijf wetenswaardigheden over een voetbalclub uit de Spaanse LaLiga.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/laliga-5-things-587482491.jpg" />
-  </programme>
-  <programme start="20241208063500 +0100" stop="20241208070000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Ziggo Sport Totaal Informatie</title>
+  <programme start="20241212063000 +0100" stop="20241212070000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">ATP Tour: This week</title>
+    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportnieuws</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
   </programme>
-  <programme start="20241208070000 +0100" stop="20241208072500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">La Liga nations</title>
-    <desc lang="nl">Een terugblik op de beste buitenlandse spelers die de La Liga-velden sierden tijdens de geschiedenis van deze Spaanse voetbalcompetitie.</desc>
+  <programme start="20241212070000 +0100" stop="20241212083000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: ATP 500 - ABN Amro Open</title>
+    <desc lang="nl">Verslag van het ABN Amro Open in Ahoy Rotterdam.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-atp-500-abn-amro-open-587480101.jpg" />
   </programme>
-  <programme start="20241208072500 +0100" stop="20241208075000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">La Liga nations</title>
-    <desc lang="nl">Een terugblik op de beste buitenlandse spelers die de La Liga-velden sierden tijdens de geschiedenis van deze Spaanse voetbalcompetitie.</desc>
+  <programme start="20241212083000 +0100" stop="20241212093000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Nitto ATP Finals hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van de Nitto ATP Finals, gespeeld in Turijn, Italië.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-nitto-atp-finals-hoogtepunten-583887551.jpg" />
   </programme>
-  <programme start="20241208075000 +0100" stop="20241208081500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Sports women</title>
-    <desc lang="nl">Over de prestaties van vrouwen in de sport.</desc>
+  <programme start="20241212093000 +0100" stop="20241212110000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Wimbledon</title>
+    <desc lang="nl">Verslag van het grandslamtoernooi Wimbledon, gespeeld op de All England Lawn Tennis and Croquet Club in de buitenwijk Wimbledon in Londen.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sports-women-583622701.jpg" />
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-wimbledon-582533201.jpg" />
   </programme>
-  <programme start="20241208081500 +0100" stop="20241208083500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208083500 +0100" stop="20241208090000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208090000 +0100" stop="20241208092500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Dream team</title>
-    <desc lang="nl">Documentaireserie over atleten en teams die hun sport domineerden.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/dream-team-583622911.jpg" />
-  </programme>
-  <programme start="20241208092500 +0100" stop="20241208095000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208095000 +0100" stop="20241208101500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208101500 +0100" stop="20241208110000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The power of sport</title>
-    <desc lang="nl">Documentaireserie over de relatie tussen sport en maatschappelijke vraagstukken zoals klimaatverandering.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-power-of-sport-583622521.jpg" />
-  </programme>
-  <programme start="20241208110000 +0100" stop="20241208112500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The iconic</title>
-    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
+  <programme start="20241212110000 +0100" stop="20241212120000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Davis Cup</title>
+    <desc lang="nl">Verslag van een tennistoernooi.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+    <category lang="nl">Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-davis-cup-585565701.jpg" />
   </programme>
-  <programme start="20241208112500 +0100" stop="20241208115000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The iconic</title>
-    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
+  <programme start="20241212120000 +0100" stop="20241212123000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">ATP Tour: This week</title>
+    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+    <category lang="nl">Sportnieuws</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
   </programme>
-  <programme start="20241208115000 +0100" stop="20241208121500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208121500 +0100" stop="20241208123500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208123500 +0100" stop="20241208130000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Vals spel</title>
-    <desc lang="nl">Aandacht voor controverses, schandalen en bedrog in de sport.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/vals-spel-583622661.jpg" />
-  </programme>
-  <programme start="20241208130000 +0100" stop="20241208132500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Vals spel</title>
-    <desc lang="nl">Aandacht voor controverses, schandalen en bedrog in de sport.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/vals-spel-583622661.jpg" />
-  </programme>
-  <programme start="20241208132500 +0100" stop="20241208135000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208135000 +0100" stop="20241208141500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208141500 +0100" stop="20241208143500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208143500 +0100" stop="20241208150000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208150000 +0100" stop="20241208152500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208152500 +0100" stop="20241208155000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208155000 +0100" stop="20241208161000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208161000 +0100" stop="20241208163500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208163500 +0100" stop="20241208173000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">De zolder van El Sierd</title>
-    <desc lang="nl">Sierd de Vos is al vier decennia sportjournalist en al jaren commentator van het Spaans voetbal. Daarnaast staat hij bekend om de reportages en verhalen die hij door de jaren heeft gemaakt over en met sporters.</desc>
+  <programme start="20241212123000 +0100" stop="20241212140000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Barcelona Open</title>
+    <desc lang="nl">Verslag van een tennistoernooi.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/de-zolder-van-el-sierd-583622831.jpg" />
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-barcelona-open-582533391.jpg" />
   </programme>
-  <programme start="20241208173000 +0100" stop="20241208175500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Top vintage goals</title>
-    <desc lang="nl">Een compilatie van de mooiste en meest bijzondere doelpunten ooit gescoord.</desc>
+  <programme start="20241212140000 +0100" stop="20241212161500 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis history</title>
+    <desc lang="nl">Documentaireserie over de geschiedenis van tennis.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/top-vintage-goals-583622851.jpg" />
+    <category lang="nl">Documentaire</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-history-583602631.jpg" />
   </programme>
-  <programme start="20241208175500 +0100" stop="20241208182000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">La Liga nations</title>
-    <desc lang="nl">Een terugblik op de beste buitenlandse spelers die de La Liga-velden sierden tijdens de geschiedenis van deze Spaanse voetbalcompetitie.</desc>
+  <programme start="20241212161500 +0100" stop="20241212171500 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Nitto ATP Finals hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van de Nitto ATP Finals, gespeeld in Turijn, Italië.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-nitto-atp-finals-hoogtepunten-583887551.jpg" />
   </programme>
-  <programme start="20241208182000 +0100" stop="20241208185000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Tussen de palen</title>
-    <desc lang="nl">Wytse van de Goot spreekt met een ex-voetballer of coach over hun voetbalcarrière.</desc>
+  <programme start="20241212171500 +0100" stop="20241212174500 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">ATP Tour: This week</title>
+    <desc lang="nl">Het laatste nieuws en achtergronden uit de ATP World Tour en de wereld van het tennis.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-afc-champions-league-585895781.jpg" />
+    <category lang="nl">Sportnieuws</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/a/carrousel/atp-tour-this-week-582801881.jpg" />
   </programme>
-  <programme start="20241208185000 +0100" stop="20241208191500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">LaLiga legends</title>
-    <desc lang="nl">Een terugblik op de carrière van voetbalspelers in LaLiga.</desc>
+  <programme start="20241212174500 +0100" stop="20241212184000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Legends</title>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaire</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/legends-583887191.jpg" />
+  </programme>
+  <programme start="20241212184000 +0100" stop="20241212205500 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-serie-a-581665371.jpg" />
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
-  <programme start="20241208191500 +0100" stop="20241208194000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208194000 +0100" stop="20241208200500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208200500 +0100" stop="20241208203000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Onoverwinnelijk</title>
-    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
-  </programme>
-  <programme start="20241208203000 +0100" stop="20241208205000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Vals spel</title>
-    <desc lang="nl">Aandacht voor controverses, schandalen en bedrog in de sport.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/vals-spel-583622661.jpg" />
-  </programme>
-  <programme start="20241208205000 +0100" stop="20241208211500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Vals spel</title>
-    <desc lang="nl">Aandacht voor controverses, schandalen en bedrog in de sport.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/vals-spel-583622661.jpg" />
-  </programme>
-  <programme start="20241208211500 +0100" stop="20241208214500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">La Liga nations</title>
-    <desc lang="nl">Een terugblik op de beste buitenlandse spelers die de La Liga-velden sierden tijdens de geschiedenis van deze Spaanse voetbalcompetitie.</desc>
+  <programme start="20241212205500 +0100" stop="20241212230000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
   </programme>
-  <programme start="20241208214500 +0100" stop="20241208221000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">La Liga nations</title>
-    <desc lang="nl">Een terugblik op de beste buitenlandse spelers die de La Liga-velden sierden tijdens de geschiedenis van deze Spaanse voetbalcompetitie.</desc>
+  <programme start="20241212230000 +0100" stop="20241213000000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Davis Cup</title>
+    <desc lang="nl">Verslag van een tennistoernooi.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
+    <category lang="nl">Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-davis-cup-585565701.jpg" />
   </programme>
-  <programme start="20241208221000 +0100" stop="20241208223500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Dream team</title>
-    <desc lang="nl">Documentaireserie over atleten en teams die hun sport domineerden.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/dream-team-583622911.jpg" />
-  </programme>
-  <programme start="20241208223500 +0100" stop="20241208230000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">Flashpoint</title>
-    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-  </programme>
-  <programme start="20241208230000 +0100" stop="20241208232500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208232500 +0100" stop="20241208234500 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The goat</title>
-    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
-    <category lang="nl">Informatief</category>
-    <category lang="nl">Documentaireserie</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
-  </programme>
-  <programme start="20241208234500 +0100" stop="20241209001000 +0100" channel="Ziggo 5 HD">
-    <title lang="nl">The iconic</title>
-    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
+  <programme start="20241213000000 +0100" stop="20241213013000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Barcelona Open</title>
+    <desc lang="nl">Verslag van een tennistoernooi.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-barcelona-open-582533391.jpg" />
+  </programme>
+  <programme start="20241213013000 +0100" stop="20241213020000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">The Impossible Racket Challenge</title>
+    <desc lang="nl">De ATP Tour neemt je mee achter de schermen in de tennis wereld, met diverse achtergrondinformatie en documentaires.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-impossible-racket-challenge-582533341.jpg" />
+  </programme>
+  <programme start="20241213020000 +0100" stop="20241213033000 +0100" channel="Ziggo 4 HD">
+    <title lang="nl">Tennis: Madrid Open</title>
+    <desc lang="nl">Verslag van een tennistoernooi.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/tennis-miami-open-582801901.jpg" />
   </programme>
   <programme start="20241209001000 +0100" stop="20241209003500 +0100" channel="Ziggo 5 HD">
     <title lang="nl">The iconic</title>
@@ -6801,7 +6387,6 @@
     <desc lang="nl">Een compilatie van de mooiste en meest bijzondere doelpunten ooit gescoord.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/top-vintage-goals-583622851.jpg" />
   </programme>
   <programme start="20241209045000 +0100" stop="20241209051500 +0100" channel="Ziggo 5 HD">
     <title lang="nl">LaLiga clubs</title>
@@ -7809,73 +7394,319 @@
     <category lang="nl">Informatief</category>
     <category lang="nl">Documentaireserie</category>
   </programme>
-  <programme start="20241208020500 +0100" stop="20241208030000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">Golf hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een golftoernooi.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-hoogtepunten-584901331.jpg" />
+  <programme start="20241212042500 +0100" stop="20241212051000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The power of sport</title>
+    <desc lang="nl">Documentaireserie over de relatie tussen sport en maatschappelijke vraagstukken zoals klimaatverandering.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-power-of-sport-583622521.jpg" />
   </programme>
-  <programme start="20241208030000 +0100" stop="20241208050000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">Golf: Ladies European Tour - Open de España</title>
-    <desc lang="nl">Verslag van een golftoernooi.</desc>
+  <programme start="20241212051000 +0100" stop="20241212054000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Top vintage goals</title>
+    <desc lang="nl">Een compilatie van de mooiste en meest bijzondere doelpunten ooit gescoord.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/top-vintage-goals-583622851.jpg" />
   </programme>
-  <programme start="20241208050000 +0100" stop="20241208070000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">Golf: Ladies European Tour - Open de España</title>
-    <desc lang="nl">Verslag van een golftoernooi.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+  <programme start="20241212054000 +0100" stop="20241212060000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Onoverwinnelijk</title>
+    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
   </programme>
-  <programme start="20241208070000 +0100" stop="20241208100000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">European Tour: Nedbank Golf Challenge</title>
-    <desc lang="nl">Verslag van een golftoernooi.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/european-tour-nedbank-golf-challenge-582665701.jpg" />
+  <programme start="20241212060000 +0100" stop="20241212062500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
   </programme>
-  <programme start="20241208100000 +0100" stop="20241208153500 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">European Tour: Nedbank Golf Challenge</title>
-    <desc lang="nl">Verslag van een golftoernooi.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/european-tour-nedbank-golf-challenge-582665701.jpg" />
+  <programme start="20241212062500 +0100" stop="20241212065000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
   </programme>
-  <programme start="20241208153500 +0100" stop="20241208160000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">European Tour hoogtepunten</title>
-    <desc lang="nl">Samenvatting van een golftoernooi.</desc>
+  <programme start="20241212065000 +0100" stop="20241212070000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Ziggo Sport Totaal Informatie</title>
     <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/european-tour-hoogtepunten-583621581.jpg" />
+    <category lang="nl">Sportnieuws</category>
   </programme>
-  <programme start="20241208160000 +0100" stop="20241208170000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">The Open Championship</title>
-    <desc lang="nl">Alle hoogtepunten van AIG Women's Open 2023, gespeeld op de St Andrews Golf Club in St Andrews, Schotland.</desc>
+  <programme start="20241212070000 +0100" stop="20241212072500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">La Liga nations</title>
+    <desc lang="nl">Een terugblik op de beste buitenlandse spelers die de La Liga-velden sierden tijdens de geschiedenis van deze Spaanse voetbalcompetitie.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-open-championship-584901881.jpg" />
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
   </programme>
-  <programme start="20241208170000 +0100" stop="20241208173000 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">Golf hoogtepunten</title>
-    <desc lang="nl">Hoogtepunten van een golftoernooi.</desc>
+  <programme start="20241212072500 +0100" stop="20241212075000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">LaLiga clubs</title>
+    <desc lang="nl">Over de verschillende Spaanse voetbalclubs en hun geschiedenis.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-hoogtepunten-583621601.jpg" />
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/l/carrousel/la-liga-nations-583622931.jpg" />
   </programme>
-  <programme start="20241208173000 +0100" stop="20241208223500 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">Golf: Hero World Challenge</title>
-    <desc lang="nl">Verslag van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+  <programme start="20241212075000 +0100" stop="20241212081500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Sports women</title>
+    <desc lang="nl">Over de prestaties van vrouwen in de sport.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sports-women-583622701.jpg" />
   </programme>
-  <programme start="20241208223500 +0100" stop="20241209013500 +0100" channel="Ziggo 6 HD">
-    <title lang="nl">European Tour: Nedbank Golf Challenge</title>
-    <desc lang="nl">Verslag van een golftoernooi.</desc>
+  <programme start="20241212081500 +0100" stop="20241212084000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
+  </programme>
+  <programme start="20241212084000 +0100" stop="20241212090500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
+  </programme>
+  <programme start="20241212090500 +0100" stop="20241212092500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Dream team</title>
+    <desc lang="nl">Documentaireserie over atleten en teams die hun sport domineerden.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/dream-team-583622911.jpg" />
+  </programme>
+  <programme start="20241212092500 +0100" stop="20241212095000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241212095000 +0100" stop="20241212101500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241212101500 +0100" stop="20241212110500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The power of sport</title>
+    <desc lang="nl">Documentaireserie over de relatie tussen sport en maatschappelijke vraagstukken zoals klimaatverandering.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-power-of-sport-583622521.jpg" />
+  </programme>
+  <programme start="20241212110500 +0100" stop="20241212112500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The iconic</title>
+    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
     <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/european-tour-nedbank-golf-challenge-582665701.jpg" />
+    <category lang="nl">Reportage</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+  </programme>
+  <programme start="20241212112500 +0100" stop="20241212115000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The iconic</title>
+    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Reportage</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+  </programme>
+  <programme start="20241212115000 +0100" stop="20241212121500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Onoverwinnelijk</title>
+    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
+  </programme>
+  <programme start="20241212121500 +0100" stop="20241212124000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Onoverwinnelijk</title>
+    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
+  </programme>
+  <programme start="20241212124000 +0100" stop="20241212130500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Vals spel</title>
+    <desc lang="nl">Aandacht voor controverses, schandalen en bedrog in de sport.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/vals-spel-583622661.jpg" />
+  </programme>
+  <programme start="20241212130500 +0100" stop="20241212132500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Vals spel</title>
+    <desc lang="nl">Aandacht voor controverses, schandalen en bedrog in de sport.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/vals-spel-583622661.jpg" />
+  </programme>
+  <programme start="20241212132500 +0100" stop="20241212135000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241212135000 +0100" stop="20241212141500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241212141500 +0100" stop="20241212144000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
+  </programme>
+  <programme start="20241212144000 +0100" stop="20241212150000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
+  </programme>
+  <programme start="20241212150000 +0100" stop="20241212152500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241212152500 +0100" stop="20241212155000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241212155000 +0100" stop="20241212162000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Onoverwinnelijk</title>
+    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
+  </programme>
+  <programme start="20241212162000 +0100" stop="20241212170500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The hell: De Nürburgring Nordschleife</title>
+    <desc lang="nl">Documentaireserie over een van de meest legendarische circuits in de wereld van de auto- en motorsport: de Nürburgring.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-hell-de-nurburgring-nordschleife-583622871.jpg" />
+  </programme>
+  <programme start="20241212170500 +0100" stop="20241212174500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The hell: De Nürburgring Nordschleife</title>
+    <desc lang="nl">Documentaireserie over een van de meest legendarische circuits in de wereld van de auto- en motorsport: de Nürburgring.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-hell-de-nurburgring-nordschleife-583622871.jpg" />
+  </programme>
+  <programme start="20241212174500 +0100" stop="20241212183500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The hell: De Nürburgring Nordschleife</title>
+    <desc lang="nl">Documentaireserie over een van de meest legendarische circuits in de wereld van de auto- en motorsport: de Nürburgring.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-hell-de-nurburgring-nordschleife-583622871.jpg" />
+  </programme>
+  <programme start="20241212183500 +0100" stop="20241212184000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Ziggo Sport Totaal Informatie</title>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Sportnieuws</category>
+  </programme>
+  <programme start="20241212184000 +0100" stop="20241212204500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
+  </programme>
+  <programme start="20241212204500 +0100" stop="20241212205500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Ziggo Sport Totaal Informatie</title>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Sportnieuws</category>
+  </programme>
+  <programme start="20241212205500 +0100" stop="20241212231500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
+  </programme>
+  <programme start="20241212231500 +0100" stop="20241212234000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Dream team</title>
+    <desc lang="nl">Documentaireserie over atleten en teams die hun sport domineerden.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/dream-team-583622911.jpg" />
+  </programme>
+  <programme start="20241212234000 +0100" stop="20241213000500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+  </programme>
+  <programme start="20241213000500 +0100" stop="20241213003000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
+  </programme>
+  <programme start="20241213003000 +0100" stop="20241213005000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The goat</title>
+    <desc lang="nl">Aandacht voor de allerbeste sporters ooit.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-goat-583622561.jpg" />
+  </programme>
+  <programme start="20241213005000 +0100" stop="20241213011500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The iconic</title>
+    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Reportage</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+  </programme>
+  <programme start="20241213011500 +0100" stop="20241213014000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">The iconic</title>
+    <desc lang="nl">Reportages over de meest iconische momenten in de sport.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Reportage</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/t/carrousel/the-iconic-583622791.jpg" />
+  </programme>
+  <programme start="20241213014000 +0100" stop="20241213020500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Sports women</title>
+    <desc lang="nl">Over de prestaties van vrouwen in de sport.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/s/carrousel/sports-women-583622701.jpg" />
+  </programme>
+  <programme start="20241213020500 +0100" stop="20241213025500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">De zolder van El Sierd</title>
+    <desc lang="nl">Sierd de Vos is al vier decennia sportjournalist en al jaren commentator van het Spaans voetbal. Daarnaast staat hij bekend om de reportages en verhalen die hij door de jaren heeft gemaakt over en met sporters.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Reportage</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/d/carrousel/de-zolder-van-el-sierd-583622831.jpg" />
+  </programme>
+  <programme start="20241213025500 +0100" stop="20241213033000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Tussen de palen</title>
+    <desc lang="nl">Wytse van de Goot spreekt met een ex-voetballer of coach over hun voetbalcarrière.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Sportprogramma</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/v/carrousel/voetbal-afc-champions-league-583510951.jpg" />
+  </programme>
+  <programme start="20241213033000 +0100" stop="20241213035000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Onoverwinnelijk</title>
+    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
+  </programme>
+  <programme start="20241213035000 +0100" stop="20241213041500 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Onoverwinnelijk</title>
+    <desc lang="nl">Documentaireserie over teams of atleten die hun sport voor langere tijd domineren.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/o/carrousel/onoverwinnelijk-583622581.jpg" />
+  </programme>
+  <programme start="20241213041500 +0100" stop="20241213044000 +0100" channel="Ziggo 5 HD">
+    <title lang="nl">Flashpoint</title>
+    <desc lang="nl">Documentairereeks over de verhalen achter de meest iconische beelden uit de sportgeschiedenis.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
   </programme>
   <programme start="20241209013500 +0100" stop="20241209023500 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf: Ladies European Tour - Open de España</title>
@@ -7909,7 +7740,6 @@
     <desc lang="nl">Samenvatting van een golftoernooi.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v348/upload/e/carrousel/european-tour-hoogtepunten-584901291.jpg" />
   </programme>
   <programme start="20241209050000 +0100" stop="20241209060000 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf hoogtepunten</title>
@@ -7960,7 +7790,7 @@
   </programme>
   <programme start="20241209150000 +0100" stop="20241209180500 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf: Hero World Challenge</title>
-    <desc lang="nl">Verslag van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+    <desc lang="nl">Herhaling van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
@@ -8007,7 +7837,7 @@
   </programme>
   <programme start="20241209235500 +0100" stop="20241210030000 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf: Hero World Challenge</title>
-    <desc lang="nl">Verslag van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+    <desc lang="nl">Herhaling van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
@@ -8110,7 +7940,7 @@
   </programme>
   <programme start="20241211000000 +0100" stop="20241211030000 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf: Hero World Challenge</title>
-    <desc lang="nl">Verslag van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+    <desc lang="nl">Herhaling van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
@@ -8165,14 +7995,14 @@
   </programme>
   <programme start="20241211110000 +0100" stop="20241211140000 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf: Hero World Challenge</title>
-    <desc lang="nl">Verslag van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+    <desc lang="nl">Herhaling van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
   </programme>
   <programme start="20241211140000 +0100" stop="20241211170000 +0100" channel="Ziggo 6 HD">
     <title lang="nl">Golf: Hero World Challenge</title>
-    <desc lang="nl">Verslag van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+    <desc lang="nl">Herhaling van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
@@ -8237,6 +8067,103 @@
     <category lang="nl">Sport</category>
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-isps-handa-australian-open-583956171.jpg" />
+  </programme>
+  <programme start="20241212040000 +0100" stop="20241212070000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf: ISPS Handa Australian Open</title>
+    <desc lang="nl">Herhaling van de derde dag van de ISPS Handa Australian Open, gespeeld op de The Victoria Golf Club &amp; Kingston Heath Golf Club, Melbourne, Victoria, Australië.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-isps-handa-australian-open-583956171.jpg" />
+  </programme>
+  <programme start="20241212070000 +0100" stop="20241212100000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf: Hero World Challenge</title>
+    <desc lang="nl">Herhaling van de vierde en beslissende dag van de Hero World Challenge, gespeeld op de Albany Golf Club in New Providence, Bahama's.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
+  </programme>
+  <programme start="20241212100000 +0100" stop="20241212110000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een golftoernooi.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-hoogtepunten-583621601.jpg" />
+  </programme>
+  <programme start="20241212110000 +0100" stop="20241212160000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf: Alfred Dunhill Championship</title>
+    <desc lang="nl">Verslag van een golftoernooi of -wedstrijd.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
+  </programme>
+  <programme start="20241212160000 +0100" stop="20241212162500 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf history</title>
+    <desc lang="nl">Documentaireserie over golf.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-history-587256371.jpg" />
+  </programme>
+  <programme start="20241212162500 +0100" stop="20241212172000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een golftoernooi.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-hoogtepunten-583621601.jpg" />
+  </programme>
+  <programme start="20241212172000 +0100" stop="20241212174000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf history</title>
+    <desc lang="nl">Documentaireserie over golf.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-history-587256371.jpg" />
+  </programme>
+  <programme start="20241212174000 +0100" stop="20241212184000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een golftoernooi.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-hoogtepunten-587256431.jpg" />
+  </programme>
+  <programme start="20241212184000 +0100" stop="20241212204500 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
+  </programme>
+  <programme start="20241212204500 +0100" stop="20241212205500 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf history</title>
+    <desc lang="nl">Documentaireserie over golf.</desc>
+    <category lang="nl">Informatief</category>
+    <category lang="nl">Documentaireserie</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-history-587256371.jpg" />
+  </programme>
+  <programme start="20241212205500 +0100" stop="20241212230000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">UEFA Europa League</title>
+    <desc lang="nl">Verslag van de UEFA Europa League, waarin Europese topclubs het tegen elkaar opnemen. Het is het sterkste clubtoernooi van Europa na de Champions League.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/u/carrousel/uefa-europa-league-583478901.jpg" />
+  </programme>
+  <programme start="20241212230000 +0100" stop="20241213020000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf: Alfred Dunhill Championship</title>
+    <desc lang="nl">Verslag van een golftoernooi of -wedstrijd.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Rechtstreeks Verslag/verslag</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-alfred-dunhill-championship-583621551.jpg" />
+  </programme>
+  <programme start="20241213020000 +0100" stop="20241213030000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Golf hoogtepunten</title>
+    <desc lang="nl">Hoogtepunten van een golftoernooi.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Samenvatting</category>
+    <icon src="https://tvgidsassets.nl/v348/upload/g/carrousel/golf-hoogtepunten-583621601.jpg" />
+  </programme>
+  <programme start="20241213030000 +0100" stop="20241213043000 +0100" channel="Ziggo 6 HD">
+    <title lang="nl">Una Famiglia</title>
+    <desc lang="nl">In deze Ryder Cup Documentaire wordt er teruggeblikt op de overwinning van Team Europe op de Ryder Cup van 2023. Met Luke Donald wordt een jaar na het toernooi zijn reis ten tijde van het aanvoerderschap besproken en ook zeker de onbreekbare teamgeest die hij in het team heeft gekregen.</desc>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Documentaire</category>
   </programme>
   <programme start="20241208070000 +0000" stop="20241208090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: Atalanta Bergamo - AC Mailand</title>
