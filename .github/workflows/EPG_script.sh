@@ -20,13 +20,16 @@ do
     cat EPG_temp00.xml >> EPG_temp.xml
 done < epgs.txt
 
+# Leer cambios.txt y realizar los reemplazos
+while IFS= cambiar read -r old new
+do
+    echo Realizando reemplazo: $old por $new
+    sed -i "s/${old}/${new}/g" EPG_temp.xml
+done < cambios.txt
+
 # Leer canales.txt
 while IFS=, read -r old new logo
 do
-    # Eliminar comillas en el nombre del canal, si las tiene
-    old=$(echo "$old" | sed 's/^"\(.*\)"$/\1/')
-    new=$(echo "$new" | sed 's/^"\(.*\)"$/\1/')
-
     contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
     if [ $contar_channel -gt 0 ]; then
         sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
