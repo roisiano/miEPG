@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/12/2024 21:28" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/12/2024 22:58" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -221,36 +221,11 @@
   </channel>
   <channel id="NO - TV2 Sport1">
     <display-name>NO - TV2 Sport1</display-name>
+    <icon src="https://cdn.images.simply.tv/3475647482740625155" />
   </channel>
   <channel id="NO - TV2 Sport2">
     <display-name>NO - TV2 Sport2</display-name>
-  </channel>
-  <channel id="NO - TV2 Sport Premium">
-    <display-name>NO - TV2 Sport Premium</display-name>
-  </channel>
-  <channel id="NO - TV2 Sport Premium 2">
-    <display-name>NO - TV2 Sport Premium 2</display-name>
-  </channel>
-  <channel id="NO - V Sport 1">
-    <display-name>NO - V Sport 1</display-name>
-  </channel>
-  <channel id="NO - V Sport 2">
-    <display-name>NO - V Sport 2</display-name>
-  </channel>
-  <channel id="NO - V Sport 3">
-    <display-name>NO - V Sport 3</display-name>
-  </channel>
-  <channel id="NO - V Sport+">
-    <display-name>NO - V Sport+</display-name>
-  </channel>
-  <channel id="NO - TV2 Sport1">
-    <display-name>NO - TV2 Sport1</display-name>
-  </channel>
-  <channel id="NO - TV2 Sport2">
-    <display-name>NO - TV2 Sport2</display-name>
-  </channel>
-  <channel id="NO - TV2 Sport Premium">
-    <display-name>NO - TV2 Sport Premium</display-name>
+    <icon src="https://cdn.images.simply.tv/2899186713257332546" />
   </channel>
   <programme start="20241213065400 +0100" stop="20241213072400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
@@ -31485,410 +31460,1537 @@
     <title lang="cs">PFL Europe 4</title>
     <desc lang="cs">Evropská série ligy smíšených bojových umění (Lyon, Francie).</desc>
   </programme>
-<programme start="20241212050000 +0000" stop="20241212070000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212070000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212090000 +0000" stop="20241212100000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212100000 +0000" stop="20241212120000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212120000 +0000" stop="20241212140000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212140000 +0000" stop="20241212160000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212160000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212170000 +0000" stop="20241212190000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212190000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212210000 +0000" stop="20241212220000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212230000 +0000" stop="20241213010000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213010000 +0000" stop="20241213030000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213030000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213050000 +0000" stop="20241213070000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213070000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213090000 +0000" stop="20241213100000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213100000 +0000" stop="20241213101500 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213101500 +0000" stop="20241213104500 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213104500 +0000" stop="20241213121500 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213121500 +0000" stop="20241213123000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213123000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213130000 +0000" stop="20241213150000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213150000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213190000 +0000" stop="20241213210000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213210000 +0000" stop="20241213230000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213230000 +0000" stop="20241214010000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214010000 +0000" stop="20241214030000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214030000 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214050000 +0000" stop="20241214070000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214070000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214130000 +0000" stop="20241214150000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214150000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214170000 +0000" stop="20241214190000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214190000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214230000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="TV 2 Sport 2 HD (N) (T).no" channel="NO - TV2 Sport1">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212050000 +0000" stop="20241212070500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212070500 +0000" stop="20241212080000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212080000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212090000 +0000" stop="20241212104500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212104500 +0000" stop="20241212123000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212123000 +0000" stop="20241212140000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212140000 +0000" stop="20241212153000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212153000 +0000" stop="20241212160000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212160000 +0000" stop="20241212161500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212161500 +0000" stop="20241212165500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212165500 +0000" stop="20241212193000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212193000 +0000" stop="20241212200000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212200000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212210000 +0000" stop="20241212224500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212224500 +0000" stop="20241213003000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213003000 +0000" stop="20241213013000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213013000 +0000" stop="20241213023500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213023500 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213050000 +0000" stop="20241213071000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213071000 +0000" stop="20241213075000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213075000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213090000 +0000" stop="20241213103000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213103000 +0000" stop="20241213120000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213120000 +0000" stop="20241213150000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213150000 +0000" stop="20241213160000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213160000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213190000 +0000" stop="20241213193000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213193000 +0000" stop="20241213200000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213200000 +0000" stop="20241213210000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213210000 +0000" stop="20241213223000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213223000 +0000" stop="20241214000000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214000000 +0000" stop="20241214010000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214010000 +0000" stop="20241214020000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214020000 +0000" stop="20241214040500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214040500 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214080000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214090000 +0000" stop="20241214103000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214103000 +0000" stop="20241214120000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214120000 +0000" stop="20241214133000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214133000 +0000" stop="20241214150000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214150000 +0000" stop="20241214160000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214160000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214173000 +0000" stop="20241214180000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214180000 +0000" stop="20241214183000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214183000 +0000" stop="20241214190000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214190000 +0000" stop="20241214193000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214193000 +0000" stop="20241214200000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214200000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214210000 +0000" stop="20241214223000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214223000 +0000" stop="20241215000000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241215000000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212050000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212090000 +0000" stop="20241212130000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212130000 +0000" stop="20241212150000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212150000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212170000 +0000" stop="20241212190000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212190000 +0000" stop="20241212220000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212220000 +0000" stop="20241213043000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213043000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213050000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213090000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213133000 +0000" stop="20241213153000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213153000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213173000 +0000" stop="20241213193000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213193000 +0000" stop="20241213195500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213195500 +0000" stop="20241213220000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213220000 +0000" stop="20241214043000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214043000 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214050000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214090000 +0000" stop="20241214125500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214125500 +0000" stop="20241214151000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214151000 +0000" stop="20241214172500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214172500 +0000" stop="20241214193000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214193000 +0000" stop="20241214195500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214195500 +0000" stop="20241214220000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214220000 +0000" stop="20241215043000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212035000 +0000" stop="20241212042000 +0000" channel="TV 2 Zebra HD (N) (T).no" channel="NO - TV2 Sport Premium">
-<programme start="20241212050000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241212090000 +0000" stop="20241212130000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241212130000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241212170000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241212210000 +0000" stop="20241213010000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241213010000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241213050000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241213090000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241213130000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241213170000 +0000" stop="20241213192500 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241213192500 +0000" stop="20241214014500 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241214014500 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241214050000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241214090000 +0000" stop="20241214130000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241214130000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241214170000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241214210000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport Premium 2">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="TV 2 Sport Premium HD (N) (T).no" channel="NO - TV2 Sport Premium 2">
-<programme start="20241212100000 +0000" stop="20241212120000 +0000" channel="NO - V Sport 1">
-<programme start="20241212120000 +0000" stop="20241212123000 +0000" channel="NO - V Sport 1">
-<programme start="20241212123000 +0000" stop="20241212130000 +0000" channel="NO - V Sport 1">
-<programme start="20241212130000 +0000" stop="20241212140000 +0000" channel="NO - V Sport 1">
-<programme start="20241212140000 +0000" stop="20241212160000 +0000" channel="NO - V Sport 1">
-<programme start="20241212160000 +0000" stop="20241212170000 +0000" channel="NO - V Sport 1">
-<programme start="20241212170000 +0000" stop="20241212174000 +0000" channel="NO - V Sport 1">
-<programme start="20241212174000 +0000" stop="20241212194500 +0000" channel="NO - V Sport 1">
-<programme start="20241212194500 +0000" stop="20241212195500 +0000" channel="NO - V Sport 1">
-<programme start="20241212195500 +0000" stop="20241212220000 +0000" channel="NO - V Sport 1">
-<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="NO - V Sport 1">
-<programme start="20241212230000 +0000" stop="20241213010000 +0000" channel="NO - V Sport 1">
-<programme start="20241213010000 +0000" stop="20241213060000 +0000" channel="NO - V Sport 1">
-<programme start="20241213093000 +0000" stop="20241213120000 +0000" channel="NO - V Sport 1">
-<programme start="20241213120000 +0000" stop="20241213130000 +0000" channel="NO - V Sport 1">
-<programme start="20241213130000 +0000" stop="20241213140000 +0000" channel="NO - V Sport 1">
-<programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="NO - V Sport 1">
-<programme start="20241213143000 +0000" stop="20241213144500 +0000" channel="NO - V Sport 1">
-<programme start="20241213144500 +0000" stop="20241213162500 +0000" channel="NO - V Sport 1">
-<programme start="20241213162500 +0000" stop="20241213170000 +0000" channel="NO - V Sport 1">
-<programme start="20241213170000 +0000" stop="20241213180500 +0000" channel="NO - V Sport 1">
-<programme start="20241213180500 +0000" stop="20241213182500 +0000" channel="NO - V Sport 1">
-<programme start="20241213182500 +0000" stop="20241213185500 +0000" channel="NO - V Sport 1">
-<programme start="20241213185500 +0000" stop="20241213192500 +0000" channel="NO - V Sport 1">
-<programme start="20241213192500 +0000" stop="20241213213000 +0000" channel="NO - V Sport 1">
-<programme start="20241213213000 +0000" stop="20241213233000 +0000" channel="NO - V Sport 1">
-<programme start="20241213233000 +0000" stop="20241214000000 +0000" channel="NO - V Sport 1">
-<programme start="20241214000000 +0000" stop="20241214050000 +0000" channel="NO - V Sport 1">
-<programme start="20241214082500 +0000" stop="20241214100000 +0000" channel="NO - V Sport 1">
-<programme start="20241214100000 +0000" stop="20241214103000 +0000" channel="NO - V Sport 1">
-<programme start="20241214103000 +0000" stop="20241214112000 +0000" channel="NO - V Sport 1">
-<programme start="20241214112000 +0000" stop="20241214115000 +0000" channel="NO - V Sport 1">
-<programme start="20241214115000 +0000" stop="20241214122000 +0000" channel="NO - V Sport 1">
-<programme start="20241214122000 +0000" stop="20241214143000 +0000" channel="NO - V Sport 1">
-<programme start="20241214145500 +0000" stop="20241214165500 +0000" channel="NO - V Sport 1">
-<programme start="20241214165500 +0000" stop="20241214175500 +0000" channel="NO - V Sport 1">
-<programme start="20241214175500 +0000" stop="20241214194000 +0000" channel="NO - V Sport 1">
-<programme start="20241214195500 +0000" stop="20241214220000 +0000" channel="NO - V Sport 1">
-<programme start="20241214220000 +0000" stop="20241215000000 +0000" channel="NO - V Sport 1">
-<programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="NO - V Sport 1">
-<programme start="20241212095500 +0000" stop="20241212115500 +0000" channel="NO - V Sport 2">
-<programme start="20241212115500 +0000" stop="20241212135500 +0000" channel="NO - V Sport 2">
-<programme start="20241212135500 +0000" stop="20241212152500 +0000" channel="NO - V Sport 2">
-<programme start="20241212152500 +0000" stop="20241212174000 +0000" channel="NO - V Sport 2">
-<programme start="20241212174000 +0000" stop="20241212200000 +0000" channel="NO - V Sport 2">
-<programme start="20241212200000 +0000" stop="20241212220000 +0000" channel="NO - V Sport 2">
-<programme start="20241212220000 +0000" stop="20241213000000 +0000" channel="NO - V Sport 2">
-<programme start="20241213000000 +0000" stop="20241213030000 +0000" channel="NO - V Sport 2">
-<programme start="20241213030000 +0000" stop="20241213060000 +0000" channel="NO - V Sport 2">
-<programme start="20241213100000 +0000" stop="20241213120000 +0000" channel="NO - V Sport 2">
-<programme start="20241213120000 +0000" stop="20241213140000 +0000" channel="NO - V Sport 2">
-<programme start="20241213140000 +0000" stop="20241213144500 +0000" channel="NO - V Sport 2">
-<programme start="20241213144500 +0000" stop="20241213163000 +0000" channel="NO - V Sport 2">
-<programme start="20241213163000 +0000" stop="20241213172500 +0000" channel="NO - V Sport 2">
-<programme start="20241213172500 +0000" stop="20241213195000 +0000" channel="NO - V Sport 2">
-<programme start="20241213195000 +0000" stop="20241213220000 +0000" channel="NO - V Sport 2">
-<programme start="20241213220000 +0000" stop="20241213223000 +0000" channel="NO - V Sport 2">
-<programme start="20241213223000 +0000" stop="20241213230000 +0000" channel="NO - V Sport 2">
-<programme start="20241214100000 +0000" stop="20241214115500 +0000" channel="NO - V Sport 2">
-<programme start="20241214115500 +0000" stop="20241214140000 +0000" channel="NO - V Sport 2">
-<programme start="20241214140000 +0000" stop="20241214145000 +0000" channel="NO - V Sport 2">
-<programme start="20241214145000 +0000" stop="20241214170000 +0000" channel="NO - V Sport 2">
-<programme start="20241214170000 +0000" stop="20241214172500 +0000" channel="NO - V Sport 2">
-<programme start="20241214172500 +0000" stop="20241214193000 +0000" channel="NO - V Sport 2">
-<programme start="20241214193000 +0000" stop="20241214213000 +0000" channel="NO - V Sport 2">
-<programme start="20241214213000 +0000" stop="20241214233000 +0000" channel="NO - V Sport 2">
-<programme start="20241214233000 +0000" stop="20241215000000 +0000" channel="NO - V Sport 2">
-<programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="NO - V Sport 2">
-<programme start="20241212095000 +0000" stop="20241212115000 +0000" channel="NO - V Sport 3">
-<programme start="20241212115000 +0000" stop="20241212125000 +0000" channel="NO - V Sport 3">
-<programme start="20241212125000 +0000" stop="20241212143000 +0000" channel="NO - V Sport 3">
-<programme start="20241212143000 +0000" stop="20241212160000 +0000" channel="NO - V Sport 3">
-<programme start="20241212160000 +0000" stop="20241212181500 +0000" channel="NO - V Sport 3">
-<programme start="20241212181500 +0000" stop="20241212220000 +0000" channel="NO - V Sport 3">
-<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="NO - V Sport 3">
-<programme start="20241213100000 +0000" stop="20241213110000 +0000" channel="NO - V Sport 3">
-<programme start="20241213110000 +0000" stop="20241213130000 +0000" channel="NO - V Sport 3">
-<programme start="20241213130000 +0000" stop="20241213143000 +0000" channel="NO - V Sport 3">
-<programme start="20241213143000 +0000" stop="20241213181500 +0000" channel="NO - V Sport 3">
-<programme start="20241213181500 +0000" stop="20241213201000 +0000" channel="NO - V Sport 3">
-<programme start="20241213201000 +0000" stop="20241213220000 +0000" channel="NO - V Sport 3">
-<programme start="20241213220000 +0000" stop="20241213230000 +0000" channel="NO - V Sport 3">
-<programme start="20241214100000 +0000" stop="20241214113000 +0000" channel="NO - V Sport 3">
-<programme start="20241214113000 +0000" stop="20241214130000 +0000" channel="NO - V Sport 3">
-<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="NO - V Sport 3">
-<programme start="20241214140000 +0000" stop="20241214142500 +0000" channel="NO - V Sport 3">
-<programme start="20241214142500 +0000" stop="20241214163000 +0000" channel="NO - V Sport 3">
-<programme start="20241214163000 +0000" stop="20241214170000 +0000" channel="NO - V Sport 3">
-<programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="NO - V Sport 3">
-<programme start="20241214173000 +0000" stop="20241214180000 +0000" channel="NO - V Sport 3">
-<programme start="20241214180000 +0000" stop="20241214210000 +0000" channel="NO - V Sport 3">
-<programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="NO - V Sport 3">
-<programme start="20241212100000 +0000" stop="20241212112000 +0000" channel="NO - V Sport+">
-<programme start="20241212112000 +0000" stop="20241212130000 +0000" channel="NO - V Sport+">
-<programme start="20241212130000 +0000" stop="20241212150000 +0000" channel="NO - V Sport+">
-<programme start="20241212150000 +0000" stop="20241212153000 +0000" channel="NO - V Sport+">
-<programme start="20241212153000 +0000" stop="20241212160000 +0000" channel="NO - V Sport+">
-<programme start="20241212160000 +0000" stop="20241212163000 +0000" channel="NO - V Sport+">
-<programme start="20241212163000 +0000" stop="20241212170000 +0000" channel="NO - V Sport+">
-<programme start="20241212170000 +0000" stop="20241212173000 +0000" channel="NO - V Sport+">
-<programme start="20241212173000 +0000" stop="20241212180000 +0000" channel="NO - V Sport+">
-<programme start="20241212180000 +0000" stop="20241212183000 +0000" channel="NO - V Sport+">
-<programme start="20241212183000 +0000" stop="20241212185500 +0000" channel="NO - V Sport+">
-<programme start="20241212185500 +0000" stop="20241212210000 +0000" channel="NO - V Sport+">
-<programme start="20241212210000 +0000" stop="20241212230000 +0000" channel="NO - V Sport+">
-<programme start="20241213100000 +0000" stop="20241213112000 +0000" channel="NO - V Sport+">
-<programme start="20241213112000 +0000" stop="20241213130000 +0000" channel="NO - V Sport+">
-<programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="NO - V Sport+">
-<programme start="20241213133000 +0000" stop="20241213140000 +0000" channel="NO - V Sport+">
-<programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="NO - V Sport+">
-<programme start="20241213143000 +0000" stop="20241213145500 +0000" channel="NO - V Sport+">
-<programme start="20241213145500 +0000" stop="20241213160000 +0000" channel="NO - V Sport+">
-<programme start="20241213160000 +0000" stop="20241213180000 +0000" channel="NO - V Sport+">
-<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - V Sport+">
-<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - V Sport+">
-<programme start="20241213190000 +0000" stop="20241213194500 +0000" channel="NO - V Sport+">
-<programme start="20241213194500 +0000" stop="20241213221500 +0000" channel="NO - V Sport+">
-<programme start="20241213221500 +0000" stop="20241213230000 +0000" channel="NO - V Sport+">
-<programme start="20241214082500 +0000" stop="20241214102000 +0000" channel="NO - V Sport+">
-<programme start="20241214102000 +0000" stop="20241214120000 +0000" channel="NO - V Sport+">
-<programme start="20241214120000 +0000" stop="20241214130000 +0000" channel="NO - V Sport+">
-<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="NO - V Sport+">
-<programme start="20241214140000 +0000" stop="20241214162000 +0000" channel="NO - V Sport+">
-<programme start="20241214162000 +0000" stop="20241214180000 +0000" channel="NO - V Sport+">
-<programme start="20241214180000 +0000" stop="20241214183000 +0000" channel="NO - V Sport+">
-<programme start="20241214183000 +0000" stop="20241214190000 +0000" channel="NO - V Sport+">
-<programme start="20241214190000 +0000" stop="20241214220000 +0000" channel="NO - V Sport+">
-<programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="NO - V Sport+">
-<programme start="20241212050000 +0000" stop="20241212070000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212070000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212090000 +0000" stop="20241212100000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212100000 +0000" stop="20241212120000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212120000 +0000" stop="20241212140000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212140000 +0000" stop="20241212160000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212160000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212170000 +0000" stop="20241212190000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212190000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212210000 +0000" stop="20241212220000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212230000 +0000" stop="20241213010000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213010000 +0000" stop="20241213030000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213030000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213050000 +0000" stop="20241213070000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213070000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213090000 +0000" stop="20241213100000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213100000 +0000" stop="20241213101500 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213101500 +0000" stop="20241213104500 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213104500 +0000" stop="20241213121500 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213121500 +0000" stop="20241213123000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213123000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213130000 +0000" stop="20241213150000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213150000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213190000 +0000" stop="20241213210000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213210000 +0000" stop="20241213230000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241213230000 +0000" stop="20241214010000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214010000 +0000" stop="20241214030000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214030000 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214050000 +0000" stop="20241214070000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214070000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214130000 +0000" stop="20241214150000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214150000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214170000 +0000" stop="20241214190000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214190000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241214230000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport1">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="TV 2 Sport 2 HD (N) (T).no" channel="NO - TV2 Sport1">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212050000 +0000" stop="20241212070500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212070500 +0000" stop="20241212080000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212080000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212090000 +0000" stop="20241212104500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212104500 +0000" stop="20241212123000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212123000 +0000" stop="20241212140000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212140000 +0000" stop="20241212153000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212153000 +0000" stop="20241212160000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212160000 +0000" stop="20241212161500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212161500 +0000" stop="20241212165500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212165500 +0000" stop="20241212193000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212193000 +0000" stop="20241212200000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212200000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212210000 +0000" stop="20241212224500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212224500 +0000" stop="20241213003000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213003000 +0000" stop="20241213013000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213013000 +0000" stop="20241213023500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213023500 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213050000 +0000" stop="20241213071000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213071000 +0000" stop="20241213075000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213075000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213090000 +0000" stop="20241213103000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213103000 +0000" stop="20241213120000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213120000 +0000" stop="20241213150000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213150000 +0000" stop="20241213160000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213160000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213190000 +0000" stop="20241213193000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213193000 +0000" stop="20241213200000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213200000 +0000" stop="20241213210000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213210000 +0000" stop="20241213223000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241213223000 +0000" stop="20241214000000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214000000 +0000" stop="20241214010000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214010000 +0000" stop="20241214020000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214020000 +0000" stop="20241214040500 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214040500 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214080000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214090000 +0000" stop="20241214103000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214103000 +0000" stop="20241214120000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214120000 +0000" stop="20241214133000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214133000 +0000" stop="20241214150000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214150000 +0000" stop="20241214160000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214160000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214173000 +0000" stop="20241214180000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214180000 +0000" stop="20241214183000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214183000 +0000" stop="20241214190000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214190000 +0000" stop="20241214193000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214193000 +0000" stop="20241214200000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214200000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214210000 +0000" stop="20241214223000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241214223000 +0000" stop="20241215000000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241215000000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport2">
-<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212050000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212090000 +0000" stop="20241212130000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212130000 +0000" stop="20241212150000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212150000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212170000 +0000" stop="20241212190000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212190000 +0000" stop="20241212220000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212220000 +0000" stop="20241213043000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213043000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213050000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213090000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213133000 +0000" stop="20241213153000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213153000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213173000 +0000" stop="20241213193000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213193000 +0000" stop="20241213195500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213195500 +0000" stop="20241213220000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241213220000 +0000" stop="20241214043000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214043000 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214050000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214090000 +0000" stop="20241214125500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214125500 +0000" stop="20241214151000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214151000 +0000" stop="20241214172500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214172500 +0000" stop="20241214193000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214193000 +0000" stop="20241214195500 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214195500 +0000" stop="20241214220000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241214220000 +0000" stop="20241215043000 +0000" channel="NO - TV2 Sport Premium">
-<programme start="20241212035000 +0000" stop="20241212042000 +0000" channel="TV 2 Zebra HD (N) (T).no" channel="NO - TV2 Sport Premium">
+  <programme start="20241213010000 +0000" stop="20241213030000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Betis - Barcelona</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E264/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213030000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Celta - Mallorca</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E266/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213050000 +0000" stop="20241213070000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Getafe - Espanyol</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E57/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213070000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Atlético - Sevilla</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E9/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213090000 +0000" stop="20241213100000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Northug slipper bombe</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/16384121552161020959" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E9/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213100000 +0000" stop="20241213101500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">Stjernenes Helgequiz</title>
+    <sub-title lang="nb">Steven Gerrard</sub-title>
+    <desc lang="nb">Hun scoret flere mål enn søstrene Hegerberg, Caroline G. Hansen og Guro Reiten - til sammen (!) - i ett og samme mesterskap. Men husker Melissa Bjånesøy det selv? Og hvem var egentlig «Crap Bag»?</desc>
+    <date>2022</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/2824543896586393968" />
+    <country lang="nb">NO</country>
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S4 E1/6</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213101500 +0000" stop="20241213104500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga World</title>
+    <desc lang="nb">Historiene bak stjernene. «LaLiga World» går i dybden på spillere og managere fra spansk toppfotball.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/283173676046594079" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213104500 +0000" stop="20241213121500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">World Championship Qualification 2026</title>
+    <sub-title lang="nb">FIFA VM-kvalifisering</sub-title>
+    <desc lang="nb">Se hvem Norge skal møte her! Fra Zurich og trekningen av FIFA VM-kvalifiseringen. Lagene trekkes til 12 grupper på fire og fem nasjoner i hver gruppe. Kommentatorer: Øyvind Alsaker, Simen Stamsø Møller.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/17586552179592724724" />
+    <premiere />
+  </programme>
+  <programme start="20241213121500 +0000" stop="20241213123000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">Stjernenes Helgequiz</title>
+    <sub-title lang="nb">Harry Kane</sub-title>
+    <desc lang="nb">Hun scoret flere mål enn søstrene Hegerberg, Caroline G. Hansen og Guro Reiten - til sammen (!) - i ett og samme mesterskap. Men husker Melissa Bjånesøy det selv? Og hvem var egentlig «Crap Bag»?</desc>
+    <date>2022</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/2824543896586393968" />
+    <country lang="nb">NO</country>
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S4 E3/6</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213123000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga World</title>
+    <desc lang="nb">Historiene bak stjernene. «LaLiga World» går i dybden på spillere og managere fra spansk toppfotball.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/283173676046594079" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213130000 +0000" stop="20241213150000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">UEFA Champions League</title>
+    <sub-title lang="nb">Stuttgart - Young Boys</sub-title>
+    <desc lang="nb">Mannen med «krydder-feiringen», Bayerns Serge Gnabry, er et stilikon og opptatt av mote. Han forteller om det positive med å følge sine interesser – også utenfor fotballen.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/13035322216299136166" />
+    <episode-num system="onscreen">S2024 E19/144</episode-num>
+  </programme>
+  <programme start="20241213150000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">UEFA Champions League</title>
+    <sub-title lang="nb">Leverkusen - Inter</sub-title>
+    <desc lang="nb">Mannen med «krydder-feiringen», Bayerns Serge Gnabry, er et stilikon og opptatt av mote. Han forteller om det positive med å følge sine interesser – også utenfor fotballen.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/13223823545460619016" />
+    <episode-num system="onscreen">S2024 E100/144</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Show</title>
+    <sub-title lang="nb">Før 17. runde</sub-title>
+    <desc lang="nb">Få med deg siste nytt fra LaLiga.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/17717457939131867072" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E17/38</episode-num>
+  </programme>
+  <programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga World</title>
+    <desc lang="nb">Historiene bak stjernene. «LaLiga World» går i dybden på spillere og managere fra spansk toppfotball.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/283173676046594079" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Power</title>
+    <desc lang="nb">LaLiga Power gir et innblikk i LaLigas påvirkning utenfor banen.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/5108790588560314399" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Best 11</title>
+    <sub-title lang="nb">David Villa plukker topp 11 av sine tidligere lagkamerater</sub-title>
+    <desc lang="nb">Tidligere LaLiga-helter setter opp sin beste startellever.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/13335658013050032096" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213190000 +0000" stop="20241213210000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Las Palmas - Real Valladolid</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E218/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213210000 +0000" stop="20241213230000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Valencia - Rayo Vallecano</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E117/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213230000 +0000" stop="20241214010000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Valladolid - Valencia</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E335/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214010000 +0000" stop="20241214030000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Leganés - Real Sociedad</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E74/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214030000 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Athletic - Villarreal</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E121/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214050000 +0000" stop="20241214070000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Valladolid - Valencia</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E335/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214070000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Girona - Real Madrid</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E371/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Betis - Barcelona</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E264/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">Eliteserien</title>
+    <sub-title lang="nb">Sarpsborg 08 - Tromsø</sub-title>
+    <desc lang="nb">Det beste norsk fotball har å by på! Her får du alle kampene fra Eliteserien.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/15750305698105971856" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E14/242</episode-num>
+  </programme>
+  <programme start="20241214130000 +0000" stop="20241214150000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">Eliteserien</title>
+    <sub-title lang="nb">HamKam - KFUM Oslo</sub-title>
+    <desc lang="nb">Det beste norsk fotball har å by på! Her får du alle kampene fra Eliteserien.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/15750305698105971856" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E26/242</episode-num>
+  </programme>
+  <programme start="20241214150000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">Eliteserien</title>
+    <sub-title lang="nb">Strømsgodset - Molde</sub-title>
+    <desc lang="nb">Det beste norsk fotball har å by på! Her får du alle kampene fra Eliteserien.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/15750305698105971856" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E17/242</episode-num>
+  </programme>
+  <programme start="20241214170000 +0000" stop="20241214190000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Osasuna - Alavés</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E308/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214190000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Atlético - Sevilla</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E9/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Getafe - Espanyol</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E57/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214230000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Rayo Vallecano - Real Madrid</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E378/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215010000 +0000" stop="20241215030000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Sevilla - Celta</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E64/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215030000 +0000" stop="20241215050000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Mallorca - Girona</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E352/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215050000 +0000" stop="20241215070000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Espanyol - Osasuna</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E144/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215070000 +0000" stop="20241215090000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Rayo Vallecano - Real Madrid</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E378/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215090000 +0000" stop="20241215110000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Sevilla - Celta</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E64/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215110000 +0000" stop="20241215125500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Mallorca - Girona</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E352/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215125500 +0000" stop="20241215145500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Espanyol - Osasuna</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E144/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215145500 +0000" stop="20241215165500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Hypermotion</title>
+    <sub-title lang="nb">Almería - Mirandés</sub-title>
+    <desc lang="nb">Segunda División er den nest øverste divisjonen i spansk fotball. Den består av 22 lag. Hvert år rykker tre lag opp til Primera División, og fire lag rykker ned en divisjon til Segunda División B.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/6388609945341579739" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E23/26</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215165500 +0000" stop="20241215172500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Show</title>
+    <sub-title lang="nb">Før 17. runde</sub-title>
+    <desc lang="nb">Få med deg siste nytt fra LaLiga.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/17717457939131867072" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E17/38</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215172500 +0000" stop="20241215193000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Villarreal - Real Betis</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E232/380</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20241215193000 +0000" stop="20241215195500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga: Studio</title>
+    <desc lang="nb">Høydepunkter, forventninger og diskusjoner: Alt om dagens kamper i LaLiga.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3569286216778625687" />
+    <country lang="nb">ES</country>
+    <premiere />
+  </programme>
+  <programme start="20241215195500 +0000" stop="20241215220000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Barcelona - Leganés</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E286/380</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20241215220000 +0000" stop="20241216000000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Atlético - Getafe</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E279/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216000000 +0000" stop="20241216020000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Villarreal - Real Betis</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E232/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216020000 +0000" stop="20241216040000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Sociedad - Las Palmas</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E5/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216040000 +0000" stop="20241216043000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga World</title>
+    <desc lang="nb">Historiene bak stjernene. «LaLiga World» går i dybden på spillere og managere fra spansk toppfotball.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/283173676046594079" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216043000 +0000" stop="20241216050000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216050000 +0000" stop="20241216065500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Barcelona - Leganés</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E286/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216065500 +0000" stop="20241216085500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Villarreal - Real Betis</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E232/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216085500 +0000" stop="20241216105500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Sociedad - Las Palmas</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E5/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216105500 +0000" stop="20241216125500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Alavés - Athletic</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E245/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216125500 +0000" stop="20241216145500 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Atlético - Getafe</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E279/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216145500 +0000" stop="20241216170000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Barcelona - Leganés</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E286/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216170000 +0000" stop="20241216180000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">UEFA Women's EURO Trekninger</title>
+    <desc lang="nb">16 landslag skal trekkes til fire grupper. Se hvem Norge havner i gruppe med her! Kommentatorer: Helge Kalleklev, Christina Paulos Syversen.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/10816861338571906787" />
+    <premiere />
+  </programme>
+  <programme start="20241216180000 +0000" stop="20241216183000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Best 11</title>
+    <desc lang="nb">Tidligere LaLiga-helter setter opp sin beste startellever.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/13335658013050032096" />
+    <country lang="nb">ES</country>
+  </programme>
+  <programme start="20241216183000 +0000" stop="20241216190000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga Power</title>
+    <sub-title lang="nb">Lidenskap for kanarisk bryting</sub-title>
+    <desc lang="nb">LaLiga Power gir et innblikk i LaLigas påvirkning utenfor banen.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/1682589166372214358" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216190000 +0000" stop="20241216210000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Villarreal - Real Betis</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E232/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216210000 +0000" stop="20241216230000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Real Sociedad - Las Palmas</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E5/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216230000 +0000" stop="20241217010000 +0000" channel="NO - TV2 Sport1">
+    <title lang="nb">LaLiga</title>
+    <sub-title lang="nb">Alavés - Athletic</sub-title>
+    <desc lang="nb">Fra Estadio Benito Villamarín og kampen mellom Real Betis og Barcelona i 21. serierunde av LaLiga EA Sports.</desc>
+    <date>2024</date>
+    <category lang="nb">Football</category>
+    <icon src="https://cdn.images.simply.tv/7585875509593820954" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E245/380</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213003000 +0000" stop="20241213013000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">snu på det</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/7841681280811049020" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E1/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213013000 +0000" stop="20241213023500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 500 Beijing</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3538786473455529851" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E15/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213023500 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: ATP Masters 1000 Paris</title>
+    <sub-title lang="nb">Finale: A. Zverev vs. U. Humbert</sub-title>
+    <desc lang="nb">Fra Paris, Frankrike og finalen i ATP 1000-turneringen Rolex Paris Masters.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/2002293628323465927" />
+    <country lang="nb">FR</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213050000 +0000" stop="20241213071000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: ATP 500 Vienna</title>
+    <sub-title lang="nb">Finale: J. Draper vs. K. Khatsjanov</sub-title>
+    <desc lang="nb">Fra Wien, Østerrike og den finalen av ATP 500-turneringen Erste Bank Open.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/12600596781843406540" />
+    <country lang="nb">AT</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213071000 +0000" stop="20241213075000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <sub-title lang="nb">Norges neste tennisstjerne</sub-title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2023 E6/13</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213075000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 500 Beijing</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3538786473455529851" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E15/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213090000 +0000" stop="20241213103000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <sub-title lang="nb">Sveits - Norge</sub-title>
+    <desc lang="nb">Fra Wiener Stadthalle, Wien og kampen mellom Sveits og Norge i håndball-EM. Kommentator: Harald Bredeli, Bent Svele.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <episode-num system="onscreen">S2024 E33/36</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213103000 +0000" stop="20241213120000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <sub-title lang="nb">Danmark - Kroatia</sub-title>
+    <desc lang="nb">Fra St. Jakobshalle og kampen mellom Danmark og Kroatia i Håndball-EM. Kommentator: Christian Paasche.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <episode-num system="onscreen">S2024 E16/36</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213120000 +0000" stop="20241213150000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <sub-title lang="nb">Island - Tyskland</sub-title>
+    <desc lang="nb">Fra Olympiahalle og kampen mellom Island og Tyskland i håndball-EM. Kommentatorer: Harald Bredeli, Bent Svele.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <episode-num system="onscreen">S2024 E21/36</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213150000 +0000" stop="20241213160000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Det er blitt begått poesi</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6439700636891260824" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E4/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213160000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">LaLiga Hypermotion: Høydepunkter</title>
+    <sub-title lang="nb">Høydepunkter</sub-title>
+    <desc lang="nb">Her får du alle høydepunktene fra kampene i spansk Segunda División, LaLiga Hypermotion.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/7396207520901615308" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213170000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">LaLiga World</title>
+    <sub-title lang="nb">Ayoze Pérez: – Villarreal tok en sjanse</sub-title>
+    <desc lang="nb">Historiene bak stjernene. «LaLiga World» går i dybden på spillere og managere fra spansk toppfotball.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/12705668932488614573" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E18/37</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213173000 +0000" stop="20241213180000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Blø for drakta</title>
+    <sub-title lang="nb">Kolstad er stjerna</sub-title>
+    <desc lang="nb">I denne dokuserien møter vi Kolstad Håndball – en klubb med skyhøye ambisjoner om å bli kompislaget som vinner Champions League. Ved sesongstart 23/24 ligger alt klart for sportslig suksess, men utenomsportslige problemer står i kø.</desc>
+    <date>2024</date>
+    <category lang="nb">Documentary</category>
+    <icon src="https://cdn.images.simply.tv/15110557068345527285" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S1 E8/10</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Fotballpunch</title>
+    <sub-title lang="nb">Slik trente jeg Martin (10)</sub-title>
+    <desc lang="nb">Alfred Johansson er Eliteseriens desidert yngste trener, og skepsisen var stor da han tok over giganten Rosenborg før sesongen. Men med stigende form, overbevisende seire og hardt arbeid igjennom sesongen er skepsisen snudd til optimisme, håp og tro på Brakka. Yaw Amankwah har tatt turen til Lerkendal for å finne ut av metodene og filosofien til trenertalentet fra Sverige.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/14716897005355172653" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E5/12</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Fotballpunch</title>
+    <sub-title lang="nb">Alfreds åpenbaring</sub-title>
+    <desc lang="nb">Alfred Johansson er Eliteseriens desidert yngste trener, og skepsisen var stor da han tok over giganten Rosenborg før sesongen. Men med stigende form, overbevisende seire og hardt arbeid igjennom sesongen er skepsisen snudd til optimisme, håp og tro på Brakka. Yaw Amankwah har tatt turen til Lerkendal for å finne ut av metodene og filosofien til trenertalentet fra Sverige.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/14716897005355172653" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E6/12</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213190000 +0000" stop="20241213193000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">LaLiga Show</title>
+    <sub-title lang="nb">Før 17. runde</sub-title>
+    <desc lang="nb">Få med deg siste nytt fra LaLiga.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/17717457939131867072" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E17/38</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213193000 +0000" stop="20241213200000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Gal etter gull</title>
+    <sub-title lang="nb">Utestengt</sub-title>
+    <desc lang="nb">For Patrick Thoresen går ishockey foran familie, venner og alt annet livet har å by på. Den ustoppelige vinnerskallen har ført ham til verdens beste ishockeyligaer. Han fyller snart 40 år og en lang karriere går mot slutten. Men det er én ting som mangler: NM-gull med Storhamar.</desc>
+    <credits>
+      <actor>Adrian Saxrud Danielsen</actor>
+      <actor>Espen Knutsen</actor>
+      <actor>Mathilde Thoresen</actor>
+      <actor>Monica Thoresen</actor>
+      <actor>Patrick Thoresen</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="nb">Documentary</category>
+    <icon src="https://cdn.images.simply.tv/10269741424492919741" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S1 E5/6</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213200000 +0000" stop="20241213210000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Det er blitt begått poesi</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6439700636891260824" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E4/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241213210000 +0000" stop="20241213223000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241213223000 +0000" stop="20241214000000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214000000 +0000" stop="20241214010000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">B-laget</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/17646421227986034449" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E2/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214010000 +0000" stop="20241214020000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 1000 Shanghai</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/2464433601147473237" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E16/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214020000 +0000" stop="20241214040500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: ATP 500 Vienna</title>
+    <sub-title lang="nb">Finale: J. Draper vs. K. Khatsjanov</sub-title>
+    <desc lang="nb">Fra Wien, Østerrike og den finalen av ATP 500-turneringen Erste Bank Open.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/12600596781843406540" />
+    <country lang="nb">AT</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214040500 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <sub-title lang="nb">Tie Break Tens</sub-title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2023 E8/13</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Almaty Open</title>
+    <sub-title lang="nb">Finale: K. Khatsjanov vs. G. Diallo</sub-title>
+    <desc lang="nb">Fra Almaty, Kasakhstan, og den finalen av ATP250-turneringen Almaty Open.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/7829960154065308519" />
+    <country lang="nb">KZ</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214080000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 1000 Shanghai</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/2464433601147473237" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E16/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214090000 +0000" stop="20241214103000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214103000 +0000" stop="20241214120000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214120000 +0000" stop="20241214133000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <sub-title lang="nb">Ungarn - Norge</sub-title>
+    <desc lang="nb">Fra Wiener Stadthalle og den andre semifinalen i Håndball-EM. Kommentatorer: Harald Bredeli, Bent Svele.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <episode-num system="onscreen">S2024 E35/36</episode-num>
+  </programme>
+  <programme start="20241214133000 +0000" stop="20241214150000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214150000 +0000" stop="20241214160000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Verdiløse menn</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/8039557996763419465" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E5/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214160000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">LaLiga Hypermotion: Høydepunkter</title>
+    <sub-title lang="nb">Høydepunkter</sub-title>
+    <desc lang="nb">Her får du alle høydepunktene fra kampene i spansk Segunda División, LaLiga Hypermotion.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/7396207520901615308" />
+    <country lang="nb">ES</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+  </programme>
+  <programme start="20241214173000 +0000" stop="20241214180000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Blø for drakta</title>
+    <sub-title lang="nb">Sluttspill</sub-title>
+    <desc lang="nb">I denne dokuserien møter vi Kolstad Håndball – en klubb med skyhøye ambisjoner om å bli kompislaget som vinner Champions League. Ved sesongstart 23/24 ligger alt klart for sportslig suksess, men utenomsportslige problemer står i kø.</desc>
+    <date>2024</date>
+    <category lang="nb">Documentary</category>
+    <icon src="https://cdn.images.simply.tv/15110557068345527285" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S1 E9/10</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214180000 +0000" stop="20241214183000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Fotballpunch</title>
+    <sub-title lang="nb">I fotsporene til Braut Haaland</sub-title>
+    <desc lang="nb">Alfred Johansson er Eliteseriens desidert yngste trener, og skepsisen var stor da han tok over giganten Rosenborg før sesongen. Men med stigende form, overbevisende seire og hardt arbeid igjennom sesongen er skepsisen snudd til optimisme, håp og tro på Brakka. Yaw Amankwah har tatt turen til Lerkendal for å finne ut av metodene og filosofien til trenertalentet fra Sverige.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/14716897005355172653" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E7/12</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214183000 +0000" stop="20241214190000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Fotballpunch</title>
+    <sub-title lang="nb">Livet på Østblokka</sub-title>
+    <desc lang="nb">Alfred Johansson er Eliteseriens desidert yngste trener, og skepsisen var stor da han tok over giganten Rosenborg før sesongen. Men med stigende form, overbevisende seire og hardt arbeid igjennom sesongen er skepsisen snudd til optimisme, håp og tro på Brakka. Yaw Amankwah har tatt turen til Lerkendal for å finne ut av metodene og filosofien til trenertalentet fra Sverige.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/11736327372180235332" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E8/12</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214190000 +0000" stop="20241214193000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241214193000 +0000" stop="20241214200000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Gal etter gull</title>
+    <sub-title lang="nb">Nå eller aldri</sub-title>
+    <desc lang="nb">For Patrick Thoresen går ishockey foran familie, venner og alt annet livet har å by på. Den ustoppelige vinnerskallen har ført ham til verdens beste ishockeyligaer. Han fyller snart 40 år og en lang karriere går mot slutten. Men det er én ting som mangler: NM-gull med Storhamar.</desc>
+    <credits>
+      <actor>Adrian Saxrud Danielsen</actor>
+      <actor>Espen Knutsen</actor>
+      <actor>Mathilde Thoresen</actor>
+      <actor>Monica Thoresen</actor>
+      <actor>Patrick Thoresen</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="nb">Documentary</category>
+    <icon src="https://cdn.images.simply.tv/10269741424492919741" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S1 E6/6</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214200000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Verdiløse menn</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/8039557996763419465" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E5/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214210000 +0000" stop="20241214223000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <sub-title lang="nb">Ungarn - Norge</sub-title>
+    <desc lang="nb">Fra Wiener Stadthalle og den andre semifinalen i Håndball-EM. Kommentatorer: Harald Bredeli, Bent Svele.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <episode-num system="onscreen">S2024 E35/36</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241214223000 +0000" stop="20241215000000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215000000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">B-laget</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3213330858789600027" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E3/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215010000 +0000" stop="20241215020000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 1000 Paris</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3761248762155488205" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E18/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215020000 +0000" stop="20241215050000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Almaty Open</title>
+    <sub-title lang="nb">Finale: K. Khatsjanov vs. G. Diallo</sub-title>
+    <desc lang="nb">Fra Almaty, Kasakhstan, og den finalen av ATP250-turneringen Almaty Open.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/7829960154065308519" />
+    <country lang="nb">KZ</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215050000 +0000" stop="20241215071500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: ATP Finals</title>
+    <sub-title lang="nb">Jannik Sinner vs. Taylor Fritz</sub-title>
+    <desc lang="nb">Fra Torino, Italia og finalen av Nitto ATP Finals. Kommentatorer: Sverre Krogh Sundbø, Christer Francke.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/1937284137687205541" />
+    <country lang="nb">IT</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215071500 +0000" stop="20241215075500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <sub-title lang="nb">Norges neste tennisstjerne</sub-title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2023 E6/13</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215075500 +0000" stop="20241215085500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 1000 Paris</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3761248762155488205" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E18/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215085500 +0000" stop="20241215103000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <sub-title lang="nb">Ungarn - Norge</sub-title>
+    <desc lang="nb">Fra Wiener Stadthalle og den andre semifinalen i Håndball-EM. Kommentatorer: Harald Bredeli, Bent Svele.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <episode-num system="onscreen">S2024 E35/36</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215103000 +0000" stop="20241215120000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215120000 +0000" stop="20241215133000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215133000 +0000" stop="20241215143000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Aldri kjøpt frukt</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/8039557996763419465" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E8/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215143000 +0000" stop="20241215144000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Stjernenes Helgequiz</title>
+    <sub-title lang="nb">Guro Pettersen, Vålerenga</sub-title>
+    <desc lang="nb">Hun scoret flere mål enn søstrene Hegerberg, Caroline G. Hansen og Guro Reiten - til sammen (!) - i ett og samme mesterskap. Men husker Melissa Bjånesøy det selv? Og hvem var egentlig «Crap Bag»?</desc>
+    <date>2023</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/2824543896586393968" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S6 E7/10</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215144000 +0000" stop="20241215170000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Innebandy-VM, menn</title>
+    <date>2024</date>
+    <category lang="nb">Other</category>
+    <icon src="https://cdn.images.simply.tv/1644882860727409694" />
+    <premiere />
+  </programme>
+  <programme start="20241215170000 +0000" stop="20241215173000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215173000 +0000" stop="20241215180000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Blø for drakta</title>
+    <sub-title lang="nb">Vinn eller forsvinn</sub-title>
+    <desc lang="nb">I denne dokuserien møter vi Kolstad Håndball – en klubb med skyhøye ambisjoner om å bli kompislaget som vinner Champions League. Ved sesongstart 23/24 ligger alt klart for sportslig suksess, men utenomsportslige problemer står i kø.</desc>
+    <date>2024</date>
+    <category lang="nb">Documentary</category>
+    <icon src="https://cdn.images.simply.tv/15110557068345527285" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S1 E10/10</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215180000 +0000" stop="20241215183000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Fotballpunch</title>
+    <sub-title lang="nb">De utskjelte</sub-title>
+    <desc lang="nb">Alfred Johansson er Eliteseriens desidert yngste trener, og skepsisen var stor da han tok over giganten Rosenborg før sesongen. Men med stigende form, overbevisende seire og hardt arbeid igjennom sesongen er skepsisen snudd til optimisme, håp og tro på Brakka. Yaw Amankwah har tatt turen til Lerkendal for å finne ut av metodene og filosofien til trenertalentet fra Sverige.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/14716897005355172653" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E9/12</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215183000 +0000" stop="20241215190000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Fotballpunch</title>
+    <sub-title lang="nb">Supportermakt</sub-title>
+    <desc lang="nb">Alfred Johansson er Eliteseriens desidert yngste trener, og skepsisen var stor da han tok over giganten Rosenborg før sesongen. Men med stigende form, overbevisende seire og hardt arbeid igjennom sesongen er skepsisen snudd til optimisme, håp og tro på Brakka. Yaw Amankwah har tatt turen til Lerkendal for å finne ut av metodene og filosofien til trenertalentet fra Sverige.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/14716897005355172653" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E10/12</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215190000 +0000" stop="20241215193000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215193000 +0000" stop="20241215200000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">LaLiga World</title>
+    <sub-title lang="nb">Ayoze Pérez: – Villarreal tok en sjanse</sub-title>
+    <desc lang="nb">Historiene bak stjernene. «LaLiga World» går i dybden på spillere og managere fra spansk toppfotball.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/12705668932488614573" />
+    <country lang="nb">ES</country>
+    <episode-num system="onscreen">S2024 E18/37</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215200000 +0000" stop="20241215210000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Vippestat eller panenkastraffe</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/7908489049987650335" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E6/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241215210000 +0000" stop="20241215223000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241215223000 +0000" stop="20241216000000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Håndball-EM, kvinner</title>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/7389493156621955186" />
+    <country lang="nb">AT</country>
+    <country lang="nb">HU</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216000000 +0000" stop="20241216010000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Det er blitt begått poesi</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6439700636891260824" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E4/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216010000 +0000" stop="20241216020000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP Finals Torino</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra ATP finals i Torino her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/16629196991355853873" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E19/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216020000 +0000" stop="20241216041500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: ATP Finals</title>
+    <sub-title lang="nb">Jannik Sinner vs. Taylor Fritz</sub-title>
+    <desc lang="nb">Fra Torino, Italia og finalen av Nitto ATP Finals. Kommentatorer: Sverre Krogh Sundbø, Christer Francke.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/1937284137687205541" />
+    <country lang="nb">IT</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216041500 +0000" stop="20241216050000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <sub-title lang="nb">Norges neste tennisstjerne</sub-title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2023 E6/13</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216050000 +0000" stop="20241216065000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Belgrade Open</title>
+    <sub-title lang="nb">Finale: H. Medjedovic vs. D. Shapovalov</sub-title>
+    <desc lang="nb">Fra Beograd, Serbia og finalen av ATP 250-turneringen Belgrade Open.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14055187359008031729" />
+    <country lang="nb">RS</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216065000 +0000" stop="20241216080000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP Finals Torino</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra ATP finals i Torino her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/16629196991355853873" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E19/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216080000 +0000" stop="20241216093000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">REMA 1000-ligaen, menn</title>
+    <sub-title lang="nb">Drammen - Elverum</sub-title>
+    <desc lang="nb">Fra Drammenshallen og kampen mellom Drammen og Elverum i 12. serierunde av REMA 1000-ligaen, menn. Kommentatorer: Endre Olav Osnes, Ida Alstad.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/11054585804976829287" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E104/182</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216093000 +0000" stop="20241216110000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">REMA 1000-ligaen, kvinner</title>
+    <sub-title lang="nb">Follo - Ravens</sub-title>
+    <desc lang="nb">Fra Stil Arena og kampen mellom Follo og Ravens i 7. serierunde av REMA 1000-ligaen, kvinner. Kommentator: Harald Bredeli, Bent Svele.</desc>
+    <date>2024</date>
+    <category lang="nb">Handball</category>
+    <icon src="https://cdn.images.simply.tv/435786375056588697" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S2024 E163/183</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216110000 +0000" stop="20241216131500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: ATP Finals</title>
+    <sub-title lang="nb">Jannik Sinner vs. Taylor Fritz</sub-title>
+    <desc lang="nb">Fra Torino, Italia og finalen av Nitto ATP Finals. Kommentatorer: Sverre Krogh Sundbø, Christer Francke.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/1937284137687205541" />
+    <country lang="nb">IT</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216131500 +0000" stop="20241216134000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <sub-title lang="nb">To the Limit – Maximising Performance</sub-title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2023 E3/13</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216134000 +0000" stop="20241216135000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <sub-title lang="nb">Ruud post Monte Carlo og pre Barcelona</sub-title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2023 E10/13</episode-num>
+  </programme>
+  <programme start="20241216135000 +0000" stop="20241216145500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP 1000 Paris</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra tennisturneringene her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/3761248762155488205" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E18/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216145500 +0000" stop="20241216160000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">snu på det</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/7841681280811049020" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E1/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216160000 +0000" stop="20241216163000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Innebandykrigerne</title>
+    <sub-title lang="nb">Wild Boys</sub-title>
+    <desc lang="nb">Humorserie som følger et eliteserielag i norsk innebandy. Her møter vi «Sveiva Wild boys» i deres kamp for å overleve som et eliteserielag, og for å bli tatt seriøst både som idrettsutøvere og som mennesker.</desc>
+    <credits>
+      <actor>Nicolai Cleve Broch</actor>
+      <actor>Bjørn Myrene</actor>
+      <actor>Iben Akerlie</actor>
+      <actor>Erik Follestad</actor>
+      <actor>Amir Asgharnejad</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="nb">Comedy</category>
+    <icon src="https://cdn.images.simply.tv/18339249640003911743" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S1 E1/6</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216163000 +0000" stop="20241216170000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216170000 +0000" stop="20241216180500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Sesongoppsummering</title>
+    <sub-title lang="nb">Sesongoppsummering</sub-title>
+    <desc lang="nb">Årets ATP-tour har vært en spennende reise med fantastisk tennis. Len deg til bake å nyt årets oppsummering av sesongen.</desc>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/1077754566430342266" />
+    <country lang="nb">GB</country>
+  </programme>
+  <programme start="20241216180500 +0000" stop="20241216190000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Sesongens beste 2024</title>
+    <sub-title lang="nb">Sesongens beste</sub-title>
+    <desc lang="nb">En jury fra TV 2 og Norsk Toppfotball har plukket spillere og trenere som har utmerket seg denne sesongen.Noen av prisene som skal deles ut er årets spiller og årets trener i Eliteserien og Toppserien, samt årets unge spiller i Eliteserien og årets gjennombrudd i Toppserien. Anne Sturød er programleder, hun har med seg Jesper Mathisen og Yaw Amankwah.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/17064403939430178582" />
+    <country lang="nb">NO</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216190000 +0000" stop="20241216200000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">B-laget</title>
+    <sub-title lang="nb">Northug slipper bombe</sub-title>
+    <desc lang="nb">B-laget: TV 2s meget populære podkast om fotball – og livet. Ispedd en god dose tant og fjas. Nå også på Play i levende live!</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/16384121552161020959" />
+    <country lang="nb">NO</country>
+    <episode-num system="onscreen">S8 E9/15</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216200000 +0000" stop="20241216202500 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">UEFA Champions League: Magasin</title>
+    <sub-title lang="nb">Magasin</sub-title>
+    <desc lang="nb">Ukentlig magasin. Bli oppdatert med de seneste nyhetene, reportasjene og analysene på Europas beste klubblag.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/6617551804696341332" />
+    <country lang="nb">SE</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216202500 +0000" stop="20241216213000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Sesongoppsummering</title>
+    <sub-title lang="nb">Sesongoppsummering</sub-title>
+    <desc lang="nb">Årets ATP-tour har vært en spennende reise med fantastisk tennis. Len deg til bake å nyt årets oppsummering av sesongen.</desc>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/1077754566430342266" />
+    <country lang="nb">GB</country>
+    <previously-shown />
+  </programme>
+  <programme start="20241216213000 +0000" stop="20241216220000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Programmer</title>
+    <desc lang="nb">Utforsk den helt nye Basecamp-innovasjonen under ATP Next Gen Finals i Saudi-Arabia. Se den intense konkurransen når noen av de mest lovende unge ATP-stjerner står ansikt til ansikt i en sesongavsluttende begivenhet, der de utfordrer sine grenser mens de streber etter å bli fullverdige eliteutøvere.</desc>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/14829360462880269006" />
+    <country lang="nb">GB</country>
+  </programme>
+  <programme start="20241216220000 +0000" stop="20241216230000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Tennis: Turnerings oppsummering</title>
+    <sub-title lang="nb">ATP Finals Torino</sub-title>
+    <desc lang="nb">Se sammendrag og høydepunkter fra ATP finals i Torino her.</desc>
+    <date>2024</date>
+    <category lang="nb">Entertainment</category>
+    <icon src="https://cdn.images.simply.tv/16629196991355853873" />
+    <country lang="nb">GB</country>
+    <episode-num system="onscreen">S2024 E19/21</episode-num>
+    <previously-shown />
+  </programme>
+  <programme start="20241216230000 +0000" stop="20241217020000 +0000" channel="NO - TV2 Sport2">
+    <title lang="nb">Almaty Open</title>
+    <sub-title lang="nb">Finale: K. Khatsjanov vs. G. Diallo</sub-title>
+    <desc lang="nb">Fra Almaty, Kasakhstan, og den finalen av ATP250-turneringen Almaty Open.</desc>
+    <date>2024</date>
+    <category lang="nb">Tennis</category>
+    <icon src="https://cdn.images.simply.tv/7829960154065308519" />
+    <country lang="nb">KZ</country>
+    <previously-shown />
+  </programme>
 </tv>
