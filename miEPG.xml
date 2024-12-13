@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/12/2024 19:59" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/12/2024 20:10" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -223,12 +223,6 @@
     <display-name>Nova Sport 2 SK</display-name>
     <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" />
   </channel>
-  <programme start="20241213050000 +0100" stop="20241213065400 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Abierto de Escocia de snooker T24/25 · Tercera ronda</title>
-    <desc lang="es">Deportes/Snooker | 2024 | TP | *10.0/10
-· La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 1.
-· País: R.U.</desc>
-  </programme>
   <programme start="20241213065400 +0100" stop="20241213072400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
     <desc lang="es">Deportes/Snowboard | 2024 | TP
@@ -1182,12 +1176,6 @@
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
-  </programme>
-  <programme start="20241213050000 +0100" stop="20241213060100 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
-    <desc lang="es">Deportes/Snowboard | 2024 | TP
-· Los eventos de la Copa del Mundo de Snowboard cuentan con la participación de los mejores especialistas en el conocido como surf de las nieves. La competición incluye varias disciplinas.
-· País: Italia</desc>
   </programme>
   <programme start="20241213060100 +0100" stop="20241213065600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 1</title>
@@ -3093,12 +3081,6 @@
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20241213060000 +0100" stop="20241213120000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20241213120000 +0100" stop="20241213130100 +0100" channel="DAZN 1 Espana">
     <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
@@ -3221,8 +3203,8 @@
   </programme>
   <programme start="20241214155000 +0100" stop="20241214180500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 16: Arsenal - Everton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20241214180500 +0100" stop="20241214182000 +0100" channel="DAZN 1 Espana">
@@ -3312,7 +3294,7 @@
   <programme start="20241215172000 +0100" stop="20241215193500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 16: Manchester City - Manchester Utd. T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 21.
+· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 24.
 · País: R.U.</desc>
   </programme>
   <programme start="20241215193500 +0100" stop="20241215195000 +0100" channel="DAZN 1 Espana">
@@ -3414,7 +3396,7 @@
   <programme start="20241216232100 +0100" stop="20241217012100 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 16: Manchester City - Manchester Utd. T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 21.
+· El derby de la ciudad de Manchester mide a dos equipos envueltos en una crisis de resultados y muy lejos de sus objetivos a inicios de la temporada. Votos: 24.
 · País: R.U.</desc>
   </programme>
   <programme start="20241217012100 +0100" stop="20241217060000 +0100" channel="DAZN 1 Espana">
@@ -3624,12 +3606,6 @@
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · Alexis Rocha y Raúl Curiel se enfrentan en una gran pelea de peso welter en California.
 · País: EE.UU.</desc>
-  </programme>
-  <programme start="20241213060000 +0100" stop="20241213100000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
   </programme>
   <programme start="20241213100000 +0100" stop="20241213140000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
@@ -3890,12 +3866,6 @@
 </desc>
   </programme>
   <programme start="20241219220000 +0100" stop="20241220020000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241213060000 +0100" stop="20241213100000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -4183,12 +4153,6 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241213060000 +0100" stop="20241213100000 +0100" channel="DAZN 4 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20241213100000 +0100" stop="20241213140000 +0100" channel="DAZN 4 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
@@ -4451,12 +4415,6 @@
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241213044500 +0100" stop="20241213070000 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Canadá: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2022 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 37.
 </desc>
   </programme>
   <programme start="20241213070000 +0100" stop="20241213091500 +0100" channel="DAZN F1">
@@ -5119,12 +5077,6 @@
 · El piloto Mexicano de Red Bull, Checo Pérez, saldrá desde la primera posición en el Gran Premio de Arabia Saudí consiguiendo la primera pole de su carrera. Saldrá por delante de los dos Ferrari, Leclerc y Sainz, y de su compañero de equipo Verstappen. Votos: 68.
 </desc>
   </programme>
-  <programme start="20241213060000 +0100" stop="20241213120000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
   <programme start="20241213120000 +0100" stop="20241213130000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
@@ -5742,15 +5694,9 @@
   </programme>
   <programme start="20241220000000 +0100" stop="20241220010000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 19</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada. Votos: 5.
 · País: España</desc>
-  </programme>
-  <programme start="20241213060000 +0100" stop="20241213120000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
   </programme>
   <programme start="20241213120000 +0100" stop="20241213130000 +0100" channel="DAZN LaLiga">
     <title lang="es">Erasmus FC T24/25 E9</title>
@@ -6369,8 +6315,8 @@
   </programme>
   <programme start="20241220000000 +0100" stop="20241220010000 +0100" channel="DAZN LaLiga">
     <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 19</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20241213000000 +0100" stop="20241213003000 +0100" channel="Fox Sports">
@@ -6757,6 +6703,72 @@
 · Sin detalles...
 </desc>
   </programme>
+  <programme start="20241216100000 +0100" stop="20241216110000 +0100" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216110000 +0100" stop="20241216120000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241216120000 +0100" stop="20241216130000 +0100" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216130000 +0100" stop="20241216140000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241216140000 +0100" stop="20241216143000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216143000 +0100" stop="20241216150000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216150000 +0100" stop="20241216190000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216190000 +0100" stop="20241216230000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216230000 +0100" stop="20241217030000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217030000 +0100" stop="20241217070000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217070000 +0100" stop="20241217110000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
   <programme start="20241213000000 +0100" stop="20241213020000 +0100" channel="Fox Sports 2">
     <title lang="es">AEW DYNAMITE</title>
     <desc lang="es">
@@ -7071,6 +7083,54 @@
   </programme>
   <programme start="20241216080000 +0100" stop="20241216100000 +0100" channel="Fox Sports 2">
     <title lang="es">AEW DYNAMITE</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216100000 +0100" stop="20241216120000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW Rampage</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216120000 +0100" stop="20241216140000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fiorentina vs. Lask</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216140000 +0100" stop="20241216150000 +0100" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216150000 +0100" stop="20241216190000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216190000 +0100" stop="20241216230000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216230000 +0100" stop="20241217030000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217030000 +0100" stop="20241217070000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217070000 +0100" stop="20241217110000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -7533,6 +7593,96 @@
   </programme>
   <programme start="20241216073000 +0100" stop="20241216090000 +0100" channel="Fox Sports Premium">
     <title lang="es">Red Bull Cliff Diving World Se</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216090000 +0100" stop="20241216093000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fast Zone</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216093000 +0100" stop="20241216103000 +0100" channel="Fox Sports Premium">
+    <title lang="es">ABB FIA Formula E 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216103000 +0100" stop="20241216113000 +0100" channel="Fox Sports Premium">
+    <title lang="es">WEC 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216113000 +0100" stop="20241216120000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216120000 +0100" stop="20241216123000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216123000 +0100" stop="20241216130000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216130000 +0100" stop="20241216133000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216133000 +0100" stop="20241216140000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216140000 +0100" stop="20241216143000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216143000 +0100" stop="20241216150000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216150000 +0100" stop="20241216190000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216190000 +0100" stop="20241216230000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241216230000 +0100" stop="20241217030000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217030000 +0100" stop="20241217070000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217070000 +0100" stop="20241217110000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
