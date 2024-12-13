@@ -1,0 +1,45 @@
+name: Update EPG File
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Esto ejecutará el workflow cada día a la medianoche.
+  workflow_dispatch: # Esto permitirá ejecutar el flujo de trabajo manualmente desde GitHub Actions
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Download the EPG file
+      run: |
+        wget https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz
+
+    - name: Decompress the EPG file
+      run: |
+        gunzip epg_ripper_NO1.xml.gz
+
+    - name: Perform replacements in the EPG file
+      run: |
+        sed -i 's/TV 2 Sport 1 HD (N) (T).no,NO - TV2 Sport1/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport 2 HD (N) (T).no,NO - TV2 Sport2/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport Premium HD (N) (T).no,NO - TV2 Sport Premium/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport Premium 2 HD (N) (T).no,NO - TV2 Sport Premium 2/' epg_ripper_NO1.xml
+        sed -i 's/V sport 1 HD (N) (T).no,NO - V Sport 1/' epg_ripper_NO1.xml
+        sed -i 's/V sport 2 HD (N) (T).no,NO - V Sport 2/' epg_ripper_NO1.xml
+        sed -i 's/V sport 3 HD (N) (T).no,NO - V Sport 3/' epg_ripper_NO1.xml
+        sed -i 's/V sport+ HD (N) (T).no,NO - V Sport+/' epg_ripper_NO1.xml
+
+    - name: Move the file to the repository
+      run: |
+        mv epg_ripper_NO1.xml ./NOR.xml
+
+    - name: Commit and push the changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "GitHub Actions"
+        git add NOR.xml
+        git commit -m "Update EPG with name changes"
+        git push origin main
