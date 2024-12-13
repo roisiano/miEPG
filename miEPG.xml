@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/12/2024 22:58" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/12/2024 23:22" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -219,6 +219,9 @@
     <display-name>Nova Sport 2 SK</display-name>
     <icon src="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" />
   </channel>
+  <channel id="NO - TV2 Sport Premium 2">
+    <display-name>NO - TV2 Sport Premium 2</display-name>
+  </channel>
   <channel id="NO - TV2 Sport1">
     <display-name>NO - TV2 Sport1</display-name>
     <icon src="https://cdn.images.simply.tv/3475647482740625155" />
@@ -226,6 +229,24 @@
   <channel id="NO - TV2 Sport2">
     <display-name>NO - TV2 Sport2</display-name>
     <icon src="https://cdn.images.simply.tv/2899186713257332546" />
+  </channel>
+  <channel id="NO - V Sport 1">
+    <display-name>NO - V Sport 1</display-name>
+  </channel>
+  <channel id="NO - V Sport 2">
+    <display-name>NO - V Sport 2</display-name>
+  </channel>
+  <channel id="NO - V Sport 3">
+    <display-name>NO - V Sport 3</display-name>
+  </channel>
+  <channel id="NO - V Sport+">
+    <display-name>NO - V Sport+</display-name>
+  </channel>
+  <channel id="NO - TV2 Sport Premium">
+    <display-name>NO - TV2 Sport Premium</display-name>
+  </channel>
+  <channel id="NO - TV2 Sport Premium 2">
+    <display-name>NO - TV2 Sport Premium 2</display-name>
   </channel>
   <programme start="20241213065400 +0100" stop="20241213072400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
@@ -31460,6 +31481,24 @@
     <title lang="cs">PFL Europe 4</title>
     <desc lang="cs">Evropská série ligy smíšených bojových umění (Lyon, Francie).</desc>
   </programme>
+<programme start="20241212050000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212090000 +0000" stop="20241212130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212130000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212170000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212210000 +0000" stop="20241213010000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213010000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213050000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213090000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213130000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213170000 +0000" stop="20241213192500 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213192500 +0000" stop="20241214014500 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214014500 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214050000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214090000 +0000" stop="20241214130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214130000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214170000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214210000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="TV 2 Sport Premium HD (N) (T).no" channel="NO - TV2 Sport Premium 2">
   <programme start="20241213010000 +0000" stop="20241213030000 +0000" channel="NO - TV2 Sport1">
     <title lang="nb">LaLiga</title>
     <sub-title lang="nb">Real Betis - Barcelona</sub-title>
@@ -32993,4 +33032,228 @@
     <country lang="nb">KZ</country>
     <previously-shown />
   </programme>
+<programme start="20241211230000 +0000" stop="20241211233000 +0000" channel="NO - V Sport 1">
+<programme start="20241211233000 +0000" stop="20241212003000 +0000" channel="NO - V Sport 1">
+<programme start="20241212003000 +0000" stop="20241212053000 +0000" channel="NO - V Sport 1">
+<programme start="20241212053000 +0000" stop="20241212083000 +0000" channel="NO - V Sport 1">
+<programme start="20241212083000 +0000" stop="20241212100000 +0000" channel="NO - V Sport 1">
+<programme start="20241212100000 +0000" stop="20241212120000 +0000" channel="NO - V Sport 1">
+<programme start="20241212120000 +0000" stop="20241212123000 +0000" channel="NO - V Sport 1">
+<programme start="20241212123000 +0000" stop="20241212130000 +0000" channel="NO - V Sport 1">
+<programme start="20241212130000 +0000" stop="20241212140000 +0000" channel="NO - V Sport 1">
+<programme start="20241212140000 +0000" stop="20241212160000 +0000" channel="NO - V Sport 1">
+<programme start="20241212160000 +0000" stop="20241212170000 +0000" channel="NO - V Sport 1">
+<programme start="20241212170000 +0000" stop="20241212174000 +0000" channel="NO - V Sport 1">
+<programme start="20241212174000 +0000" stop="20241212194500 +0000" channel="NO - V Sport 1">
+<programme start="20241212194500 +0000" stop="20241212195500 +0000" channel="NO - V Sport 1">
+<programme start="20241212195500 +0000" stop="20241212220000 +0000" channel="NO - V Sport 1">
+<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="NO - V Sport 1">
+<programme start="20241212230000 +0000" stop="20241213010000 +0000" channel="NO - V Sport 1">
+<programme start="20241213010000 +0000" stop="20241213060000 +0000" channel="NO - V Sport 1">
+<programme start="20241213060000 +0000" stop="20241213090000 +0000" channel="NO - V Sport 1">
+<programme start="20241213090000 +0000" stop="20241213093000 +0000" channel="NO - V Sport 1">
+<programme start="20241213093000 +0000" stop="20241213120000 +0000" channel="NO - V Sport 1">
+<programme start="20241213120000 +0000" stop="20241213130000 +0000" channel="NO - V Sport 1">
+<programme start="20241213130000 +0000" stop="20241213140000 +0000" channel="NO - V Sport 1">
+<programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="NO - V Sport 1">
+<programme start="20241213143000 +0000" stop="20241213144500 +0000" channel="NO - V Sport 1">
+<programme start="20241213144500 +0000" stop="20241213162500 +0000" channel="NO - V Sport 1">
+<programme start="20241213162500 +0000" stop="20241213170000 +0000" channel="NO - V Sport 1">
+<programme start="20241213170000 +0000" stop="20241213180500 +0000" channel="NO - V Sport 1">
+<programme start="20241213180500 +0000" stop="20241213182500 +0000" channel="NO - V Sport 1">
+<programme start="20241213182500 +0000" stop="20241213185500 +0000" channel="NO - V Sport 1">
+<programme start="20241213185500 +0000" stop="20241213192500 +0000" channel="NO - V Sport 1">
+<programme start="20241213192500 +0000" stop="20241213213000 +0000" channel="NO - V Sport 1">
+<programme start="20241213213000 +0000" stop="20241213233000 +0000" channel="NO - V Sport 1">
+<programme start="20241213233000 +0000" stop="20241214000000 +0000" channel="NO - V Sport 1">
+<programme start="20241214000000 +0000" stop="20241214050000 +0000" channel="NO - V Sport 1">
+<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - V Sport 1">
+<programme start="20241214080000 +0000" stop="20241214082500 +0000" channel="NO - V Sport 1">
+<programme start="20241214082500 +0000" stop="20241214100000 +0000" channel="NO - V Sport 1">
+<programme start="20241214100000 +0000" stop="20241214103000 +0000" channel="NO - V Sport 1">
+<programme start="20241214103000 +0000" stop="20241214112000 +0000" channel="NO - V Sport 1">
+<programme start="20241214112000 +0000" stop="20241214115000 +0000" channel="NO - V Sport 1">
+<programme start="20241214115000 +0000" stop="20241214122000 +0000" channel="NO - V Sport 1">
+<programme start="20241214122000 +0000" stop="20241214143000 +0000" channel="NO - V Sport 1">
+<programme start="20241214143000 +0000" stop="20241214145500 +0000" channel="NO - V Sport 1">
+<programme start="20241214145500 +0000" stop="20241214165500 +0000" channel="NO - V Sport 1">
+<programme start="20241214165500 +0000" stop="20241214175500 +0000" channel="NO - V Sport 1">
+<programme start="20241214175500 +0000" stop="20241214195500 +0000" channel="NO - V Sport 1">
+<programme start="20241214195500 +0000" stop="20241214220000 +0000" channel="NO - V Sport 1">
+<programme start="20241214220000 +0000" stop="20241215000000 +0000" channel="NO - V Sport 1">
+<programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="NO - V Sport 1">
+<programme start="20241211223000 +0000" stop="20241212003000 +0000" channel="NO - V Sport 2">
+<programme start="20241212003000 +0000" stop="20241212033000 +0000" channel="NO - V Sport 2">
+<programme start="20241212033000 +0000" stop="20241212040000 +0000" channel="NO - V Sport 2">
+<programme start="20241212040000 +0000" stop="20241212070000 +0000" channel="NO - V Sport 2">
+<programme start="20241212070000 +0000" stop="20241212095500 +0000" channel="NO - V Sport 2">
+<programme start="20241212095500 +0000" stop="20241212115500 +0000" channel="NO - V Sport 2">
+<programme start="20241212115500 +0000" stop="20241212135500 +0000" channel="NO - V Sport 2">
+<programme start="20241212135500 +0000" stop="20241212152500 +0000" channel="NO - V Sport 2">
+<programme start="20241212152500 +0000" stop="20241212174000 +0000" channel="NO - V Sport 2">
+<programme start="20241212174000 +0000" stop="20241212200000 +0000" channel="NO - V Sport 2">
+<programme start="20241212200000 +0000" stop="20241212220000 +0000" channel="NO - V Sport 2">
+<programme start="20241212220000 +0000" stop="20241213000000 +0000" channel="NO - V Sport 2">
+<programme start="20241213000000 +0000" stop="20241213030000 +0000" channel="NO - V Sport 2">
+<programme start="20241213030000 +0000" stop="20241213060000 +0000" channel="NO - V Sport 2">
+<programme start="20241213060000 +0000" stop="20241213090000 +0000" channel="NO - V Sport 2">
+<programme start="20241213090000 +0000" stop="20241213100000 +0000" channel="NO - V Sport 2">
+<programme start="20241213100000 +0000" stop="20241213120000 +0000" channel="NO - V Sport 2">
+<programme start="20241213120000 +0000" stop="20241213140000 +0000" channel="NO - V Sport 2">
+<programme start="20241213140000 +0000" stop="20241213144500 +0000" channel="NO - V Sport 2">
+<programme start="20241213144500 +0000" stop="20241213163000 +0000" channel="NO - V Sport 2">
+<programme start="20241213163000 +0000" stop="20241213172500 +0000" channel="NO - V Sport 2">
+<programme start="20241213172500 +0000" stop="20241213195000 +0000" channel="NO - V Sport 2">
+<programme start="20241213195000 +0000" stop="20241213220000 +0000" channel="NO - V Sport 2">
+<programme start="20241213220000 +0000" stop="20241213223000 +0000" channel="NO - V Sport 2">
+<programme start="20241213223000 +0000" stop="20241213230000 +0000" channel="NO - V Sport 2">
+<programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="NO - V Sport 2">
+<programme start="20241214020000 +0000" stop="20241214040000 +0000" channel="NO - V Sport 2">
+<programme start="20241214040000 +0000" stop="20241214070000 +0000" channel="NO - V Sport 2">
+<programme start="20241214070000 +0000" stop="20241214100000 +0000" channel="NO - V Sport 2">
+<programme start="20241214100000 +0000" stop="20241214115500 +0000" channel="NO - V Sport 2">
+<programme start="20241214115500 +0000" stop="20241214140000 +0000" channel="NO - V Sport 2">
+<programme start="20241214140000 +0000" stop="20241214145000 +0000" channel="NO - V Sport 2">
+<programme start="20241214145000 +0000" stop="20241214170000 +0000" channel="NO - V Sport 2">
+<programme start="20241214170000 +0000" stop="20241214172500 +0000" channel="NO - V Sport 2">
+<programme start="20241214172500 +0000" stop="20241214193000 +0000" channel="NO - V Sport 2">
+<programme start="20241214193000 +0000" stop="20241214213000 +0000" channel="NO - V Sport 2">
+<programme start="20241214213000 +0000" stop="20241214233000 +0000" channel="NO - V Sport 2">
+<programme start="20241214233000 +0000" stop="20241215000000 +0000" channel="NO - V Sport 2">
+<programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="NO - V Sport 2">
+<programme start="20241211230000 +0000" stop="20241212020000 +0000" channel="V Sport 3.no" channel="NO - V Sport 2">
+<programme start="20241211230000 +0000" stop="20241212020000 +0000" channel="NO - V Sport 3">
+<programme start="20241212020000 +0000" stop="20241212050000 +0000" channel="NO - V Sport 3">
+<programme start="20241212050000 +0000" stop="20241212080000 +0000" channel="NO - V Sport 3">
+<programme start="20241212080000 +0000" stop="20241212095000 +0000" channel="NO - V Sport 3">
+<programme start="20241212095000 +0000" stop="20241212115000 +0000" channel="NO - V Sport 3">
+<programme start="20241212115000 +0000" stop="20241212125000 +0000" channel="NO - V Sport 3">
+<programme start="20241212125000 +0000" stop="20241212143000 +0000" channel="NO - V Sport 3">
+<programme start="20241212143000 +0000" stop="20241212160000 +0000" channel="NO - V Sport 3">
+<programme start="20241212160000 +0000" stop="20241212181500 +0000" channel="NO - V Sport 3">
+<programme start="20241212181500 +0000" stop="20241212220000 +0000" channel="NO - V Sport 3">
+<programme start="20241212220000 +0000" stop="20241212230000 +0000" channel="NO - V Sport 3">
+<programme start="20241212230000 +0000" stop="20241213020000 +0000" channel="NO - V Sport 3">
+<programme start="20241213020000 +0000" stop="20241213050000 +0000" channel="NO - V Sport 3">
+<programme start="20241213050000 +0000" stop="20241213080000 +0000" channel="NO - V Sport 3">
+<programme start="20241213080000 +0000" stop="20241213100000 +0000" channel="NO - V Sport 3">
+<programme start="20241213100000 +0000" stop="20241213110000 +0000" channel="NO - V Sport 3">
+<programme start="20241213110000 +0000" stop="20241213130000 +0000" channel="NO - V Sport 3">
+<programme start="20241213130000 +0000" stop="20241213143000 +0000" channel="NO - V Sport 3">
+<programme start="20241213143000 +0000" stop="20241213181500 +0000" channel="NO - V Sport 3">
+<programme start="20241213181500 +0000" stop="20241213201000 +0000" channel="NO - V Sport 3">
+<programme start="20241213201000 +0000" stop="20241213220000 +0000" channel="NO - V Sport 3">
+<programme start="20241213220000 +0000" stop="20241213230000 +0000" channel="NO - V Sport 3">
+<programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="NO - V Sport 3">
+<programme start="20241214020000 +0000" stop="20241214050000 +0000" channel="NO - V Sport 3">
+<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - V Sport 3">
+<programme start="20241214080000 +0000" stop="20241214100000 +0000" channel="NO - V Sport 3">
+<programme start="20241214100000 +0000" stop="20241214113000 +0000" channel="NO - V Sport 3">
+<programme start="20241214113000 +0000" stop="20241214130000 +0000" channel="NO - V Sport 3">
+<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="NO - V Sport 3">
+<programme start="20241214140000 +0000" stop="20241214142500 +0000" channel="NO - V Sport 3">
+<programme start="20241214142500 +0000" stop="20241214163000 +0000" channel="NO - V Sport 3">
+<programme start="20241214163000 +0000" stop="20241214170000 +0000" channel="NO - V Sport 3">
+<programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="NO - V Sport 3">
+<programme start="20241214173000 +0000" stop="20241214180000 +0000" channel="NO - V Sport 3">
+<programme start="20241214180000 +0000" stop="20241214210000 +0000" channel="NO - V Sport 3">
+<programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="NO - V Sport 3">
+<programme start="20241214230000 +0000" stop="20241215020000 +0000" channel="NO - V Sport 3">
+<programme start="20241211193000 +0000" stop="20241212010000 +0000" channel="V Sport Golf.no" channel="NO - V Sport 3">
+<programme start="20241211230000 +0000" stop="20241212020000 +0000" channel="NO - V Sport+">
+<programme start="20241212020000 +0000" stop="20241212050000 +0000" channel="NO - V Sport+">
+<programme start="20241212050000 +0000" stop="20241212080000 +0000" channel="NO - V Sport+">
+<programme start="20241212080000 +0000" stop="20241212100000 +0000" channel="NO - V Sport+">
+<programme start="20241212100000 +0000" stop="20241212112000 +0000" channel="NO - V Sport+">
+<programme start="20241212112000 +0000" stop="20241212130000 +0000" channel="NO - V Sport+">
+<programme start="20241212130000 +0000" stop="20241212150000 +0000" channel="NO - V Sport+">
+<programme start="20241212150000 +0000" stop="20241212153000 +0000" channel="NO - V Sport+">
+<programme start="20241212153000 +0000" stop="20241212160000 +0000" channel="NO - V Sport+">
+<programme start="20241212160000 +0000" stop="20241212163000 +0000" channel="NO - V Sport+">
+<programme start="20241212163000 +0000" stop="20241212170000 +0000" channel="NO - V Sport+">
+<programme start="20241212170000 +0000" stop="20241212173000 +0000" channel="NO - V Sport+">
+<programme start="20241212173000 +0000" stop="20241212180000 +0000" channel="NO - V Sport+">
+<programme start="20241212180000 +0000" stop="20241212183000 +0000" channel="NO - V Sport+">
+<programme start="20241212183000 +0000" stop="20241212185500 +0000" channel="NO - V Sport+">
+<programme start="20241212185500 +0000" stop="20241212210000 +0000" channel="NO - V Sport+">
+<programme start="20241212210000 +0000" stop="20241212230000 +0000" channel="NO - V Sport+">
+<programme start="20241212230000 +0000" stop="20241213020000 +0000" channel="NO - V Sport+">
+<programme start="20241213020000 +0000" stop="20241213050000 +0000" channel="NO - V Sport+">
+<programme start="20241213050000 +0000" stop="20241213080000 +0000" channel="NO - V Sport+">
+<programme start="20241213080000 +0000" stop="20241213100000 +0000" channel="NO - V Sport+">
+<programme start="20241213100000 +0000" stop="20241213112000 +0000" channel="NO - V Sport+">
+<programme start="20241213112000 +0000" stop="20241213130000 +0000" channel="NO - V Sport+">
+<programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="NO - V Sport+">
+<programme start="20241213133000 +0000" stop="20241213140000 +0000" channel="NO - V Sport+">
+<programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="NO - V Sport+">
+<programme start="20241213143000 +0000" stop="20241213145500 +0000" channel="NO - V Sport+">
+<programme start="20241213145500 +0000" stop="20241213160000 +0000" channel="NO - V Sport+">
+<programme start="20241213160000 +0000" stop="20241213180000 +0000" channel="NO - V Sport+">
+<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - V Sport+">
+<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - V Sport+">
+<programme start="20241213190000 +0000" stop="20241213194500 +0000" channel="NO - V Sport+">
+<programme start="20241213194500 +0000" stop="20241213221500 +0000" channel="NO - V Sport+">
+<programme start="20241213221500 +0000" stop="20241213230000 +0000" channel="NO - V Sport+">
+<programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="NO - V Sport+">
+<programme start="20241214020000 +0000" stop="20241214050000 +0000" channel="NO - V Sport+">
+<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - V Sport+">
+<programme start="20241214080000 +0000" stop="20241214082500 +0000" channel="NO - V Sport+">
+<programme start="20241214082500 +0000" stop="20241214102000 +0000" channel="NO - V Sport+">
+<programme start="20241214102000 +0000" stop="20241214120000 +0000" channel="NO - V Sport+">
+<programme start="20241214120000 +0000" stop="20241214130000 +0000" channel="NO - V Sport+">
+<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="NO - V Sport+">
+<programme start="20241214140000 +0000" stop="20241214162000 +0000" channel="NO - V Sport+">
+<programme start="20241214162000 +0000" stop="20241214180000 +0000" channel="NO - V Sport+">
+<programme start="20241214180000 +0000" stop="20241214183000 +0000" channel="NO - V Sport+">
+<programme start="20241214183000 +0000" stop="20241214190000 +0000" channel="NO - V Sport+">
+<programme start="20241214190000 +0000" stop="20241214220000 +0000" channel="NO - V Sport+">
+<programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="NO - V Sport+">
+<programme start="20241214230000 +0000" stop="20241215020000 +0000" channel="NO - V Sport+">
+<programme start="20241211215500 +0000" stop="20241211232500 +0000" channel="VGTV.no" channel="NO - V Sport+">
+<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212050000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212090000 +0000" stop="20241212130000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212130000 +0000" stop="20241212150000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212150000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212170000 +0000" stop="20241212190000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212190000 +0000" stop="20241212220000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212220000 +0000" stop="20241213043000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213043000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213050000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213090000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213133000 +0000" stop="20241213153000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213153000 +0000" stop="20241213173000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213173000 +0000" stop="20241213193000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213193000 +0000" stop="20241213195500 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213195500 +0000" stop="20241213220000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241213220000 +0000" stop="20241214043000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214043000 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214050000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214090000 +0000" stop="20241214125500 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214125500 +0000" stop="20241214151000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214151000 +0000" stop="20241214172500 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214172500 +0000" stop="20241214193000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214193000 +0000" stop="20241214195500 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214195500 +0000" stop="20241214220000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241214220000 +0000" stop="20241215043000 +0000" channel="NO - TV2 Sport Premium">
+<programme start="20241212035000 +0000" stop="20241212042000 +0000" channel="TV 2 Zebra HD (N) (T).no" channel="NO - TV2 Sport Premium">
+<programme start="20241212050000 +0000" stop="20241212090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212090000 +0000" stop="20241212130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212130000 +0000" stop="20241212170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212170000 +0000" stop="20241212210000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212210000 +0000" stop="20241213010000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213010000 +0000" stop="20241213050000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213050000 +0000" stop="20241213090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213090000 +0000" stop="20241213130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213130000 +0000" stop="20241213170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213170000 +0000" stop="20241213192500 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241213192500 +0000" stop="20241214014500 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214014500 +0000" stop="20241214050000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214050000 +0000" stop="20241214090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214090000 +0000" stop="20241214130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214130000 +0000" stop="20241214170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214170000 +0000" stop="20241214210000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241214210000 +0000" stop="20241215010000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241212043000 +0000" stop="20241212050000 +0000" channel="TV 2 Sport Premium HD (N) (T).no" channel="NO - TV2 Sport Premium 2">
 </tv>
