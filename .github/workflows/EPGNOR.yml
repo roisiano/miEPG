@@ -23,14 +23,15 @@ jobs:
 
     - name: Perform replacements in the EPG file
       run: |
-        sed -i 's/TV 2 Sport 1 HD \(N\) \(T\)\.no,NO - TV2 Sport1/' epg_ripper_NO1.xml
-        sed -i 's/TV 2 Sport 2 HD \(N\) \(T\)\.no,NO - TV2 Sport2/' epg_ripper_NO1.xml
-        sed -i 's/TV 2 Sport Premium HD \(N\) \(T\)\.no,NO - TV2 Sport Premium/' epg_ripper_NO1.xml
-        sed -i 's/TV 2 Sport Premium 2 HD \(N\) \(T\)\.no,NO - TV2 Sport Premium 2/' epg_ripper_NO1.xml
-        sed -i 's/V sport 1 HD \(N\) \(T\)\.no,NO - V Sport 1/' epg_ripper_NO1.xml
-        sed -i 's/V sport 2 HD \(N\) \(T\)\.no,NO - V Sport 2/' epg_ripper_NO1.xml
-        sed -i 's/V sport 3 HD \(N\) \(T\)\.no,NO - V Sport 3/' epg_ripper_NO1.xml
-        sed -i 's/V sport\+ HD \(N\) \(T\)\.no,NO - V Sport\+/' epg_ripper_NO1.xml
+        # Reemplazar los nombres de canales con las nuevas secuencias
+        sed -i 's/TV 2 Sport 1 HD (N) (T).no/NO - TV2 Sport1/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport 2 HD (N) (T).no/NO - TV2 Sport2/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport Premium HD (N) (T).no/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport Premium 2 HD (N) (T).no/NO - TV2 Sport Premium 2/' epg_ripper_NO1.xml
+        sed -i 's/V sport 1 HD (N) (T).no/NO - V Sport 1/' epg_ripper_NO1.xml
+        sed -i 's/V sport 2 HD (N) (T).no/NO - V Sport 2/' epg_ripper_NO1.xml
+        sed -i 's/V sport 3 HD (N) (T).no/NO - V Sport 3/' epg_ripper_NO1.xml
+        sed -i 's/V sport\+ HD (N) (T).no/NO - V Sport\+/' epg_ripper_NO1.xml
 
     - name: Move the file to the repository
       run: |
