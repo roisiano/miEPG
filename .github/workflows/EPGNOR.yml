@@ -27,10 +27,15 @@ jobs:
         sed -i 's/TV.2.Sport.1.Norway.(NO,NO).no/NO - TV2 Sport1/' epg_ripper_NO1.xml
         sed -i 's/TV.2.Sport.2.Norway.(NO,NO).no/NO - TV2 Sport2/' epg_ripper_NO1.xml
         sed -i 's/Viasport.1.Norway.(NO,NO).no/NO - V Sport 1/' epg_ripper_NO1.xml
+        sed -i 's/Viasport 1 Norway (NO,NO)/NO - V Sport 1/' epg_ripper_NO1.xml
         sed -i 's/Viasport.2.Norway.(NO,NO).no/NO - V Sport 2/' epg_ripper_NO1.xml
+        sed -i 's/Viasport 2 Norway (NO,NO)/NO - V Sport 2/' epg_ripper_NO1.xml
         sed -i 's/Viasport.3.Norway.(NO,NO).no/NO - V Sport 3/' epg_ripper_NO1.xml
+        sed -i 's/Viasport 3 Norway (NO,NO)/NO - V Sport 3/' epg_ripper_NO1.xml
         sed -i 's/Viasport+.Norway.(NO,NO).no/NO - V Sport+/' epg_ripper_NO1.xml
+        sed -i 's/Viasport+ Norway (NO,NO)/NO - V Sport+/' epg_ripper_NO1.xml
         sed -i 's/TV.2.Sport.Premium.(NO,NO).no/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
+        sed -i 's/TV 2 Sport Premium (NO,NO)/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
 
     - name: Move the file to the repository
       run: |
