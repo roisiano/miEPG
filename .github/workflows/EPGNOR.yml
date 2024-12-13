@@ -2,7 +2,7 @@ name: Update EPG File
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Esto ejecutará el workflow cada día a la medianoche.
+    - cron: '0 6,18 * * *'  # Esto ejecutará el flujo de trabajo a las 6:00 AM y 6:00 PM cada día.
   workflow_dispatch: # Esto permitirá ejecutar el flujo de trabajo manualmente desde GitHub Actions
 
 jobs:
@@ -24,14 +24,13 @@ jobs:
     - name: Perform replacements in the EPG file
       run: |
         # Reemplazar los nombres de canales con las nuevas secuencias
-        sed -i 's/TV 2 Sport 1 HD (N) (T).no/NO - TV2 Sport1/' epg_ripper_NO1.xml
-        sed -i 's/TV 2 Sport 2 HD (N) (T).no/NO - TV2 Sport2/' epg_ripper_NO1.xml
-        sed -i 's/TV 2 Sport Premium HD (N) (T).no/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
-        sed -i 's/TV 2 Sport Premium 2 HD (N) (T).no/NO - TV2 Sport Premium 2/' epg_ripper_NO1.xml
-        sed -i 's/V sport 1 HD (N) (T).no/NO - V Sport 1/' epg_ripper_NO1.xml
-        sed -i 's/V sport 2 HD (N) (T).no/NO - V Sport 2/' epg_ripper_NO1.xml
-        sed -i 's/V sport 3 HD (N) (T).no/NO - V Sport 3/' epg_ripper_NO1.xml
-        sed -i 's/V sport\+ HD (N) (T).no/NO - V Sport\+/' epg_ripper_NO1.xml
+        sed -i 's/TV.2.Sport.1.Norway.(NO,NO).no/NO - TV2 Sport1/' epg_ripper_NO1.xml
+        sed -i 's/TV.2.Sport.2.Norway.(NO,NO).no/NO - TV2 Sport2/' epg_ripper_NO1.xml
+        sed -i 's/Viasport.1.Norway.(NO,NO).no/NO - V Sport 1/' epg_ripper_NO1.xml
+        sed -i 's/Viasport.2.Norway.(NO,NO).no/NO - V Sport 2/' epg_ripper_NO1.xml
+        sed -i 's/Viasport.3.Norway.(NO,NO).no/NO - V Sport 3/' epg_ripper_NO1.xml
+        sed -i 's/Viasport+.Norway.(NO,NO).no/NO - V Sport+/' epg_ripper_NO1.xml
+        sed -i 's/TV.2.Sport.Premium.(NO,NO).no/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
 
     - name: Move the file to the repository
       run: |
@@ -44,4 +43,5 @@ jobs:
         git add NOR.xml
         git commit -m "Update EPG with name changes"
         git push origin main
+
 
