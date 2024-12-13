@@ -1,0 +1,43 @@
+name: Update EPG File
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'  # Ejecuta el flujo de trabajo a las 6:00 AM y 6:00 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Download the new EPG file
+      run: |
+        wget https://www.bevy.be/bevyfiles/norwaypremium.xml.gz
+
+    - name: Decompress the EPG file
+      run: |
+        gunzip norwaypremium.xml.gz
+
+    - name: Format the EPG file
+      run: |
+        # Añadir saltos de línea y formatear etiquetas XML
+        sed -i 's/<programme /\n<programme /g' norwaypremium.xml
+        sed -i 's/<\/programme>/<\/programme>\n/g' norwaypremium.xml
+        sed -i 's/<title>/<title>\n/g' norwaypremium.xml
+        sed -i 's/<desc>/<desc>\n/g' norwaypremium.xml
+        sed -i 's/<episode-num>/<episode-num>\n/g' norwaypremium.xml
+
+    - name: Rename the formatted file
+      run: |
+        mv norwaypremium.xml NOR2.xml
+
+    - name: Commit and push the changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "GitHub Actions"
+        git add NOR2.xml
+        git commit -m "Update formatted EPG file as NOR2.xml"
+        git push origin main
