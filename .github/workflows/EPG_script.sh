@@ -21,9 +21,9 @@ do
 done < epgs.txt
 
 # Leer cambios.txt y realizar los reemplazos
-while IFS= cambiar read -r old new
+while IFS=" cambiar " read -r old new
 do
-    echo "Realizando reemplazo: $old por $new"
+    echo "Realizando reemplazo: '$old' por '$new'"
     # Verificar si el canal original existe en la EPG
     if grep -q "$old" EPG_temp.xml; then
         echo "Canal encontrado: $old"
@@ -77,6 +77,7 @@ cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
 rm -f EPG_temp*
+
 
 
 
