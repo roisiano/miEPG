@@ -23,15 +23,9 @@ done < epgs.txt
 # Leer canales.txt
 while IFS=, read -r old new logo
 do
-    # Si el nombre del canal (old) contiene comillas, eliminarlas
-    if [[ "$old" =~ ^\".*\"$ ]]; then
-        old=$(echo "$old" | sed 's/^"\(.*\)"$/\1/')
-    fi
-
-    # Si el nuevo nombre del canal (new) también contiene comillas, eliminarlas
-    if [[ "$new" =~ ^\".*\"$ ]]; then
-        new=$(echo "$new" | sed 's/^"\(.*\)"$/\1/')
-    fi
+    # Eliminar comillas en el nombre del canal, si las tiene
+    old=$(echo "$old" | sed 's/^"\(.*\)"$/\1/')
+    new=$(echo "$new" | sed 's/^"\(.*\)"$/\1/')
 
     contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
     if [ $contar_channel -gt 0 ]; then
@@ -72,5 +66,6 @@ cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
 rm -f EPG_temp*
+
 
 
