@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/12/2024 19:31" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 13/12/2024 19:36" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -210,6 +210,10 @@
   <channel id="Sky Sport 256 (Italy) - Vpn Italy">
     <display-name>Sky Sport 256 (Italy) - Vpn Italy</display-name>
     <icon src="https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=3796926a-6496-4e62-aff6-c9f69fb270f1?tr=n-logo_80" />
+  </channel>
+  <channel id="Sky Sport 257 (Italy) - Vpn Italy">
+    <display-name>Sky Sport 257 (Italy) - Vpn Italy</display-name>
+    <icon src="https://guidatv.sky.it/logo/775skysport_Light_Fit.png?checksum=0ead5877-65b1-4029-a5c8-1cd0e79b7523?tr=n-logo_80" />
   </channel>
   <channel id="Nova Sport 1 SK">
     <display-name>Nova Sport 1 SK</display-name>
@@ -30600,6 +30604,17 @@
     <icon src="https://guidatv.sky.it/uuid/6dd1972b-97e7-47c7-8346-aff1520fb178/cover?md5ChecksumParam=278a23d3c1cc299bc9ad133e8d469229" />
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S2024 E550</episode-num>
+    <premiere />
+  </programme>
+  <programme start="20241214133000 +0000" stop="20241215180000 +0000" channel="Sky Sport 257 (Italy) - Vpn Italy">
+    <title lang="it">Turris - Crotone</title>
+    <desc lang="it">Serie C: Turris - Crotone. Girone C 19a g. - Le partite del campionato di calcio di Serie C.</desc>
+    <date>2024</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/54d00f4e-3905-45fb-a3f1-2b7f301d1e95/cover?md5ChecksumParam=57a41e7249a2073a7f578f4ced02267f" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S2024 E571</episode-num>
     <premiere />
   </programme>
   <programme start="20241212010500 +0100" stop="20241212034500 +0100" channel="Nova Sport 1 SK">
