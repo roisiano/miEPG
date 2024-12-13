@@ -23,12 +23,17 @@ done < epgs.txt
 # Leer cambios.txt y realizar los reemplazos
 while IFS=" cambiar " read -r old new
 do
+    # Escapar los caracteres especiales
+    old_escaped=$(echo "$old" | sed 's/[]\/$*.^|[]/\\&/g')
+    new_escaped=$(echo "$new" | sed 's/[]\/$*.^|[]/\\&/g')
+
     echo "Realizando reemplazo: '$old' por '$new'"
+
     # Verificar si el canal original existe en la EPG
-    if grep -q "$old" EPG_temp.xml; then
+    if grep -q "$old_escaped" EPG_temp.xml; then
         echo "Canal encontrado: $old"
         # Realizar el reemplazo en el archivo EPG
-        sed -i "s/${old}/${new}/g" EPG_temp.xml
+        sed -i "s/${old_escaped}/${new_escaped}/g" EPG_temp.xml
     else
         echo "Canal no encontrado: $old"
     fi
@@ -77,6 +82,7 @@ cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
 rm -f EPG_temp*
+
 
 
 
