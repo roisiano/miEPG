@@ -2,26 +2,26 @@ name: Update EPG Files
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'  # Ejecuta el flujo de trabajo a las 6:00 AM y 6:00 PM cada día.
-  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+    - cron: '0 6,18 * * *'  # Ejecutar a las 6:00 AM y 6:00 PM cada día
+  workflow_dispatch:  # Permite ejecutar manualmente el flujo de trabajo
 
 jobs:
-  update_nor:
+  update_epg:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Download the EPG file for NOR.xml
+    - name: Download the first EPG file
       run: |
         wget https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz
 
-    - name: Decompress the EPG file for NOR.xml
+    - name: Decompress the first EPG file
       run: |
         gunzip epg_ripper_NO1.xml.gz
 
-    - name: Perform replacements in NOR.xml
+    - name: Perform replacements in the first EPG file
       run: |
         sed -i 's/TV.2.Sport.1.Norway.(NO,NO).no/NO - TV2 Sport1/' epg_ripper_NO1.xml
         sed -i 's/TV.2.Sport.2.Norway.(NO,NO).no/NO - TV2 Sport2/' epg_ripper_NO1.xml
@@ -31,50 +31,31 @@ jobs:
         sed -i 's/Viasport+.Norway.(NO,NO).no/NO - V Sport+/' epg_ripper_NO1.xml
         sed -i 's/TV.2.Sport.Premium.(NO,NO).no/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
 
-    - name: Move NOR.xml to the repository
+    - name: Move the first file to the repository
       run: |
-        mv epg_ripper_NO1.xml NOR.xml
+        mv epg_ripper_NO1.xml ./NOR.xml
 
-    - name: Commit and push NOR.xml
-      run: |
-        git config --global user.email "your-email@example.com"
-        git config --global user.name "GitHub Actions"
-        git add NOR.xml
-        git commit -m "Update NOR.xml with name changes"
-        git push origin main
-
-  update_nor2:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Download the EPG file for NOR2.xml
+    - name: Download the second EPG file
       run: |
         wget https://www.bevy.be/bevyfiles/norwaypremium.xml.gz
 
-    - name: Decompress the EPG file for NOR2.xml
+    - name: Decompress the second EPG file
       run: |
         gunzip norwaypremium.xml.gz
 
-    - name: Format the EPG file for NOR2.xml
+    - name: Format the second EPG file
       run: |
         sed -i 's/<programme /\n<programme /g' norwaypremium.xml
         sed -i 's/<\/programme>/<\/programme>\n/g' norwaypremium.xml
-        sed -i 's/<title>/<title>\n/g' norwaypremium.xml
-        sed -i 's/<desc>/<desc>\n/g' norwaypremium.xml
-        sed -i 's/<episode-num>/<episode-num>\n/g' norwaypremium.xml
+        mv norwaypremium.xml ./NOR2.xml
 
-    - name: Rename the formatted file to NOR2.xml
-      run: |
-        mv norwaypremium.xml NOR2.xml
-
-    - name: Commit and push NOR2.xml
+    - name: Commit and push the changes
       run: |
         git config --global user.email "your-email@example.com"
         git config --global user.name "GitHub Actions"
-        git add NOR2.xml
-        git commit -m "Update NOR2.xml with formatted changes"
+        git pull origin main --rebase
+        git add .
+        git commit -m "Update NOR.xml and NOR2.xml"
         git push origin main
+
 
