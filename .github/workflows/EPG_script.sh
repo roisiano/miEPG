@@ -23,8 +23,15 @@ done < epgs.txt
 # Leer cambios.txt y realizar los reemplazos
 while IFS= cambiar read -r old new
 do
-    echo Realizando reemplazo: $old por $new
-    sed -i "s/${old}/${new}/g" EPG_temp.xml
+    echo "Realizando reemplazo: $old por $new"
+    # Verificar si el canal original existe en la EPG
+    if grep -q "$old" EPG_temp.xml; then
+        echo "Canal encontrado: $old"
+        # Realizar el reemplazo en el archivo EPG
+        sed -i "s/${old}/${new}/g" EPG_temp.xml
+    else
+        echo "Canal no encontrado: $old"
+    fi
 done < cambios.txt
 
 # Leer canales.txt
@@ -32,17 +39,18 @@ while IFS=, read -r old new logo
 do
     contar_channel="$(grep -c "channel=\"$old\"" EPG_temp.xml)"
     if [ $contar_channel -gt 0 ]; then
+        echo "Procesando canal: $old · Nuevo nombre: $new"
         sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
         sed -i '/<icon src/!d' EPG_temp01.xml
         if [ "$logo" ]; then
-            echo Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias
+            echo "Nombre EPG: $old · Nuevo nombre: $new · Cambiando logo ··· $contar_channel coincidencias"
             echo '  </channel>' >> EPG_temp01.xml
             sed -i "1i\  <channel id=\"${new}\">" EPG_temp01.xml
             sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
             sed -i "s#<icon src=.*#<icon src=\"${logo}\" \/>#" EPG_temp01.xml
             sed -i "3i\    <icon src=\"${logo}\" \/>" EPG_temp01.xml
         else
-            echo Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias
+            echo "Nombre EPG: $old · Nuevo nombre: $new · Manteniendo logo ··· $contar_channel coincidencias"
             echo '  </channel>' >> EPG_temp01.xml
             sed -i "1i\  <channel id=\"${new}\">" EPG_temp01.xml
             sed -i "2i\    <display-name>${new}</display-name>" EPG_temp01.xml
@@ -57,7 +65,7 @@ do
         sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
         cat EPG_temp02.xml >> EPG_temp2.xml
     else
-        echo Saltando canal: $old ··· $contar_channel coincidencias
+        echo "Saltando canal: $old ··· $contar_channel coincidencias"
     fi
 done < canales.txt
 
@@ -69,6 +77,7 @@ cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
 rm -f EPG_temp*
+
 
 
 
