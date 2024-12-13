@@ -9,13 +9,13 @@ rm -f EPG_temp*
 while IFS=, read -r epg
 do
     extension="${epg##*.}"
-    if [ $extension = "gz" ]; then
+    if [ "$extension" = "gz" ]; then
         echo Descargando y descomprimiendo epg
-        wget -O EPG_temp00.xml.gz -q ${epg}
+        wget -O EPG_temp00.xml.gz -q "${epg}"
         gzip -d -f EPG_temp00.xml.gz
     else
         echo Descargando epg
-        wget -O EPG_temp00.xml -q ${epg}
+        wget -O EPG_temp00.xml -q "${epg}"
     fi
     cat EPG_temp00.xml >> EPG_temp.xml
 done < epgs.txt
@@ -27,14 +27,17 @@ do
     old=$(echo "$old" | sed 's/^"//;s/"$//')
     new=$(echo "$new" | sed 's/^"//;s/"$//')
 
-    echo "Buscando canal: $old"
-    contar_channel=$(grep -c "channel=\"$old\"" EPG_temp.xml)
+    # Escapar caracteres especiales en $old para usar en grep
+    escaped_old=$(printf '%s\n' "$old" | sed -e 's/[]\/$*.^[]/\\&/g')
 
-    if [ $contar_channel -gt 0 ]; then
+    echo "Buscando canal: $old"
+    contar_channel=$(grep -c "channel=\"$escaped_old\"" EPG_temp.xml)
+
+    if [ "$contar_channel" -gt 0 ]; then
         echo "Canal encontrado: $old · Cambiando a: $new · Coincidencias: $contar_channel"
 
         # Extraer sección del canal y modificarla
-        sed -n "/<channel id=\"${old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
+        sed -n "/<channel id=\"${escaped_old}\">/,/<\/channel>/p" EPG_temp.xml > EPG_temp01.xml
         sed -i '/<icon src/!d' EPG_temp01.xml
         if [ "$logo" ]; then
             echo "Cambiando logo a: $logo"
@@ -53,9 +56,9 @@ do
         sed -i '$!N;/^\(.*\)\n\1$/!P;D' EPG_temp1.xml
 
         # Modificar los programas asociados
-        sed -n "/<programme.*\"${old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
+        sed -n "/<programme.*\"${escaped_old}\"/,/<\/programme>/p" EPG_temp.xml > EPG_temp02.xml
         sed -i '/<programme/s/\">.*/\"/g' EPG_temp02.xml
-        sed -i "s# channel=\"${old}\"##g" EPG_temp02.xml	
+        sed -i "s# channel=\"${escaped_old}\"##g" EPG_temp02.xml	
         sed -i "/<programme/a EPG_temp channel=\"${new}\">" EPG_temp02.xml
         sed -i ':a;N;$!ba;s/\nEPG_temp//g' EPG_temp02.xml
         cat EPG_temp02.xml >> EPG_temp2.xml
@@ -73,3 +76,4 @@ cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
 rm -f EPG_temp*
+
