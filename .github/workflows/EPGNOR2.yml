@@ -16,37 +16,21 @@ jobs:
     - name: Download the new EPG file
       run: |
         wget https://www.bevy.be/bevyfiles/norwaypremium.xml.gz
-
     - name: Decompress the new EPG file
       run: |
         gunzip norwaypremium.xml.gz
-
     - name: Format the EPG file
       run: |
-# Separar <title> en una nueva línea si no está ya separada
-sed -i '/<title>/!s/<title>/\n<title>/g' norwaypremium.xml
-
-# Separar <desc> en una nueva línea si no está ya separada
-sed -i '/<desc>/!s/<desc>/\n<desc>/g' norwaypremium.xml
-
-# Separar <episode-num> en una nueva línea si no está ya separada
-sed -i '/<episode-num>/!s/<episode-num>/\n<episode-num>/g' norwaypremium.xml
-
-# Separar </programme> en una nueva línea si no está ya separada
-sed -i '/<\/programme>/!s/<\/programme>/\n<\/programme>/g' norwaypremium.xml
-
-# Agregar salto de línea después de cada etiqueta de apertura <programme
-sed -i 's/<programme /\n<programme /g' norwaypremium.xml
-
-
+        sed -i '/<title>/!s/<title>/\n<title>/g' norwaypremium.xml
+        sed -i '/<desc>/!s/<desc>/\n<desc>/g' norwaypremium.xml
+        sed -i '/<episode-num>/!s/<episode-num>/\n<episode-num>/g' norwaypremium.xml
+        sed -i '/<\/programme>/!s/<\/programme>/\n<\/programme>/g' norwaypremium.xml
     - name: Save the formatted file as NOR2.xml
       run: |
         mv norwaypremium.xml ./NOR2.xml
-
     - name: Force add changes
       run: |
         git add -f NOR2.xml
-
     - name: Commit changes if any
       run: |
         if git diff --cached --quiet; then
@@ -56,4 +40,6 @@ sed -i 's/<programme /\n<programme /g' norwaypremium.xml
           git commit -m "Add formatted EPG file as NOR2.xml"
           git push origin main;
         fi
+
+
 
