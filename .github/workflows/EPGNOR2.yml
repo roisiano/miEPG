@@ -21,10 +21,11 @@ jobs:
         gunzip norwaypremium.xml.gz
     - name: Format the EPG file
       run: |
-        sed -i '/<title>/!s/<title>/\n<title>/g' norwaypremium.xml
-        sed -i '/<desc>/!s/<desc>/\n<desc>/g' norwaypremium.xml
-        sed -i '/<episode-num>/!s/<episode-num>/\n<episode-num>/g' norwaypremium.xml
-        sed -i '/<\/programme>/!s/<\/programme>/\n<\/programme>/g' norwaypremium.xml
+        sed -i 's/<title>/\n<title>/g' norwaypremium.xml
+        sed -i 's/<desc>/\n<desc>/g' norwaypremium.xml
+        sed -i 's/<episode-num>/\n<episode-num>/g' norwaypremium.xml
+        sed -i 's/<\/programme>/\n<\/programme>/g' norwaypremium.xml
+
     - name: Save the formatted file as NOR2.xml
       run: |
         mv norwaypremium.xml ./NOR2.xml
