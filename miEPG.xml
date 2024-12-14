@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 13/12/2024 23:58" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/12/2024 00:46" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -226,6 +226,18 @@
   <channel id="NO - TV2 Sport2">
     <display-name>NO - TV2 Sport2</display-name>
     <icon src="https://cdn.images.simply.tv/2899186713257332546" />
+  </channel>
+  <channel id="NO - V Sport 1">
+    <display-name>NO - V Sport 1</display-name>
+  </channel>
+  <channel id="NO - V Sport 2">
+    <display-name>NO - V Sport 2</display-name>
+  </channel>
+  <channel id="NO - V Sport 3">
+    <display-name>NO - V Sport 3</display-name>
+  </channel>
+  <channel id="NO - V Sport+">
+    <display-name>NO - V Sport+</display-name>
   </channel>
   <programme start="20241213065400 +0100" stop="20241213072400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
@@ -32745,4 +32757,880 @@
     <country lang="nb">KZ</country>
     <previously-shown />
   </programme>
+<programme start="20241212230000 +0000" stop="20241213010000 +0000" channel="NO - V Sport 1">
+<title>Championship: West Bromwich - Coventry</title>
+<sub-title>West Bromwich - Coventry</sub-title>
+<desc>Fotball fra 2024/25. West Bromwich - Coventry.</desc>
+<episode-num system="xmltv_ns">2023.27.</episode-num>
+</programme>
+<programme start="20241213010000 +0000" stop="20241213060000 +0000" channel="NO - V Sport 1">
+<title>NHL: Wild - Oilers</title>
+<sub-title>Wild - Oilers</sub-title>
+<desc>Ishockey fra 2024/25. Minnesota Wild - Edmonton Oilers.</desc>
+<episode-num system="xmltv_ns">2023.100.</episode-num>
+</programme>
+<programme start="20241213060000 +0000" stop="20241213090000 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213090000 +0000" stop="20241213093000 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213093000 +0000" stop="20241213120000 +0000" channel="NO - V Sport 1">
+<title>NHL: Wild - Oilers</title>
+<sub-title>Wild - Oilers</sub-title>
+<desc>Ishockey fra 2024/25. Minnesota Wild - Edmonton Oilers.</desc>
+<episode-num system="xmltv_ns">2023.100.</episode-num>
+</programme>
+<programme start="20241213120000 +0000" stop="20241213130000 +0000" channel="NO - V Sport 1">
+<title>NHL On The Fly</title>
+<desc>Magasin fra 2024/25. NHL On The Fly.</desc>
+<episode-num system="xmltv_ns">2023.48.</episode-num>
+</programme>
+<programme start="20241213130000 +0000" stop="20241213140000 +0000" channel="NO - V Sport 1">
+<title>UEL/UECL Highlights</title>
+<desc>Fotballmagasin fra 2024/25. UEL/UECL Highlights.</desc>
+<episode-num system="xmltv_ns">2023.6.</episode-num>
+</programme>
+<programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="NO - V Sport 1">
+<title>FastZone</title>
+<desc>Magasin fra 2024/25. Vi gir deg en oppsummering av åpningsrundene i Fanatec GT World Challenge Asia Series og høydepunktene fra 6. runde av den tyske Porsche Carrera Cup fra Sachsenring.</desc>
+<episode-num system="xmltv_ns">2023.34.</episode-num>
+</programme>
+<programme start="20241213143000 +0000" stop="20241213144500 +0000" channel="NO - V Sport 1">
+<title>Viaplay Vinter: Viaplay Studio</title>
+<sub-title>Viaplay Studio</sub-title>
+<desc>Vinteridrettsmagasin fra 2024/25. Viaplay Vinter-redaksjonen serverer deg alt som er å vite før og etter dagens øvelser. Få med deg analysene fra de beste ekspertene samt intervjuer, reportasjer og sammendrag.</desc>
+<episode-num system="xmltv_ns">2023.42.</episode-num>
+</programme>
+<programme start="20241213144500 +0000" stop="20241213162500 +0000" channel="NO - V Sport 1">
+<title>V-cup hopp: Super Team Menn Titisee-Neustadt</title>
+<sub-title>Super Team Menn Titisee-Neustadt</sub-title>
+<desc>Hopp fra 2024/25. VCup Hopp: Super Team, menn. Direkte fra Titisee-Neustadt, Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.28.</episode-num>
+</programme>
+<programme start="20241213162500 +0000" stop="20241213170000 +0000" channel="NO - V Sport 1">
+<title>Viaplay Vinter: Viaplay Studio</title>
+<sub-title>Viaplay Studio</sub-title>
+<desc>Vinteridrettsmagasin fra 2024/25. Viaplay Vinter-redaksjonen serverer deg alt som er å vite før og etter dagens øvelser. Få med deg analysene fra de beste ekspertene samt intervjuer, reportasjer og sammendrag.</desc>
+<episode-num system="xmltv_ns">2023.43.</episode-num>
+</programme>
+<programme start="20241213170000 +0000" stop="20241213180500 +0000" channel="NO - V Sport 1">
+<title>V-cup langrenn: Teamsprint kvinner og menn</title>
+<sub-title>Teamsprint kvinner og menn</sub-title>
+<desc>Langrenn fra 2024/25. VCup Langrenn: Teamsprint kvinner og menn.</desc>
+<episode-num system="xmltv_ns">2023.18.</episode-num>
+</programme>
+<programme start="20241213180500 +0000" stop="20241213182500 +0000" channel="NO - V Sport 1">
+<title>Viaplay Vinter: Viaplay Studio</title>
+<sub-title>Viaplay Studio</sub-title>
+<desc>Vinteridrettsmagasin fra 2024/25. Viaplay Vinter-redaksjonen serverer deg alt som er å vite før og etter dagens øvelser. Få med deg analysene fra de beste ekspertene samt intervjuer, reportasjer og sammendrag.</desc>
+<episode-num system="xmltv_ns">2023.44.</episode-num>
+</programme>
+<programme start="20241213182500 +0000" stop="20241213185500 +0000" channel="NO - V Sport 1">
+<title>FastZone</title>
+<desc>Magasin fra 2024/25. Vi gir deg en oppsummering av åpningsrundene i Fanatec GT World Challenge Asia Series og høydepunktene fra 6. runde av den tyske Porsche Carrera Cup fra Sachsenring.</desc>
+<episode-num system="xmltv_ns">2023.34.</episode-num>
+</programme>
+<programme start="20241213185500 +0000" stop="20241213192500 +0000" channel="NO - V Sport 1">
+<title>Bundesliga Weekly</title>
+<desc>Fotballmagasin fra 2024/25. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.17.</episode-num>
+</programme>
+<programme start="20241213192500 +0000" stop="20241213213000 +0000" channel="NO - V Sport 1">
+<title>Bundesliga: Kampen meddeles senere</title>
+<sub-title>Kampen meddeles senere</sub-title>
+<desc>Fotball fra 2024/25. Kampen meddeles senere.</desc>
+<episode-num system="xmltv_ns">2023.38.</episode-num>
+</programme>
+<programme start="20241213213000 +0000" stop="20241213233000 +0000" channel="NO - V Sport 1">
+<title>UEFA Europa League: Bodø/Glimt - Besiktas</title>
+<sub-title>Bodø/Glimt - Besiktas</sub-title>
+<desc>Fotball fra 2024/25. Bodø/Glimt - Besiktas.</desc>
+<episode-num system="xmltv_ns">2023.11.</episode-num>
+</programme>
+<programme start="20241213233000 +0000" stop="20241214000000 +0000" channel="NO - V Sport 1">
+<title>Bundesliga Weekly</title>
+<desc>Fotballmagasin fra 2024/25. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.17.</episode-num>
+</programme>
+<programme start="20241214000000 +0000" stop="20241214050000 +0000" channel="NO - V Sport 1">
+<title>NHL: Hurricanes - Senators</title>
+<sub-title>Hurricanes - Senators</sub-title>
+<desc>Ishockey fra 2024/25. Carolina Hurricanes - Ottawa Senators.</desc>
+<episode-num system="xmltv_ns">2023.101.</episode-num>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214080000 +0000" stop="20241214082500 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214082500 +0000" stop="20241214100000 +0000" channel="NO - V Sport 1">
+<title>V-cup hopp: Kvinner, Zhangijkou</title>
+<sub-title>Kvinner, Zhangijkou</sub-title>
+<desc>Hopp fra 2024/25. Vcup Hopp; Kvinner. Direkte fra Zhangijkou, Kina.</desc>
+<episode-num system="xmltv_ns">2023.1.</episode-num>
+</programme>
+<programme start="20241214100000 +0000" stop="20241214103000 +0000" channel="NO - V Sport 1">
+<title>FastZone</title>
+<desc>Magasin fra 2024/25. Vi gir deg en oppsummering av åpningsrundene i Fanatec GT World Challenge Asia Series og høydepunktene fra 6. runde av den tyske Porsche Carrera Cup fra Sachsenring.</desc>
+<episode-num system="xmltv_ns">2023.34.</episode-num>
+</programme>
+<programme start="20241214103000 +0000" stop="20241214112000 +0000" channel="NO - V Sport 1">
+<title>Trans World Sport</title>
+<desc>Sportsmagasin fra 2024. De siste nyhetene og reportasjene fra sportens verden.</desc>
+<episode-num system="xmltv_ns">2023.48.</episode-num>
+</programme>
+<programme start="20241214112000 +0000" stop="20241214115000 +0000" channel="NO - V Sport 1">
+<title>GP Confidential</title>
+<desc>Tysk motorsportsmagasin fra 2024. Opplev hemmelighetene med Formel 1. GP Confidential utforsker de tekniske detaljene som avgjør hvem som tar det sjakkmønstrede flagget først - og hvem som blir igjen.</desc>
+<episode-num system="xmltv_ns">2023.23.</episode-num>
+</programme>
+<programme start="20241214115000 +0000" stop="20241214122000 +0000" channel="NO - V Sport 1">
+<title>Bundesliga Weekly</title>
+<desc>Fotballmagasin fra 2024/25. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.17.</episode-num>
+</programme>
+<programme start="20241214122000 +0000" stop="20241214143000 +0000" channel="NO - V Sport 1">
+<title>Championship: Preston - Leeds</title>
+<sub-title>Preston - Leeds</sub-title>
+<desc>Fotball fra 2024/25. Preston - Leeds.</desc>
+<episode-num system="xmltv_ns">2023.32.</episode-num>
+</programme>
+<programme start="20241214143000 +0000" stop="20241214145500 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214145500 +0000" stop="20241214165500 +0000" channel="NO - V Sport 1">
+<title>V-cup hopp: Menn, Titisee-Neustadt</title>
+<sub-title>Menn, Titisee-Neustadt</sub-title>
+<desc>Hopp fra 2024/25. Vcup Hopp; menn. Direkte fra Titisee-Neustadt, Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.2.</episode-num>
+</programme>
+<programme start="20241214165500 +0000" stop="20241214175500 +0000" channel="NO - V Sport 1">
+<title>UEL/UECL Highlights</title>
+<desc>Fotballmagasin fra 2024/25. UEL/UECL Highlights.</desc>
+<episode-num system="xmltv_ns">2023.6.</episode-num>
+</programme>
+<programme start="20241214175500 +0000" stop="20241214195500 +0000" channel="NO - V Sport 1">
+<title>V-cup alpint: Utfor kvinner, Beaver Creek</title>
+<sub-title>Utfor kvinner, Beaver Creek</sub-title>
+<desc>Alpint fra 2024/25. Vcup Alpint; utfor Kvinner Beaver Creek.</desc>
+<episode-num system="xmltv_ns">2023.12.</episode-num>
+</programme>
+<programme start="20241214195500 +0000" stop="20241214220000 +0000" channel="NO - V Sport 1">
+<title>Eredivisie: Feyenoord - Heracles</title>
+<sub-title>Feyenoord - Heracles</sub-title>
+<desc>Fotball fra 2024/25. Feyenoord - Heracles.</desc>
+<episode-num system="xmltv_ns">2023.4.</episode-num>
+</programme>
+<programme start="20241214220000 +0000" stop="20241215000000 +0000" channel="NO - V Sport 1">
+<title>V-cup hopp: Menn, Titisee-Neustadt</title>
+<sub-title>Menn, Titisee-Neustadt</sub-title>
+<desc>Hopp fra 2024/25. Vcup Hopp; menn. Direkte fra Titisee-Neustadt, Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.2.</episode-num>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="NO - V Sport 1">
+<title>NHL: Senators - Penguin</title>
+<sub-title>Senators - Penguin</sub-title>
+<desc>Ishockey fra 2024/25. Ottawa Senators - Pittsburg Penguin.</desc>
+<episode-num system="xmltv_ns">2023.102.</episode-num>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215080000 +0000" channel="NO - V Sport 1">
+<title>NHL: Flames - Panthers</title>
+<sub-title>Flames - Panthers</sub-title>
+<desc>Ishockey fra 2024/25. Calgary Flames - Florida Panthers.</desc>
+<episode-num system="xmltv_ns">2023.103.</episode-num>
+</programme>
+<programme start="20241215080000 +0000" stop="20241215082500 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215082500 +0000" stop="20241215100000 +0000" channel="NO - V Sport 1">
+<title>V-cup hopp: Kvinner Zhangijkou</title>
+<sub-title>Kvinner Zhangijkou</sub-title>
+<desc>Hopp fra 2024/25. Vcup Hopp: kvinner. Direkte fraZhangijkou, Kina.</desc>
+<episode-num system="xmltv_ns">2023.3.</episode-num>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215103000 +0000" channel="NO - V Sport 1">
+<title>GP Confidential</title>
+<desc>Tysk motorsportsmagasin fra 2024. Opplev hemmelighetene med Formel 1. GP Confidential utforsker de tekniske detaljene som avgjør hvem som tar det sjakkmønstrede flagget først - og hvem som blir igjen.</desc>
+<episode-num system="xmltv_ns">2023.23.</episode-num>
+</programme>
+<programme start="20241215103000 +0000" stop="20241215125500 +0000" channel="NO - V Sport 1">
+<title>NHL: Senators - Penguin</title>
+<sub-title>Senators - Penguin</sub-title>
+<desc>Ishockey fra 2024/25. Ottawa Senators - Pittsburg Penguin.</desc>
+<episode-num system="xmltv_ns">2023.102.</episode-num>
+</programme>
+<programme start="20241215125500 +0000" stop="20241215143000 +0000" channel="NO - V Sport 1">
+<title>V-cup langrenn: 20km intervall klassisk kvinner, Davos</title>
+<sub-title>20km intervall klassisk kvinner, Davos</sub-title>
+<desc>Langrenn fra 2024/25. VCup Langrenn: 20km intervall klassisk kvinner. Direkte fra Davos, Sveits.</desc>
+<episode-num system="xmltv_ns">2023.9.</episode-num>
+</programme>
+<programme start="20241215143000 +0000" stop="20241215150000 +0000" channel="NO - V Sport 1">
+<title>Viaplay Vinter: Viaplay Studio</title>
+<sub-title>Viaplay Studio</sub-title>
+<desc>Vinteridrettsmagasin fra 2024/25. Viaplay Vinter-redaksjonen serverer deg alt som er å vite før og etter dagens øvelser. Få med deg analysene fra de beste ekspertene samt intervjuer, reportasjer og sammendrag.</desc>
+<episode-num system="xmltv_ns">2023.23.</episode-num>
+</programme>
+<programme start="20241215150000 +0000" stop="20241215164500 +0000" channel="NO - V Sport 1">
+<title>V-cup hopp: Menn Titisee-Neustadt</title>
+<sub-title>Menn Titisee-Neustadt</sub-title>
+<desc>Hopp fra 2024/25. Vcup Hopp; menn. Direkte fra Titisee-Neustadt, Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.4.</episode-num>
+</programme>
+<programme start="20241215164500 +0000" stop="20241215170000 +0000" channel="NO - V Sport 1">
+<title>Viaplay Vinter: Viaplay Studio</title>
+<sub-title>Viaplay Studio</sub-title>
+<desc>Vinteridrettsmagasin fra 2024/25. Viaplay Vinter-redaksjonen serverer deg alt som er å vite før og etter dagens øvelser. Få med deg analysene fra de beste ekspertene samt intervjuer, reportasjer og sammendrag.</desc>
+<episode-num system="xmltv_ns">2023.24.</episode-num>
+</programme>
+<programme start="20241215170000 +0000" stop="20241215175500 +0000" channel="NO - V Sport 1">
+<title>Trans World Sport</title>
+<desc>Sportsmagasin fra 2024. De siste nyhetene og reportasjene fra sportens verden.</desc>
+<episode-num system="xmltv_ns">2023.48.</episode-num>
+</programme>
+<programme start="20241215175500 +0000" stop="20241215194000 +0000" channel="NO - V Sport 1">
+<title>V-cup alpint: Super-G kvinner, Beaver Creek</title>
+<sub-title>Super-G kvinner, Beaver Creek</sub-title>
+<desc>Alpint fra 2024/25. Vcup Alpint; Super-G Kvinner Beaver Creek.</desc>
+<episode-num system="xmltv_ns">2023.13.</episode-num>
+</programme>
+<programme start="20241215194000 +0000" stop="20241215200000 +0000" channel="NO - V Sport 1">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215200000 +0000" stop="20241215230000 +0000" channel="NO - V Sport 1">
+<title>NHL: Islanders - Blackhawks</title>
+<sub-title>Islanders - Blackhawks</sub-title>
+<desc>Ishockey fra 2024/25. New York Islanders - Chicago Blackhawks.</desc>
+<episode-num system="xmltv_ns">2023.81.</episode-num>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216040000 +0000" channel="NO - V Sport 1">
+<title>NHL: Wild - Golden Knights</title>
+<sub-title>Wild - Golden Knights</sub-title>
+<desc>Ishockey fra 2024/25. Minnesota Wild - Vegas Golden Knights.</desc>
+<episode-num system="xmltv_ns">2023.104.</episode-num>
+</programme>
+<programme start="20241212220000 +0000" stop="20241213000000 +0000" channel="NO - V Sport 2">
+<title>NHL: Senators - Ducks</title>
+<sub-title>Senators - Ducks</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Ottawa Senators - Anaheim Ducks.</desc>
+<episode-num system="xmltv_ns">0.144.</episode-num>
+</programme>
+<programme start="20241213000000 +0000" stop="20241213030000 +0000" channel="NO - V Sport 2">
+<title>NHL: Maple Leafs - Ducks</title>
+<sub-title>Maple Leafs - Ducks</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Toronto Maple Leafs - Anaheim Ducks.</desc>
+<episode-num system="xmltv_ns">0.113.</episode-num>
+</programme>
+<programme start="20241213030000 +0000" stop="20241213060000 +0000" channel="NO - V Sport 2">
+<title>NHL: Canucks - Panthers</title>
+<sub-title>Canucks - Panthers</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Vancouver Canucks - Florida Panthers.</desc>
+<episode-num system="xmltv_ns">0.114.</episode-num>
+</programme>
+<programme start="20241213060000 +0000" stop="20241213090000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213090000 +0000" stop="20241213100000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213100000 +0000" stop="20241213120000 +0000" channel="NO - V Sport 2">
+<title>UEFA Europa League: Viktoria Plzen - Manchester United</title>
+<sub-title>Viktoria Plzen - Manchester United</sub-title>
+<desc>Fotball fra 2024. Fra Doosan Arena.</desc>
+<episode-num system="xmltv_ns">2023.110.</episode-num>
+</programme>
+<programme start="20241213120000 +0000" stop="20241213140000 +0000" channel="NO - V Sport 2">
+<title>UEFA Conference League: Astana - Chelsea</title>
+<sub-title>Astana - Chelsea</sub-title>
+<desc>Fotball fra 2024/25. Fra Almaty Ortalyk Stadion.</desc>
+<episode-num system="xmltv_ns">0.6.</episode-num>
+</programme>
+<programme start="20241213140000 +0000" stop="20241213144500 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Special</title>
+<sub-title>Bundesliga Special</sub-title>
+<desc>Sportsmagasin fra 2024. Magasin fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241213144500 +0000" stop="20241213163000 +0000" channel="NO - V Sport 2">
+<title>V-cup hopp: Super Team Menn Titisee-Neustadt</title>
+<sub-title>Super Team Menn Titisee-Neustadt</sub-title>
+<desc>Hopp fra 2024/25. VCup Hopp: Super Team, menn. Direkte fra Titisee-Neustadt, Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.28.</episode-num>
+</programme>
+<programme start="20241213163000 +0000" stop="20241213172500 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Highlights</title>
+<sub-title>Bundesliga Highlights</sub-title>
+<desc>Sportsmagasin fra 2024. Høydepunkter fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.11.</episode-num>
+</programme>
+<programme start="20241213172500 +0000" stop="20241213195000 +0000" channel="NO - V Sport 2">
+<title>Frauen-Bundesliga: Carl Zeiss Jena - Eintracht Frankfurt</title>
+<sub-title>Carl Zeiss Jena - Eintracht Frankfurt</sub-title>
+<desc>Fotball for kvinner fra Tyskland. Bundesliga i fotball for kvinner er den øverste divisjonen i Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.16.</episode-num>
+</programme>
+<programme start="20241213195000 +0000" stop="20241213220000 +0000" channel="NO - V Sport 2">
+<title>Championship: Derby - Portsmouth</title>
+<sub-title>Derby - Portsmouth</sub-title>
+<desc>Fotball fra Storbritannia 2023/24. Championship. Derby - Portsmouth.</desc>
+<episode-num system="xmltv_ns">2022.150.</episode-num>
+</programme>
+<programme start="20241213220000 +0000" stop="20241213223000 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Special</title>
+<sub-title>Bundesliga Special</sub-title>
+<desc>Sportsmagasin fra 2024. Magasin fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241213223000 +0000" stop="20241213230000 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Weekly</title>
+<sub-title>Bundesliga Weekly</sub-title>
+<desc>Sportsmagasin fra 2024. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.10.</episode-num>
+</programme>
+<programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214020000 +0000" stop="20241214040000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214040000 +0000" stop="20241214070000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214070000 +0000" stop="20241214100000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214100000 +0000" stop="20241214115500 +0000" channel="NO - V Sport 2">
+<title>Championship: Derby - Portsmouth</title>
+<sub-title>Derby - Portsmouth</sub-title>
+<desc>Fotball fra Storbritannia 2023/24. Championship. Derby - Portsmouth.</desc>
+<episode-num system="xmltv_ns">2022.150.</episode-num>
+</programme>
+<programme start="20241214115500 +0000" stop="20241214140000 +0000" channel="NO - V Sport 2">
+<title>2. Bundesliga: Schalke 04 - Fortuna Düsseldorf</title>
+<sub-title>Schalke 04 - Fortuna Düsseldorf</sub-title>
+<desc>Fotball fra 2024/25. 2. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.20.</episode-num>
+</programme>
+<programme start="20241214140000 +0000" stop="20241214145000 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Special</title>
+<sub-title>Bundesliga Special</sub-title>
+<desc>Sportsmagasin fra 2024. Magasin fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241214145000 +0000" stop="20241214170000 +0000" channel="NO - V Sport 2">
+<title>Championship: Middlesbrough - Millwall</title>
+<sub-title>Middlesbrough - Millwall</sub-title>
+<desc>Fotball fra Storbritannia 2023/24. Championship. Middlesbrough - Millwall.</desc>
+<episode-num system="xmltv_ns">2022.151.</episode-num>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214172500 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Weekly</title>
+<sub-title>Bundesliga Weekly</sub-title>
+<desc>Sportsmagasin fra 2024. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.10.</episode-num>
+</programme>
+<programme start="20241214172500 +0000" stop="20241214193000 +0000" channel="NO - V Sport 2">
+<title>Bundesliga: St. Pauli - Werder Bremen</title>
+<sub-title>St. Pauli - Werder Bremen</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.34.</episode-num>
+</programme>
+<programme start="20241214193000 +0000" stop="20241214213000 +0000" channel="NO - V Sport 2">
+<title>2. Bundesliga: Schalke 04 - Fortuna Düsseldorf</title>
+<sub-title>Schalke 04 - Fortuna Düsseldorf</sub-title>
+<desc>Fotball fra 2024/25. 2. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.20.</episode-num>
+</programme>
+<programme start="20241214213000 +0000" stop="20241214233000 +0000" channel="NO - V Sport 2">
+<title>Championship: Middlesbrough - Millwall</title>
+<sub-title>Middlesbrough - Millwall</sub-title>
+<desc>Fotball fra Storbritannia 2023/24. Championship. Middlesbrough - Millwall.</desc>
+<episode-num system="xmltv_ns">2022.151.</episode-num>
+</programme>
+<programme start="20241214233000 +0000" stop="20241215000000 +0000" channel="NO - V Sport 2">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 2.</desc>
+<episode-num system="xmltv_ns">0.101.</episode-num>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215030000 +0000" channel="NO - V Sport 2">
+<title>NHL: Red Wings - Maple Leafs</title>
+<sub-title>Red Wings - Maple Leafs</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Detroit Red Wings - Toronto Maple Leafs.</desc>
+<episode-num system="xmltv_ns">0.117.</episode-num>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215060000 +0000" channel="NO - V Sport 2">
+<title>NHL: Kraken - Lightning</title>
+<sub-title>Kraken - Lightning</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Seattle Kraken - Tampa Bay Lightning.</desc>
+<episode-num system="xmltv_ns">0.118.</episode-num>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215090000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215100000 +0000" channel="NO - V Sport 2">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215120000 +0000" channel="NO - V Sport 2">
+<title>2. Bundesliga: Schalke 04 - Fortuna Düsseldorf</title>
+<sub-title>Schalke 04 - Fortuna Düsseldorf</sub-title>
+<desc>Fotball fra 2024/25. 2. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.20.</episode-num>
+</programme>
+<programme start="20241215120000 +0000" stop="20241215122500 +0000" channel="NO - V Sport 2">
+<title>Sportsmagasin: Bundesliga Special</title>
+<sub-title>Bundesliga Special</sub-title>
+<desc>Sportsmagasin fra 2024. Magasin fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241215122500 +0000" stop="20241215145000 +0000" channel="NO - V Sport 2">
+<title>2. Bundesliga: Köln - Nürnberg</title>
+<sub-title>Köln - Nürnberg</sub-title>
+<desc>Fotball fra 2024/25. 2. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.21.</episode-num>
+</programme>
+<programme start="20241215145000 +0000" stop="20241215170000 +0000" channel="NO - V Sport 2">
+<title>Championship: Norwich - Burnley</title>
+<sub-title>Norwich - Burnley</sub-title>
+<desc>Fotball fra Storbritannia 2023/24. Championship. Norwich - Burnley.</desc>
+<episode-num system="xmltv_ns">2022.152.</episode-num>
+</programme>
+<programme start="20241215170000 +0000" stop="20241215190000 +0000" channel="NO - V Sport 2">
+<title>Championship: Middlesbrough - Millwall</title>
+<sub-title>Middlesbrough - Millwall</sub-title>
+<desc>Fotball fra Storbritannia 2023/24. Championship. Middlesbrough - Millwall.</desc>
+<episode-num system="xmltv_ns">2022.151.</episode-num>
+</programme>
+<programme start="20241215190000 +0000" stop="20241215210000 +0000" channel="NO - V Sport 2">
+<title>2. Bundesliga: Köln - Nürnberg</title>
+<sub-title>Köln - Nürnberg</sub-title>
+<desc>Fotball fra 2024/25. 2. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.21.</episode-num>
+</programme>
+<programme start="20241215210000 +0000" stop="20241215213000 +0000" channel="NO - V Sport 2">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 1.</desc>
+<episode-num system="xmltv_ns">0.100.</episode-num>
+</programme>
+<programme start="20241215213000 +0000" stop="20241215220000 +0000" channel="NO - V Sport 2">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 2.</desc>
+<episode-num system="xmltv_ns">0.101.</episode-num>
+</programme>
+<programme start="20241215220000 +0000" stop="20241216010000 +0000" channel="NO - V Sport 2">
+<title>NHL: Maple Leafs - Sabres</title>
+<sub-title>Maple Leafs - Sabres</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Toronto Maple Leafs - Buffalo Sabres.</desc>
+<episode-num system="xmltv_ns">0.119.</episode-num>
+</programme>
+<programme start="20241212230000 +0000" stop="20241213020000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213020000 +0000" stop="20241213050000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213050000 +0000" stop="20241213080000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213080000 +0000" stop="20241213100000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213100000 +0000" stop="20241213110000 +0000" channel="NO - V Sport 3">
+<title>Trans World Sport</title>
+<desc>Sportsmagasin fra 2024. De siste nyhetene og reportasjene fra sportens verden.</desc>
+<episode-num system="xmltv_ns">2023.6.</episode-num>
+</programme>
+<programme start="20241213110000 +0000" stop="20241213130000 +0000" channel="NO - V Sport 3">
+<title>V-cup Freeski: Skicross, Val Thorens</title>
+<sub-title>Skicross, Val Thorens</sub-title>
+<desc>Freeski fra 2024/25. V-cup Freeski. Skicross fra Val Thorens, Frankrike.</desc>
+<episode-num system="xmltv_ns">2023.107.</episode-num>
+</programme>
+<programme start="20241213130000 +0000" stop="20241213143000 +0000" channel="NO - V Sport 3">
+<title>Bundesliga Håndball: Rhein-Neckar Löwen - Flensburg</title>
+<sub-title>Rhein-Neckar Löwen - Flensburg</sub-title>
+<desc>Håndball for menn fra Tyskland. Bundesligaen i håndball for menn er den øverste håndballdivisjonen for menn i Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.109.</episode-num>
+</programme>
+<programme start="20241213143000 +0000" stop="20241213181500 +0000" channel="NO - V Sport 3">
+<title>Formel 1: Race, Abu Dhabi</title>
+<sub-title>Race, Abu Dhabi</sub-title>
+<desc>Race Abu Dhabi. Kommentatorer: Atle Gulbrandsen og Stein Pettersen.</desc>
+<episode-num system="xmltv_ns">2023.32.</episode-num>
+</programme>
+<programme start="20241213181500 +0000" stop="20241213201000 +0000" channel="NO - V Sport 3">
+<title>UEFA Europa League: Bodø/Glimt - Besiktas</title>
+<sub-title>Bodø/Glimt - Besiktas</sub-title>
+<desc>Fotball fra 2024/25. Bodø/Glimt - Besiktas.</desc>
+<episode-num system="xmltv_ns">2023.11.</episode-num>
+</programme>
+<programme start="20241213201000 +0000" stop="20241213220000 +0000" channel="NO - V Sport 3">
+<title>V-cup Freeski: Skicross, Val Thorens</title>
+<sub-title>Skicross, Val Thorens</sub-title>
+<desc>Freeski fra 2024/25. V-cup Freeski. Skicross fra Val Thorens, Frankrike.</desc>
+<episode-num system="xmltv_ns">2023.107.</episode-num>
+</programme>
+<programme start="20241213220000 +0000" stop="20241213230000 +0000" channel="NO - V Sport 3">
+<title>MotoGP: MotoGP Season Review 2024</title>
+<sub-title>MotoGP Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.205.</episode-num>
+</programme>
+<programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214020000 +0000" stop="20241214050000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214080000 +0000" stop="20241214100000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214100000 +0000" stop="20241214113000 +0000" channel="NO - V Sport 3">
+<title>V-cup Freeski: Skicross, Val Thorens</title>
+<sub-title>Skicross, Val Thorens</sub-title>
+<desc>Freeski fra 2024/25. V-cup Freeski. Skicross fra Val Thorens, Frankrike.</desc>
+<episode-num system="xmltv_ns">2023.107.</episode-num>
+</programme>
+<programme start="20241214113000 +0000" stop="20241214130000 +0000" channel="NO - V Sport 3">
+<title>Bundesliga Håndball: Rhein-Neckar Löwen - Flensburg</title>
+<sub-title>Rhein-Neckar Löwen - Flensburg</sub-title>
+<desc>Håndball for menn fra Tyskland. Bundesligaen i håndball for menn er den øverste håndballdivisjonen for menn i Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.109.</episode-num>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="NO - V Sport 3">
+<title>MotoGP: MotoGP Season Review 2024</title>
+<sub-title>MotoGP Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.205.</episode-num>
+</programme>
+<programme start="20241214140000 +0000" stop="20241214142500 +0000" channel="NO - V Sport 3">
+<title>Sportsmagasin: Bundesliga Weekly</title>
+<sub-title>Bundesliga Weekly</sub-title>
+<desc>Sportsmagasin fra 2024. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.10.</episode-num>
+</programme>
+<programme start="20241214142500 +0000" stop="20241214163000 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Mainz - Bayern</title>
+<sub-title>Mainz - Bayern</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241214163000 +0000" stop="20241214170000 +0000" channel="NO - V Sport 3">
+<title>Sportsmagasin: Bundesliga Weekly</title>
+<sub-title>Bundesliga Weekly</sub-title>
+<desc>Sportsmagasin fra 2024. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.10.</episode-num>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="NO - V Sport 3">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 1.</desc>
+<episode-num system="xmltv_ns">0.100.</episode-num>
+</programme>
+<programme start="20241214173000 +0000" stop="20241214180000 +0000" channel="NO - V Sport 3">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 2.</desc>
+<episode-num system="xmltv_ns">0.101.</episode-num>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214210000 +0000" channel="NO - V Sport 3">
+<title>NHL: Devils - Blackhawks</title>
+<sub-title>Devils - Blackhawks</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. New Jersey Devils - Chicago Blackhawks.</desc>
+<episode-num system="xmltv_ns">0.115.</episode-num>
+</programme>
+<programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Mainz - Bayern</title>
+<sub-title>Mainz - Bayern</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241214230000 +0000" stop="20241215020000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215020000 +0000" stop="20241215050000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215050000 +0000" stop="20241215080000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215080000 +0000" stop="20241215100000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215103000 +0000" channel="NO - V Sport 3">
+<title>Sportsmagasin: Bundesliga Special</title>
+<sub-title>Bundesliga Special</sub-title>
+<desc>Sportsmagasin fra 2024. Magasin fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241215103000 +0000" stop="20241215122500 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Mainz - Bayern</title>
+<sub-title>Mainz - Bayern</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241215122500 +0000" stop="20241215142500 +0000" channel="NO - V Sport 3">
+<title>FA WSL: Everton - Manchester City</title>
+<sub-title>Everton - Manchester City</sub-title>
+<desc>Fotball fra 2024/25. FA Womens Super League.</desc>
+<episode-num system="xmltv_ns">2023.18.</episode-num>
+</programme>
+<programme start="20241215142500 +0000" stop="20241215162500 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Heidenheim - Stuttgart</title>
+<sub-title>Heidenheim - Stuttgart</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.36.</episode-num>
+</programme>
+<programme start="20241215162500 +0000" stop="20241215182500 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Dortmund - Hoffenheim</title>
+<sub-title>Dortmund - Hoffenheim</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.37.</episode-num>
+</programme>
+<programme start="20241215182500 +0000" stop="20241215203000 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Leipzig - Eintracht Frankfurt</title>
+<sub-title>Leipzig - Eintracht Frankfurt</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.38.</episode-num>
+</programme>
+<programme start="20241215203000 +0000" stop="20241215210000 +0000" channel="NO - V Sport 3">
+<title>Sportsmagasin: Bundesliga Special</title>
+<sub-title>Bundesliga Special</sub-title>
+<desc>Sportsmagasin fra 2024. Magasin fra Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.35.</episode-num>
+</programme>
+<programme start="20241215210000 +0000" stop="20241215230000 +0000" channel="NO - V Sport 3">
+<title>Bundesliga: Heidenheim - Stuttgart</title>
+<sub-title>Heidenheim - Stuttgart</sub-title>
+<desc>Fotball fra Tyskland 2024/25. Bundesliga.</desc>
+<episode-num system="xmltv_ns">2023.36.</episode-num>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216020000 +0000" channel="NO - V Sport 3">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241212230000 +0000" stop="20241213020000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213020000 +0000" stop="20241213050000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213050000 +0000" stop="20241213080000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213080000 +0000" stop="20241213100000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241213100000 +0000" stop="20241213112000 +0000" channel="NO - V Sport+">
+<title>MotoGP: MotoGP Season Review 2024</title>
+<sub-title>MotoGP Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.205.</episode-num>
+</programme>
+<programme start="20241213112000 +0000" stop="20241213130000 +0000" channel="NO - V Sport+">
+<title>V-cup Freeski: Skicross, Val Thorens</title>
+<sub-title>Skicross, Val Thorens</sub-title>
+<desc>Freeski fra 2024/25. V-cup Freeski. Skicross fra Val Thorens, Frankrike.</desc>
+<episode-num system="xmltv_ns">2023.109.</episode-num>
+</programme>
+<programme start="20241213130000 +0000" stop="20241213133000 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Argentina</title>
+<sub-title>This is Hockey, Argentina</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 1.</desc>
+<episode-num system="xmltv_ns">0.100.</episode-num>
+</programme>
+<programme start="20241213133000 +0000" stop="20241213140000 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Chile</title>
+<sub-title>This is Hockey, Chile</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 2.</desc>
+<episode-num system="xmltv_ns">0.101.</episode-num>
+</programme>
+<programme start="20241213140000 +0000" stop="20241213143000 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Jamaica</title>
+<sub-title>This is Hockey, Jamaica</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 3.</desc>
+<episode-num system="xmltv_ns">0.102.</episode-num>
+</programme>
+<programme start="20241213143000 +0000" stop="20241213145500 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Puerto Rico</title>
+<sub-title>This is Hockey, Puerto Rico</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 4.</desc>
+<episode-num system="xmltv_ns">0.103.</episode-num>
+</programme>
+<programme start="20241213145500 +0000" stop="20241213160000 +0000" channel="NO - V Sport+">
+<title>V-cup Langrenn: Kvalifisering Teamsprint, Davos</title>
+<sub-title>Kvalifisering Teamsprint, Davos</sub-title>
+<desc>Langrenn fra 2024/25. V-cup Langrenn. Kvalifisering teamsprint fra Davos, Sveits.</desc>
+<episode-num system="xmltv_ns">0.100.</episode-num>
+</programme>
+<programme start="20241213160000 +0000" stop="20241213180000 +0000" channel="NO - V Sport+">
+<title>UEFA Europa League: Bodø/Glimt - Besiktas</title>
+<sub-title>Bodø/Glimt - Besiktas</sub-title>
+<desc>Fotball fra 2024/25. UEFA Europa League. Bodø/Glimt - Besiktas. Kommentator: Andreas Toft og Nils Johan Semb.</desc>
+<episode-num system="xmltv_ns">2023.11.</episode-num>
+</programme>
+<programme start="20241213180000 +0000" stop="20241213183000 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Brazil</title>
+<sub-title>This is Hockey, Brazil</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 5.</desc>
+<episode-num system="xmltv_ns">0.104.</episode-num>
+</programme>
+<programme start="20241213183000 +0000" stop="20241213190000 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Columbia</title>
+<sub-title>This is Hockey, Columbia</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 6.</desc>
+<episode-num system="xmltv_ns">0.105.</episode-num>
+</programme>
+<programme start="20241213190000 +0000" stop="20241213194500 +0000" channel="NO - V Sport+">
+<title>NHL: This is Hockey, Mexico</title>
+<sub-title>This is Hockey, Mexico</sub-title>
+<desc>Ishockey fra 2024/25. En spennende dokumentarserie produsert av NHL som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Dokumentarserie som fordyper seg i hockeyens spirende verden over Latin-Amerika og Karibia. Episode 7.</desc>
+<episode-num system="xmltv_ns">0.106.</episode-num>
+</programme>
+<programme start="20241213194500 +0000" stop="20241213221500 +0000" channel="NO - V Sport+">
+<title>Euroleague: Lyon-Villeurbanne - Paris Basketball</title>
+<sub-title>Lyon-Villeurbanne - Paris Basketball</sub-title>
+<desc>Basket fra 2024/25. Basketball.</desc>
+<episode-num system="xmltv_ns">0.119.</episode-num>
+</programme>
+<programme start="20241213221500 +0000" stop="20241213230000 +0000" channel="NO - V Sport+">
+<title>Trans World Sport</title>
+<desc>Sportsmagasin fra 2024. De siste nyhetene og reportasjene fra sportens verden.</desc>
+<episode-num system="xmltv_ns">2023.6.</episode-num>
+</programme>
+<programme start="20241213230000 +0000" stop="20241214020000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214020000 +0000" stop="20241214050000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214080000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214080000 +0000" stop="20241214082500 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241214082500 +0000" stop="20241214102000 +0000" channel="NO - V Sport+">
+<title>V-cup alpint: Storslalåm 1. omg M Val dIsère</title>
+<sub-title>Storslalåm 1. omg M Val dIsère</sub-title>
+<desc>Alpint fra 2024/25. Vcup Alpint. VCup Alpint: storslalåm 1. omg menn. Direkte fra Val dIsère, Frankrike. Kommentatorer: Henrik Jonassen og Kjetil André Aamodt.</desc>
+<episode-num system="xmltv_ns">2023.27.</episode-num>
+</programme>
+<programme start="20241214102000 +0000" stop="20241214120000 +0000" channel="NO - V Sport+">
+<title>V-cup Snowboard: Snowboardcross, Cervinia</title>
+<sub-title>Snowboardcross, Cervinia</sub-title>
+<desc>Snowboard fra 2024/25. Verdenscup Snowboard. Snowboardcross fra Cervinia, Italia.</desc>
+<episode-num system="xmltv_ns">2023.10.</episode-num>
+</programme>
+<programme start="20241214120000 +0000" stop="20241214130000 +0000" channel="NO - V Sport+">
+<title>MotoGP: MotoGP Season Review 2024</title>
+<sub-title>MotoGP Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.205.</episode-num>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="NO - V Sport+">
+<title>MotoGP: Moto2 and Moto3 Season Review 2024</title>
+<sub-title>Moto2 and Moto3 Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.209.</episode-num>
+</programme>
+<programme start="20241214140000 +0000" stop="20241214162000 +0000" channel="NO - V Sport+">
+<title>Euroleague: Lyon-Villeurbanne - Paris Basketball</title>
+<sub-title>Lyon-Villeurbanne - Paris Basketball</sub-title>
+<desc>Basket fra 2024/25. Basketball.</desc>
+<episode-num system="xmltv_ns">0.119.</episode-num>
+</programme>
+<programme start="20241214162000 +0000" stop="20241214180000 +0000" channel="NO - V Sport+">
+<title>V-cup Snowboard: Parallell-storslalåm, Cortina dAmpezzo</title>
+<sub-title>Parallell-storslalåm, Cortina dAmpezzo</sub-title>
+<desc>Snowboard fra 2024/25. Verdenscup Snowboard. Parallell-storslalåm fra Cortina dAmpezzo, Italia.</desc>
+<episode-num system="xmltv_ns">2023.11.</episode-num>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214183000 +0000" channel="NO - V Sport+">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 1.</desc>
+<episode-num system="xmltv_ns">0.100.</episode-num>
+</programme>
+<programme start="20241214183000 +0000" stop="20241214190000 +0000" channel="NO - V Sport+">
+<title>NHL: Road to the NHL Winter Classic</title>
+<sub-title>Road to the NHL Winter Classic</sub-title>
+<desc>Ishockey fra 2024/25. Dokumentarserie fra NHL. Road to the NHL Winter Classic, episode 2.</desc>
+<episode-num system="xmltv_ns">0.101.</episode-num>
+</programme>
+<programme start="20241214190000 +0000" stop="20241214220000 +0000" channel="NO - V Sport+">
+<title>NHL: Wild - Flyers</title>
+<sub-title>Wild - Flyers</sub-title>
+<desc>Ishockey fra 2024/25. Ishockey. Minnesota Wild - Philadelphia Flyers.</desc>
+<episode-num system="xmltv_ns">0.116.</episode-num>
+</programme>
+<programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="NO - V Sport+">
+<title>MotoGP: MotoGP Season Review 2024</title>
+<sub-title>MotoGP Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.205.</episode-num>
+</programme>
+<programme start="20241214230000 +0000" stop="20241215020000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215020000 +0000" stop="20241215050000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215050000 +0000" stop="20241215080000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215080000 +0000" stop="20241215085500 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
+<programme start="20241215085500 +0000" stop="20241215105500 +0000" channel="NO - V Sport+">
+<title>V-cup alpint: Slalåm 1. omg menn, Val dIsère</title>
+<sub-title>Slalåm 1. omg menn, Val dIsère</sub-title>
+<desc>Alpint fra 2024/25. Vcup Alpint. VCup Alpint: Slalåm 1. omg, menn. Direkte fra Val dIsère, Franskrike. Kommentatorer: Henrik Jonassen og Kjetil André Aamodt.</desc>
+<episode-num system="xmltv_ns">2023.29.</episode-num>
+</programme>
+<programme start="20241215105500 +0000" stop="20241215115500 +0000" channel="NO - V Sport+">
+<title>MotoGP: MotoGP Season Review 2024</title>
+<sub-title>MotoGP Season Review 2024</sub-title>
+<desc>Motorsport fra 2024. Sesongoppsummering 2024.</desc>
+<episode-num system="xmltv_ns">2023.205.</episode-num>
+</programme>
+<programme start="20241215115500 +0000" stop="20241215130000 +0000" channel="NO - V Sport+">
+<title>V-cup alpint: Slalåm 2. omg, menn, Val dIsère</title>
+<sub-title>Slalåm 2. omg, menn, Val dIsère</sub-title>
+<desc>Alpint fra 2024/25. Vcup Alpint. VCup Alpint: Slalåm 2. omg, menn. Direkte fra Val dIsère, Franskrike. Kommentatorer: Henrik Jonassen og Kjetil André Aamodt.</desc>
+<episode-num system="xmltv_ns">2023.30.</episode-num>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215152000 +0000" channel="NO - V Sport+">
+<title>Frauen-Bundesliga: Bayern - Turbine Potsdam</title>
+<sub-title>Bayern - Turbine Potsdam</sub-title>
+<desc>Fotball for kvinner fra Tyskland. Bundesliga i fotball for kvinner er den øverste divisjonen i Tyskland.</desc>
+<episode-num system="xmltv_ns">2023.17.</episode-num>
+</programme>
+<programme start="20241215152000 +0000" stop="20241215180000 +0000" channel="NO - V Sport+">
+<title>Skotsk Cup: Finale: Celtic - Rangers</title>
+<sub-title>Finale: Celtic - Rangers</sub-title>
+<desc>Fotball fra 2024. Finale i Skotsk Cup.</desc>
+<episode-num system="xmltv_ns">0.4.</episode-num>
+</programme>
+<programme start="20241215180000 +0000" stop="20241215183000 +0000" channel="NO - V Sport+">
+<title>Sportsmagasin: Bundesliga Weekly</title>
+<sub-title>Bundesliga Weekly</sub-title>
+<desc>Sportsmagasin fra 2024. Bundesliga Weekly.</desc>
+<episode-num system="xmltv_ns">2023.10.</episode-num>
+</programme>
+<programme start="20241215183000 +0000" stop="20241215230000 +0000" channel="NO - V Sport+">
+<title>Darts: PDC World Darts Championship, dag 1</title>
+<sub-title>PDC World Darts Championship, dag 1</sub-title>
+<desc>Dart fra 2024. PDC World Darts Championship fra ærverdige Alexandra Palace, London. Dag 1, evening session.</desc>
+<episode-num system="xmltv_ns">2023.100.</episode-num>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216020000 +0000" channel="NO - V Sport+">
+<title>Ingen sending</title>
+</programme>
 </tv>
