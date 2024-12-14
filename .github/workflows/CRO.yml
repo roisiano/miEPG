@@ -22,7 +22,7 @@ jobs:
 
     - name: Download the new EPG file
       run: |
-        wget https://www.bevy.be/download.php?file=croatia3.xml.gz
+        wget https://www.bevy.be/bevyfiles/croatia3.xml.gz
     - name: Decompress the new EPG file 
       run: |
         gunzip croatia3.xml.gz
