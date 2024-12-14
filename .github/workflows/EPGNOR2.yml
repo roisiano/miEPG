@@ -2,7 +2,7 @@ name: Update EPG File
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'  # Ejecuta a las 6:00 AM y 6:00 PM cada día.
+    - cron: '45 5,13 * * *'  # Ejecuta a las 5:45 AM y 1:45 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
@@ -16,9 +16,11 @@ jobs:
     - name: Download the new EPG file
       run: |
         wget https://www.bevy.be/bevyfiles/norwaypremium.xml.gz
-    - name: Decompress the new EPG file
+
+    - name: Decompress the new EPG file 
       run: |
         gunzip norwaypremium.xml.gz
+
     - name: Format the EPG file
       run: |
         sed -i 's/<title/\n<title/g' norwaypremium.xml
@@ -30,13 +32,15 @@ jobs:
     - name: Save the formatted file as NOR2.xml
       run: |
         mv norwaypremium.xml ./NOR2.xml
-    - name: Commit and push the changes
+
+    - name: Commit and force-push the changes
       run: |
         git config --global user.email "your-email@example.com"
         git config --global user.name "GitHub Actions"
         git add NOR2.xml
-        git commit -m "Update EPG with name changes"
-        git push origin main
+        git commit -m "Update EPG file"
+        git push origin main --force
+
 
 
 
