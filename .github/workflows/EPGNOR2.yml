@@ -2,7 +2,9 @@ name: Update EPG File NOR2.xml
 
 on:
   schedule:
-    - cron: '45 5,13 * * *'  # Ejecuta a las 5:45 AM y 1:45 PM cada día.
+    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
+    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
