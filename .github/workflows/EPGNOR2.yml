@@ -22,9 +22,9 @@ jobs:
     - name: Format the EPG file
       run: |
         sed -i 's/<title/\n<title/g' norwaypremium.xml
-        sed -i 's/<sub-title/\n<sub-title/g' norwaypremium.xml
+        sed -i 's/<sub/\n<sub/g' norwaypremium.xml
         sed -i 's/<desc/\n<desc/g' norwaypremium.xml
-        sed -i 's/<episode-num/\n<episode-num/g' norwaypremium.xml
+        sed -i 's/<episode/\n<episode/g' norwaypremium.xml
         sed -i 's/<\/programme>/\n<\/programme>/g' norwaypremium.xml
 
     - name: Save the formatted file as NOR2.xml
