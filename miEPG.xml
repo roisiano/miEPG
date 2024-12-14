@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/12/2024 07:12" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/12/2024 08:53" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -239,8 +239,35 @@
   <channel id="NO - V Sport+">
     <display-name>NO - V Sport+</display-name>
   </channel>
+  <channel id="Arena Sport 1 Croatia">
+    <display-name>Arena Sport 1 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 2 Croatia">
+    <display-name>Arena Sport 2 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 3 Croatia">
+    <display-name>Arena Sport 3 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 4 Croatia">
+    <display-name>Arena Sport 4 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 5 Croatia">
+    <display-name>Arena Sport 5 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 6 Croatia">
+    <display-name>Arena Sport 6 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 7 Croatia">
+    <display-name>Arena Sport 7 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 8 Croatia">
+    <display-name>Arena Sport 8 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 9 Croatia">
+    <display-name>Arena Sport 9 Croatia</display-name>
+  </channel>
   <programme start="20241214070000 +0100" stop="20241214083000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Cuartos de final T24/25 · Abierto de Escocia de snooker</title>
+    <title lang="es">Abierto de Escocia de snooker T24/25 · Cuartos de final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 2.
 · País: R.U.</desc>
@@ -252,7 +279,7 @@
 </desc>
   </programme>
   <programme start="20241214083500 +0100" stop="20241214091500 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 7,5km esprín F T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -264,7 +291,7 @@
 · País: Francia</desc>
   </programme>
   <programme start="20241214110000 +0100" stop="20241214120000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 7,5km esprín F T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -570,7 +597,7 @@
 </desc>
   </programme>
   <programme start="20241216210500 +0100" stop="20241216220000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Davos - Equipo Esprín Libre (Relevo) T24/25 · Copa del mundo de esquí de fondo</title>
+    <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Equipo Esprín Libre (Relevo)</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
@@ -666,7 +693,7 @@
 · País: EE.UU.</desc>
   </programme>
   <programme start="20241217140000 +0100" stop="20241217143000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -756,7 +783,7 @@
 · País: Francia</desc>
   </programme>
   <programme start="20241218013000 +0100" stop="20241218020000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -834,7 +861,7 @@
 </desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218143000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 7,5km esprín F T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -912,7 +939,7 @@
 · País: EE.UU.</desc>
   </programme>
   <programme start="20241219013000 +0100" stop="20241219020000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 7,5km esprín F T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -990,7 +1017,7 @@
 · País: Suiza</desc>
   </programme>
   <programme start="20241219123000 +0100" stop="20241219130000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -1248,25 +1275,25 @@
 · País: EE.UU.</desc>
   </programme>
   <programme start="20241214061500 +0100" stop="20241214070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 7,5km esprín F T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
   <programme start="20241214070000 +0100" stop="20241214074500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
   <programme start="20241214074500 +0100" stop="20241214083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Davos - Equipo Esprín Libre (Relevo) T24/25 · Copa del mundo de esquí de fondo</title>
+    <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Equipo Esprín Libre (Relevo)</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
   <programme start="20241214083000 +0100" stop="20241214092000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Titisee- Neustadt: Titisee - Neustadt - M Super Team Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee - Neustadt - M Super Team Trampolín Largo</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
@@ -1278,7 +1305,7 @@
 · País: China</desc>
   </programme>
   <programme start="20241214110000 +0100" stop="20241214112000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Val Thorens - Campo a través 2 T24/25 · Copa del mundo de esquí acrobático</title>
+    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 2</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Francia</desc>
@@ -1628,7 +1655,7 @@
 · País: Francia</desc>
   </programme>
   <programme start="20241217010000 +0100" stop="20241217020000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Val Thorens - Campo a través 2 T24/25 · Copa del mundo de esquí acrobático</title>
+    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 2</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Francia</desc>
@@ -1724,13 +1751,13 @@
 · País: Francia</desc>
   </programme>
   <programme start="20241217160000 +0100" stop="20241217170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Val Thorens - Campo a través 2 T24/25 · Copa del mundo de esquí acrobático</title>
+    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 2</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Francia</desc>
   </programme>
   <programme start="20241217170000 +0100" stop="20241217173000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -1790,7 +1817,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241218020000 +0100" stop="20241218030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Davos - Equipo Esprín Libre (Relevo) T24/25 · Copa del mundo de esquí de fondo</title>
+    <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Equipo Esprín Libre (Relevo)</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
@@ -1844,7 +1871,7 @@
 · País: Alemania</desc>
   </programme>
   <programme start="20241218110000 +0100" stop="20241218113000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -1886,7 +1913,7 @@
 </desc>
   </programme>
   <programme start="20241218170000 +0100" stop="20241218173000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 7,5km esprín F T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -2000,7 +2027,7 @@
 · País: Austria</desc>
   </programme>
   <programme start="20241219080000 +0100" stop="20241219083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -2036,7 +2063,7 @@
 · País: Austria</desc>
   </programme>
   <programme start="20241219120000 +0100" stop="20241219123000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Hochfilzen - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
@@ -2317,173 +2344,6 @@
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Suiza</desc>
-  </programme>
-  <programme start="20241212000000 +0100" stop="20241212013000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Ruce</title>
-    <desc lang="pl">Trzeci indywidualny konkurs w Pucharze Świata 2024/2025. Rok temu rywalizację na skoczni Rukatunturi, która inaugurowała sezon, zdominował Stefan Kraft. Późniejszy zdobywca Kryształowej Kuli był najlepszy zarówno w sobotnich, jak i niedzielnych zmaganiach. Polakom poszło wówczas fatalnie. Jedynie Dawid Kubacki dwukrotnie zdołał awansować do drugiej serii, zajmując odpowiednio dwudzieste pierwsze i dwudzieste trzecie miejsce. Drugiego dnia zawodów w czołowej trzydziestce znalazł się także Piotr Żyła, który zakończył rywalizację dwie lokaty wyżej od swojego kolegi z reprezentacji. Występ Wiewióra w tegorocznych konkursach w Ruce stoi pod znakiem zapytania. W Lillehammer go zabrakło.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212013000 +0100" stop="20241212023000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Wiśle</title>
-    <desc lang="pl">Skocznia imienia Adama Małysza w Wiśle to trzeci przystanek tegorocznego Pucharu Świata. Po przykrych widokach na początku sezonu w Lillehammer, gdzie na trybunach pojawiła się zaledwie garstka (głównie polskich) kibiców, tutaj możemy liczyć na donośne wsparcie fanów. Pierwszoplanowymi aktorami powinni być Austriacy, którzy na inaugurację zaprezentowali się fantastycznie. Fenomenalną formę pokazała zarówno stara gwardia, jak i młode wilki. Ubiegłoroczny zdobywca Kryształowej Kuli, Stefan Kraft, w Lillehammer był dwukrotnie tuż za podium. Na jego najniższy stopień pierwszego dnia wskoczył natomiast Maximilian Ortner... który został awaryjnie powołany na te zawody i był to dla niego dopiero trzeci występ w konkursie Pucharu Świata. Jeśli do tego dodamy znakomite występy Jan Hoerla i Daniela Tschofeniga, mamy zdecydowanych faworytów rywalizacji w Pucharze Narodów.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4362239.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212023000 +0100" stop="20241212033000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Wiśle</title>
-    <desc lang="pl">Na inaugurację sezonu słabo zaprezentowali się Polacy. Liderem Biało-Czerwonych został zgodnie z przewidywaniami Paweł Wąsek, triumfator Letniego Grand Prix. Nasi weterani - Dawid Kubacki i Kamil Stoch - wciąż nie skaczą stabilnie, a Piotr Żyła nie wystartował w czterech pierwszych konkursach sezonu 2024/25. Czy zawody w Wiśle będą przełomowe i znów będziemy się cieszyć z miejsc Polaków w czołówce? A może kolejny triumf na swoje konto zapisze Pius Paschke. 34-letni Niemiec, wygrywając inauguracyjne zawody na Lysgardsbakken, został najstarszym liderem klasyfikacji generalnej Pucharu Świata w historii.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4362174.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212033000 +0100" stop="20241212050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - 3. dzień</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3834345.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212050000 +0100" stop="20241212060000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg na 10 km stylem dowolnym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212060000 +0100" stop="20241212065200 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg na 10 km stylem dowolnym kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212065200 +0100" stop="20241212082900 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - 3. dzień</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3834345.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212082900 +0100" stop="20241212092700 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg na 10 km stylem dowolnym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212092700 +0100" stop="20241212102900 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg na 10 km stylem dowolnym kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212102900 +0100" stop="20241212114300 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - 3. dzień</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3834345.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212114300 +0100" stop="20241212121600 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - 2. przejazd slalomu giganta mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212121600 +0100" stop="20241212135300 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212135300 +0100" stop="20241212152100 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Val Thorens - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212152100 +0100" stop="20241212164900 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Ruce</title>
-    <desc lang="pl">Skocznia Rukatunturi nie jest najbardziej szczęśliwym obiektem dla reprezentantów Polski. Do tej pory żadnemu z nich nie udało się wygrać odbywającego się na niej konkursu. Biało-Czerwoni stawali jednak kilka razy na podium. Ostatni raz ta sztuka udała im się w listopadzie 2020 roku, gdy drugie miejsce zajął Piotr Żyła, a trzecie - Dawid Kubacki. Jak pójdzie naszym Orłom tym razem? Selekcjoner Thomas Thurnbichler dokonał wielu zmian w planie przygotowań kadry do Pucharu Świata. Wszystko po to, by tak nieudany sezon jak ten poprzedni się nie powtórzył. Jedną z nowinek były bardziej zindywidualizowane treningi. Mamy nadzieję, że wszystkie te zabiegi przyniosą skutek i reprezentanci Polski znów będą dawać kibicom dużo radości.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212164900 +0100" stop="20241212173600 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212173600 +0100" stop="20241212183300 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212183300 +0100" stop="20241212190600 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg łączony mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212190600 +0100" stop="20241212195200 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg łączony kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212195200 +0100" stop="20241212202100 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212202100 +0100" stop="20241212215100 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Wiśle</title>
-    <desc lang="pl">Skocznia imienia Adama Małysza w Wiśle to trzeci przystanek tegorocznego Pucharu Świata. Po przykrych widokach na początku sezonu w Lillehammer, gdzie na trybunach pojawiła się zaledwie garstka (głównie polskich) kibiców, tutaj możemy liczyć na donośne wsparcie fanów. Pierwszoplanowymi aktorami powinni być Austriacy, którzy na inaugurację zaprezentowali się fantastycznie. Fenomenalną formę pokazała zarówno stara gwardia, jak i młode wilki. Ubiegłoroczny zdobywca Kryształowej Kuli, Stefan Kraft, w Lillehammer był dwukrotnie tuż za podium. Na jego najniższy stopień pierwszego dnia wskoczył natomiast Maximilian Ortner... który został awaryjnie powołany na te zawody i był to dla niego dopiero trzeci występ w konkursie Pucharu Świata. Jeśli do tego dodamy znakomite występy Jan Hoerla i Daniela Tschofeniga, mamy zdecydowanych faworytów rywalizacji w Pucharze Narodów.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4362239.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212215100 +0100" stop="20241212225100 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Wiśle</title>
-    <desc lang="pl">Na inaugurację sezonu słabo zaprezentowali się Polacy. Liderem Biało-Czerwonych został zgodnie z przewidywaniami Paweł Wąsek, triumfator Letniego Grand Prix. Nasi weterani - Dawid Kubacki i Kamil Stoch - wciąż nie skaczą stabilnie, a Piotr Żyła nie wystartował w czterech pierwszych konkursach sezonu 2024/25. Czy zawody w Wiśle będą przełomowe i znów będziemy się cieszyć z miejsc Polaków w czołówce? A może kolejny triumf na swoje konto zapisze Pius Paschke. 34-letni Niemiec, wygrywając inauguracyjne zawody na Lysgardsbakken, został najstarszym liderem klasyfikacji generalnej Pucharu Świata w historii.</desc>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4362174.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212225100 +0100" stop="20241212234800 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241212234800 +0100" stop="20241213010000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Val Thorens - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
   </programme>
   <programme start="20241213010000 +0100" stop="20241213014500 +0100" channel="EUROSPORT 2 ES">
     <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Lillehammer - bieg na 10 km stylem dowolnym mężczyzn</title>
@@ -3171,23 +3031,23 @@
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20241217180000 +0100" stop="20241217210000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217180000 +0100" stop="20241217190000 +0100" channel="EUROSPORT 2 ES">
     <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
     <rating>
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20241217210000 +0100" stop="20241217211500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - sprinty drużynowe stylem dowolnym</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
+  <programme start="20241217190000 +0100" stop="20241217210000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
     <rating>
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20241217211500 +0100" stop="20241217220000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
+  <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - sprinty drużynowe stylem dowolnym</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
     <rating>
       <value>0</value>
     </rating>
@@ -3202,6 +3062,188 @@
   <programme start="20241217230000 +0100" stop="20241218000000 +0100" channel="EUROSPORT 2 ES">
     <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218000000 +0100" stop="20241218010000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218010000 +0100" stop="20241218013000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218013000 +0100" stop="20241218020000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218020000 +0100" stop="20241218030000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218030000 +0100" stop="20241218040000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218040000 +0100" stop="20241218050000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218050000 +0100" stop="20241218070000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218070000 +0100" stop="20241218080000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218080000 +0100" stop="20241218083000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218083000 +0100" stop="20241218090000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218090000 +0100" stop="20241218100000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218100000 +0100" stop="20241218110000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218110000 +0100" stop="20241218120000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218120000 +0100" stop="20241218130000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa290823.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218130000 +0100" stop="20241218140000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Eurosport eRacing: World Series - Amsterdam</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984471.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218140000 +0100" stop="20241218143000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">F1 H2O: Grand Prix Szardży</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984489.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218143000 +0100" stop="20241218160000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218160000 +0100" stop="20241218170000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Kolarstwo torowe: Liga Mistrzów - 5. runda</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6036204.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218170000 +0100" stop="20241218180000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218180000 +0100" stop="20241218190000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218190000 +0100" stop="20241218200000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218200000 +0100" stop="20241218203000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218203000 +0100" stop="20241218210000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218210000 +0100" stop="20241218220000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218220000 +0100" stop="20241218230000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
+    <rating>
+      <value>0</value>
+    </rating>
+  </programme>
+  <programme start="20241218230000 +0100" stop="20241219000000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa290823.jpg" />
     <rating>
       <value>0</value>
     </rating>
@@ -5441,7 +5483,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241216144500 +0100" stop="20241216164500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Jornada 17: Valladolid - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Valladolid - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Duelo dramático en el José Zorrilla entre dos históricos de nuestro fútbol ubicados en el pozo de la clasificación. El Valladolid, colista, solo ha sumado uno de los últimos 18 puntos en juego. El Valencia, por su parte, no conoce la victoria a domicilio Votos: 8.
 · País: España</desc>
@@ -5547,7 +5589,7 @@
 </desc>
   </programme>
   <programme start="20241217190000 +0100" stop="20241217210000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Jornada 17: Valladolid - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Valladolid - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Duelo dramático en el José Zorrilla entre dos históricos de nuestro fútbol ubicados en el pozo de la clasificación. El Valladolid, colista, solo ha sumado uno de los últimos 18 puntos en juego. El Valencia, por su parte, no conoce la victoria a domicilio Votos: 8.
 · País: España</desc>
@@ -5583,7 +5625,7 @@
 </desc>
   </programme>
   <programme start="20241218120000 +0100" stop="20241218140000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Jornada 17: Valladolid - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Valladolid - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Duelo dramático en el José Zorrilla entre dos históricos de nuestro fútbol ubicados en el pozo de la clasificación. El Valladolid, colista, solo ha sumado uno de los últimos 18 puntos en juego. El Valencia, por su parte, no conoce la victoria a domicilio Votos: 8.
 · País: España</desc>
@@ -5783,9 +5825,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241220170000 +0100" stop="20241220180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 19</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada. Votos: 5.
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 20</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
 · País: España</desc>
   </programme>
   <programme start="20241220180000 +0100" stop="20241220190000 +0100" channel="DAZN LaLiga ES">
@@ -6092,7 +6134,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241216144500 +0100" stop="20241216164500 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Jornada 17: Valladolid - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Valladolid - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Duelo dramático en el José Zorrilla entre dos históricos de nuestro fútbol ubicados en el pozo de la clasificación. El Valladolid, colista, solo ha sumado uno de los últimos 18 puntos en juego. El Valencia, por su parte, no conoce la victoria a domicilio Votos: 8.
 · País: España</desc>
@@ -6198,7 +6240,7 @@
 </desc>
   </programme>
   <programme start="20241217190000 +0100" stop="20241217210000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Jornada 17: Valladolid - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Valladolid - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Duelo dramático en el José Zorrilla entre dos históricos de nuestro fútbol ubicados en el pozo de la clasificación. El Valladolid, colista, solo ha sumado uno de los últimos 18 puntos en juego. El Valencia, por su parte, no conoce la victoria a domicilio Votos: 8.
 · País: España</desc>
@@ -6234,7 +6276,7 @@
 </desc>
   </programme>
   <programme start="20241218120000 +0100" stop="20241218140000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Jornada 17: Valladolid - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Valladolid - Valencia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Duelo dramático en el José Zorrilla entre dos históricos de nuestro fútbol ubicados en el pozo de la clasificación. El Valladolid, colista, solo ha sumado uno de los últimos 18 puntos en juego. El Valencia, por su parte, no conoce la victoria a domicilio Votos: 8.
 · País: España</desc>
@@ -6434,9 +6476,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241220170000 +0100" stop="20241220180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 19</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada. Votos: 5.
+    <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 20</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
 · País: España</desc>
   </programme>
   <programme start="20241220180000 +0100" stop="20241220190000 +0100" channel="DAZN LaLiga">
@@ -6510,132 +6552,6 @@
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportaje que muestra cómo fue su semana a prueba en la cantera del Real Madrid en 2012.
 · País: España</desc>
-  </programme>
-  <programme start="20241213000000 +0100" stop="20241213003000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241213003000 +0100" stop="20241213013000 +0100" channel="Fox Sports">
-    <title lang="es">Money Line Show</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213013000 +0100" stop="20241213053000 +0100" channel="Fox Sports">
-    <title lang="es">Fox impacto NFL · NFL</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213053000 +0100" stop="20241213060000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241213060000 +0100" stop="20241213070000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213070000 +0100" stop="20241213080000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241213080000 +0100" stop="20241213100000 +0100" channel="Fox Sports">
-    <title lang="es">Olympique Lyonnais vs. Eintrach</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213100000 +0100" stop="20241213110000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213110000 +0100" stop="20241213120000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241213120000 +0100" stop="20241213130000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213130000 +0100" stop="20241213140000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241213140000 +0100" stop="20241213143000 +0100" channel="Fox Sports">
-    <title lang="es">Fox Fit</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213143000 +0100" stop="20241213150000 +0100" channel="Fox Sports">
-    <title lang="es">Fox Fit</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213150000 +0100" stop="20241213160000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241213160000 +0100" stop="20241213170000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213170000 +0100" stop="20241213190000 +0100" channel="Fox Sports">
-    <title lang="es">Ajax vs. SS Lazio</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213190000 +0100" stop="20241213200000 +0100" channel="Fox Sports">
-    <title lang="es">Lo mejor de la UEFA Europa</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213200000 +0100" stop="20241213203000 +0100" channel="Fox Sports">
-    <title lang="es">PLTV-Netbusters</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213203000 +0100" stop="20241213223000 +0100" channel="Fox Sports">
-    <title lang="es">Tottenham Hotspur vs. Chelsea</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213223000 +0100" stop="20241213230000 +0100" channel="Fox Sports">
-    <title lang="es">Premier League Preview</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213230000 +0100" stop="20241214000000 +0100" channel="Fox Sports">
-    <title lang="es">Fox Sports Radio</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
   </programme>
   <programme start="20241214000000 +0100" stop="20241214010000 +0100" channel="Fox Sports">
     <title lang="es">Central Fox</title>
@@ -6961,102 +6877,6 @@
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241213000000 +0100" stop="20241213020000 +0100" channel="Fox Sports 2">
-    <title lang="es">AEW DYNAMITE</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213020000 +0100" stop="20241213040000 +0100" channel="Fox Sports 2">
-    <title lang="es">AEW Collision</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213040000 +0100" stop="20241213050000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox gol México</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213050000 +0100" stop="20241213060000 +0100" channel="Fox Sports 2">
-    <title lang="es">Lo mejor de la UEFA Europa</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213060000 +0100" stop="20241213080000 +0100" channel="Fox Sports 2">
-    <title lang="es">Everton vs. Liverpool</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213080000 +0100" stop="20241213100000 +0100" channel="Fox Sports 2">
-    <title lang="es">Budo Sento Championship</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213100000 +0100" stop="20241213110000 +0100" channel="Fox Sports 2">
-    <title lang="es">El Show de la F1</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213110000 +0100" stop="20241213130000 +0100" channel="Fox Sports 2">
-    <title lang="es">SK Slavia Praha vs. RSC Anderle</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213130000 +0100" stop="20241213140000 +0100" channel="Fox Sports 2">
-    <title lang="es">Lo mejor de la UEFA Europa</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213140000 +0100" stop="20241213150000 +0100" channel="Fox Sports 2">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213150000 +0100" stop="20241213153000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Fit</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213153000 +0100" stop="20241213160000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Fit</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213160000 +0100" stop="20241213170000 +0100" channel="Fox Sports 2">
-    <title lang="es">WWE Main Event</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213170000 +0100" stop="20241213200000 +0100" channel="Fox Sports 2">
-    <title lang="es">Rams vs. 49ers · NFL</title>
-    <desc lang="es">
-· Desde el Levi's Stadium ubicado en la ciudad de Santa Clara, California, Estados Unidos, se enfrentan los equipos St. Louis Rams versus San Francisco 49ers.
-</desc>
-  </programme>
-  <programme start="20241213200000 +0100" stop="20241213220000 +0100" channel="Fox Sports 2">
-    <title lang="es">AEW Collision</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213220000 +0100" stop="20241214000000 +0100" channel="Fox Sports 2">
-    <title lang="es">F1 GP de Abu Dhabi</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
   <programme start="20241214000000 +0100" stop="20241214010000 +0100" channel="Fox Sports 2">
     <title lang="es">El Show de la F1</title>
     <desc lang="es">
@@ -7323,114 +7143,6 @@
   </programme>
   <programme start="20241217070000 +0100" stop="20241217110000 +0100" channel="Fox Sports 2">
     <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213003000 +0100" stop="20241213023000 +0100" channel="Fox Sports Premium">
-    <title lang="es">ABB FIA Formula E 2024</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213023000 +0100" stop="20241213043000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 GP de Abu Dhabi</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213043000 +0100" stop="20241213053000 +0100" channel="Fox Sports Premium">
-    <title lang="es">El Show de la F1</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213053000 +0100" stop="20241213060000 +0100" channel="Fox Sports Premium">
-    <title lang="es">World Rally Championship</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213060000 +0100" stop="20241213073000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Red Bull Cliff Diving World Se</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213073000 +0100" stop="20241213093000 +0100" channel="Fox Sports Premium">
-    <title lang="es">ABB FIA Formula E 2024</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213093000 +0100" stop="20241213103000 +0100" channel="Fox Sports Premium">
-    <title lang="es">European Le Mans Series</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213103000 +0100" stop="20241213120000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Red Bull</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213120000 +0100" stop="20241213130000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 Academy</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213130000 +0100" stop="20241213140000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 Academy</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213140000 +0100" stop="20241213150000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 Academy</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213150000 +0100" stop="20241213170000 +0100" channel="Fox Sports Premium">
-    <title lang="es">AEW Collision</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213170000 +0100" stop="20241213190000 +0100" channel="Fox Sports Premium">
-    <title lang="es">ABB FIA Formula E 2024</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213190000 +0100" stop="20241213203000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Red Bull Cliff Diving World Se</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213203000 +0100" stop="20241213213000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR Sudamericana</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213213000 +0100" stop="20241213220000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR World Tour 2024</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213220000 +0100" stop="20241213230000 +0100" channel="Fox Sports Premium">
-    <title lang="es">European Le Mans Series</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241213230000 +0100" stop="20241214000000 +0100" channel="Fox Sports Premium">
-    <title lang="es">European Le Mans Series</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -33628,5 +33340,755 @@
 </programme>
 <programme start="20241215230000 +0000" stop="20241216020000 +0000" channel="NO - V Sport+">
 <title>Ingen sending</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214060000 +0000" channel="Arena Sport 1 Croatia">
+<title>Nogomet: MILAN - CRVENA ZVEZDA, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241214060000 +0000" stop="20241214073000 +0000" channel="Arena Sport 1 Croatia">
+<title>Rukomet: DINAMO BUKUREŠT - PSG, snimka, EHF LIGA PRVAKA</title>
+</programme>
+<programme start="20241214073000 +0000" stop="20241214093000 +0000" channel="Arena Sport 1 Croatia">
+<title>Nogomet: TOULOUSE - ST ETIENNE, snimka, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241214093000 +0000" stop="20241214110000 +0000" channel="Arena Sport 1 Croatia">
+<title>Košarka: FMP - SPLIT, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214120000 +0000" channel="Arena Sport 1 Croatia">
+<title>Nogomet: PREGLED KOLA, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214120000 +0000" stop="20241214123000 +0000" channel="Arena Sport 1 Croatia">
+<title>Emisija: NETBUSTERS, prem. snimka, EMISIJA</title>
+</programme>
+<programme start="20241214123000 +0000" stop="20241214143000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Nogomet: PRESTON - LEEDS, UŽIVO, CHAMPIONSHIP</title>
+</programme>
+<programme start="20241214143000 +0000" stop="20241214150000 +0000" channel="Arena Sport 1 Croatia">
+<title>Nogomet: NAJAVA PREMIER LIGE, prem. snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214173000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Nogomet: LIVERPOOL - FULHAM, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214173000 +0000" stop="20241214200000 +0000" channel="Arena Sport 1 Croatia">
+<title>Emisija: NETBUSTERS, prem. snimka, EMISIJA</title>
+</programme>
+<programme start="20241214200000 +0000" stop="20241214220000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Nogomet: VALLECANO - REAL MADRID, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241214220000 +0000" stop="20241215000000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Boks: IVANA HABAZIN - NATSHA JONAS, UŽIVO, WBC and IBF WOMEN’S WELTERWEIGHT WORLD CHAMPIONSHIP</title>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215013000 +0000" channel="Arena Sport 1 Croatia">
+<title>Košarka: CIBONA - CEDEVITA, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241215013000 +0000" stop="20241215040000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Košarka: NBA CUP POLUFINALE 2, UŽIVO, NBA LIGA</title>
+</programme>
+<programme start="20241215040000 +0000" stop="20241215060000 +0000" channel="Arena Sport 1 Croatia">
+<title>Nogomet: JUVENTUS - MANCHESTER CITY, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215073000 +0000" channel="Arena Sport 1 Croatia">
+<title>Rukomet: NEXE - TORRELAVEGA, snimka, EHF EUROPSKA LIGA</title>
+</programme>
+<programme start="20241215073000 +0000" stop="20241215093000 +0000" channel="Arena Sport 1 Croatia">
+<title>Nogomet: REIMS - MONACO, snimka, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215093000 +0000" stop="20241215110000 +0000" channel="Arena Sport 1 Croatia">
+<title>Košarka: CIBONA - CEDEVITA OLIMPIJA, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215113000 +0000" channel="Arena Sport 1 Croatia">
+<title>Emisija: SERIE A SHOW, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215113000 +0000" stop="20241215133000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Nogomet: LECCE - MONZA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241215133000 +0000" stop="20241215140000 +0000" channel="Arena Sport 1 Croatia">
+<title>Emisija: NETBUSTERS, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215140000 +0000" stop="20241215160000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Nogomet: BRIGHTON - CRYSTAL PALACE, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215160000 +0000" stop="20241215180000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Nogomet: BREST - NANTES, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215180000 +0000" stop="20241215212500 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Američki nogomet: HOUSTON - MIAMI, UŽIVO, NFL</title>
+</programme>
+<programme start="20241215212500 +0000" stop="20241216000000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Američki nogomet: DETROIT - BUFFALO, UŽIVO, NFL</title>
+</programme>
+<programme start="20241216000000 +0000" stop="20241216012000 +0000" channel="Arena Sport 1 Croatia">
+<title>(Ne)uspjeh prvaka</title>
+</programme>
+<programme start="20241216012000 +0000" stop="20241216040000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: Američki nogomet: SEATTLE - GREEN BAY, UŽIVO, NFL</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214060000 +0000" channel="Arena Sport 2 Croatia">
+<title>Odbojka: MLADOST - MARITZA PLOVDIV, snimka, CEV LIGA PRVAKINJA</title>
+</programme>
+<programme start="20241214060000 +0000" stop="20241214090000 +0000" channel="Arena Sport 2 Croatia">
+<title>Hokej na ledu: PITTSBURGH - CAROLINA, snimka, NHL</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="Arena Sport 2 Croatia">
+<title>Baseball: BEST OF, snimka, MLB</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="Arena Sport 2 Croatia">
+<title>Nogomet: VALLADOLID - VALENCIA, snimka, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214151500 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Nogomet: ESPANYOL - OSASUNA, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241214151500 +0000" stop="20241214170000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Nogomet: MALLORCA - GIRONA, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214180000 +0000" channel="Arena Sport 2 Croatia">
+<title>Mi živimo za košarku</title>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214203000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Košarka: CIBONA - CEDEVITA OLIMPIJA, UŽIVO, ABA LIGA</title>
+</programme>
+<programme start="20241214203000 +0000" stop="20241214213000 +0000" channel="Arena Sport 2 Croatia">
+<title>When the Garden Was Eden, dokumentarni film</title>
+</programme>
+<programme start="20241214213000 +0000" stop="20241215003000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Košarka: NBA CUP POLUFINALE 1, UŽIVO, NBA LIGA</title>
+</programme>
+<programme start="20241215003000 +0000" stop="20241215040000 +0000" channel="Arena Sport 2 Croatia">
+<title>Baseball: WORLD SERIES GAME 4, snimka, MLB</title>
+</programme>
+<programme start="20241215040000 +0000" stop="20241215060000 +0000" channel="Arena Sport 2 Croatia">
+<title>Odbojka: WARSZAWA - BERLIN, snimka, CEV LIGA PRVAKA</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215083000 +0000" channel="Arena Sport 2 Croatia">
+<title>Hokej na ledu: OTTAWA - TAMPA BAY, snimka, NHL</title>
+</programme>
+<programme start="20241215083000 +0000" stop="20241215110000 +0000" channel="Arena Sport 2 Croatia">
+<title>Baseball: WORLD SERIES GAME 5, snimka, MLB</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215130000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Košarka: UNICS - NIZHNY NOVGOROD, UŽIVO, VTB LIGA</title>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215150000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Nogomet: ATLETICO MADRID - GETAFE, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241215150000 +0000" stop="20241215170000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Košarka: MANISA - MERKEZEFENDI, UŽIVO, TURSKA LIGA</title>
+</programme>
+<programme start="20241215170000 +0000" stop="20241215190000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Košarka: SC DERBY - CRVENA ZVEZDA, UŽIVO, ABA LIGA</title>
+</programme>
+<programme start="20241215190000 +0000" stop="20241215210000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: Košarka: PARTIZAN - BUDUCNOST VOLI, UŽIVO, ABA LIGA</title>
+</programme>
+<programme start="20241215210000 +0000" stop="20241215230000 +0000" channel="Arena Sport 2 Croatia">
+<title>Nogomet: MAN CITY - MAN UNITED, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216010000 +0000" channel="Arena Sport 2 Croatia">
+<title>Nogomet: BOLOGNA - FIORENTINA, snimka, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241216010000 +0000" stop="20241216040000 +0000" channel="Arena Sport 2 Croatia">
+<title>Baseball: WORLD SERIES GAME 5, snimka, MLB</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214060000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: ASTON VILLA - SOUTHAMPTON, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214060000 +0000" stop="20241214063000 +0000" channel="Arena Sport 3 Croatia">
+<title>Greatest Teams</title>
+</programme>
+<programme start="20241214063000 +0000" stop="20241214080000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: EMPOLI - TORINO, snimka, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214080000 +0000" stop="20241214083000 +0000" channel="Arena Sport 3 Croatia">
+<title>Shortlist</title>
+</programme>
+<programme start="20241214083000 +0000" stop="20241214090000 +0000" channel="Arena Sport 3 Croatia">
+<title>Shortlist</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: RUBIN - AKRON, snimka, RUSKA PREMIJER LIGA</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214123000 +0000" channel="Arena Sport 3 Croatia">
+<title>Tommy, dokumentarni film</title>
+</programme>
+<programme start="20241214123000 +0000" stop="20241214143000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Košarka: MERSIN - TURK TELEKOM, UŽIVO, TURSKA LIGA</title>
+</programme>
+<programme start="20241214143000 +0000" stop="20241214150000 +0000" channel="Arena Sport 3 Croatia">
+<title>Crash</title>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214170000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: ARSENAL - EVERTON, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214173000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: LA LIGA SHOW, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241214173000 +0000" stop="20241214193000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: SEVILLA - CELTA VIGO, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241214193000 +0000" stop="20241214200000 +0000" channel="Arena Sport 3 Croatia">
+<title>Pure Action</title>
+</programme>
+<programme start="20241214200000 +0000" stop="20241214221500 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: REIMS - MONACO, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241214221500 +0000" stop="20241215000000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: TBD, UŽIVO, ARGENTINSKA LIGA</title>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215020000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: RAYO VALLECANO - REAL MADRID, snimka, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241215020000 +0000" stop="20241215040000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: REIMS - MONACO, snimka, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215040000 +0000" stop="20241215060000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: ARSENAL - EVERTON, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215080000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: UDINESE - NAPOLI, snimka, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241215080000 +0000" stop="20241215083000 +0000" channel="Arena Sport 3 Croatia">
+<title>Shortlist</title>
+</programme>
+<programme start="20241215083000 +0000" stop="20241215090000 +0000" channel="Arena Sport 3 Croatia">
+<title>Shortlist</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215110000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: SPARTAK MOSKVA - NIZHNY NOVGOROD, snimka, RUSKA PREMIJER LIGA</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215120000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: PREGLED KOLA, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215120000 +0000" stop="20241215140000 +0000" channel="Arena Sport 3 Croatia">
+<title>Nogomet: ARSENAL - EVERTON, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215140000 +0000" stop="20241215160000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: PARMA - VERONA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241215160000 +0000" stop="20241215163000 +0000" channel="Arena Sport 3 Croatia">
+<title>Emisija: NETBUSTERS, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215163000 +0000" stop="20241215183000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: MANCHESTER CITY - MANCHESTER UNITED, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215183000 +0000" stop="20241215190000 +0000" channel="Arena Sport 3 Croatia">
+<title>Emisija: NETBUSTERS, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215190000 +0000" stop="20241215210000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: CHELSEA - BRENTFORD, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215210000 +0000" stop="20241215221500 +0000" channel="Arena Sport 3 Croatia">
+<title>(Ne)uspjeh prvaka</title>
+</programme>
+<programme start="20241215221500 +0000" stop="20241216000000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: TBD, UŽIVO, ARGENTINSKA LIGA</title>
+</programme>
+<programme start="20241216000000 +0000" stop="20241216020000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: Nogomet: TBD, UŽIVO, ARGENTINSKA LIGA</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214060000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: RADOMIAK - KATOWICE, snimka, POLJSKA LIGA</title>
+</programme>
+<programme start="20241214060000 +0000" stop="20241214073000 +0000" channel="Arena Sport 4 Croatia">
+<title>Međunarodna nogometna suparništva</title>
+</programme>
+<programme start="20241214073000 +0000" stop="20241214093000 +0000" channel="Arena Sport 4 Croatia">
+<title>Košarka: CLEVELAND - BOSTON, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214093000 +0000" stop="20241214110000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: TOTTENHAM - CHELSEA, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214133000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: EMPOLI - TORINO, snimka, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214133000 +0000" stop="20241214140000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: SERIE A SHOW, snimka, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214140000 +0000" stop="20241214160000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: Nogomet: CAGLIARI - ATALANTA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214160000 +0000" stop="20241214170000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: SAŽETAK 10. 12., snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214190000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: Nogomet: UDINESE - NAPOLI, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214190000 +0000" stop="20241214194500 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: SERIE A SHOW, snimka, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214194500 +0000" stop="20241214220000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: Nogomet: JUVENTUS - VENEZIA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="Arena Sport 4 Croatia">
+<title>Košarka: CIBONA - CEDEVITA OLIMPIJA, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241214230000 +0000" stop="20241215010000 +0000" channel="Arena Sport 4 Croatia">
+<title>Košarka: KRKA - IGOKEA, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241215010000 +0000" stop="20241215030000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: BAYERN MUNICH - BAYER LEVERKUSEN, snimka, NJEMAČKI KUP</title>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215050000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: SLASK - RADOMIAK, snimka, POLJSKA LIGA</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215070000 +0000" channel="Arena Sport 4 Croatia">
+<title>Međunarodna nogometna suparništva</title>
+</programme>
+<programme start="20241215070000 +0000" stop="20241215090000 +0000" channel="Arena Sport 4 Croatia">
+<title>Košarka: LA LAKERS - ORLANDO, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215110000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: WOLVES - IPSWICH, snimka, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215130000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: O. MARSEILLE - LILLE, snimka, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215140000 +0000" channel="Arena Sport 4 Croatia">
+<title>Outdoor</title>
+</programme>
+<programme start="20241215140000 +0000" stop="20241215160000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: Nogomet: BOLOGNA - FIORENTINA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241215160000 +0000" stop="20241215170000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: SAŽETAK 11.12.24., snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241215170000 +0000" stop="20241215190000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: Nogomet: COMO - ROMA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241215190000 +0000" stop="20241215194500 +0000" channel="Arena Sport 4 Croatia">
+<title>Emisija: PREGLED NJEMAČKOG KUPA, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215194500 +0000" stop="20241215213000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: Nogomet: MILAN - GENOA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241215213000 +0000" stop="20241215230000 +0000" channel="Arena Sport 4 Croatia">
+<title>Košarka: SC DERBY - CRVENA ZVEZDA, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216010000 +0000" channel="Arena Sport 4 Croatia">
+<title>Košarka: PARTIZAN - BUDUCNOST, snimka, ABA LIGA</title>
+</programme>
+<programme start="20241216010000 +0000" stop="20241216030000 +0000" channel="Arena Sport 4 Croatia">
+<title>Nogomet: REGENSBURG - STUTTGART, snimka, NJEMAČKI KUP</title>
+</programme>
+<programme start="20241214070000 +0000" stop="20241214090000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214150000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Nogomet: LORIENT - PARIS, UŽIVO, FRANCUSKA 2. LIGA</title>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214170000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Nogomet: NEWCASTLE - LEICESTER, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214190000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Košarka: SPARTAK - MEGA MIS, UŽIVO, ABA LIGA</title>
+</programme>
+<programme start="20241214190000 +0000" stop="20241214194500 +0000" channel="Arena Sport 5 Croatia">
+<title>Mi živimo za košarku</title>
+</programme>
+<programme start="20241214194500 +0000" stop="20241214220000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Košarka: TORTONA - VENEZIA, UŽIVO, TALIJANSKA LIGA</title>
+</programme>
+<programme start="20241214220000 +0000" stop="20241215000000 +0000" channel="Arena Sport 5 Croatia">
+<title>Nogomet: DINAMO ZAGREB - CELTIC, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215020000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215020000 +0000" stop="20241215040000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215040000 +0000" stop="20241215060000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215080000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215080000 +0000" stop="20241215100000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215120000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215120000 +0000" stop="20241215140000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215140000 +0000" stop="20241215160000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Nogomet: MONTPELLIER - NICE, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215160000 +0000" stop="20241215180000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Nogomet: RENNES - ANGERS, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215180000 +0000" stop="20241215212500 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Američki nogomet: REDZONE, UŽIVO, NFL</title>
+</programme>
+<programme start="20241215212500 +0000" stop="20241216000000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: Američki nogomet: REDZONE, UŽIVO, NFL</title>
+</programme>
+<programme start="20241216000000 +0000" stop="20241216020000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214060000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214060000 +0000" stop="20241214070000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214070000 +0000" stop="20241214080000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214080000 +0000" stop="20241214090000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214100000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214100000 +0000" stop="20241214110000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214120000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214120000 +0000" stop="20241214130000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214140000 +0000" stop="20241214150000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214160000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214160000 +0000" stop="20241214170000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214180000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214190000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214190000 +0000" stop="20241214200000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214200000 +0000" stop="20241214210000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214210000 +0000" stop="20241214220000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214230000 +0000" stop="20241215000000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215010000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215010000 +0000" stop="20241215020000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215020000 +0000" stop="20241215030000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215040000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215040000 +0000" stop="20241215050000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215050000 +0000" stop="20241215060000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215070000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215070000 +0000" stop="20241215080000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215080000 +0000" stop="20241215090000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215100000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215110000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215120000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215120000 +0000" stop="20241215130000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215140000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215140000 +0000" stop="20241215150000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215150000 +0000" stop="20241215160000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215160000 +0000" stop="20241215170000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215170000 +0000" stop="20241215180000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215180000 +0000" stop="20241215190000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215190000 +0000" stop="20241215200000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215200000 +0000" stop="20241215210000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215210000 +0000" stop="20241215220000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215220000 +0000" stop="20241215230000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216000000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241216000000 +0000" stop="20241216010000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241216010000 +0000" stop="20241216020000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214060000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: GENT - TSC, snimka, KONFERENCIJSKA LIGA</title>
+</programme>
+<programme start="20241214060000 +0000" stop="20241214070000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: SAŽETAK 2. KOLA, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241214070000 +0000" stop="20241214090000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: LYON - FRANKFURT, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214093000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: MAGAZIN LIGE PRVAKA, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241214093000 +0000" stop="20241214100000 +0000" channel="Arena Sport 7 Croatia">
+<title>Greatest Clubs</title>
+</programme>
+<programme start="20241214100000 +0000" stop="20241214110000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: SAŽETAK 1/8 FINALA, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: LYON - FRANKFURT, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214140000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: SAŽETAK 6. KOLA, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241214140000 +0000" stop="20241214160000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: BENFICA - BOLOGNA, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241214160000 +0000" stop="20241214180000 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: Nogomet: MARSEILLE - LILLE, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214200000 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: Nogomet: AUXERRE - LENS, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241214200000 +0000" stop="20241214220000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: SHAMROCK - BORAC, snimka, KONFERENCIJSKA LIGA</title>
+</programme>
+<programme start="20241214220000 +0000" stop="20241215000000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: DINAMO - CELTIC, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241215000000 +0000" stop="20241215020000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: LYON - FRANKFURT, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241215020000 +0000" stop="20241215040000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: LEIPZIG - ASTON VILLA, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241215040000 +0000" stop="20241215060000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: OLIMPIJA - CERCLE BRUGGE, snimka, KONFERENCIJSKA LIGA</title>
+</programme>
+<programme start="20241215060000 +0000" stop="20241215070000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: SAŽETAK 3. KOLA, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241215070000 +0000" stop="20241215090000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: OLYMPIACOS - TWENTE, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215093000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: MAGAZIN LIGE PRVAKA, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215093000 +0000" stop="20241215100000 +0000" channel="Arena Sport 7 Croatia">
+<title>Greatest Clubs</title>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215110000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: SAŽETAK PLAYOFFA 19.09.24., snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215130000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: REAL SOCIEDAD - DYNAMO KIEV, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215153000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: DINAMO - CELTIC, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241215153000 +0000" stop="20241215173000 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: Nogomet: CELTIC - RANGERS, UŽIVO, ŠKOTSKI LIGA KUP FINALE</title>
+</programme>
+<programme start="20241215173000 +0000" stop="20241215194500 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: Nogomet: REAL SOCIEDAD - LAS PALMAS, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241215194500 +0000" stop="20241215220000 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: Nogomet: PSG - LYON, UŽIVO, FRANCUSKA LIGA</title>
+</programme>
+<programme start="20241215220000 +0000" stop="20241216000000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: BORUSSIA DORTMUND - BARCELONA, snimka, LIGA PRVAKA</title>
+</programme>
+<programme start="20241216000000 +0000" stop="20241216020000 +0000" channel="Arena Sport 7 Croatia">
+<title>Nogomet: AJAX - LAZIO, snimka, EUROPALIGA</title>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214053000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: LA LAKERS - MEMPHIS, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214053000 +0000" stop="20241214073000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: LA LAKERS - MEMPHIS, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214073000 +0000" stop="20241214090000 +0000" channel="Arena Sport 8 Croatia">
+<title>Best of Enemies</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: GOLDEN STATE - ATLANTA, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: NEW ORLEANS - DENVER, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214150000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: BROOKLYN - MILWAUKEE, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214170000 +0000" channel="Arena Sport 8 Croatia">
+<title>UŽIVO: Košarka: PETKIM SPOR - KARSYAKA, UŽIVO, TURSKA LIGA</title>
+</programme>
+<programme start="20241214170000 +0000" stop="20241214180000 +0000" channel="Arena Sport 8 Croatia">
+<title>Let Them Wear Towels, dokumentarni film</title>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214210000 +0000" channel="Arena Sport 8 Croatia">
+<title>UŽIVO: Hokej na ledu: NJ DEVILS - CHICAGO, UŽIVO, NHL</title>
+</programme>
+<programme start="20241214210000 +0000" stop="20241214230000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: BOSTON - MILWAUKEE, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241214230000 +0000" stop="20241215010000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: CLEVELAND - DENVER, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215010000 +0000" stop="20241215023000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: PORTLAND - DETROIT 1990., snimka, NBA CLASSIC GAME</title>
+</programme>
+<programme start="20241215023000 +0000" stop="20241215030000 +0000" channel="Arena Sport 8 Croatia">
+<title>Emisija: NBA ACTION, snimka, MAGAZIN</title>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215050000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: NEW ORLEANS - DENVER, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215053000 +0000" stop="20241215073000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: UTAH - DALLAS, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215073000 +0000" stop="20241215090000 +0000" channel="Arena Sport 8 Croatia">
+<title>Best of Enemies</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215110000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: BOSTON - UTAH, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215123000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: BOSTON - MILWAUKEE, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215123000 +0000" stop="20241215143000 +0000" channel="Arena Sport 8 Croatia">
+<title>UŽIVO: Košarka: DARUSAFAKA - BESIKTAS, UŽIVO, TURSKA LIGA</title>
+</programme>
+<programme start="20241215143000 +0000" stop="20241215151500 +0000" channel="Arena Sport 8 Croatia">
+<title>Crash</title>
+</programme>
+<programme start="20241215151500 +0000" stop="20241215173000 +0000" channel="Arena Sport 8 Croatia">
+<title>UŽIVO: Nogomet: ALAVES - ATHLETIC BILBAO, UŽIVO, ŠPANJOLSKA LIGA</title>
+</programme>
+<programme start="20241215173000 +0000" stop="20241215193000 +0000" channel="Arena Sport 8 Croatia">
+<title>UŽIVO: Košarka: ANADOLU EFES - BAHCESEHIR, UŽIVO, TURSKA LIGA</title>
+</programme>
+<programme start="20241215193000 +0000" stop="20241215200000 +0000" channel="Arena Sport 8 Croatia">
+<title>Pure Action</title>
+</programme>
+<programme start="20241215200000 +0000" stop="20241215230000 +0000" channel="Arena Sport 8 Croatia">
+<title>UŽIVO: Hokej na ledu: CHICAGO - NY ISLANDERS, UŽIVO, NHL</title>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216010000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: BOSTON - MILWAUKEE, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241216010000 +0000" stop="20241216023000 +0000" channel="Arena Sport 8 Croatia">
+<title>Košarka: NY KNICKS - BOSTON 1984., snimka, NBA CLASSIC GAME</title>
+</programme>
+<programme start="20241214070000 +0000" stop="20241214090000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214110000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214110000 +0000" stop="20241214130000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214130000 +0000" stop="20241214150000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214160000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214160000 +0000" stop="20241214180000 +0000" channel="Arena Sport 9 Croatia">
+<title>UŽIVO: Košarka: KRKA - IGOKEA, UŽIVO, ABA LIGA</title>
+</programme>
+<programme start="20241214180000 +0000" stop="20241214200000 +0000" channel="Arena Sport 9 Croatia">
+<title>UŽIVO: Nogomet: CLUJ - PETROLUL, UŽIVO, RUMUNJSKA LIGA</title>
+</programme>
+<programme start="20241214200000 +0000" stop="20241214220000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214220000 +0000" stop="20241214230000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241214230000 +0000" stop="20241215010000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215010000 +0000" stop="20241215030000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215050000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215070000 +0000" stop="20241215090000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215110000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215130000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215150000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241215150000 +0000" stop="20241215170000 +0000" channel="Arena Sport 9 Croatia">
+<title>UŽIVO: Nogomet: NORWICH - BURNLEY, UŽIVO, CHAMPIONSHIP</title>
+</programme>
+<programme start="20241215170000 +0000" stop="20241215190000 +0000" channel="Arena Sport 9 Croatia">
+<title>Košarka: NBA CUP POLUFINALE 2, snimka, NBA LIGA</title>
+</programme>
+<programme start="20241215190000 +0000" stop="20241215230000 +0000" channel="Arena Sport 9 Croatia">
+<title>UŽIVO: Nogomet: SOUTHAMPTON - TOTTENHAM, UŽIVO, PREMIER LEAGUE</title>
+</programme>
+<programme start="20241215230000 +0000" stop="20241216010000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241216010000 +0000" stop="20241216030000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
 </programme>
 </tv>
