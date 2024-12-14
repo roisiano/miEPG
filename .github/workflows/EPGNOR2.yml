@@ -13,6 +13,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Remove existing NOR2.xml
+      run: |
+        rm -f ./NOR2.xml
+
     - name: Download the new EPG file
       run: |
         wget https://www.bevy.be/bevyfiles/norwaypremium.xml.gz
