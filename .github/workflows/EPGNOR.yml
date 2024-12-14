@@ -36,6 +36,8 @@ jobs:
         sed -i 's/Viasport+ Norway (NO,NO)/NO - V Sport+/' epg_ripper_NO1.xml
         sed -i 's/TV.2.Sport.Premium.(NO,NO).no/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
         sed -i 's/TV 2 Sport Premium (NO,NO)/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
+        sed -i 's/TV3.Norway.(NO,NO).no/NO - TV3/' epg_ripper_NO1.xml
+        sed -i 's/TV3+.Norway.(NO,NO).no/NO - TV3+/' epg_ripper_NO1.xml
     - name: Move the file to the repository
       run: |
         mv epg_ripper_NO1.xml ./NOR.xml
