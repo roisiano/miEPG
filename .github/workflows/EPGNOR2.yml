@@ -28,18 +28,13 @@ jobs:
     - name: Save the formatted file as NOR2.xml
       run: |
         mv norwaypremium.xml ./NOR2.xml
-    - name: Force add changes
+    - name: Commit and push the changes
       run: |
-        git add -f NOR2.xml
-    - name: Commit changes if any
-      run: |
-        if git diff --cached --quiet; then
-          echo "No changes to commit.";
-          exit 0;
-        else
-          git commit -m "Add formatted EPG file as NOR2.xml"
-          git push origin main;
-        fi
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "GitHub Actions"
+        git add NOR2.xml
+        git commit -m "Update EPG with name changes"
+        git push origin main
 
 
 
