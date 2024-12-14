@@ -1,9 +1,9 @@
-name: Update EPG File
+name: Update EPG File NOR.xml
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'  # Esto ejecutará el flujo de trabajo a las 6:00 AM y 6:00 PM cada día.
-  workflow_dispatch: # Esto permitirá ejecutar el flujo de trabajo manualmente desde GitHub Actions
+    - cron: '48 5,13 * * *'  # Ejecuta a las 5:48 AM y 1:48 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
   update_epg:
