@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/12/2024 22:24" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -133,10 +133,6 @@
   <channel id="Ziggo 6 HD">
     <display-name>Ziggo 6 HD</display-name>
     <icon src="https://tvgidsassets.nl/v349/img/channels/120x120/419.png" />
-  </channel>
-  <channel id="ESPN">
-    <display-name>ESPN</display-name>
-    <icon src="https://tvgidsassets.nl/v349/img/channels/120x120/148.png" />
   </channel>
   <channel id="ESPN Nederland">
     <display-name>ESPN Nederland</display-name>
@@ -301,7 +297,13 @@
   <channel id="Arena Sport 10 Croatia">
     <display-name>Arena Sport 10 Croatia</display-name>
   </channel>
-  <programme start="20241216070000 +0100" stop="20241216083000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216060100 +0100" stop="20241216065300 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241216065300 +0100" stop="20241216083000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
@@ -313,115 +315,115 @@
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241216095500 +0100" stop="20241216100000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216095500 +0100" stop="20241216095700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">The Minute T2024 · 15/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241216100000 +0100" stop="20241216110000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216095700 +0100" stop="20241216105400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - 20km Clásico M</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241216110000 +0100" stop="20241216120000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216105400 +0100" stop="20241216115800 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x7,5km relevo M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241216120000 +0100" stop="20241216130000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216115800 +0100" stop="20241216125500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x6km relevo F</title>
     <desc lang="es">Deportes/Deporte invierno | 2025 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241216130000 +0100" stop="20241216140000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216125500 +0100" stop="20241216140000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Zhangjiakou - F Trampolín Normal 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: China</desc>
   </programme>
-  <programme start="20241216140000 +0100" stop="20241216150000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216140000 +0100" stop="20241216145500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241216150000 +0100" stop="20241216153000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216145500 +0100" stop="20241216152500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216153000 +0100" stop="20241216160000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216152500 +0100" stop="20241216155700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216160000 +0100" stop="20241216170000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216155700 +0100" stop="20241216165500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241216170000 +0100" stop="20241216173000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216165500 +0100" stop="20241216173000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x6km relevo F</title>
     <desc lang="es">Deportes/Deporte invierno | 2025 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241216173000 +0100" stop="20241216180000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216173000 +0100" stop="20241216175700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x7,5km relevo M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241216180000 +0100" stop="20241216200000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216175700 +0100" stop="20241216195500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241216200000 +0100" stop="20241216210000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216195500 +0100" stop="20241216205300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Judo Show T2024 · 16/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El judo es un deporte en el que se ve involucrado todo el cuerpo. Combina perfectamente la fuerza, la táctica de combate y la técnica. Este espacio gira alrededor de esta formativa arte marcial.
 </desc>
   </programme>
-  <programme start="20241216210000 +0100" stop="20241216210500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216205300 +0100" stop="20241216205600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">The Minute T2024 · 15/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241216210500 +0100" stop="20241216220000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216205600 +0100" stop="20241216215100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Equipo Esprín Libre (Relevo)</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241216220000 +0100" stop="20241216230000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216215100 +0100" stop="20241216225200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Esprín Libre</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 1.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241216230000 +0100" stop="20241217000000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216225200 +0100" stop="20241216235500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - 20km Clásico M</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217000000 +0100" stop="20241217013000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241216235500 +0100" stop="20241217013300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241217013000 +0100" stop="20241217030000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217013300 +0100" stop="20241217030000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
@@ -1375,37 +1377,43 @@
 · Competición de automovilismo de velocidad que se disputa con prototipos deportivos y coches gran turismo. Prácticamente todas las carreras históricas de resistencia forman parte del calendario del campeonato, entre ellas las 24 Horas de Le Mans. Votos: 2.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216070000 +0100" stop="20241216080000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216060200 +0100" stop="20241216065600 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x6km relevo F</title>
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
+· País: Austria</desc>
+  </programme>
+  <programme start="20241216065600 +0100" stop="20241216075600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - 20km Clásico M</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241216080000 +0100" stop="20241216083000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216075600 +0100" stop="20241216082600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216083000 +0100" stop="20241216090000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216082600 +0100" stop="20241216085700 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216090000 +0100" stop="20241216100000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216085700 +0100" stop="20241216095900 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241216100000 +0100" stop="20241216120000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216095900 +0100" stop="20241216115600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241216120000 +0100" stop="20241216130000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216115600 +0100" stop="20241216130000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
@@ -1417,79 +1425,79 @@
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216133000 +0100" stop="20241216140000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216133000 +0100" stop="20241216140100 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216140000 +0100" stop="20241216150000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216140100 +0100" stop="20241216150200 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x7,5km relevo M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241216150000 +0100" stop="20241216160000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216150200 +0100" stop="20241216155700 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x6km relevo F</title>
     <desc lang="es">Deportes/Deporte invierno | 2025 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241216160000 +0100" stop="20241216180000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216155700 +0100" stop="20241216175500 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241216180000 +0100" stop="20241216190000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216175500 +0100" stop="20241216185800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - 20km Clásico M</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241216190000 +0100" stop="20241216200000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216185800 +0100" stop="20241216195500 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241216200000 +0100" stop="20241216210000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216195500 +0100" stop="20241216205800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Zhangjiakou - F Trampolín Normal 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: China</desc>
   </programme>
-  <programme start="20241216210000 +0100" stop="20241216220000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216205800 +0100" stop="20241216215900 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241216220000 +0100" stop="20241216223000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216215900 +0100" stop="20241216222800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216223000 +0100" stop="20241216230000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216222800 +0100" stop="20241216225900 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241216230000 +0100" stop="20241217000000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216225900 +0100" stop="20241216235400 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Judo Show T2024 · 16/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El judo es un deporte en el que se ve involucrado todo el cuerpo. Combina perfectamente la fuerza, la táctica de combate y la técnica. Este espacio gira alrededor de esta formativa arte marcial.
 </desc>
   </programme>
-  <programme start="20241217000000 +0100" stop="20241217010000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241216235400 +0100" stop="20241217005500 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 1</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217010000 +0100" stop="20241217020000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217005500 +0100" stop="20241217020000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 2</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
@@ -2696,7 +2704,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241219230500 +0100" stop="20241220001000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -2808,7 +2816,7 @@
   <programme start="20241221132000 +0100" stop="20241221155000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 17: Aston Villa - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+· Un Aston Villa errático en la Premier se enfrenta a un Manchester City errático en general. Ambos vienen de perder en la última jornada. El City está a nueve puntos de líder y los de Birmingham a once. Choque de mucha necesidad para Emery y Guardiola. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20241221155000 +0100" stop="20241221182000 +0100" channel="DAZN 1 Espana">
@@ -4502,7 +4510,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4538,7 +4546,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4639,7 +4647,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5135,7 +5143,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5171,7 +5179,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5272,7 +5280,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
+    <title lang="es">Erasmus FC T24/25 E9</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -19289,910 +19297,6 @@
     <category lang="nl">Sport</category>
     <category lang="nl">Samenvatting</category>
     <icon src="https://tvgidsassets.nl/v349/upload/g/carrousel/golf-pga-tour-hoogtepunten-585615711.jpg" />
-  </programme>
-  <programme start="20241216003000 +0100" stop="20241216014500 +0100" channel="ESPN">
-    <title lang="nl">Dit was het weekend</title>
-    <desc lang="nl">FOX Sports-analisten blikken terug op alle duels in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/d/carrousel/dit-was-het-weekend-586370181.jpg" />
-  </programme>
-  <programme start="20241216014500 +0100" stop="20241216024800 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241216024800 +0100" stop="20241216035800 +0100" channel="ESPN">
-    <title lang="nl">Dit was het weekend</title>
-    <desc lang="nl">FOX Sports-analisten blikken terug op alle duels in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/d/carrousel/dit-was-het-weekend-586370181.jpg" />
-  </programme>
-  <programme start="20241216035800 +0100" stop="20241216040800 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216040800 +0100" stop="20241216041900 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216041900 +0100" stop="20241216042900 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216042900 +0100" stop="20241216044000 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216044000 +0100" stop="20241216045000 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216045000 +0100" stop="20241216045700 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/eredivisie-samenvattingen-588231411.jpg" />
-  </programme>
-  <programme start="20241216045700 +0100" stop="20241216060000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241216060000 +0100" stop="20241216061500 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216061500 +0100" stop="20241216073000 +0100" channel="ESPN">
-    <title lang="nl">Dit was het weekend</title>
-    <desc lang="nl">FOX Sports-analisten blikken terug op alle duels in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/d/carrousel/dit-was-het-weekend-586370181.jpg" />
-  </programme>
-  <programme start="20241216073000 +0100" stop="20241216084500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241216084500 +0100" stop="20241216100000 +0100" channel="ESPN">
-    <title lang="nl">Dit was het weekend</title>
-    <desc lang="nl">FOX Sports-analisten blikken terug op alle duels in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/d/carrousel/dit-was-het-weekend-586370181.jpg" />
-  </programme>
-  <programme start="20241216100000 +0100" stop="20241216111500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241216111500 +0100" stop="20241216123000 +0100" channel="ESPN">
-    <title lang="nl">Dit was het weekend</title>
-    <desc lang="nl">FOX Sports-analisten blikken terug op alle duels in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/d/carrousel/dit-was-het-weekend-586370181.jpg" />
-  </programme>
-  <programme start="20241216123000 +0100" stop="20241216134500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241216134500 +0100" stop="20241216143000 +0100" channel="ESPN">
-    <title lang="nl">Azerion Vrouwen Eredivisie Highlights</title>
-    <desc lang="nl">De hoogtepunten uit de gespeelde wedstrijden in de Azerion Vrouwen Eredivisie 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/noord-scoort-584615871.jpg" />
-  </programme>
-  <programme start="20241216143000 +0100" stop="20241216153000 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie highlights</title>
-    <desc lang="nl">Samenvattingen van de afgelopen speelronde in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-  </programme>
-  <programme start="20241216153000 +0100" stop="20241216164500 +0100" channel="ESPN">
-    <title lang="nl">Dit was het weekend</title>
-    <desc lang="nl">FOX Sports-analisten blikken terug op alle duels in de Eredivisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportnieuws</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/d/carrousel/dit-was-het-weekend-586370181.jpg" />
-  </programme>
-  <programme start="20241216164500 +0100" stop="20241216173000 +0100" channel="ESPN">
-    <title lang="nl">Azerion Vrouwen Eredivisie Highlights</title>
-    <desc lang="nl">De hoogtepunten uit de gespeelde wedstrijden in de Azerion Vrouwen Eredivisie 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/noord-scoort-584615871.jpg" />
-  </programme>
-  <programme start="20241216173000 +0100" stop="20241216174000 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216174000 +0100" stop="20241216175300 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216175300 +0100" stop="20241216180000 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241216180000 +0100" stop="20241216183000 +0100" channel="ESPN">
-    <title lang="nl">Feyenoord TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/f/carrousel/feyenoord-tv-584875241.jpg" />
-  </programme>
-  <programme start="20241216183000 +0100" stop="20241216190000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241216190000 +0100" stop="20241216200000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241216200000 +0100" stop="20241216203000 +0100" channel="ESPN">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/p/carrousel/psv-tv-584875331.jpg" />
-  </programme>
-  <programme start="20241216203000 +0100" stop="20241216210000 +0100" channel="ESPN">
-    <title lang="nl">Club TV special</title>
-    <desc lang="nl">Speciale uitzendingen van de verschillende Eredivisieclubs met verhalen uit de nationale en internationale voetbalhistorie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/c/carrousel/club-tv-special-588291351.jpg" />
-  </programme>
-  <programme start="20241216210000 +0100" stop="20241216220000 +0100" channel="ESPN">
-    <title lang="nl">ESPN doc</title>
-    <desc lang="nl">Documentaires met de mooiste verhalen uit de historie van het Nederlandse voetbal en andere sportverhalen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-doc-584847031.jpg" />
-  </programme>
-  <programme start="20241216220000 +0100" stop="20241216230000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241216230000 +0100" stop="20241216233100 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241216233100 +0100" stop="20241217000000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217000000 +0100" stop="20241217021500 +0100" channel="ESPN">
-    <title lang="nl">Monday Night Countdown</title>
-    <desc lang="nl">Voorbeschouwing op een NFL-wedstrijd in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nfl-blitz-585544761.jpg" />
-  </programme>
-  <programme start="20241217021500 +0100" stop="20241217023000 +0100" channel="ESPN">
-    <title lang="nl">Monday Night Kickoff</title>
-    <desc lang="nl">Voorbeschouwing op een NFL-wedstrijd in het seizoen 2023-2024.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nfl-blitz-585544761.jpg" />
-  </programme>
-  <programme start="20241217023000 +0100" stop="20241217053000 +0100" channel="ESPN">
-    <title lang="nl">NFL: Las Vegas Raiders - Atlanta Falcons</title>
-    <desc lang="nl">Verslag van een wedstrijd uit de National Football League 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nfl-584666121.jpg" />
-  </programme>
-  <programme start="20241217053000 +0100" stop="20241217055300 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217055300 +0100" stop="20241217060000 +0100" channel="ESPN">
-    <title lang="nl">Eredivisie Samenvattingen</title>
-    <desc lang="nl">Hoogtepunten van de wedstrijd N.E.C. Nijmegen - Sparta Rotterdam uit de 16e speelronde van de Eredivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241217060000 +0100" stop="20241217070000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241217070000 +0100" stop="20241217073000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217073000 +0100" stop="20241217080000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217080000 +0100" stop="20241217090000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241217090000 +0100" stop="20241217093000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217093000 +0100" stop="20241217100000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217100000 +0100" stop="20241217110000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241217110000 +0100" stop="20241217113000 +0100" channel="ESPN">
-    <title lang="nl">Club TV special</title>
-    <desc lang="nl">Speciale uitzendingen van de verschillende Eredivisieclubs met verhalen uit de nationale en internationale voetbalhistorie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/c/carrousel/club-tv-special-588291351.jpg" />
-  </programme>
-  <programme start="20241217113000 +0100" stop="20241217120000 +0100" channel="ESPN">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/p/carrousel/psv-tv-584875331.jpg" />
-  </programme>
-  <programme start="20241217120000 +0100" stop="20241217130000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241217130000 +0100" stop="20241217133000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217133000 +0100" stop="20241217140000 +0100" channel="ESPN">
-    <title lang="nl">Feyenoord TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/f/carrousel/feyenoord-tv-584875241.jpg" />
-  </programme>
-  <programme start="20241217140000 +0100" stop="20241217150000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241217150000 +0100" stop="20241217160000 +0100" channel="ESPN">
-    <title lang="nl">ESPN doc</title>
-    <desc lang="nl">Documentaires met de mooiste verhalen uit de historie van het Nederlandse voetbal en andere sportverhalen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-doc-584847031.jpg" />
-  </programme>
-  <programme start="20241217160000 +0100" stop="20241217171500 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-584846811.jpg" />
-  </programme>
-  <programme start="20241217171500 +0100" stop="20241217174500 +0100" channel="ESPN">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/p/carrousel/psv-tv-584875671.jpg" />
-  </programme>
-  <programme start="20241217174500 +0100" stop="20241217180000 +0100" channel="ESPN">
-    <title lang="nl">ESPN top goals</title>
-    <desc lang="nl">Compilatie van doelpunten.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-top-goals-584846881.jpg" />
-  </programme>
-  <programme start="20241217180000 +0100" stop="20241217183000 +0100" channel="ESPN">
-    <title lang="nl">Ajax TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/a/carrousel/ajax-tv-584846991.jpg" />
-  </programme>
-  <programme start="20241217183000 +0100" stop="20241217190000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241217190000 +0100" stop="20241217193000 +0100" channel="ESPN">
-    <title lang="nl">Feyenoord TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/f/carrousel/feyenoord-tv-584875241.jpg" />
-  </programme>
-  <programme start="20241217193000 +0100" stop="20241217200000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker live</title>
-    <desc lang="nl">Live-programma rondom de wedstrijden in de Toto KNVB-beker op ESPN en Star channel. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/f/carrousel/feyenoordvoetbaleredivisiespelerstvgidsnieuwt.jpg" />
-  </programme>
-  <programme start="20241217200000 +0100" stop="20241217215500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker schakelshow</title>
-    <desc lang="nl">Liveprogramma rondom de wedstrijden in de Toto KNVB-beker. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-584847111.jpg" />
-  </programme>
-  <programme start="20241217215500 +0100" stop="20241217231500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker live</title>
-    <desc lang="nl">Live-programma rondom de wedstrijden in de Toto KNVB-beker op ESPN en Star channel. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241217231500 +0100" stop="20241218001500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241218001500 +0100" stop="20241218011500 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241218011500 +0100" stop="20241218021500 +0100" channel="ESPN">
-    <title lang="nl">NFL Highlights</title>
-    <desc lang="nl">In NFL Highlights komen wekelijks alle hoogtepunten uit de laatste speelronde in de NFL voorbij.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nfl-highlights-584875341.jpg" />
-  </programme>
-  <programme start="20241218021500 +0100" stop="20241218030500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241218030500 +0100" stop="20241218035000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241218035000 +0100" stop="20241218044000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-584847061.jpg" />
-  </programme>
-  <programme start="20241218044000 +0100" stop="20241218045000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241218045000 +0100" stop="20241218053500 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-584875261.jpg" />
-  </programme>
-  <programme start="20241218053500 +0100" stop="20241218060000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241218060000 +0100" stop="20241218070000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585356321.jpg" />
-  </programme>
-  <programme start="20241218070000 +0100" stop="20241218080000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241218080000 +0100" stop="20241218090000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585356321.jpg" />
-  </programme>
-  <programme start="20241218090000 +0100" stop="20241218100000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241218100000 +0100" stop="20241218110000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585356321.jpg" />
-  </programme>
-  <programme start="20241218110000 +0100" stop="20241218113000 +0100" channel="ESPN">
-    <title lang="nl">Ajax TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/a/carrousel/ajax-tv-585224781.jpg" />
-  </programme>
-  <programme start="20241218113000 +0100" stop="20241218120000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241218120000 +0100" stop="20241218124500 +0100" channel="ESPN">
-    <title lang="nl">Tekengeld</title>
-    <desc lang="nl">In de podcast Tekengeld bespeekt Yordi Yamali met een gast alles over de wereld van in- en uitgaande transfers, makelaars en alle andere ontwikklingen in het voetbal.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/tekengeld-585224631.jpg" />
-  </programme>
-  <programme start="20241218124500 +0100" stop="20241218130000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241218130000 +0100" stop="20241218134500 +0100" channel="ESPN">
-    <title lang="nl">KPN eDivisie Highlights 24-25</title>
-    <desc lang="nl">De belangrijkste momenten uit de gespeelde ronde in de eDivisie in het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbal-geeft-585308741.jpg" />
-  </programme>
-  <programme start="20241218134500 +0100" stop="20241218140000 +0100" channel="ESPN">
-    <title lang="nl">ESPN top goals</title>
-    <desc lang="nl">Compilatie van doelpunten.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-top-goals-585227301.jpg" />
-  </programme>
-  <programme start="20241218140000 +0100" stop="20241218143000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241218143000 +0100" stop="20241218160000 +0100" channel="ESPN">
-    <title lang="nl">Samenvatting Keuken Kampioen Divisie</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/s/carrousel/samenvatting-keuken-kampioen-divisie-585600431.jpg" />
-  </programme>
-  <programme start="20241218160000 +0100" stop="20241218170000 +0100" channel="ESPN">
-    <title lang="nl">Tien jaar Terug: 2014-2015</title>
-    <desc lang="nl">In Tien jaar Terug duiken we in het Eredivisieverleden. In het seizoen 2014-2015 gaan Ajax en Frank de Boer op jacht naar de vijfde landstitel op rij. Om dit te verhinderen trekt PSV de buidel. Luuk de Jong komt voor 5,5 miljoen euro over van Borussia Mönchengladbach. Bij de nummer twee van het vorige seizoen, Feyenoord, vindt een leegloop plaats. Hoe vergaat het de nieuwe trainer Fred Rutten in Rotterdam-Zuid? FC Dordrecht keert na twintig jaar weer terug op het hoogste niveau. Lukt het de ploeg van Ernie Brandts om voor de tweede keer in de clubgeschiedenis niet als laatste te eindigen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/tien-jaar-terug-585227281.jpg" />
-  </programme>
-  <programme start="20241218170000 +0100" stop="20241218173000 +0100" channel="ESPN">
-    <title lang="nl">Club TV special</title>
-    <desc lang="nl">Speciale uitzendingen van de verschillende Eredivisieclubs met verhalen uit de nationale en internationale voetbalhistorie.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Reportage</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/c/carrousel/club-tv-special-588291351.jpg" />
-  </programme>
-  <programme start="20241218173000 +0100" stop="20241218183000 +0100" channel="ESPN">
-    <title lang="nl">ESPN doc</title>
-    <desc lang="nl">Documentaires met de mooiste verhalen uit de historie van het Nederlandse voetbal en andere sportverhalen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-doc-585224581.jpg" />
-  </programme>
-  <programme start="20241218183000 +0100" stop="20241218190000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241218190000 +0100" stop="20241218193000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241218193000 +0100" stop="20241218200000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker live</title>
-    <desc lang="nl">Live-programma rondom de wedstrijden in de Toto KNVB-beker op ESPN en Star channel. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/f/carrousel/fctwentebaskuiperstotoknvbbekerkomteraan.jpg" />
-  </programme>
-  <programme start="20241218200000 +0100" stop="20241218215500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker schakelshow</title>
-    <desc lang="nl">Liveprogramma rondom de wedstrijden in de Toto KNVB-beker. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-585224821.jpg" />
-  </programme>
-  <programme start="20241218215500 +0100" stop="20241218231500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker live</title>
-    <desc lang="nl">Live-programma rondom de wedstrijden in de Toto KNVB-beker op ESPN en Star channel. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241218231500 +0100" stop="20241219001500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241219001500 +0100" stop="20241219011500 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585356321.jpg" />
-  </programme>
-  <programme start="20241219011500 +0100" stop="20241219014000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241219014000 +0100" stop="20241219023000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241219023000 +0100" stop="20241219031500 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-587924351.jpg" />
-  </programme>
-  <programme start="20241219031500 +0100" stop="20241219040500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241219040500 +0100" stop="20241219045500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585356301.jpg" />
-  </programme>
-  <programme start="20241219045500 +0100" stop="20241219054000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585544611.jpg" />
-  </programme>
-  <programme start="20241219054000 +0100" stop="20241219055000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241219055000 +0100" stop="20241219060000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241219060000 +0100" stop="20241219070000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585544611.jpg" />
-  </programme>
-  <programme start="20241219070000 +0100" stop="20241219080000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585600491.jpg" />
-  </programme>
-  <programme start="20241219080000 +0100" stop="20241219090000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585544611.jpg" />
-  </programme>
-  <programme start="20241219090000 +0100" stop="20241219100000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585600491.jpg" />
-  </programme>
-  <programme start="20241219100000 +0100" stop="20241219110000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585544611.jpg" />
-  </programme>
-  <programme start="20241219110000 +0100" stop="20241219111000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241219111000 +0100" stop="20241219112000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241219112000 +0100" stop="20241219113000 +0100" channel="ESPN">
-    <title lang="nl">ESPN highlights</title>
-    <desc lang="nl">Samenvattingen, compilaties en montages van de uitzendingen van ESPN.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-highlights-585610561.jpg" />
-  </programme>
-  <programme start="20241219113000 +0100" stop="20241219120000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241219120000 +0100" stop="20241219130000 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585544611.jpg" />
-  </programme>
-  <programme start="20241219130000 +0100" stop="20241219140000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585600491.jpg" />
-  </programme>
-  <programme start="20241219140000 +0100" stop="20241219143000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241219143000 +0100" stop="20241219150000 +0100" channel="ESPN">
-    <title lang="nl">Ajax TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Sportprogramma</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/a/carrousel/ajax-tv-585600421.jpg" />
-  </programme>
-  <programme start="20241219150000 +0100" stop="20241219160000 +0100" channel="ESPN">
-    <title lang="nl">ESPN doc</title>
-    <desc lang="nl">Documentaires met de mooiste verhalen uit de historie van het Nederlandse voetbal en andere sportverhalen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Documentaire</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-doc-585544731.jpg" />
-  </programme>
-  <programme start="20241219160000 +0100" stop="20241219164500 +0100" channel="ESPN">
-    <title lang="nl">Tekengeld</title>
-    <desc lang="nl">In de podcast Tekengeld bespeekt Yordi Yamali met een gast alles over de wereld van in- en uitgaande transfers, makelaars en alle andere ontwikklingen in het voetbal.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/tekengeld-585545381.jpg" />
-  </programme>
-  <programme start="20241219164500 +0100" stop="20241219173000 +0100" channel="ESPN">
-    <title lang="nl">Azerion Vrouwen Eredivisie Highlights</title>
-    <desc lang="nl">De hoogtepunten uit de gespeelde wedstrijden in de Azerion Vrouwen Eredivisie 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/a/carrousel/azerion-vrouwen-eredivisie-highlights-585545071.jpg" />
-  </programme>
-  <programme start="20241219173000 +0100" stop="20241219174500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-588968391.jpg" />
-  </programme>
-  <programme start="20241219174500 +0100" stop="20241219180000 +0100" channel="ESPN">
-    <title lang="nl">FC Utrecht TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom FC Utrecht.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/f/carrousel/fc-utrecht-tv-585544891.jpg" />
-  </programme>
-  <programme start="20241219180000 +0100" stop="20241219181500 +0100" channel="ESPN">
-    <title lang="nl">Heracles TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Heracles Almelo.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241219181500 +0100" stop="20241219183000 +0100" channel="ESPN">
-    <title lang="nl">sc Heerenveen TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom sc Heerenveen.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/s/carrousel/sc-heerenveen-tv-585544951.jpg" />
-  </programme>
-  <programme start="20241219183000 +0100" stop="20241219190000 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585600491.jpg" />
-  </programme>
-  <programme start="20241219190000 +0100" stop="20241219193000 +0100" channel="ESPN">
-    <title lang="nl">TOTO KNVB Beker Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker uit het seizoen 2024-2025.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-highlights-585544581.jpg" />
-  </programme>
-  <programme start="20241219193000 +0100" stop="20241219200000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker live</title>
-    <desc lang="nl">Live-programma rondom de wedstrijden in de Toto KNVB-beker op ESPN en Star channel. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/a/carrousel/ajaxchristianrasmussenvoetbaltooooto.jpg" />
-  </programme>
-  <programme start="20241219200000 +0100" stop="20241219215500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker schakelshow</title>
-    <desc lang="nl">Liveprogramma rondom de wedstrijden in de Toto KNVB-beker. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-schakelshow-585544551.jpg" />
-  </programme>
-  <programme start="20241219215500 +0100" stop="20241219231500 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker live</title>
-    <desc lang="nl">Live-programma rondom de wedstrijden in de Toto KNVB-beker op ESPN en Star channel. Met reportages, analyses, interviews, statistieken en samenvattingen van de wedstrijden.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-  </programme>
-  <programme start="20241219231500 +0100" stop="20241220001500 +0100" channel="ESPN">
-    <title lang="nl">ESPN vandaag</title>
-    <desc lang="nl">Een round-up van de dag op ESPN en het belangrijkste en opvallendste (inter)nationale sportnieuws. In ESPN Vandaag wordt de kijker volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Rechtstreeks Verslag/verslag</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/e/carrousel/espn-vandaag-585600491.jpg" />
-  </programme>
-  <programme start="20241220001500 +0100" stop="20241220011500 +0100" channel="ESPN">
-    <title lang="nl">Voetbalpraat</title>
-    <desc lang="nl">Vier experts bespreken de hoofd- en randzaken uit de voetbalwereld.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Talkshow</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/v/carrousel/voetbalpraat-585544611.jpg" />
-  </programme>
-  <programme start="20241220011500 +0100" stop="20241220013000 +0100" channel="ESPN">
-    <title lang="nl">Toto KNVB-beker samenvatting</title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de KNVB beker.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Samenvatting</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-samenvatting-585811591.jpg" />
-  </programme>
-  <programme start="20241220013000 +0100" stop="20241220021500 +0100" channel="ESPN">
-    <title lang="nl">NFL blitz</title>
-    <desc lang="nl">Wekelijkse voorbeschouwing op de Thursday en Sunday Night Football-wedstrijd in de NFL.</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Voorbeschouwing</category>
-    <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nfl-blitz-585544761.jpg" />
   </programme>
   <programme start="20241216003000 +0100" stop="20241216014500 +0100" channel="ESPN Nederland">
     <title lang="nl">Dit was het weekend</title>
