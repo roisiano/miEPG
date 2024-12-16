@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 16/12/2024 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 16/12/2024 17:51" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -7,7 +7,6 @@
   <channel id="EUROSPORT 2 ES">
     <display-name>EUROSPORT 2 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
-    <icon src="http://epg.ovh/logo/Eurosport+2.png" />
   </channel>
   <channel id="DAZN 1 Espana">
     <display-name>DAZN 1 Espana</display-name>
@@ -2440,1041 +2439,6 @@
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241215003000 +0100" stop="20241215013000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215013000 +0100" stop="20241215033000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz półfinałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4932191.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215033000 +0100" stop="20241215050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz półfinałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4932191.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215050000 +0100" stop="20241215060000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215060000 +0100" stop="20241215070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215070000 +0100" stop="20241215073000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215073000 +0100" stop="20241215083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215083000 +0100" stop="20241215092000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215092000 +0100" stop="20241215110000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215110000 +0100" stop="20241215112000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215112000 +0100" stop="20241215130000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215130000 +0100" stop="20241215140000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215140000 +0100" stop="20241215151500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215151500 +0100" stop="20241215170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Piłka ręczna kobiet: Mistrzostwa Europy 2024 - mecz o 3. miejsce</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796028.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215170000 +0100" stop="20241215180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215180000 +0100" stop="20241215184500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215184500 +0100" stop="20241215201500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215201500 +0100" stop="20241215220000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Golf: Grant Thornton Invitational - 3. runda</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796091.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215220000 +0100" stop="20241215223000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215223000 +0100" stop="20241215230000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241215230000 +0100" stop="20241216000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216000000 +0100" stop="20241216010000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216010000 +0100" stop="20241216013000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216013000 +0100" stop="20241216020000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216020000 +0100" stop="20241216030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216030000 +0100" stop="20241216050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216050000 +0100" stop="20241216060000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Zakończenie programu</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4419675.jpg" />
-  </programme>
-  <programme start="20241216060000 +0100" stop="20241216070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216070000 +0100" stop="20241216080000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216080000 +0100" stop="20241216083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216083000 +0100" stop="20241216090000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216090000 +0100" stop="20241216100000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216100000 +0100" stop="20241216120000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216120000 +0100" stop="20241216130000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216130000 +0100" stop="20241216133000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216133000 +0100" stop="20241216140000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216140000 +0100" stop="20241216150000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216150000 +0100" stop="20241216160000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216160000 +0100" stop="20241216180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216180000 +0100" stop="20241216190000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216190000 +0100" stop="20241216200000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216200000 +0100" stop="20241216210000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216210000 +0100" stop="20241216220000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216220000 +0100" stop="20241216223000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216223000 +0100" stop="20241216230000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241216230000 +0100" stop="20241217000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Judo Show</title>
-    <desc lang="pl">Podsumowanie najciekawszych wydarzeń ze świata judo. W programie m.in. skróty turniejów wielkiego szlema i zawodów grand prix.</desc>
-    <category lang="pl">magazyn sportowy</category>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5594345.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217000000 +0100" stop="20241217010000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Val Thorens - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217010000 +0100" stop="20241217020000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Val Thorens - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217020000 +0100" stop="20241217040000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217040000 +0100" stop="20241217050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217050000 +0100" stop="20241217060000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217060000 +0100" stop="20241217070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - zjazd kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6055135.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217070000 +0100" stop="20241217080000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217080000 +0100" stop="20241217083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217083000 +0100" stop="20241217090000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217090000 +0100" stop="20241217100000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217100000 +0100" stop="20241217103000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217103000 +0100" stop="20241217110000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217110000 +0100" stop="20241217120000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217120000 +0100" stop="20241217140000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217140000 +0100" stop="20241217150000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217150000 +0100" stop="20241217160000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Val Thorens - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217160000 +0100" stop="20241217170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Val Thorens - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217170000 +0100" stop="20241217180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217180000 +0100" stop="20241217190000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217190000 +0100" stop="20241217210000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - sprinty drużynowe stylem dowolnym</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217220000 +0100" stop="20241217230000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241217230000 +0100" stop="20241218000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218000000 +0100" stop="20241218010000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218010000 +0100" stop="20241218013000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218013000 +0100" stop="20241218020000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218020000 +0100" stop="20241218030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218030000 +0100" stop="20241218040000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218040000 +0100" stop="20241218050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4796113.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218050000 +0100" stop="20241218070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218070000 +0100" stop="20241218080000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218080000 +0100" stop="20241218083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218083000 +0100" stop="20241218090000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218090000 +0100" stop="20241218100000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218100000 +0100" stop="20241218110000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218110000 +0100" stop="20241218120000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218120000 +0100" stop="20241218130000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa290823.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218130000 +0100" stop="20241218140000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Eurosport eRacing: World Series - Amsterdam</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984471.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218140000 +0100" stop="20241218143000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">F1 H2O: Grand Prix Szardży</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984489.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218143000 +0100" stop="20241218160000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218160000 +0100" stop="20241218170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Kolarstwo torowe: Liga Mistrzów - 5. runda</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6036204.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218170000 +0100" stop="20241218180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218180000 +0100" stop="20241218190000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218190000 +0100" stop="20241218200000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218200000 +0100" stop="20241218203000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218203000 +0100" stop="20241218210000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218210000 +0100" stop="20241218220000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218220000 +0100" stop="20241218230000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241218230000 +0100" stop="20241219000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa290823.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219000000 +0100" stop="20241219020000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219020000 +0100" stop="20241219030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - zjazd kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6055135.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219030000 +0100" stop="20241219040000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219040000 +0100" stop="20241219043000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219043000 +0100" stop="20241219050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219050000 +0100" stop="20241219060000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219060000 +0100" stop="20241219063000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219063000 +0100" stop="20241219070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219070000 +0100" stop="20241219083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219083000 +0100" stop="20241219090000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219090000 +0100" stop="20241219100000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - zjazd kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6055135.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219100000 +0100" stop="20241219110000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219110000 +0100" stop="20241219123000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219123000 +0100" stop="20241219130000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie kobiet: Zawody Pucharu Świata w Zhangjiakou</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219130000 +0100" stop="20241219140000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219140000 +0100" stop="20241219150000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Kolarstwo torowe: Liga Mistrzów - 5. runda</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6036204.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219150000 +0100" stop="20241219160000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - biegi sprinterskie stylem dowolnym kobiet i mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa290823.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219160000 +0100" stop="20241219170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Biegi narciarskie: Zawody Pucharu Świata w Davos - bieg na 20 km stylem klasycznym mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa290823.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219180000 +0100" stop="20241219200000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snooker: Turniej Scottish Open - mecz finałowy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053337.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219200000 +0100" stop="20241219210000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219210000 +0100" stop="20241219220000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Kolarstwo torowe: Liga Mistrzów - 5. runda</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6036204.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219220000 +0100" stop="20241219230000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219230000 +0100" stop="20241219233000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241219233000 +0100" stop="20241220000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220000000 +0100" stop="20241220010000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220010000 +0100" stop="20241220020000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - zjazd kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6055135.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220020000 +0100" stop="20241220030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220030000 +0100" stop="20241220040000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Carezzie - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220040000 +0100" stop="20241220043000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cortinie d'Ampezzo - slalom gigant równoległy</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220043000 +0100" stop="20241220050000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220050000 +0100" stop="20241220060000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220060000 +0100" stop="20241220070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220070000 +0100" stop="20241220073000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220073000 +0100" stop="20241220080000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Cervinii - cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1372831.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220080000 +0100" stop="20241220083000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 1. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220083000 +0100" stop="20241220090000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val d'Isere - 2. przejazd slalomu mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220090000 +0100" stop="20241220094500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - supergigant kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa5592691.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220094500 +0100" stop="20241220103000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Beaver Creek - zjazd kobiet</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4795867.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220103000 +0100" stop="20241220113000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Titisee-Neustadt</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220113000 +0100" stop="20241220120500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Arosie - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220120500 +0100" stop="20241220134500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Innichen - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220134500 +0100" stop="20241220142000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Kombinacja norweska: Zawody Pucharu Świata w Ramsau - bieg na 10 km</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220142000 +0100" stop="20241220150000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Bakuriani - jazda po muldach</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220150000 +0100" stop="20241220154000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Kombinacja norweska kobiet: Zawody Pucharu Świata w Ramsau - konkurs skoków</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4984471.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220154000 +0100" stop="20241220163000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val Gardenie - supergigant mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6054207.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220163000 +0100" stop="20241220180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Bakuriani - jazda po muldach</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220180000 +0100" stop="20241220190000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Innichen - ski cross</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220190000 +0100" stop="20241220200000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo alpejskie: Zawody Pucharu Świata w Val Gardenie - supergigant mężczyzn</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6054207.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220200000 +0100" stop="20241220203000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Skoki narciarskie: Zawody Pucharu Świata w Engelbergu - kwalifikacje</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220203000 +0100" stop="20241220210000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Kombinacja norweska: Zawody Pucharu Świata w Ramsau - konkurs skoków</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3044830.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220210000 +0100" stop="20241220223000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Narciarstwo dowolne: Zawody Pucharu Świata w Bakuriani - jazda po muldach</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa1872282.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
-  <programme start="20241220223000 +0100" stop="20241221000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="pl">Snowboard: Zawody Pucharu Świata w Copper Mountain - halfpipe</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa6053341.jpg" />
-    <rating>
-      <value>0</value>
-    </rating>
-  </programme>
   <programme start="20241216130100 +0100" stop="20241216140600 +0100" channel="DAZN 1 Espana">
     <title lang="es">Asia Talent Cup T2024 · Indonesia - Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
@@ -3553,61 +2517,61 @@
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20241217135500 +0100" stop="20241217145000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217135500 +0100" stop="20241217145800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Asia Talent Cup T2024 · Japón - Carrera 2</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20241217145000 +0100" stop="20241217153000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217145800 +0100" stop="20241217153900 +0100" channel="DAZN 1 Espana">
     <title lang="es">Decoded T2024 · Marc Márquez</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Este espacio analiza pormenorizadamente a varias figuras del deporte, tanto dentro como fuera del terreno de juego.
 </desc>
   </programme>
-  <programme start="20241217153000 +0100" stop="20241217161000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217153900 +0100" stop="20241217161700 +0100" channel="DAZN 1 Espana">
     <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
 </desc>
   </programme>
-  <programme start="20241217161000 +0100" stop="20241217164000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217161700 +0100" stop="20241217165200 +0100" channel="DAZN 1 Espana">
     <title lang="es">Red Bull Features T2024 E1</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
 </desc>
   </programme>
-  <programme start="20241217164000 +0100" stop="20241217183500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217165200 +0100" stop="20241217183900 +0100" channel="DAZN 1 Espana">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 1: Chelsea - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · La competición de clubes más importante del mundo del fútbol femenino. Votos: 13.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241217183500 +0100" stop="20241217205000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217183900 +0100" stop="20241217205400 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 6: Real Madrid - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
 · País: España</desc>
   </programme>
-  <programme start="20241217205000 +0100" stop="20241217231500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217205400 +0100" stop="20241217231400 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 6: Olympique Lyon - Wolfsburgo T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 1.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217231500 +0100" stop="20241217235500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241217231400 +0100" stop="20241218002100 +0100" channel="DAZN 1 Espana">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Documental sobre Ducati, la fuerza mayor de MotoGP.
 </desc>
   </programme>
-  <programme start="20241217235500 +0100" stop="20241218010600 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218002100 +0100" stop="20241218012800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Zurdo vs. Billam Smith: Riyadh Season Latinos Night T2024 · Zurdo vs. Billam Smith</title>
     <desc lang="es">Deportes/Boxeo | 2024 | +18
 · Gilberto 'Zurdo' Ramírez reta a Chris Billam-Smith por el título del peso crucero en una noche épica en Riyadh.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20241218010600 +0100" stop="20241218060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218012800 +0100" stop="20241218060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -3732,7 +2696,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241219230500 +0100" stop="20241220001000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5441,7 +4405,7 @@
   <programme start="20241216180000 +0100" stop="20241216200000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Barcelona - Leganés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 44.
+· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 45.
 · País: España</desc>
   </programme>
   <programme start="20241216200000 +0100" stop="20241216203000 +0100" channel="DAZN LaLiga ES">
@@ -5538,7 +4502,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5546,7 +4510,7 @@
   <programme start="20241217220000 +0100" stop="20241218000000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Barcelona - Leganés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 44.
+· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 45.
 · País: España</desc>
   </programme>
   <programme start="20241218000000 +0100" stop="20241218010000 +0100" channel="DAZN LaLiga ES">
@@ -5574,7 +4538,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5675,7 +4639,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5695,7 +4659,7 @@
   <programme start="20241219190000 +0100" stop="20241219210000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Barcelona - Leganés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 44.
+· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 45.
 · País: España</desc>
   </programme>
   <programme start="20241219210000 +0100" stop="20241219213000 +0100" channel="DAZN LaLiga ES">
@@ -6074,7 +5038,7 @@
   <programme start="20241216180000 +0100" stop="20241216200000 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Barcelona - Leganés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 44.
+· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 45.
 · País: España</desc>
   </programme>
   <programme start="20241216200000 +0100" stop="20241216203000 +0100" channel="DAZN LaLiga">
@@ -6171,7 +5135,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6179,7 +5143,7 @@
   <programme start="20241217220000 +0100" stop="20241218000000 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Barcelona - Leganés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 44.
+· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 45.
 · País: España</desc>
   </programme>
   <programme start="20241218000000 +0100" stop="20241218010000 +0100" channel="DAZN LaLiga">
@@ -6207,7 +5171,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6308,7 +5272,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6328,7 +5292,7 @@
   <programme start="20241219190000 +0100" stop="20241219210000 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 17: Barcelona - Leganés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 44.
+· El Barcelona defiende el liderato liguero dispuesto a trasladar su brillante actuación continental en Dortmund al campeonato doméstico, donde se ha mostrado errático en el último mes de competición. Enfrente, un Leganés que busca dar la sorpresa. Votos: 45.
 · País: España</desc>
   </programme>
   <programme start="20241219210000 +0100" stop="20241219213000 +0100" channel="DAZN LaLiga">
@@ -24770,91 +23734,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/ncaa-college-football-585737271.jpg" />
   </programme>
-  <programme start="20241215070000 +0000" stop="20241215085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215085000 +0000" stop="20241215091500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241215091500 +0000" stop="20241215110500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241215110500 +0000" stop="20241215112500 +0000" channel="DAZN 1 DE">
-    <title lang="de">FC Bayern World Squad: Episode 7</title>
-    <desc lang="de">Nach einer ereignisreichen ersten Halbzeit erfahren Sie nun in Folge 7, wie das Spiel des FC Bayern Weltkaders gegen die U18 Tirol XI ausgegangen ist. Die Spieler bekommen derweil besonderen Besuch beim Training: Audi kommt mit einer Gruppe fußballbegeisterter Kinder an der Säbener Straße vorbei und zeigt den großen und kleinen Spielern in einem gemeinsamen 5 gegen 5-Spiel ihr Können.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241215112500 +0000" stop="20241215121000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241215121000 +0000" stop="20241215122500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241215122500 +0000" stop="20241215125500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215125500 +0000" stop="20241215151000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Primera División: Atletico Madrid - FC Getafe</title>
-    <desc lang="de">Kommentator: Guido Hüsgen.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241215151000 +0000" stop="20241215153000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241215153000 +0000" stop="20241215160000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Warm Up: Bundesliga Highlights</title>
-    <desc lang="de">Mit diesem Warm Up seid ihr bestens vorbereitet auf den heutigen Spieltag.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241215160000 +0000" stop="20241215183000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
-    <desc lang="de">Kommentator: Nico Seepe.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215183000 +0000" stop="20241215210500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: RB Leipzig - Eintracht Frankfurt</title>
-    <desc lang="de">Kommentator: Marcel Seufert.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215210500 +0000" stop="20241215214000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215214000 +0000" stop="20241215222500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241215222500 +0000" stop="20241215230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241215230000 +0000" stop="20241216070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241216070000 +0000" stop="20241216085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
     <desc lang="de">Kommentator: Nico Seepe.</desc>
@@ -25106,58 +23985,85 @@
     <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241215070000 +0000" stop="20241215085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte.</desc>
-    <date>2024</date>
+  <programme start="20241218223000 +0000" stop="20241218230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag</title>
+    <desc lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241215085000 +0000" stop="20241215090000 +0000" channel="DAZN 2 DE">
+  <programme start="20241218230000 +0000" stop="20241219070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241219070000 +0000" stop="20241219085000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
+    <desc lang="de">Kommentator: Nico Seepe.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241219085000 +0000" stop="20241219091500 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241215090000 +0000" stop="20241215105000 +0000" channel="DAZN 2 DE">
+  <programme start="20241219091500 +0000" stop="20241219110500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: RB Leipzig - Eintracht Frankfurt</title>
+    <desc lang="de">Kommentator: Marcel Seufert.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241219110500 +0000" stop="20241219113500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 12. Spieltag</title>
+    <desc lang="de">Wir zeigen euch die Highlights des aktuellen Frauen-Bundesliga Spieltags.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241219113500 +0000" stop="20241219133000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
     <desc lang="de">Kommentator: Tom Kirsten.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20241215105000 +0000" stop="20241215112000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215112000 +0000" stop="20241215121000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 1</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 1.</desc>
+  <programme start="20241219133000 +0000" stop="20241219143000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: Lange Version</title>
+    <desc lang="de">Get Wild: Lange Version.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20241215121000 +0000" stop="20241215125500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
+  <programme start="20241219143000 +0000" stop="20241219160500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
+    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <programme start="20241215125500 +0000" stop="20241215133000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Warm Up: Bundesliga Highlights</title>
-    <desc lang="de">Mit diesem Warm Up seid ihr bestens vorbereitet auf den heutigen Spieltag.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241215133000 +0000" stop="20241215170000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: 1. FC Heidenheim - VFB Stuttgart</title>
-    <desc lang="de">Kommentator: Mario Rieker.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241215170000 +0000" stop="20241215173000 +0000" channel="DAZN 2 DE">
+  <programme start="20241219160500 +0000" stop="20241219162500 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241215173000 +0000" stop="20241216004500 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Domestic: NFL ENDZN - 15. Spieltag</title>
-    <desc lang="de">Moderator: Christoph Stadtler.</desc>
+  <programme start="20241219162500 +0000" stop="20241219181500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
+    <desc lang="de">Kommentator: Tom Kirsten.</desc>
     <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241219181500 +0000" stop="20241219190000 +0000" channel="DAZN 1 DE">
+    <title lang="de">3. Liga Highlightshow 2024/25: 18. Spieltag</title>
+    <desc lang="de">3. Liga Highlightshow 2024/25: 18. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241219190000 +0000" stop="20241219192500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241219192500 +0000" stop="20241219195500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241219195500 +0000" stop="20241219221000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Coppa Italia: Inter Mailand - Udinese Calcio</title>
+    <desc lang="de">Coppa Italia: Inter Mailand - Udinese Calcio.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
   </programme>
   <programme start="20241216004500 +0000" stop="20241216070000 +0000" channel="DAZN 2 DE">
     <title lang="de">Sendepause</title>
@@ -25405,6 +24311,80 @@
   <programme start="20241218190000 +0000" stop="20241218223000 +0000" channel="DAZN 2 DE">
     <title lang="de">World Darts Championship: 4. Tag</title>
     <desc lang="de">World Darts Championship: 4. Tag.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241218223000 +0000" stop="20241218230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241218230000 +0000" stop="20241219070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241219070000 +0000" stop="20241219085000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
+    <desc lang="de">Kommentator: Jan Platte.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241219085000 +0000" stop="20241219090000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241219090000 +0000" stop="20241219105000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: Lazio Rom - Inter Mailand</title>
+    <desc lang="de">Serie A: Lazio Rom - Inter Mailand.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241219105000 +0000" stop="20241219112500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241219112500 +0000" stop="20241219122000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Get Wild: Lange Version</title>
+    <desc lang="de">Get Wild: Lange Version.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241219122000 +0000" stop="20241219123000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241219123000 +0000" stop="20241219160000 +0000" channel="DAZN 2 DE">
+    <title lang="de">World Darts Championship: 5. Tag - 1. Session</title>
+    <desc lang="de">World Darts Championship: 5. Tag - 1. Session.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241219160000 +0000" stop="20241219162500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241219162500 +0000" stop="20241219165500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241219165500 +0000" stop="20241219173000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
+    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241219173000 +0000" stop="20241219190000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Darts Features: Gaga wirft den Titelverteidiger aus dem Turnier</title>
+    <desc lang="de">Zusammenfassung des Sensationssieges von Gabriel Clemens.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241219190000 +0000" stop="20241219223000 +0000" channel="DAZN 2 DE">
+    <title lang="de">World Darts Championship: 5. Tag - 2. Session</title>
+    <desc lang="de">World Darts Championship: 5. Tag - 2. Session.</desc>
     <date>2024</date>
     <category lang="de">Darts</category>
   </programme>
