@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/12/2024 21:45" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -280,127 +280,130 @@
   <channel id="Viaplay Premium">
     <display-name>Viaplay Premium</display-name>
   </channel>
-  <programme start="20241217070000 +0100" stop="20241217083000 +0100" channel="EUROSPORT 1 ES">
+  <channel id="Viaplay Sport">
+    <display-name>Viaplay Sport</display-name>
+  </channel>
+  <programme start="20241217065200 +0100" stop="20241217082800 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241217083000 +0100" stop="20241217100000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217082800 +0100" stop="20241217095200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241217100000 +0100" stop="20241217110000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217095200 +0100" stop="20241217104900 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Judo Show T2024 · 16/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El judo es un deporte en el que se ve involucrado todo el cuerpo. Combina perfectamente la fuerza, la táctica de combate y la técnica. Este espacio gira alrededor de esta formativa arte marcial.
 </desc>
   </programme>
-  <programme start="20241217110000 +0100" stop="20241217113000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217104900 +0100" stop="20241217112500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217113000 +0100" stop="20241217120000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217112500 +0100" stop="20241217115600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217120000 +0100" stop="20241217130000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217115600 +0100" stop="20241217125500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Descenso F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241217130000 +0100" stop="20241217140000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217125500 +0100" stop="20241217135500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241217140000 +0100" stop="20241217143000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217135500 +0100" stop="20241217143000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241217143000 +0100" stop="20241217150000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217143000 +0100" stop="20241217145200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 12,5km persecución M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241217150000 +0100" stop="20241217160000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217145200 +0100" stop="20241217155400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x7,5km relevo M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241217160000 +0100" stop="20241217170000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217155400 +0100" stop="20241217165400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Esprín Libre</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 1.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217170000 +0100" stop="20241217173000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217165400 +0100" stop="20241217172200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217173000 +0100" stop="20241217180000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217172200 +0100" stop="20241217175500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217180000 +0100" stop="20241217190500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217175500 +0100" stop="20241217190200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Campeonato del Reino Unido de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *10.0/10
 · La ciudad de York alberga el campeonato del Reino Unido del 23 de noviembre al 1 de diciembre. Ronnie O'Sullivan es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 5.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241217190500 +0100" stop="20241217200500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217190200 +0100" stop="20241217195900 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Grand Slam de salto ecuestre T2024 · Ginebra</title>
     <desc lang="es">Deportes/Hípica | 2024 | TP
 · El Grand Slam es una de las competiciones más importantes del mundo ecuestre. Se trata de un circuito de obstáculos que premia a los jinetes que sobresalgan en los recorridos más complicados del planeta. En juego, suculentos premios económicos.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217200500 +0100" stop="20241217211500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217195900 +0100" stop="20241217211000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Arosa - Campo a través T24/25 · Copa del mundo de esquí acrobático</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217211500 +0100" stop="20241217221500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217211000 +0100" stop="20241217221100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Liga de Campeones de ciclismo en pista T2024 · Resumen de la temporada</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP
 · La Liga de Campeones de ciclismo en pista llega a su cuarta edición. El certamen cuenta con cinco rondas en tres ciudades. Después de París, la competición continua en Apeldoorn, Países Bajos y finaliza en Londres en diciembre.
 </desc>
   </programme>
-  <programme start="20241217221500 +0100" stop="20241217231500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217221100 +0100" stop="20241217230900 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Gran Turismo World Series T2024 · Ámsterdam - Resumen Finales Mundiales</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · El Gran Turismo es uno de los grandes juegos de conducción simulada. Las World Series premian a los mejores pilotos virtuales en dos campeonatos: la Copa de Naciones, en la que representan a sus respectivos países; y la Copa de Fabricantes.
 </desc>
   </programme>
-  <programme start="20241217231500 +0100" stop="20241217234500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217230900 +0100" stop="20241217234000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Mundial de Powerboat Racing T2024 · GP de Sarja</title>
     <desc lang="es">Deportes/Deporte acuático | 2024 | TP
 · Los conductores de lanchas abordan canales estrechos a una velocidad vertiginosa en este campeonato. Una prueba acuática que es considerada la Fórmula 1 del mar. El calendario de 2024 está compuesto por ocho pruebas.
 · País: Emiratos Árabes Unidos</desc>
   </programme>
-  <programme start="20241217234500 +0100" stop="20241218000000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241217234000 +0100" stop="20241218000100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Zhangjiakou - F Trampolín Normal 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: China</desc>
   </programme>
-  <programme start="20241218000000 +0100" stop="20241218004500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241218000100 +0100" stop="20241218004500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
@@ -930,14 +933,14 @@
   </programme>
   <programme start="20241221085000 +0100" stop="20241221093000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Ramsau - Trampolín Normal F 2 T24/25 · Copa del mundo de combinada nórdica</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La Copa del mundo de combinada nórdica recorre las mejores estaciones invernales de todo el planeta. Jarl Magnus Riiber, Ida Marie Hagen, el equipo masculino austriaco y el femenino de Noruega defienden los títulos de la pasada campaña.
+    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
+· La Copa del mundo de combinada nórdica recorre las mejores estaciones invernales de todo el planeta. Jarl Magnus Riiber, Ida Marie Hagen, el equipo masculino austriaco y el femenino de Noruega defienden los títulos de la pasada campaña. Votos: 5.
 · País: Austria</desc>
   </programme>
   <programme start="20241221093000 +0100" stop="20241221103000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Ramsau - Trampolín Normal M 2 T24/25 · Copa del mundo de combinada nórdica</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La Copa del mundo de combinada nórdica recorre las mejores estaciones invernales de todo el planeta. Jarl Magnus Riiber, Ida Marie Hagen, el equipo masculino austriaco y el femenino de Noruega defienden los títulos de la pasada campaña.
+    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
+· La Copa del mundo de combinada nórdica recorre las mejores estaciones invernales de todo el planeta. Jarl Magnus Riiber, Ida Marie Hagen, el equipo masculino austriaco y el femenino de Noruega defienden los títulos de la pasada campaña. Votos: 5.
 · País: Austria</desc>
   </programme>
   <programme start="20241221103000 +0100" stop="20241221113000 +0100" channel="EUROSPORT 1 ES">
@@ -1342,121 +1345,121 @@
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 42.
 · País: Australia</desc>
   </programme>
-  <programme start="20241217070000 +0100" stop="20241217080000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217065200 +0100" stop="20241217075900 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241217080000 +0100" stop="20241217083000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217075900 +0100" stop="20241217082900 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217083000 +0100" stop="20241217090000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217082900 +0100" stop="20241217085800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val d'Isere - Eslalon M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217090000 +0100" stop="20241217100000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217085800 +0100" stop="20241217095100 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
     <desc lang="es">Deportes/Snowboard | 2024 | TP
 · Los eventos de la Copa del Mundo de Snowboard cuentan con la participación de los mejores especialistas en el conocido como surf de las nieves. La competición incluye varias disciplinas.
 · País: Italia</desc>
   </programme>
-  <programme start="20241217100000 +0100" stop="20241217103000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217095100 +0100" stop="20241217102400 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Cortina d'Ampezzo - Eslalon gigante paralelo</title>
     <desc lang="es">Deportes/Snowboard | 2024 | TP
 · Los eventos de la Copa del Mundo de Snowboard cuentan con la participación de los mejores especialistas en el conocido como surf de las nieves. La competición incluye varias disciplinas.
 · País: Italia</desc>
   </programme>
-  <programme start="20241217103000 +0100" stop="20241217110000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217102400 +0100" stop="20241217105400 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Cervinia - Campo a través</title>
     <desc lang="es">Deportes/Snowboard | 2024 | TP
 · Los eventos de la Copa del Mundo de Snowboard cuentan con la participación de los mejores especialistas en el conocido como surf de las nieves. La competición incluye varias disciplinas.
 · País: Italia</desc>
   </programme>
-  <programme start="20241217110000 +0100" stop="20241217120000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217105400 +0100" stop="20241217120100 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - 20km Clásico M</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217120000 +0100" stop="20241217140000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217120100 +0100" stop="20241217135600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241217140000 +0100" stop="20241217150000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217135600 +0100" stop="20241217145900 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Titisee- Neustadt: Titisee-Neustadt - M Trampolín Largo 2</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241217150000 +0100" stop="20241217160000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217145900 +0100" stop="20241217155800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 1</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217160000 +0100" stop="20241217170000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217155800 +0100" stop="20241217165600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí acrobático T24/25 · Val Thorens - Campo a través 2</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades.
 · País: Francia</desc>
   </programme>
-  <programme start="20241217170000 +0100" stop="20241217173000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217165600 +0100" stop="20241217173400 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241217173000 +0100" stop="20241217180000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217173400 +0100" stop="20241217175700 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 12,5km persecución M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241217180000 +0100" stop="20241217190000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217175700 +0100" stop="20241217185300 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Hochfilzen - 4x7,5km relevo M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Austria</desc>
   </programme>
-  <programme start="20241217190000 +0100" stop="20241217210000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217185300 +0100" stop="20241217205700 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217205700 +0100" stop="20241217215800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - Esprín Libre</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 1.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217220000 +0100" stop="20241217230000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217215800 +0100" stop="20241217225300 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Davos - 20km Clásico M</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Suiza</desc>
   </programme>
-  <programme start="20241217230000 +0100" stop="20241218000000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241217225300 +0100" stop="20241218000700 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: EE.UU.</desc>
   </programme>
-  <programme start="20241218000000 +0100" stop="20241218010000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241218000700 +0100" stop="20241218005800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Carezza - Eslalon gigante paralelo</title>
     <desc lang="es">Deportes/Snowboard | 2024 | TP
 · Los eventos de la Copa del Mundo de Snowboard cuentan con la participación de los mejores especialistas en el conocido como surf de las nieves. La competición incluye varias disciplinas.
 · País: Italia</desc>
   </programme>
-  <programme start="20241218010000 +0100" stop="20241218013000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241218005800 +0100" stop="20241218013000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de snowboard T24/25 · Cortina d'Ampezzo - Eslalon gigante paralelo</title>
     <desc lang="es">Deportes/Snowboard | 2024 | TP
 · Los eventos de la Copa del Mundo de Snowboard cuentan con la participación de los mejores especialistas en el conocido como surf de las nieves. La competición incluye varias disciplinas.
@@ -2448,57 +2451,57 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241218130000 +0100" stop="20241218135500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218130000 +0100" stop="20241218135700 +0100" channel="DAZN 1 Espana">
     <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 1</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20241218135500 +0100" stop="20241218145000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218135700 +0100" stop="20241218145000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Asia Talent Cup T2024 · Tailandia - Carrera 2</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · Una competición donde los jóvenes pilotos intentan destacar para lograr su sueño: alcanzar el Mundial de motociclismo. Se trata de un certamen con influencia en Asia y hace paradas en circuitos como el de Chang, Losail, Sepang o Motegi.
 </desc>
   </programme>
-  <programme start="20241218145000 +0100" stop="20241218170500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218145000 +0100" stop="20241218164800 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 6: Real Madrid - Chelsea T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título.
 · País: España</desc>
   </programme>
-  <programme start="20241218170500 +0100" stop="20241218183500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218164800 +0100" stop="20241218183900 +0100" channel="DAZN 1 Espana">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 1: Manchester City - FC Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · La competición de clubes más importante del mundo del fútbol femenino. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241218183500 +0100" stop="20241218210000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218183900 +0100" stop="20241218210000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
 · La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20241218210000 +0100" stop="20241218213500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218210000 +0100" stop="20241218214200 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 6: Barcelona - Manchester City T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
 · La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 1.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20241218213500 +0100" stop="20241218230000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218214200 +0100" stop="20241218224800 +0100" channel="DAZN 1 Espana">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Documental sobre Ducati, la fuerza mayor de MotoGP.
 </desc>
   </programme>
-  <programme start="20241218230000 +0100" stop="20241219014700 +0100" channel="DAZN 1 Espana">
+  <programme start="20241218224800 +0100" stop="20241219020600 +0100" channel="DAZN 1 Espana">
     <title lang="es">Finales WTA T2024 · Gauff - Zheng</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP
 · Las ocho mejores tenistas de la temporada luchan por proclamarse maestras. Un torneo de lujo que en esta edición se celebra en la capital saudí, Riad. Iga Świątek, quien ganó la final del año anterior, parte como principal favorita.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20241219014700 +0100" stop="20241219060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241219020600 +0100" stop="20241219060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -2561,7 +2564,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241219230500 +0100" stop="20241220001000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -2778,47 +2781,53 @@
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 17.
 · País: España</desc>
   </programme>
-  <programme start="20241223001800 +0100" stop="20241223020000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241223001800 +0100" stop="20241223060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241223020000 +0100" stop="20241223060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241223060000 +0100" stop="20241223130000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241223060000 +0100" stop="20241223100000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241223130000 +0100" stop="20241223140000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">IFEMA Madrid Horse Week T2024 · Jump &amp; Drive Trophy</title>
+    <desc lang="es">Deportes/Hípica | 2024 | TP
+· Madrid Horse Week es el mayor evento ecuestre que se celebra en España. Un certamen transversal y multidisciplinar donde tienen lugar competiciones de diferentes disciplinas hípicas, como las copas del mundo de salto o de doma.
+· País: España</desc>
   </programme>
-  <programme start="20241223100000 +0100" stop="20241223140000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241223140000 +0100" stop="20241223150000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Erasmus FC T24/25 E10</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
+· País: España</desc>
   </programme>
-  <programme start="20241223140000 +0100" stop="20241223180000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241223150000 +0100" stop="20241223200000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">A1 Padel San Juan T2024 · Final</title>
+    <desc lang="es">Deportes/Pádel | 2024 | TP | *6.0/10
+· La ciudad argentina de San Juan acoge una nueva cita del A1 Padel Tour. Del 2 al 8 de diciembre, el estadio Aldo Cantoni reúne a algunas de las mejores parejas del circuito, quienes pelean por los más de 24.000 dólares de premio para la dupla ganadora. Votos: 5.
+· País: Argentina</desc>
   </programme>
-  <programme start="20241223180000 +0100" stop="20241223220000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241223200000 +0100" stop="20241223213500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Alcaraz</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
   </programme>
-  <programme start="20241223220000 +0100" stop="20241224020000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241223213500 +0100" stop="20241223232500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">6 Kings Slam T2024 · Nadal - Djokovic</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
+  </programme>
+  <programme start="20241223232500 +0100" stop="20241224020000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP
+· Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
+· País: Arabia Saudí</desc>
   </programme>
   <programme start="20241217100000 +0100" stop="20241217140000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
@@ -2868,19 +2877,19 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241218180000 +0100" stop="20241218205000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241218180000 +0100" stop="20241218205400 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241218205000 +0100" stop="20241218225400 +0100" channel="DAZN 2 Espana">
+  <programme start="20241218205400 +0100" stop="20241218230400 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 6: Arsenal - Bayern Múnich T24/25 · Liga de Campeones (F)</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · La competición de clubes más importante del mundo del fútbol femenino.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241218225400 +0100" stop="20241219020000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241218230400 +0100" stop="20241219020000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -4304,9 +4313,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241217180000 +0100" stop="20241217183000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241217183000 +0100" stop="20241217190000 +0100" channel="DAZN LaLiga ES">
@@ -4322,7 +4331,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4358,7 +4367,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4410,9 +4419,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241219000000 +0100" stop="20241219003000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241219003000 +0100" stop="20241219010000 +0100" channel="DAZN LaLiga ES">
@@ -4459,7 +4468,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4667,9 +4676,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241221173000 +0100" stop="20241221180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241221180000 +0100" stop="20241221210000 +0100" channel="DAZN LaLiga ES">
@@ -4800,9 +4809,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241222200000 +0100" stop="20241222203000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241222203000 +0100" stop="20241222230000 +0100" channel="DAZN LaLiga ES">
@@ -4942,9 +4951,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241217180000 +0100" stop="20241217183000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241217183000 +0100" stop="20241217190000 +0100" channel="DAZN LaLiga">
@@ -4960,7 +4969,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4996,7 +5005,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5048,9 +5057,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241219000000 +0100" stop="20241219003000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241219003000 +0100" stop="20241219010000 +0100" channel="DAZN LaLiga">
@@ -5097,7 +5106,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241219170000 +0100" stop="20241219180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E9</title>
+    <title lang="es">Erasmus FC T24/25 · Derbi de urgencia en Mánchester</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -5305,9 +5314,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241221173000 +0100" stop="20241221180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241221180000 +0100" stop="20241221210000 +0100" channel="DAZN LaLiga">
@@ -5438,9 +5447,9 @@
 · País: España</desc>
   </programme>
   <programme start="20241222200000 +0100" stop="20241222203000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Jornada 17</title>
+    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
   </programme>
   <programme start="20241222203000 +0100" stop="20241222230000 +0100" channel="DAZN LaLiga">
@@ -5638,169 +5647,487 @@
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241217030000 +0100" stop="20241217070000 +0100" channel="Fox Sports 2">
+  <programme start="20241219110000 +0100" stop="20241219150000 +0100" channel="Fox Sports">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241217070000 +0100" stop="20241217110000 +0100" channel="Fox Sports 2">
+  <programme start="20241219150000 +0100" stop="20241219190000 +0100" channel="Fox Sports">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241217110000 +0100" stop="20241217150000 +0100" channel="Fox Sports 2">
+  <programme start="20241219190000 +0100" stop="20241219230000 +0100" channel="Fox Sports">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241217150000 +0100" stop="20241217190000 +0100" channel="Fox Sports 2">
+  <programme start="20241219230000 +0100" stop="20241220030000 +0100" channel="Fox Sports">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241217190000 +0100" stop="20241217230000 +0100" channel="Fox Sports 2">
+  <programme start="20241220030000 +0100" stop="20241220070000 +0100" channel="Fox Sports">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241217230000 +0100" stop="20241218030000 +0100" channel="Fox Sports 2">
+  <programme start="20241220070000 +0100" stop="20241220110000 +0100" channel="Fox Sports">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241218030000 +0100" stop="20241218070000 +0100" channel="Fox Sports 2">
+  <programme start="20241217020000 +0100" stop="20241217040000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Raw Highlights</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217040000 +0100" stop="20241217050000 +0100" channel="Fox Sports 2">
+    <title lang="es">ALL Elite Show</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217050000 +0100" stop="20241217060000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Raw Highlights</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217060000 +0100" stop="20241217070000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox impacto NFL · NFL</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217070000 +0100" stop="20241217090000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Raw Highlights</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217090000 +0100" stop="20241217100000 +0100" channel="Fox Sports 2">
+    <title lang="es">ALL Elite Show</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217100000 +0100" stop="20241217103000 +0100" channel="Fox Sports 2">
+    <title lang="es">PL Stories</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217103000 +0100" stop="20241217110000 +0100" channel="Fox Sports 2">
+    <title lang="es">PLTV--the big interview</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217110000 +0100" stop="20241217140000 +0100" channel="Fox Sports 2">
+    <title lang="es">Queens League Americas</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217140000 +0100" stop="20241217150000 +0100" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217150000 +0100" stop="20241217153000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217153000 +0100" stop="20241217160000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217160000 +0100" stop="20241217170000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown Highlight</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217170000 +0100" stop="20241217180000 +0100" channel="Fox Sports 2">
+    <title lang="es">El show de la Premier League</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217180000 +0100" stop="20241217210000 +0100" channel="Fox Sports 2">
+    <title lang="es">Queens League Americas</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217210000 +0100" stop="20241217220000 +0100" channel="Fox Sports 2">
+    <title lang="es">ALL Elite Show</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217220000 +0100" stop="20241217230000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox impacto NFL · NFL</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217230000 +0100" stop="20241218000000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218000000 +0100" stop="20241218020000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW Collision</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218020000 +0100" stop="20241218050000 +0100" channel="Fox Sports 2">
+    <title lang="es">Invicta FC</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218050000 +0100" stop="20241218060000 +0100" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218060000 +0100" stop="20241218080000 +0100" channel="Fox Sports 2">
+    <title lang="es">Liverpool vs. Fulham</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218080000 +0100" stop="20241218100000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW Collision</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218100000 +0100" stop="20241218110000 +0100" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218110000 +0100" stop="20241218140000 +0100" channel="Fox Sports 2">
+    <title lang="es">Kings League Américas</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218140000 +0100" stop="20241218150000 +0100" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218150000 +0100" stop="20241218153000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218153000 +0100" stop="20241218160000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218160000 +0100" stop="20241218170000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218170000 +0100" stop="20241218190000 +0100" channel="Fox Sports 2">
+    <title lang="es">Kings League Américas</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218190000 +0100" stop="20241218203000 +0100" channel="Fox Sports 2">
+    <title lang="es">Red Bull</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218203000 +0100" stop="20241218220000 +0100" channel="Fox Sports 2">
+    <title lang="es">Red Bull 2024 Repetición</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218220000 +0100" stop="20241218233000 +0100" channel="Fox Sports 2">
+    <title lang="es">Red Bull 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218233000 +0100" stop="20241219003000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Vintage</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219003000 +0100" stop="20241219010000 +0100" channel="Fox Sports 2">
+    <title lang="es">UFC Ultimate Knockouts</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219010000 +0100" stop="20241219020000 +0100" channel="Fox Sports 2">
+    <title lang="es">ALL Elite Show</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219020000 +0100" stop="20241219040000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW DYNAMITE</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219040000 +0100" stop="20241219050000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox impacto NFL · NFL</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219050000 +0100" stop="20241219060000 +0100" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219060000 +0100" stop="20241219080000 +0100" channel="Fox Sports 2">
+    <title lang="es">Bournemouth vs. West Ham United</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219080000 +0100" stop="20241219100000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW DYNAMITE</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219100000 +0100" stop="20241219110000 +0100" channel="Fox Sports 2">
+    <title lang="es">UFC Main Event</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219110000 +0100" stop="20241219130000 +0100" channel="Fox Sports 2">
+    <title lang="es">Queens League Americas</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219130000 +0100" stop="20241219140000 +0100" channel="Fox Sports 2">
+    <title lang="es">El Show de la Uefa Europa Conf</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219140000 +0100" stop="20241219150000 +0100" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219150000 +0100" stop="20241219153000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219153000 +0100" stop="20241219160000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219160000 +0100" stop="20241219170000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Vintage</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219170000 +0100" stop="20241219190000 +0100" channel="Fox Sports 2">
+    <title lang="es">Queens League Americas</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219190000 +0100" stop="20241219200000 +0100" channel="Fox Sports 2">
+    <title lang="es">El Show de la Uefa Europa Conf</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219200000 +0100" stop="20241219230000 +0100" channel="Fox Sports 2">
+    <title lang="es">Previa UEFA Conference League</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219230000 +0100" stop="20241220000000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241220000000 +0100" stop="20241220030000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW DYNAMITE</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241220030000 +0100" stop="20241220070000 +0100" channel="Fox Sports 2">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241218070000 +0100" stop="20241218110000 +0100" channel="Fox Sports 2">
+  <programme start="20241220070000 +0100" stop="20241220110000 +0100" channel="Fox Sports 2">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241218110000 +0100" stop="20241218150000 +0100" channel="Fox Sports 2">
+  <programme start="20241217023000 +0100" stop="20241217063000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217063000 +0100" stop="20241217103000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217103000 +0100" stop="20241217143000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217143000 +0100" stop="20241217183000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217183000 +0100" stop="20241217223000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241217223000 +0100" stop="20241218023000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218023000 +0100" stop="20241218063000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218063000 +0100" stop="20241218103000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218103000 +0100" stop="20241218143000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218143000 +0100" stop="20241218183000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218183000 +0100" stop="20241218223000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241218223000 +0100" stop="20241219023000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219023000 +0100" stop="20241219063000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219063000 +0100" stop="20241219103000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219103000 +0100" stop="20241219143000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219143000 +0100" stop="20241219183000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219183000 +0100" stop="20241219223000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241219223000 +0100" stop="20241220030000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Chasing the Dream</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241220030000 +0100" stop="20241220070000 +0100" channel="Fox Sports Premium">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241218150000 +0100" stop="20241218190000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218190000 +0100" stop="20241218230000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218230000 +0100" stop="20241219030000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241219030000 +0100" stop="20241219070000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241219070000 +0100" stop="20241219110000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241217030000 +0100" stop="20241217070000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241217070000 +0100" stop="20241217110000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241217110000 +0100" stop="20241217150000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241217150000 +0100" stop="20241217190000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241217190000 +0100" stop="20241217230000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241217230000 +0100" stop="20241218030000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218030000 +0100" stop="20241218070000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218070000 +0100" stop="20241218110000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218110000 +0100" stop="20241218150000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218150000 +0100" stop="20241218190000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218190000 +0100" stop="20241218230000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241218230000 +0100" stop="20241219030000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241219030000 +0100" stop="20241219070000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Fox Sports</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241219070000 +0100" stop="20241219110000 +0100" channel="Fox Sports Premium">
+  <programme start="20241220070000 +0100" stop="20241220110000 +0100" channel="Fox Sports Premium">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
@@ -37594,5 +37921,338 @@
     <title lang="sv">NHL</title>
     <desc lang="sv">Little Caesars Arena, Detroit. Från Little Caesars Arena, Detroit. (20/12-24).</desc>
     <date>2024</date>
+  </programme>
+  <programme start="20241217120000 +0000" stop="20241217140000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">American Express Stadium, Falmer. Omgång 16. Från American Express Stadium, Falmer. (15/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241217140000 +0000" stop="20241217150000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241217150000 +0000" stop="20241217153000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från EFL Championship, Englands näst högsta division i fotboll.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20241217153000 +0000" stop="20241217160000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241217160000 +0000" stop="20241217180000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Anfield, Liverpool. Omgång 16. Från Anfield, Liverpool. (14/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241217180000 +0000" stop="20241217190000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241217200000 +0000" stop="20241217220000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Etihad Stadium, Manchester. Omgång 16. Från Etihad Stadium, Manchester. (15/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241217220000 +0000" stop="20241217230000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241217230000 +0000" stop="20241217233000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241217233000 +0000" stop="20241218000000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från EFL Championship, Englands näst högsta division i fotboll.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20241218003500 +0000" stop="20241218033000 +0000" channel="Viaplay Sport">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">Lenovo Center, Raleigh. Från Lenovo Center, Raleigh. (17/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241218120000 +0000" stop="20241218130000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241218130000 +0000" stop="20241218140000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241218140000 +0000" stop="20241218160000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Etihad Stadium, Manchester. Omgång 16. Från Etihad Stadium, Manchester. (15/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241218160000 +0000" stop="20241218170000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241218170000 +0000" stop="20241218173000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20241218173000 +0000" stop="20241218183000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241218183000 +0000" stop="20241218194000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241218194000 +0000" stop="20241218214500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Ligacupen</title>
+    <desc lang="sv">St James&apos; Park, Newcastle upon Tyne. Kvartsfinal. Från St James&apos; Park, Newcastle upon Tyne. (18/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241218214500 +0000" stop="20241218221500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20241218221500 +0000" stop="20241218224500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från EFL Championship, Englands näst högsta division i fotboll.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20241218224500 +0000" stop="20241218234500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241219114500 +0000" stop="20241219124500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241219124500 +0000" stop="20241219134500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241219134500 +0000" stop="20241219154500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Stamford Bridge, London. Omgång 16. Från Stamford Bridge, London. (15/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241219154500 +0000" stop="20241219161500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20241219161500 +0000" stop="20241219164500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från EFL Championship, Englands näst högsta division i fotboll.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20241219164500 +0000" stop="20241219174500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241219174500 +0000" stop="20241219184500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241219184500 +0000" stop="20241219192000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från EFL Championship, Englands näst högsta division i fotboll.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20241219192000 +0000" stop="20241219213000 +0000" channel="Viaplay Sport">
+    <title lang="sv">EuroLeague</title>
+    <desc lang="sv">Adidas Arena i Paris, Frankrike. Omgång 17. Från Adidas Arena i Paris, Frankrike. (19/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241219213000 +0000" stop="20241219220000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20241219220000 +0000" stop="20241219230000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241219230000 +0000" stop="20241220000000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241220010500 +0000" stop="20241220040000 +0000" channel="Viaplay Sport">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">Bridgestone Arena, Nashville. Från Bridgestone Arena, Nashville. (19/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241220085000 +0000" stop="20241220103000 +0000" channel="Viaplay Sport">
+    <title lang="sv">FIS Freestyle</title>
+    <desc lang="sv">Bakuriani, Georgien. Från Bakuriani, Georgien. (20/12-24).</desc>
+    <credits>
+      <commentator>Jonas Lundblad</commentator>
+    </credits>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241220120000 +0000" stop="20241220130000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241220130000 +0000" stop="20241220133000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från EFL Championship, Englands näst högsta division i fotboll.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20241220133000 +0000" stop="20241220153000 +0000" channel="Viaplay Sport">
+    <title lang="sv">EuroLeague</title>
+    <desc lang="sv">Adidas Arena i Paris, Frankrike. Omgång 17. Från Adidas Arena i Paris, Frankrike. (19/12-24).</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+  </programme>
+  <programme start="20241220153000 +0000" stop="20241220160000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Stories</title>
+    <desc lang="sv">Premier League Stories.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme start="20241220160000 +0000" stop="20241220170000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241220170000 +0000" stop="20241220180000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241220180000 +0000" stop="20241220190000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Trans World sport</title>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20241220190000 +0000" stop="20241220200000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241220200000 +0000" stop="20241220210000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20241220210000 +0000" stop="20241220220000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkter från den senaste omgången av Bundesliga.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20241220220000 +0000" stop="20241220230000 +0000" channel="Viaplay Sport">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20241220230000 +0000" stop="20241221000500 +0000" channel="Viaplay Sport">
+    <title lang="sv">Trans World sport</title>
+    <date>2024</date>
+    <country lang="sv">SWE</country>
+    <episode-num system="onscreen">E6</episode-num>
   </programme>
 </tv>
