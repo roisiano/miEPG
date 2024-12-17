@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/12/2024 22:09" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/12/2024 22:31" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -10,11 +10,11 @@
   </channel>
   <channel id="EUROSPORT 1">
     <display-name>EUROSPORT 1</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" />
   </channel>
   <channel id="EUROSPORT 2">
     <display-name>EUROSPORT 2</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" />
   </channel>
   <channel id="Eurosport 1 Deutschland">
     <display-name>Eurosport 1 Deutschland</display-name>
@@ -66,27 +66,27 @@
   </channel>
   <channel id="TNT Sports 1">
     <display-name>TNT Sports 1</display-name>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/d00887bd0d5dcd22bcb782ee9ab57cf5.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4c1ObuKq5F4Yr56SpGHjOqARGPLm%2B2XGx8Oew2SnS64YQu88%2FS1Fz2cBn2TRkYhotPUUNpNolmgw1Zw2P7KdIVIJ7QQLeGyvXLHkJljQmmTgA%3D%3D" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" />
   </channel>
   <channel id="TNT Sports 2">
     <display-name>TNT Sports 2</display-name>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/75057fa2e3e15c62c913f7b78e46e78a.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fKAK3KLwgsLFM6VdoLS7L%2BElMjDGBxpyJEKZTc%2B%2F0A8DOQOfnpDgeGHsfLvM03cBYD%2FGX1L4oafGGgIFOB9zHBG1S%2F8IfxoYS9mBTw53csNA%3D%3D" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" />
   </channel>
   <channel id="TNT Sports 3">
     <display-name>TNT Sports 3</display-name>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/22d97afcec1cc2cc9927067932193ffd.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4dNycmvdUNaC4z28rJUvfRMEAeNQw%2BSsd7xr%2Bq%2B90qcQuEewJpetQRU6JN5r%2BwewsCHAq%2F7Ecmo3BsXFXOM5piHkP%2F0t4ehdSH65gvRrh2Zsw%3D%3D" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" />
   </channel>
   <channel id="TNT Sports 4">
     <display-name>TNT Sports 4</display-name>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/02e778fb98a476cdf0f7eb98271b2204.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4fXyS%2FU0QfVlCo4cCX4GTIEZpcuWO41D6Ea69PfI9DyIvtl%2FNji42qqMgs%2ByUNUhXd94U1E0jpzlHGNjH4rWD0Ui9iTybvVWOhdmCHMtzHY4Q%3D%3D" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" />
   </channel>
   <channel id="TNT Sports 5">
     <display-name>TNT Sports 5</display-name>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/5cd1d6dd739e29576d7cbb1aa9ff064e.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4eMecZa5wsi2BzbZw7Mq%2B9dz76D5WleICLiwiOg8CTzH2w3lAL3ST1uZfjSEJjP2RXYXXm1gdB%2BVmaDr5EJHZSs3WDs7ddP4zFq9xWgXaRObQ%3D%3D" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" />
   </channel>
   <channel id="TNT Sports 6">
     <display-name>TNT Sports 6</display-name>
-    <icon src="https://d16ia5iwuvax6y.cloudfront.net/uk-images/91c7b92c1a7a25ba1c2d74ab80020e93.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cLQ14lSRByA5Ti5iEXJQGq%2B4QPMQVOMW0%2FxWMrvq2uOrv%2F7DrEzE%2BIzESM%2BHsji2lP2hX1RNwtevlDYv9ujwWkVLAL6%2BvhH79WYH7EAEuhNQ%3D%3D" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/640px-TNT_Sports_%282023%29.svg.png" />
   </channel>
   <channel id="DAZN 1 PT">
     <display-name>DAZN 1 PT</display-name>
@@ -184,7 +184,7 @@
   </channel>
   <channel id="Sky Sport Calcio (Italy) - Vpn Italy">
     <display-name>Sky Sport Calcio (Italy) - Vpn Italy</display-name>
-    <icon src="https://guidatv.sky.it/logo/209skysportcalcio_Light_Fit.png?checksum=1a919ce6-bec1-4fe8-8d86-687eb05c10dc?tr=n-logo_80" />
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_italia_2018.png" />
   </channel>
   <channel id="Sky Sport Arena (Italy) - Vpn Italy">
     <display-name>Sky Sport Arena (Italy) - Vpn Italy</display-name>
