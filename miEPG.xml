@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 17/12/2024 00:10" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 17/12/2024 00:30" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -296,6 +296,9 @@
   </channel>
   <channel id="Arena Sport 10 Croatia">
     <display-name>Arena Sport 10 Croatia</display-name>
+  </channel>
+  <channel id="Viaplay Premium">
+    <display-name>Viaplay Premium</display-name>
   </channel>
   <programme start="20241216060100 +0100" stop="20241216065300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Beaver Creek - Supergigante F</title>
@@ -38305,4 +38308,239 @@
 <programme start="20241218010000 +0000" stop="20241218030000 +0000" channel="Arena Sport 10 Croatia">
 <title>Najava programa</title>
 </programme>
+  <programme start="20241216094500 +0000" stop="20241216114500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Emirates Stadium, London. Omgång 16. Från Emirates Stadium, London. (14/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241216114500 +0000" stop="20241216134500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Anfield, Liverpool. Omgång 16. Från Anfield, Liverpool. (14/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241216134500 +0000" stop="20241216154500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">American Express Stadium, Falmer. Omgång 16. Från American Express Stadium, Falmer. (15/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241216154500 +0000" stop="20241216174500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Stamford Bridge, London. Omgång 16. Från Stamford Bridge, London. (15/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241216174500 +0000" stop="20241216194500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Etihad Stadium, Manchester. Omgång 16. Från Etihad Stadium, Manchester. (15/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241216195500 +0000" stop="20241216220000 +0000" channel="Viaplay Premium">
+    <title lang="sv">TBA: Program meddelas senare</title>
+    <desc lang="sv">TBA: Program meddelas senare.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241216220000 +0000" stop="20241217000000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Bundesliga</title>
+    <desc lang="sv">Signal Iduna Park, Dortmund. Omgång 14. Från Signal Iduna Park, Dortmund. (15/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217000000 +0000" stop="20241217010000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkterna från omgångens matcher i Bundesliga.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217010000 +0000" stop="20241217013500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll.</desc>
+  </programme>
+  <programme start="20241217013500 +0000" stop="20241217043000 +0000" channel="Viaplay Premium">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">Rogers Place, Edmonton. Från Rogers Place, Edmonton. (16/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217043000 +0000" stop="20241217050000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll.</desc>
+  </programme>
+  <programme start="20241217103000 +0000" stop="20241217113000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Bundesliga highlights</title>
+    <desc lang="sv">Höjdpunkterna från omgångens matcher i Bundesliga.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217113000 +0000" stop="20241217133000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Molineux Stadium, Wolverhampton. Omgång 16. Från Molineux Stadium, Wolverhampton. (16/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217133000 +0000" stop="20241217143000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217143000 +0000" stop="20241217163000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">St James&apos; Park, Newcastle upon Tyne. Omgång 16. Från St James&apos; Park, Newcastle upon Tyne. (14/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217163000 +0000" stop="20241217170000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Championship Highlights</title>
+    <desc lang="sv">Höjdpunkter från omgångens matcher i Championship.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217170000 +0000" stop="20241217190000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Vitality Stadium, Bournemouth. Omgång 16. Från Vitality Stadium, Bournemouth. (16/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217190000 +0000" stop="20241217200000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217200000 +0000" stop="20241217220000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">The City Ground, Nottingham. Omgång 16. Från The City Ground, Nottingham. (14/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241217220000 +0000" stop="20241218000500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Championship</title>
+    <desc lang="sv">Deepdale, Preston. Omgång 21. Från Deepdale, Preston. (14/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218000500 +0000" stop="20241218030000 +0000" channel="Viaplay Premium">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">Amalie Arena, Tampa. Från Amalie Arena, Tampa. (17/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218030000 +0000" stop="20241218033500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll.</desc>
+  </programme>
+  <programme start="20241218094500 +0000" stop="20241218104500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Holländska ligan Highlights</title>
+    <desc lang="sv">Höjdpunkter från senaste omgångens matcher i Holländska ligan.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218104500 +0000" stop="20241218124500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">American Express Stadium, Falmer. Omgång 16. Från American Express Stadium, Falmer. (15/12-24).</desc>
+    <credits>
+      <commentator>Lars Sandberg</commentator>
+      <commentator>Pär Lagerström</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218124500 +0000" stop="20241218144500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Stamford Bridge, London. Omgång 16. Från Stamford Bridge, London. (15/12-24).</desc>
+    <credits>
+      <commentator>Gustav Karlsson</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218144500 +0000" stop="20241218164500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Etihad Stadium, Manchester. Omgång 16. Från Etihad Stadium, Manchester. (15/12-24).</desc>
+    <credits>
+      <commentator>Niklas Holmgren</commentator>
+      <commentator>Glenn Strömberg</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218164500 +0000" stop="20241218174500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League Review</title>
+    <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218174500 +0000" stop="20241218194500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Anfield, Liverpool. Omgång 16. Från Anfield, Liverpool. (14/12-24).</desc>
+    <credits>
+      <commentator>Henrik Strömblad</commentator>
+      <commentator>Jonas Olsson</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218195500 +0000" stop="20241218220000 +0000" channel="Viaplay Premium">
+    <title lang="sv">TBA: Program meddelas senare</title>
+    <desc lang="sv">TBA: Program meddelas senare.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218220000 +0000" stop="20241218223000 +0000" channel="Viaplay Premium">
+    <title lang="sv">PL Stories</title>
+    <desc lang="sv">Fotbollsmagasin.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241218223000 +0000" stop="20241219003500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Ligacupen</title>
+    <desc lang="sv">TBA. Match meddelas senare.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219003500 +0000" stop="20241219033000 +0000" channel="Viaplay Premium">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">American Airlines Center, Dallas. Från American Airlines Center, Dallas. (18/12-24).</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219033000 +0000" stop="20241219050000 +0000" channel="Viaplay Premium">
+    <title lang="sv">Sändningsuppehåll</title>
+    <desc lang="sv">Sändningsuppehåll.</desc>
+  </programme>
+  <programme start="20241219094500 +0000" stop="20241219114500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">The City Ground, Nottingham. Omgång 16. Från The City Ground, Nottingham. (14/12-24).</desc>
+    <credits>
+      <commentator>Axel Olsson</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219114500 +0000" stop="20241219134500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Vitality Stadium, Bournemouth. Omgång 16. Från Vitality Stadium, Bournemouth. (16/12-24).</desc>
+    <credits>
+      <commentator>Robert Tennisberg</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219134500 +0000" stop="20241219154500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Ligacupen</title>
+    <desc lang="sv">Emirates Stadium, London. Kvartsfinal. Från Emirates Stadium, London. (18/12-24).</desc>
+    <credits>
+      <commentator>Henrik Strömblad</commentator>
+      <commentator>Martin Åslund</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219154500 +0000" stop="20241219174500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Ligacupen</title>
+    <desc lang="sv">St James&apos; Park, Newcastle upon Tyne. Kvartsfinal. Från St James&apos; Park, Newcastle upon Tyne. (18/12-24).</desc>
+    <credits>
+      <commentator>Magnus Dahlborn</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219174500 +0000" stop="20241219194500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Ligacupen</title>
+    <desc lang="sv">St Mary&apos;s Stadium, Southampton. Kvartsfinal. Från St Mary&apos;s Stadium, Southampton. (18/12-24).</desc>
+    <credits>
+      <commentator>Anders Bjuhr</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219195500 +0000" stop="20241219220000 +0000" channel="Viaplay Premium">
+    <title lang="sv">TBA: Program meddelas senare</title>
+    <desc lang="sv">TBA: Program meddelas senare.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241219220000 +0000" stop="20241220000500 +0000" channel="Viaplay Premium">
+    <title lang="sv">Premier League</title>
+    <desc lang="sv">Emirates Stadium, London. Omgång 16. Från Emirates Stadium, London. (14/12-24).</desc>
+    <credits>
+      <commentator>Robert Tennisberg</commentator>
+    </credits>
+    <date>2024</date>
+  </programme>
+  <programme start="20241220000500 +0000" stop="20241220030000 +0000" channel="Viaplay Premium">
+    <title lang="sv">NHL</title>
+    <desc lang="sv">Nationwide Arena, Columbus. Från Nationwide Arena, Columbus. (19/12-24).</desc>
+    <date>2024</date>
+  </programme>
 </tv>
