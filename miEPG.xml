@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 19/12/2024 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 19/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -5549,141 +5549,157 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241220120000 +0100" stop="20241220130000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220120000 +0100" stop="20241220130100 +0100" channel="DAZN 1 Espana">
     <title lang="es">Erasmus FC T24/25 E10</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
   </programme>
-  <programme start="20241220130000 +0100" stop="20241220133000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220130100 +0100" stop="20241220133300 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Luis García, el goleador del 'Spanish Liverpool'</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Luís García fue uno de los grandes referencias del 'Spanish Liverpool' de Rafa Benítez durante la época del 2000. El delantero de Badalona anotó un total de 18 goles y repartió 4 asistencias en los 77 partidos que jugó en la Premier League.
 · País: España</desc>
   </programme>
-  <programme start="20241220133000 +0100" stop="20241220154000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220133300 +0100" stop="20241220152900 +0100" channel="DAZN 1 Espana">
     <title lang="es">Liga F T24/25 · Jornada 8: VCF Femenino - Deportivo Abanca</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
   </programme>
-  <programme start="20241220154000 +0100" stop="20241220155500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Barcelona - Manchester City</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 13.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  <programme start="20241220152900 +0100" stop="20241220160500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">La Central T24/25 E9</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+</desc>
   </programme>
-  <programme start="20241220155500 +0100" stop="20241220164500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220160500 +0100" stop="20241220170600 +0100" channel="DAZN 1 Espana">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20241220164500 +0100" stop="20241220171000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220170600 +0100" stop="20241220180500 +0100" channel="DAZN 1 Espana">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 2</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20241220171000 +0100" stop="20241220192500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220180500 +0100" stop="20241220195600 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Octavos de final: Inter - Udinese T24/25 · Copa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · La competición del KO en el país transalpino llega a su 78ª edición. La Juventus, defensora del título, Inter, Milan, Roma, Lazio y Atalanta parten como candidatos al título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241220192500 +0100" stop="20241220200500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220195600 +0100" stop="20241220203800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Red Bull Features T2024 · Red Bull Dual Ascent - La película</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
 </desc>
   </programme>
-  <programme start="20241220200500 +0100" stop="20241220203000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220203800 +0100" stop="20241220210800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Red Bull Features T2024 E1</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una serie para descubrir todo lo que hay que saber de los deportes de riesgo: su historia, terminología, las distintas disciplinas y las mejores competiciones del mundo ¿A qué esperas para convertirte en un experto?
 </desc>
   </programme>
-  <programme start="20241220203000 +0100" stop="20241220230500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Barcelona - Manchester City</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 13.
-· País: España
-· Presenta: Andrea Segura, Sandra Riquelme.</desc>
+  <programme start="20241220210800 +0100" stop="20241220225400 +0100" channel="DAZN 1 Espana">
+    <title lang="es">La Central T24/25 E9</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El fútbol femenino se abre hueco a pasos agigantados. Este espacio está exclusivamente dedicado a las competiciones en las que las mujeres son las protagonistas. El programa hace un hincapié especial en la actualidad de la Liga F.
+</desc>
   </programme>
-  <programme start="20241220230500 +0100" stop="20241221000300 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220225400 +0100" stop="20241220235500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Erasmus FC T24/25 E10</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
   </programme>
-  <programme start="20241221000300 +0100" stop="20241221000500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241221000500 +0100" stop="20241221060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241220235500 +0100" stop="20241221010700 +0100" channel="DAZN 1 Espana">
     <title lang="es">Boxeo: velada Usyk vs Joshua II T2022 · Oleksandr Usyk vs Anthony Joshua</title>
     <desc lang="es">Deportes/Boxeo | 2022 | +18 | *10.0/10
 · Oleksandr Usyk y Anthony Joshua vuelven a subirse al ring para verse las caras casi un año después con los títulos mundiales de WBA, IBF, WBO y IBO en juego. Votos: 1.
 </desc>
   </programme>
-  <programme start="20241221060000 +0100" stop="20241221132000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241221010700 +0100" stop="20241221060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241221132000 +0100" stop="20241221155000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241221060000 +0100" stop="20241221125500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241221125500 +0100" stop="20241221132000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
+· País: España</desc>
+  </programme>
+  <programme start="20241221132000 +0100" stop="20241221153400 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 17: Aston Villa - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
 · Un Aston Villa errático en la Premier se enfrenta a un Manchester City errático en general. Ambos vienen de perder en la última jornada. El City está a nueve puntos de líder y los de Birmingham a once. Choque de mucha necesidad para Emery y Guardiola. Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241221155000 +0100" stop="20241221182000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 17: West Ham - Brighton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241221182000 +0100" stop="20241221202500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 17: Crystal Palace - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241221202500 +0100" stop="20241221211000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Documental sobre Ducati, la fuerza mayor de MotoGP.
-</desc>
-  </programme>
-  <programme start="20241221211000 +0100" stop="20241221212000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241221153400 +0100" stop="20241221155000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
 · País: España</desc>
   </programme>
-  <programme start="20241221212000 +0100" stop="20241221215000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241221155000 +0100" stop="20241221180200 +0100" channel="DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 17: West Ham - Brighton T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241221180200 +0100" stop="20241221182000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
+· País: España</desc>
+  </programme>
+  <programme start="20241221182000 +0100" stop="20241221203600 +0100" channel="DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 17: Crystal Palace - Arsenal T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241221203600 +0100" stop="20241221214200 +0100" channel="DAZN 1 Espana">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Documental sobre Ducati, la fuerza mayor de MotoGP.
+</desc>
+  </programme>
+  <programme start="20241221214200 +0100" stop="20241221215500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
+· País: España</desc>
+  </programme>
+  <programme start="20241221215500 +0100" stop="20241221222600 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos.
 · País: España</desc>
   </programme>
-  <programme start="20241221215000 +0100" stop="20241221235000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241221222600 +0100" stop="20241222001500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Real Madrid - Chelsea</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · La competición de clubes más importante del fútbol femenino. Tras dos cribas en las rondas clasificatorias, los 16 mejores equipos del continente disputan una exigente fase de grupos. Los más fuertes pelean en las eliminatorias por el título. Votos: 7.
 · País: España</desc>
   </programme>
-  <programme start="20241221235000 +0100" stop="20241222002000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241222001500 +0100" stop="20241222011300 +0100" channel="DAZN 1 Espana">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 2</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20241222002000 +0100" stop="20241222060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241222011300 +0100" stop="20241222060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -6031,13 +6047,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241221155000 +0100" stop="20241221180000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241221155000 +0100" stop="20241221184000 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 17: Ipswich Town - Newcastle T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241221180000 +0100" stop="20241221220000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241221184000 +0100" stop="20241221220000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -26805,92 +26821,6 @@
     <category lang="nl">Sport En Avontuur</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/ncaa-championships-586387711.jpg" />
   </programme>
-  <programme start="20241218070000 +0000" stop="20241218085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: 1. FC Heidenheim - VFB Stuttgart</title>
-    <desc lang="de">Kommentator: Mario Rieker.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218085000 +0000" stop="20241218092000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218092000 +0000" stop="20241218111000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Udinese Calcio - SSC Neapel</title>
-    <desc lang="de">Serie A: Udinese Calcio - SSC Neapel.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218111000 +0000" stop="20241218114000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218114000 +0000" stop="20241218133000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Lazio Rom - Inter Mailand</title>
-    <desc lang="de">Serie A: Lazio Rom - Inter Mailand.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218133000 +0000" stop="20241218140000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218140000 +0000" stop="20241218155000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218155000 +0000" stop="20241218161000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218161000 +0000" stop="20241218165500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 3</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 3.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241218165500 +0000" stop="20241218190500 +0000" channel="DAZN 1 DE">
-    <title lang="de">FIFA Intercontinental Cup: Real Madrid - TBC</title>
-    <desc lang="de">Kommentator: Uli Hebel / Experte: Benny Lauth.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218190500 +0000" stop="20241218193500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 12. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des aktuellen Frauen-Bundesliga Spieltags.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218193500 +0000" stop="20241218195000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218195000 +0000" stop="20241218220000 +0000" channel="DAZN 1 DE">
-    <title lang="de">UEFA Women's Champions League: FC Arsenal - FC Bayern München</title>
-    <desc lang="de">Kommentator: Christoph Fetzer / Experte: Michael Gurski.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218220000 +0000" stop="20241218223000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218223000 +0000" stop="20241218230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218230000 +0000" stop="20241219070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241219070000 +0000" stop="20241219085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
     <desc lang="de">Kommentator: Nico Seepe.</desc>
@@ -27108,100 +27038,60 @@
     <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20241218070000 +0000" stop="20241218085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Primera División: Atletico Madrid - FC Getafe</title>
-    <desc lang="de">Kommentator: Guido Hüsgen.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218085000 +0000" stop="20241218090000 +0000" channel="DAZN 2 DE">
+  <programme start="20241221223500 +0000" stop="20241221230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241218090000 +0000" stop="20241218105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: 1. FC Heidenheim - VFB Stuttgart</title>
-    <desc lang="de">Kommentator: Mario Rieker.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218105000 +0000" stop="20241218112000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218112000 +0000" stop="20241218115000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 12. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des aktuellen Frauen-Bundesliga Spieltags.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218115000 +0000" stop="20241218134000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
-    <desc lang="de">Kommentator: Nico Seepe.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218134000 +0000" stop="20241218140000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218140000 +0000" stop="20241218160000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: RB Leipzig - Eintracht Frankfurt</title>
-    <desc lang="de">Kommentator: Marcel Seufert.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218160000 +0000" stop="20241218163000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218163000 +0000" stop="20241218165500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218165500 +0000" stop="20241218172500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218172500 +0000" stop="20241218175500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218175500 +0000" stop="20241218182500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 12. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des aktuellen Frauen-Bundesliga Spieltags.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218182500 +0000" stop="20241218185500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241218185500 +0000" stop="20241218190000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241218190000 +0000" stop="20241218223000 +0000" channel="DAZN 2 DE">
-    <title lang="de">World Darts Championship: 4. Tag</title>
-    <desc lang="de">World Darts Championship: 4. Tag.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241218223000 +0000" stop="20241218230000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241218230000 +0000" stop="20241219070000 +0000" channel="DAZN 2 DE">
+  <programme start="20241221230000 +0000" stop="20241222070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241222070000 +0000" stop="20241222090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
+    <desc lang="de">Primera División: FC Barcelona - Atlético Madrid.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241222090000 +0000" stop="20241222093000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241222093000 +0000" stop="20241222112000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241222112000 +0000" stop="20241222121500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: Lange Version</title>
+    <desc lang="de">Get Wild: Lange Version.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241222121500 +0000" stop="20241222123000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241222123000 +0000" stop="20241222160000 +0000" channel="DAZN 1 DE">
+    <title lang="de">World Darts Championship: 8. Day - 1. Session</title>
+    <desc lang="de">World Darts Championship: 8. Day - 1. Session.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241222160000 +0000" stop="20241222190000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241222190000 +0000" stop="20241222223000 +0000" channel="DAZN 1 DE">
+    <title lang="de">World Darts Championship: 8. Tag - 2. Session</title>
+    <desc lang="de">World Darts Championship: 8. Tag - 2. Session.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
   </programme>
   <programme start="20241219070000 +0000" stop="20241219085000 +0000" channel="DAZN 2 DE">
     <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
