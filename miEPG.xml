@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 20/12/2024 13:59" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 20/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -359,7 +359,7 @@
   <programme start="20241220083000 +0100" stop="20241220091500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241220091500 +0100" stop="20241220095000 +0100" channel="EUROSPORT 1 ES">
@@ -383,7 +383,7 @@
   <programme start="20241220134500 +0100" stop="20241220140500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241220140500 +0100" stop="20241220153500 +0100" channel="EUROSPORT 1 ES">
@@ -1302,7 +1302,7 @@
   <programme start="20241220103000 +0100" stop="20241220113000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241220113000 +0100" stop="20241220120500 +0100" channel="EUROSPORT 2 ES">
@@ -1379,8 +1379,8 @@
   </programme>
   <programme start="20241220210000 +0100" stop="20241220223000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">UFC Fight Night : Covington vs Buckley T2024 · Main Card</title>
-    <desc lang="es">Deportes/Artes marciales mixtas | 2024 | +18
-· Colby Covington y Joaquin Buckley, luchadores del peso wélter, pugnan en el combate estrella de la velada de UFC que se disputa en el Amalie Arena de Tampa, Florida. También destaca el duelo entre Cub Swanson y Billy Quarantillo.
+    <desc lang="es">Deportes/Artes marciales mixtas | 2024 | +18 | *10.0/10
+· Colby Covington y Joaquin Buckley, luchadores del peso wélter, pugnan en el combate estrella de la velada de UFC que se disputa en el Amalie Arena de Tampa, Florida. También destaca el duelo entre Cub Swanson y Billy Quarantillo. Votos: 1.
 · País: EE.UU.</desc>
   </programme>
   <programme start="20241220223000 +0100" stop="20241221000000 +0100" channel="EUROSPORT 2 ES">
@@ -1471,7 +1471,7 @@
   <programme start="20241221114500 +0100" stop="20241221121500 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241221121500 +0100" stop="20241221131500 +0100" channel="EUROSPORT 2 ES">
@@ -2132,7 +2132,7 @@
   <programme start="20241220083000 +0100" stop="20241220091500 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241220091500 +0100" stop="20241220095000 +0100" channel="EUROSPORT 1">
@@ -2156,7 +2156,7 @@
   <programme start="20241220134500 +0100" stop="20241220140500 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241220140500 +0100" stop="20241220153500 +0100" channel="EUROSPORT 1">
@@ -3075,7 +3075,7 @@
   <programme start="20241220103000 +0100" stop="20241220113000 +0100" channel="EUROSPORT 2">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241220113000 +0100" stop="20241220120500 +0100" channel="EUROSPORT 2">
@@ -3152,8 +3152,8 @@
   </programme>
   <programme start="20241220210000 +0100" stop="20241220223000 +0100" channel="EUROSPORT 2">
     <title lang="es">UFC Fight Night : Covington vs Buckley T2024 · Main Card</title>
-    <desc lang="es">Deportes/Artes marciales mixtas | 2024 | +18
-· Colby Covington y Joaquin Buckley, luchadores del peso wélter, pugnan en el combate estrella de la velada de UFC que se disputa en el Amalie Arena de Tampa, Florida. También destaca el duelo entre Cub Swanson y Billy Quarantillo.
+    <desc lang="es">Deportes/Artes marciales mixtas | 2024 | +18 | *10.0/10
+· Colby Covington y Joaquin Buckley, luchadores del peso wélter, pugnan en el combate estrella de la velada de UFC que se disputa en el Amalie Arena de Tampa, Florida. También destaca el duelo entre Cub Swanson y Billy Quarantillo. Votos: 1.
 · País: EE.UU.</desc>
   </programme>
   <programme start="20241220223000 +0100" stop="20241221000000 +0100" channel="EUROSPORT 2">
@@ -3244,7 +3244,7 @@
   <programme start="20241221114500 +0100" stop="20241221121500 +0100" channel="EUROSPORT 2">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km esprín M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
 · País: Francia</desc>
   </programme>
   <programme start="20241221121500 +0100" stop="20241221131500 +0100" channel="EUROSPORT 2">
@@ -26457,106 +26457,24 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/ncaa-college-basketball-590132271.jpg" />
   </programme>
-  <programme start="20241219070000 +0000" stop="20241219085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: Borussia Dortmund - TSG 1899 Hoffenheim</title>
-    <desc lang="de">Kommentator: Nico Seepe.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241219085000 +0000" stop="20241219091500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219091500 +0000" stop="20241219110500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: RB Leipzig - Eintracht Frankfurt</title>
-    <desc lang="de">Kommentator: Marcel Seufert.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241219110500 +0000" stop="20241219113500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Google Pixel Frauen-Bundesliga Highlightshow 2024/25: 12. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des aktuellen Frauen-Bundesliga Spieltags.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241219113500 +0000" stop="20241219133000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241219133000 +0000" stop="20241219140000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219140000 +0000" stop="20241219180000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Riyadh Season Snooker Championship: Tag 2, Session 1</title>
-    <desc lang="de">Riyadh Season Snooker Championship: Tag 2, Session 1.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20241219180000 +0000" stop="20241219181500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219181500 +0000" stop="20241219190000 +0000" channel="DAZN 1 DE">
-    <title lang="de">3. Liga Highlightshow 2024/25: 18. Spieltag</title>
-    <desc lang="de">3. Liga Highlightshow 2024/25: 18. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241219190000 +0000" stop="20241219192500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219192500 +0000" stop="20241219195500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241219195500 +0000" stop="20241219221000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Coppa Italia: Inter Mailand - Udinese Calcio</title>
-    <desc lang="de">Kommentator: Mario Rieker.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241219221000 +0000" stop="20241219230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: FightZone</title>
-    <desc lang="de">FightZone - Bei "Thursday Fight Night" erwarten euch aktuelle und spannende Clips aus der Weltspitze des Kampfsports.</desc>
-    <category lang="de">Sport (allgemein)</category>
-    <rating system="FSK">
-      <value>ab 18 Jahren</value>
-    </rating>
-  </programme>
-  <programme start="20241219230000 +0000" stop="20241220070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241220070000 +0000" stop="20241220085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
     <desc lang="de">Kommentator: Tom Kirsten.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20241220085000 +0000" stop="20241220092000 +0000" channel="DAZN 1 DE">
+  <programme start="20241220085000 +0000" stop="20241220094000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241220092000 +0000" stop="20241220111000 +0000" channel="DAZN 1 DE">
+  <programme start="20241220094000 +0000" stop="20241220113000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: Udinese Calcio - SSC Neapel</title>
     <desc lang="de">Serie A: Udinese Calcio - SSC Neapel.</desc>
     <date>2024</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241220111000 +0000" stop="20241220114000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220114000 +0000" stop="20241220133000 +0000" channel="DAZN 1 DE">
+  <programme start="20241220113000 +0000" stop="20241220133000 +0000" channel="DAZN 1 DE">
     <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
     <desc lang="de">Kommentator: Jan Platte.</desc>
     <date>2024</date>
@@ -26568,8 +26486,8 @@
     <category lang="de">Sport (allgemein)</category>
   </programme>
   <programme start="20241220140000 +0000" stop="20241220180000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Riyadh Season Snooker Championship: Tag 3, Session 1</title>
-    <desc lang="de">Riyadh Season Snooker Championship: Tag 3, Session 1.</desc>
+    <title lang="de">Riyadh Season Snooker Championship: 3. Tag - 1. Session</title>
+    <desc lang="de">Riyadh Season Snooker Championship: 3. Tag - 1. Session.</desc>
     <date>2024</date>
   </programme>
   <programme start="20241220180000 +0000" stop="20241220183000 +0000" channel="DAZN 1 DE">
@@ -26654,7 +26572,7 @@
   </programme>
   <programme start="20241221172500 +0000" stop="20241221193500 +0000" channel="DAZN 1 DE">
     <title lang="de">Primera División: CA Osasuna - Athletic Bilbao</title>
-    <desc lang="de">Primera División: CA Osasuna - Athletic Bilbao.</desc>
+    <desc lang="de">Kommentator: Michael Born.</desc>
     <date>2024</date>
     <category lang="de">Fußball</category>
   </programme>
@@ -26665,7 +26583,7 @@
   </programme>
   <programme start="20241221195500 +0000" stop="20241221220500 +0000" channel="DAZN 1 DE">
     <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
-    <desc lang="de">Primera División: FC Barcelona - Atlético Madrid.</desc>
+    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
     <date>2024</date>
     <category lang="de">Fußball</category>
   </programme>
@@ -26684,13 +26602,13 @@
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
   </programme>
-  <programme start="20241222070000 +0000" stop="20241222090000 +0000" channel="DAZN 1 DE">
+  <programme start="20241222070000 +0000" stop="20241222085500 +0000" channel="DAZN 1 DE">
     <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
-    <desc lang="de">Primera División: FC Barcelona - Atlético Madrid.</desc>
+    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
     <date>2024</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241222090000 +0000" stop="20241222093000 +0000" channel="DAZN 1 DE">
+  <programme start="20241222085500 +0000" stop="20241222093000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
@@ -26713,7 +26631,7 @@
   </programme>
   <programme start="20241222123000 +0000" stop="20241222160000 +0000" channel="DAZN 1 DE">
     <title lang="de">World Darts Championship: 8. Day - 1. Session</title>
-    <desc lang="de">World Darts Championship: 8. Day - 1. Session.</desc>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
     <date>2024</date>
     <category lang="de">Darts</category>
   </programme>
@@ -26725,83 +26643,95 @@
   </programme>
   <programme start="20241222190000 +0000" stop="20241222223000 +0000" channel="DAZN 1 DE">
     <title lang="de">World Darts Championship: 8. Tag - 2. Session</title>
-    <desc lang="de">World Darts Championship: 8. Tag - 2. Session.</desc>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
     <date>2024</date>
     <category lang="de">Darts</category>
   </programme>
-  <programme start="20241219070000 +0000" stop="20241219085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241219085000 +0000" stop="20241219090000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219090000 +0000" stop="20241219105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A: Lazio Rom - Inter Mailand</title>
-    <desc lang="de">Serie A: Lazio Rom - Inter Mailand.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241219105000 +0000" stop="20241219112500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219112500 +0000" stop="20241219122000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: Lange Version</title>
-    <desc lang="de">Get Wild: Lange Version.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241219122000 +0000" stop="20241219123000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219123000 +0000" stop="20241219160000 +0000" channel="DAZN 2 DE">
-    <title lang="de">World Darts Championship: 5. Tag - 1. Session</title>
-    <desc lang="de">World Darts Championship: 5. Tag - 1. Session.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241219160000 +0000" stop="20241219162500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219162500 +0000" stop="20241219165500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 14. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 14. Spieltag.</desc>
+  <programme start="20241222223000 +0000" stop="20241222230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20241219165500 +0000" stop="20241219173000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
-    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241219173000 +0000" stop="20241219190000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Darts Features: Gaga wirft den Titelverteidiger aus dem Turnier</title>
-    <desc lang="de">Zusammenfassung des Sensationssieges von Gabriel Clemens.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241219190000 +0000" stop="20241219223000 +0000" channel="DAZN 2 DE">
-    <title lang="de">World Darts Championship: 5. Tag - 2. Session</title>
-    <desc lang="de">World Darts Championship: 5. Tag - 2. Session.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241219223000 +0000" stop="20241219230000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241219230000 +0000" stop="20241220070000 +0000" channel="DAZN 2 DE">
+  <programme start="20241222230000 +0000" stop="20241223070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241223070000 +0000" stop="20241223085000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223085000 +0000" stop="20241223092000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223092000 +0000" stop="20241223111000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
+    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241223111000 +0000" stop="20241223114000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223114000 +0000" stop="20241223133000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: CFC Genua 1893 - SSC Neapel</title>
+    <desc lang="de">Serie A: CFC Genua 1893 - SSC Neapel.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241223133000 +0000" stop="20241223140000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223140000 +0000" stop="20241223155000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223155000 +0000" stop="20241223162000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223162000 +0000" stop="20241223170500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241223170500 +0000" stop="20241223172500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223172500 +0000" stop="20241223194000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AC Florenz - Udinese Calcio</title>
+    <desc lang="de">Serie A: AC Florenz - Udinese Calcio.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241223194000 +0000" stop="20241223215000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Inter Mailand - Como 1907</title>
+    <desc lang="de">Serie A: Inter Mailand - Como 1907.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241223215000 +0000" stop="20241223222000 +0000" channel="DAZN 1 DE">
+    <title lang="de">NFL: The Franchise: Episode 11: Playoff Bound</title>
+    <desc lang="de">NFL: The Franchise: Episode 11: Playoff Bound.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241223222000 +0000" stop="20241223225000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
   </programme>
   <programme start="20241220070000 +0000" stop="20241220085000 +0000" channel="DAZN 2 DE">
     <title lang="de">Coppa Italia: Inter Mailand - Udinese Calcio</title>
