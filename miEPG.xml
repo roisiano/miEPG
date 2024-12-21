@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 21/12/2024 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 21/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -4864,8 +4864,8 @@
   </programme>
   <programme start="20241221132000 +0100" stop="20241221153400 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 17: Aston Villa - Manchester City T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Un Aston Villa errático en la Premier se enfrenta a un Manchester City errático en general. Ambos vienen de perder en la última jornada. El City está a nueve puntos de líder y los de Birmingham a once. Choque de mucha necesidad para Emery y Guardiola. Votos: 7.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Un Aston Villa errático en la Premier se enfrenta a un Manchester City errático en general. Ambos vienen de perder en la última jornada. El City está a nueve puntos de líder y los de Birmingham a once. Choque de mucha necesidad para Emery y Guardiola. Votos: 10.
 · País: R.U.</desc>
   </programme>
   <programme start="20241221153400 +0100" stop="20241221155000 +0100" channel="DAZN 1 Espana">
@@ -6819,8 +6819,8 @@
   </programme>
   <programme start="20241221133000 +0100" stop="20241221163000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 18: Getafe - Mallorca T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241221163000 +0100" stop="20241221173000 +0100" channel="DAZN LaLiga ES">
@@ -6830,7 +6830,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241221173000 +0100" stop="20241221180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
+    <title lang="es">Super 8 T24/25 · Jornada 17</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
@@ -6963,7 +6963,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241222200000 +0100" stop="20241222203000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
+    <title lang="es">Super 8 T24/25 · Jornada 17</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
@@ -7093,8 +7093,8 @@
   </programme>
   <programme start="20241224120000 +0100" stop="20241224140000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 18: Getafe - Mallorca T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241224140000 +0100" stop="20241224151500 +0100" channel="DAZN LaLiga ES">
@@ -7460,8 +7460,8 @@
   </programme>
   <programme start="20241221133000 +0100" stop="20241221163000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 18: Getafe - Mallorca T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241221163000 +0100" stop="20241221173000 +0100" channel="DAZN LaLiga">
@@ -7471,7 +7471,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241221173000 +0100" stop="20241221180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
+    <title lang="es">Super 8 T24/25 · Jornada 17</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
@@ -7604,7 +7604,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241222200000 +0100" stop="20241222203000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Lamine y el Barça se paran</title>
+    <title lang="es">Super 8 T24/25 · Jornada 17</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Lamine Yamal tuvo que marcharse lesionado en el encuentro ante el CD Leganés.
 · País: España</desc>
@@ -7734,8 +7734,8 @@
   </programme>
   <programme start="20241224120000 +0100" stop="20241224140000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 18: Getafe - Mallorca T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241224140000 +0100" stop="20241224151500 +0100" channel="DAZN LaLiga">
@@ -26640,65 +26640,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nfl-highlights-586800401.jpg" />
   </programme>
-  <programme start="20241220070000 +0000" stop="20241220085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241220085000 +0000" stop="20241220094000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220094000 +0000" stop="20241220113000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Udinese Calcio - SSC Neapel</title>
-    <desc lang="de">Serie A: Udinese Calcio - SSC Neapel.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241220113000 +0000" stop="20241220133000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Primera División: Rayo Vallecano - Real Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241220133000 +0000" stop="20241220140000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220140000 +0000" stop="20241220180000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Riyadh Season Snooker Championship: 3. Tag - 1. Session</title>
-    <desc lang="de">Riyadh Season Snooker Championship: 3. Tag - 1. Session.</desc>
-    <date>2024</date>
-  </programme>
-  <programme start="20241220180000 +0000" stop="20241220183000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Warm Up: Bundesliga Highlights</title>
-    <desc lang="de">Mit diesem Warm Up seid ihr bestens vorbereitet auf den heutigen Spieltag.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220183000 +0000" stop="20241220220000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241220220000 +0000" stop="20241220224500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241220224500 +0000" stop="20241220230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220230000 +0000" stop="20241221070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241221070000 +0000" stop="20241221085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
     <desc lang="de">Kommentator: Flo Hauser.</desc>
@@ -26820,7 +26761,7 @@
   </programme>
   <programme start="20241222160000 +0000" stop="20241222190000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund.</desc>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
@@ -26842,7 +26783,7 @@
   </programme>
   <programme start="20241223070000 +0000" stop="20241223085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund.</desc>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
@@ -26916,82 +26857,173 @@
     <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20241220070000 +0000" stop="20241220085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Coppa Italia: Inter Mailand - Udinese Calcio</title>
-    <desc lang="de">Kommentator: Mario Rieker.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241220085000 +0000" stop="20241220090000 +0000" channel="DAZN 2 DE">
+  <programme start="20241223225000 +0000" stop="20241223230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241220090000 +0000" stop="20241220105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: SC Freiburg - VFL Wolfsburg</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241220105000 +0000" stop="20241220111000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220111000 +0000" stop="20241220120000 +0000" channel="DAZN 2 DE">
-    <title lang="de">3. Liga Highlightshow 2024/25: 18. Spieltag</title>
-    <desc lang="de">3. Liga Highlightshow 2024/25: 18. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241220120000 +0000" stop="20241220123000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220123000 +0000" stop="20241220160000 +0000" channel="DAZN 2 DE">
-    <title lang="de">World Darts Championship: 6. Tag - 1. Session</title>
-    <desc lang="de">World Darts Championship: 6. Tag - 1. Session.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241220160000 +0000" stop="20241220163000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241220163000 +0000" stop="20241220170000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241220170000 +0000" stop="20241220190000 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL: The Franchise: Episode 15: It's a Dynasty</title>
-    <desc lang="de">Wir zeigen euch Folge 14 von NFL: The Franchise.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241220190000 +0000" stop="20241220223000 +0000" channel="DAZN 2 DE">
-    <title lang="de">World Darts Championship: 6. Tag - 2. Session</title>
-    <desc lang="de">World Darts Championship: 6. Tag - 2. Session.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241220223000 +0000" stop="20241220230000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241220230000 +0000" stop="20241221070000 +0000" channel="DAZN 2 DE">
+  <programme start="20241223230000 +0000" stop="20241224070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
   </programme>
-  <programme start="20241221070000 +0000" stop="20241221090000 +0000" channel="DAZN 2 DE">
+  <programme start="20241224070000 +0000" stop="20241224073000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 1. Spieltag</title>
+    <desc lang="de">Wir zeigen euch die Highlights des ersten Serie A Spieltags.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224073000 +0000" stop="20241224080000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 2. Spieltag</title>
+    <desc lang="de">Wir zeigen euch die Highlights des zweiten Serie A Spieltags.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224080000 +0000" stop="20241224083000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 3. Spieltag</title>
+    <desc lang="de">Wir zeigen euch die Highlights des dritten Serie A Spieltags.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224083000 +0000" stop="20241224090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 4. Spieltag</title>
+    <desc lang="de">Wir zeigen euch die Highlights des vierten Serie A Spieltags.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224090000 +0000" stop="20241224093500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 5. Spieltag</title>
+    <desc lang="de">Wir zeigen euch die Highlights des fünften Serie A Spieltags.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224093500 +0000" stop="20241224101500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224101500 +0000" stop="20241224104500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 6. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 6. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224104500 +0000" stop="20241224111500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 7. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 7. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224111500 +0000" stop="20241224114500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 8. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 8. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224114500 +0000" stop="20241224121500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 9. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 9. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224121500 +0000" stop="20241224125000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224125000 +0000" stop="20241224132000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 10. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 10. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224132000 +0000" stop="20241224135000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 11. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 11. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224135000 +0000" stop="20241224142000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 12. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 12. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224142000 +0000" stop="20241224145000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 13. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 13. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224145000 +0000" stop="20241224152500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224152500 +0000" stop="20241224155500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 14. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 14. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224155500 +0000" stop="20241224162500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 15. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 15. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224162500 +0000" stop="20241224165500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224165500 +0000" stop="20241224172500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 17. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 17. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224172500 +0000" stop="20241224175500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224175500 +0000" stop="20241224183000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 9. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 9. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224183000 +0000" stop="20241224190000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 10. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 10. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224190000 +0000" stop="20241224193000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 11. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 11. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224193000 +0000" stop="20241224200000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 12. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 12. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224200000 +0000" stop="20241224203000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 13. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 13. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224203000 +0000" stop="20241224210000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 14. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 14. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224210000 +0000" stop="20241224213000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 15. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 15. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224213000 +0000" stop="20241224220000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241224220000 +0000" stop="20241224223000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 17. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 17. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241221070000 +0000" stop="20241221085500 +0000" channel="DAZN 2 DE">
     <title lang="de">Coppa Italia: Inter Mailand - Udinese Calcio</title>
     <desc lang="de">Kommentator: Mario Rieker.</desc>
     <date>2024</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241221090000 +0000" stop="20241221093000 +0000" channel="DAZN 2 DE">
+  <programme start="20241221085500 +0000" stop="20241221093000 +0000" channel="DAZN 2 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
@@ -27018,7 +27050,7 @@
   </programme>
   <programme start="20241221123000 +0000" stop="20241221160500 +0000" channel="DAZN 2 DE">
     <title lang="de">World Darts Championship: 7. Tag - 1. Session</title>
-    <desc lang="de">World Darts Championship: 7. Tag - 1. Session.</desc>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Martin Gräfe.</desc>
     <date>2024</date>
     <category lang="de">Darts</category>
   </programme>
@@ -27040,7 +27072,230 @@
   </programme>
   <programme start="20241221190000 +0000" stop="20241221223000 +0000" channel="DAZN 2 DE">
     <title lang="de">World Darts Championship: 7. Tag - 2. Session</title>
-    <desc lang="de">World Darts Championship: 7. Tag - 2. Session.</desc>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241221223000 +0000" stop="20241221230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241221230000 +0000" stop="20241222070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241222070000 +0000" stop="20241222085000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241222085000 +0000" stop="20241222092500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241222092500 +0000" stop="20241222095500 +0000" channel="DAZN 2 DE">
+    <title lang="de">NFL: The Franchise: Episode 11: Playoff Bound</title>
+    <desc lang="de">NFL: The Franchise: Episode 11: Playoff Bound.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241222095500 +0000" stop="20241222102500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
+    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241222102500 +0000" stop="20241222105000 +0000" channel="DAZN 2 DE">
+    <title lang="de">FC Bayern World Squad: Episode 8</title>
+    <desc lang="de">In der letzten Folge der diesjährigen World Squad Dokumentation dreht sich alles um das Spiel zwischen der Class of '24 und der U19 des FC Bayern München. Begleiten Sie die Mannschaft beim Abschlusstraining vor dem großen Spiel und sehen Sie die Highlights der Begegnung - wie wird das vierte Aufeinandertreffen der beiden Teams ausgehen?</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241222105000 +0000" stop="20241222112000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241222112000 +0000" stop="20241222121000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Her Element by Laura Wontorra: Episode 3</title>
+    <desc lang="de">Her Element by Laura Wontorra: Episode 3.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241222121000 +0000" stop="20241222130000 +0000" channel="DAZN 2 DE">
+    <title lang="de">NFL Features 2024/25: Panthers Blueprint: Germany</title>
+    <desc lang="de">NFL Features 2024/25: Panthers Blueprint: Germany.</desc>
+  </programme>
+  <programme start="20241222130000 +0000" stop="20241222133000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Warm Up: Bundesliga Highlights</title>
+    <desc lang="de">Mit diesem Warm Up seid ihr bestens vorbereitet auf den heutigen Spieltag.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241222133000 +0000" stop="20241222170000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
+    <desc lang="de">Kommentator: Tom Kirsten.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241222170000 +0000" stop="20241222173000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241222173000 +0000" stop="20241223004500 +0000" channel="DAZN 2 DE">
+    <title lang="de">NFL Domestic: NFL ENDZN - 16. Spieltag</title>
+    <desc lang="de">Moderator: Christoph Stadtler.</desc>
+    <date>2024</date>
+  </programme>
+  <programme start="20241223004500 +0000" stop="20241223070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241223070000 +0000" stop="20241223085000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: CFC Genua 1893 - SSC Neapel</title>
+    <desc lang="de">Serie A: CFC Genua 1893 - SSC Neapel.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241223085000 +0000" stop="20241223090000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223090000 +0000" stop="20241223105000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223105000 +0000" stop="20241223112000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223112000 +0000" stop="20241223120500 +0000" channel="DAZN 2 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241223120500 +0000" stop="20241223123000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223123000 +0000" stop="20241223160000 +0000" channel="DAZN 2 DE">
+    <title lang="de">World Darts Championship: 9. Tag - 1. Session</title>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241223160000 +0000" stop="20241223163500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223163500 +0000" stop="20241223181000 +0000" channel="DAZN 2 DE">
+    <title lang="de">WÖLFINNEN: DIE JAGD NACH DEM TRIPLE</title>
+    <desc lang="de">Champions League, Bundesliga und DFB-Pokal - das Triple! Für die Frauen des VfL Wolfsburg ist es das selbsterklärte Saisonziel für die Spielzeit 2022/23. Die Erwartungen an und innerhalb des erfolgreichsten deutschen Teams des vergangenen Jahrzehnts könnten kaum höher sein. DAZN begleitet die Wölfinnen in der heißen Endphase der Saison, ist ganz nah dran und geht auf die Suche nach dem Erfolgsgeheimnis dieses besonderen Teams. Neben den Kapitäninnen Svenja Huth und Alexandra Popp sowie Trainer Tommy Stroot, steht u.a. auch die junge Lena Oberdorf im Fokus der Dokumentation, die sowohl die mitreißende Spannung im Kampf um Titel erzählt, als auch die so unterschiedlichen Emotionen ihrer...</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241223181000 +0000" stop="20241223184000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241223184000 +0000" stop="20241223190000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223190000 +0000" stop="20241223223000 +0000" channel="DAZN 2 DE">
+    <title lang="de">World Darts Championship: 9. Tag - 2. Session</title>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241223223000 +0000" stop="20241223230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241223230000 +0000" stop="20241224070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241224070000 +0000" stop="20241224085000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Premier League Darts: Playoffs - London</title>
+    <desc lang="de">Premier League Darts: Playoffs - London.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241224085000 +0000" stop="20241224090500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224090500 +0000" stop="20241224103500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Darts Features: Gaga wirft den Titelverteidiger aus dem Turnier</title>
+    <desc lang="de">Zusammenfassung des Sensationssieges von Gabriel Clemens.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241224103500 +0000" stop="20241224112000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: International Darts Open Finale: Martin Schindler - Gerwyn Price</title>
+    <desc lang="de">Club Profile: International Darts Open Finale: Martin Schindler - Gerwyn Price.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241224112000 +0000" stop="20241224120000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien</title>
+    <desc lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241224120000 +0000" stop="20241224123000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
+    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241224123000 +0000" stop="20241224130500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: Hungarian Darts Trophy: Schindler - Bunting (Achtelfinale)</title>
+    <desc lang="de">Club Profile: Hungarian Darts Trophy: Schindler - Bunting (Achtelfinale).</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241224130500 +0000" stop="20241224135000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Players Championship: Luke Littler - Luke Humphries</title>
+    <desc lang="de">Players Championship: Luke Littler - Luke Humphries.</desc>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241224135000 +0000" stop="20241224141500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224141500 +0000" stop="20241224161000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Premier League Darts: Playoffs - London</title>
+    <desc lang="de">Premier League Darts: Playoffs - London.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241224161000 +0000" stop="20241224164500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224164500 +0000" stop="20241224200000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Swiss Darts Trophy: 3. Tag - 2. Session</title>
+    <desc lang="de">Swiss Darts Trophy: 3. Tag - 2. Session.</desc>
+    <category lang="de">Darts</category>
+  </programme>
+  <programme start="20241224200000 +0000" stop="20241224203500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241224203500 +0000" stop="20241224223500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Paddy Power World Darts Championship: Das Finale</title>
+    <desc lang="de">Paddy Power World Darts Championship: Das Finale.</desc>
     <date>2024</date>
     <category lang="de">Darts</category>
   </programme>
