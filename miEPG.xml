@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 23/12/2024 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 23/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -324,91 +324,97 @@
   <channel id="Super Sport 7AL">
     <display-name>Super Sport 7AL</display-name>
   </channel>
-  <programme start="20241223083000 +0100" stop="20241223091500 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+  <programme start="20241223060100 +0100" stop="20241223083100 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 42.
+· País: Australia</desc>
   </programme>
-  <programme start="20241223091500 +0100" stop="20241223094500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223083100 +0100" stop="20241223091100 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 8.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241223091100 +0100" stop="20241223094100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon gigante M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223094500 +0100" stop="20241223113000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223094100 +0100" stop="20241223112600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223113000 +0100" stop="20241223121500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223112600 +0100" stop="20241223120700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223121500 +0100" stop="20241223124500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223120700 +0100" stop="20241223124100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223124500 +0100" stop="20241223131500 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+  <programme start="20241223124100 +0100" stop="20241223131000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 8.
+· País: Italia</desc>
   </programme>
-  <programme start="20241223131500 +0100" stop="20241223143000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223131000 +0100" stop="20241223142500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223143000 +0100" stop="20241223151500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223142500 +0100" stop="20241223150800 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223151500 +0100" stop="20241223154500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223150800 +0100" stop="20241223154200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223154500 +0100" stop="20241223161500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223154200 +0100" stop="20241223161100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223161500 +0100" stop="20241223175500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223161100 +0100" stop="20241223175500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223175500 +0100" stop="20241223180000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223175500 +0100" stop="20241223175700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">The Minute T2024 · 21/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241223180000 +0100" stop="20241223183000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223175700 +0100" stop="20241223184100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Mol - Femenino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 5.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223183000 +0100" stop="20241223193000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223184100 +0100" stop="20241223192600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Mol - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223193000 +0100" stop="20241223200000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241223192600 +0100" stop="20241223200000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Teqball Show T2024 · 23/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El teqball es un deporte de nuevo cuño que pretende ganarse un hueco entre la oferta atlética. Se trata de una especie de fútbol jugado sobre una mesa curva.
@@ -1177,82 +1183,82 @@
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223063000 +0100" stop="20241223083000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223062700 +0100" stop="20241223082600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223083000 +0100" stop="20241223110000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223082600 +0100" stop="20241223105600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 42.
 · País: Australia</desc>
   </programme>
-  <programme start="20241223110000 +0100" stop="20241223130000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223105600 +0100" stop="20241223125600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223130000 +0100" stop="20241223133500 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de ciclocross T24/25 · Zonhoven - Carrera F</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 10.
-· País: Bélgica</desc>
+  <programme start="20241223125600 +0100" stop="20241223133000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Innichen - Campo a través 2</title>
+    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
+· El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades. Votos: 5.
+· País: Italia</desc>
   </programme>
-  <programme start="20241223133500 +0100" stop="20241223143500 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223133000 +0100" stop="20241223143100 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Mol - Femenino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 5.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223143500 +0100" stop="20241223150500 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223143100 +0100" stop="20241223150000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de ciclocross T24/25 · Zonhoven - Carrera M</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 5.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223150500 +0100" stop="20241223161500 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223150000 +0100" stop="20241223161100 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Mol - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223161500 +0100" stop="20241223170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+  <programme start="20241223161100 +0100" stop="20241223165600 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223170000 +0100" stop="20241223173000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223165600 +0100" stop="20241223173100 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223173000 +0100" stop="20241223180000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223173100 +0100" stop="20241223175800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km persecución F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223180000 +0100" stop="20241223200000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223175800 +0100" stop="20241223195600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223200000 +0100" stop="20241223204500 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241223195600 +0100" stop="20241223204000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223204500 +0100" stop="20241223213000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+  <programme start="20241223204000 +0100" stop="20241223213000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: Italia</desc>
   </programme>
   <programme start="20241223213000 +0100" stop="20241223223000 +0100" channel="EUROSPORT 2 ES">
@@ -1292,10 +1298,10 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241224053000 +0100" stop="20241224063000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
+· País: Italia</desc>
   </programme>
   <programme start="20241224063000 +0100" stop="20241224083000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
@@ -1311,8 +1317,8 @@
   </programme>
   <programme start="20241224091500 +0100" stop="20241224100000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: Italia</desc>
   </programme>
   <programme start="20241224100000 +0100" stop="20241224110000 +0100" channel="EUROSPORT 2 ES">
@@ -1364,10 +1370,10 @@
 · País: Francia</desc>
   </programme>
   <programme start="20241224170000 +0100" stop="20241224180000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
+· País: Italia</desc>
   </programme>
   <programme start="20241224180000 +0100" stop="20241224200000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
@@ -1873,91 +1879,97 @@
 · El puente de Alexandre III, sobre el transcurso del Sena por el corazón de París, es el epicentro de las pruebas de triatlón olímpico. Esta prueba combinada entrega medallas en las categorías masculina, femenina y de relevo mixto. Votos: 3.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223083000 +0100" stop="20241223091500 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+  <programme start="20241223060100 +0100" stop="20241223083100 +0100" channel="EUROSPORT 1">
+    <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
+    <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
+· El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 42.
+· País: Australia</desc>
   </programme>
-  <programme start="20241223091500 +0100" stop="20241223094500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223083100 +0100" stop="20241223091100 +0100" channel="EUROSPORT 1">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 8.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241223091100 +0100" stop="20241223094100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon gigante M - 2ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223094500 +0100" stop="20241223113000 +0100" channel="EUROSPORT 1">
+  <programme start="20241223094100 +0100" stop="20241223112600 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223113000 +0100" stop="20241223121500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223112600 +0100" stop="20241223120700 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223121500 +0100" stop="20241223124500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223120700 +0100" stop="20241223124100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223124500 +0100" stop="20241223131500 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+  <programme start="20241223124100 +0100" stop="20241223131000 +0100" channel="EUROSPORT 1">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 8.
+· País: Italia</desc>
   </programme>
-  <programme start="20241223131500 +0100" stop="20241223143000 +0100" channel="EUROSPORT 1">
+  <programme start="20241223131000 +0100" stop="20241223142500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223143000 +0100" stop="20241223151500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223142500 +0100" stop="20241223150800 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223151500 +0100" stop="20241223154500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223150800 +0100" stop="20241223154200 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223154500 +0100" stop="20241223161500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223154200 +0100" stop="20241223161100 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223161500 +0100" stop="20241223175500 +0100" channel="EUROSPORT 1">
+  <programme start="20241223161100 +0100" stop="20241223175500 +0100" channel="EUROSPORT 1">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223175500 +0100" stop="20241223180000 +0100" channel="EUROSPORT 1">
+  <programme start="20241223175500 +0100" stop="20241223175700 +0100" channel="EUROSPORT 1">
     <title lang="es">The Minute T2024 · 21/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241223180000 +0100" stop="20241223183000 +0100" channel="EUROSPORT 1">
+  <programme start="20241223175700 +0100" stop="20241223184100 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Mol - Femenino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 5.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223183000 +0100" stop="20241223193000 +0100" channel="EUROSPORT 1">
+  <programme start="20241223184100 +0100" stop="20241223192600 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Mol - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223193000 +0100" stop="20241223200000 +0100" channel="EUROSPORT 1">
+  <programme start="20241223192600 +0100" stop="20241223200000 +0100" channel="EUROSPORT 1">
     <title lang="es">Teqball Show T2024 · 23/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El teqball es un deporte de nuevo cuño que pretende ganarse un hueco entre la oferta atlética. Se trata de una especie de fútbol jugado sobre una mesa curva.
@@ -2726,82 +2738,82 @@
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223063000 +0100" stop="20241223083000 +0100" channel="EUROSPORT 2">
+  <programme start="20241223062700 +0100" stop="20241223082600 +0100" channel="EUROSPORT 2">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223083000 +0100" stop="20241223110000 +0100" channel="EUROSPORT 2">
+  <programme start="20241223082600 +0100" stop="20241223105600 +0100" channel="EUROSPORT 2">
     <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 42.
 · País: Australia</desc>
   </programme>
-  <programme start="20241223110000 +0100" stop="20241223130000 +0100" channel="EUROSPORT 2">
+  <programme start="20241223105600 +0100" stop="20241223125600 +0100" channel="EUROSPORT 2">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223130000 +0100" stop="20241223133500 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de ciclocross T24/25 · Zonhoven - Carrera F</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 10.
-· País: Bélgica</desc>
+  <programme start="20241223125600 +0100" stop="20241223133000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Innichen - Campo a través 2</title>
+    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
+· El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades. Votos: 5.
+· País: Italia</desc>
   </programme>
-  <programme start="20241223133500 +0100" stop="20241223143500 +0100" channel="EUROSPORT 2">
+  <programme start="20241223133000 +0100" stop="20241223143100 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Mol - Femenino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 5.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223143500 +0100" stop="20241223150500 +0100" channel="EUROSPORT 2">
+  <programme start="20241223143100 +0100" stop="20241223150000 +0100" channel="EUROSPORT 2">
     <title lang="es">Copa del mundo de ciclocross T24/25 · Zonhoven - Carrera M</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 5.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223150500 +0100" stop="20241223161500 +0100" channel="EUROSPORT 2">
+  <programme start="20241223150000 +0100" stop="20241223161100 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Mol - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241223161500 +0100" stop="20241223170000 +0100" channel="EUROSPORT 2">
-    <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+  <programme start="20241223161100 +0100" stop="20241223165600 +0100" channel="EUROSPORT 2">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223170000 +0100" stop="20241223173000 +0100" channel="EUROSPORT 2">
+  <programme start="20241223165600 +0100" stop="20241223173100 +0100" channel="EUROSPORT 2">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223173000 +0100" stop="20241223180000 +0100" channel="EUROSPORT 2">
+  <programme start="20241223173100 +0100" stop="20241223175800 +0100" channel="EUROSPORT 2">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km persecución F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
 · País: Francia</desc>
   </programme>
-  <programme start="20241223180000 +0100" stop="20241223200000 +0100" channel="EUROSPORT 2">
+  <programme start="20241223175800 +0100" stop="20241223195600 +0100" channel="EUROSPORT 2">
     <title lang="es">Mundial de snooker T23/24 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
 · El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241223200000 +0100" stop="20241223204500 +0100" channel="EUROSPORT 2">
+  <programme start="20241223195600 +0100" stop="20241223204000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241223204500 +0100" stop="20241223213000 +0100" channel="EUROSPORT 2">
-    <title lang="es">DIRECTO Alta Badia - Eslalon M - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+  <programme start="20241223204000 +0100" stop="20241223213000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: Italia</desc>
   </programme>
   <programme start="20241223213000 +0100" stop="20241223223000 +0100" channel="EUROSPORT 2">
@@ -2841,10 +2853,10 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241224053000 +0100" stop="20241224063000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
+· País: Italia</desc>
   </programme>
   <programme start="20241224063000 +0100" stop="20241224083000 +0100" channel="EUROSPORT 2">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
@@ -2860,8 +2872,8 @@
   </programme>
   <programme start="20241224091500 +0100" stop="20241224100000 +0100" channel="EUROSPORT 2">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
 · País: Italia</desc>
   </programme>
   <programme start="20241224100000 +0100" stop="20241224110000 +0100" channel="EUROSPORT 2">
@@ -2913,10 +2925,10 @@
 · País: Francia</desc>
   </programme>
   <programme start="20241224170000 +0100" stop="20241224180000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · St. Moritz - Supergigante F 2</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Suiza</desc>
+    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
+· País: Italia</desc>
   </programme>
   <programme start="20241224180000 +0100" stop="20241224200000 +0100" channel="EUROSPORT 2">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
@@ -6478,7 +6490,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241224210000 +0100" stop="20241224220000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6514,7 +6526,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241225140000 +0100" stop="20241225150000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6541,9 +6553,9 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241225190000 +0100" stop="20241225210000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 6: Valladolid - Real Sociedad</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 15: Valladolid - Atlético de Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Valladolid y Real Sociedad llegan a la sexta jornada del campeonato igualados a cuatro puntos, un pobre guarismo que sitúa a ambos conjuntos cerca de la zona de descenso. Su duelo en el Nuevo Zorrilla puede impulsar a uno de ellos. Votos: 7.
+· El Valladolid atraviesa una situación crítica. Los pucelanos solo han sumado un punto en los últimos cuatro encuentros y ocupan la última posición de la tabla. El Atlético, por contra, encadena seis triunfos consecutivos. Votos: 38.
 · País: España</desc>
   </programme>
   <programme start="20241225210000 +0100" stop="20241225213000 +0100" channel="DAZN LaLiga ES">
@@ -6608,7 +6620,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241226170000 +0100" stop="20241226180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6728,7 +6740,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227173000 +0100" stop="20241227180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Fase de grupos: At. Madrid - Girona T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Fase de grupos: Atlético de Madrid - Girona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
 · País: España</desc>
@@ -6764,7 +6776,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227203000 +0100" stop="20241227213000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7009,16 +7021,10 @@
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20241229190000 +0100" stop="20241229195000 +0100" channel="DAZN LaLiga ES">
+  <programme start="20241229190000 +0100" stop="20241229200000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20241229195000 +0100" stop="20241229200000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Entrega de premios T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
 · País: España</desc>
   </programme>
   <programme start="20241229200000 +0100" stop="20241229203000 +0100" channel="DAZN LaLiga ES">
@@ -7201,7 +7207,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241224210000 +0100" stop="20241224220000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7237,7 +7243,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241225140000 +0100" stop="20241225150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7264,9 +7270,9 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241225190000 +0100" stop="20241225210000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 6: Valladolid - Real Sociedad</title>
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 15: Valladolid - Atlético de Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Valladolid y Real Sociedad llegan a la sexta jornada del campeonato igualados a cuatro puntos, un pobre guarismo que sitúa a ambos conjuntos cerca de la zona de descenso. Su duelo en el Nuevo Zorrilla puede impulsar a uno de ellos. Votos: 7.
+· El Valladolid atraviesa una situación crítica. Los pucelanos solo han sumado un punto en los últimos cuatro encuentros y ocupan la última posición de la tabla. El Atlético, por contra, encadena seis triunfos consecutivos. Votos: 38.
 · País: España</desc>
   </programme>
   <programme start="20241225210000 +0100" stop="20241225213000 +0100" channel="DAZN LaLiga">
@@ -7331,7 +7337,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241226170000 +0100" stop="20241226180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7451,7 +7457,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227173000 +0100" stop="20241227180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Fase de grupos: At. Madrid - Girona T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Fase de grupos: Atlético de Madrid - Girona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
 · País: España</desc>
@@ -7487,7 +7493,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227203000 +0100" stop="20241227213000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7732,16 +7738,10 @@
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20241229190000 +0100" stop="20241229195000 +0100" channel="DAZN LaLiga">
+  <programme start="20241229190000 +0100" stop="20241229200000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20241229195000 +0100" stop="20241229200000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Entrega de premios T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
 · País: España</desc>
   </programme>
   <programme start="20241229200000 +0100" stop="20241229203000 +0100" channel="DAZN LaLiga">
@@ -26097,61 +26097,6 @@
     <category lang="nl">Sportprogramma</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nba-action-587192181.jpg" />
   </programme>
-  <programme start="20241222070000 +0000" stop="20241222085500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241222085500 +0000" stop="20241222093000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241222093000 +0000" stop="20241222112000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241222112000 +0000" stop="20241222121500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: Lange Version</title>
-    <desc lang="de">Get Wild: Lange Version.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241222121500 +0000" stop="20241222123000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241222123000 +0000" stop="20241222160000 +0000" channel="DAZN 1 DE">
-    <title lang="de">World Darts Championship: 8. Day - 1. Session</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241222160000 +0000" stop="20241222190000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241222190000 +0000" stop="20241222223000 +0000" channel="DAZN 1 DE">
-    <title lang="de">World Darts Championship: 8. Tag - 2. Session</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Lukas Wenig.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241222223000 +0000" stop="20241222230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241222230000 +0000" stop="20241223070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241223070000 +0000" stop="20241223085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
@@ -26468,66 +26413,148 @@
     <title lang="de">NFL Features 2024/25: Panthers Blueprint: Germany</title>
     <desc lang="de">NFL Features 2024/25: Panthers Blueprint: Germany.</desc>
   </programme>
-  <programme start="20241222070000 +0000" stop="20241222085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
+  <programme start="20241225223500 +0000" stop="20241225230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: FightZone</title>
+    <desc lang="de">FightZone - Bei "Thursday Fight Night" erwarten euch aktuelle und spannende Clips aus der Weltspitze des Kampfsports.</desc>
+    <category lang="de">Sport (allgemein)</category>
+    <rating system="FSK">
+      <value>ab 18 Jahren</value>
+    </rating>
   </programme>
-  <programme start="20241222085000 +0000" stop="20241222092500 +0000" channel="DAZN 2 DE">
+  <programme start="20241225230000 +0000" stop="20241226070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241226070000 +0000" stop="20241226073000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: In der Spur</title>
+    <desc lang="de">Erstmals produziert der VfB Stuttgart eine saisonbegleitende Doku. Ein Trainingslager, das ins Wasser fällt. Neuzugänge, die sich verletzen. Dennoch: Der VfB ist in der Spur. Das Team wächst zusammen, gewinnt souverän in der ersten Pokalrunde. Und alle sind heiß auf die Heimpremiere gegen Bochum. VfB inTeam begleitet die Mannschaft in der ersten Episode durch die Saisonvorbereitung und liefert exklusive Einblicke.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226073000 +0000" stop="20241226080000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Verantwortung</title>
+    <desc lang="de">Wie kann der VfB den überraschenden Abgang seines Kapitäns kompensieren, wer übernimmt jetzt mehr Verantwortung im Team? Welche Mittel stehen für Transfers zur Verfügung - und wie plant der VfB? Während die Verantwortlichen diese Fragen beantworten müssen, gelingt mit der Vertragsverlängerung von Hiroki Ito ein echter Coup. Neuzugang Deniz Undav schwitzt in der Reha für sein Comeback und erlebt erstmals die Karawane Cannstatt und die fantastische Stimmung in der MHPArena.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226080000 +0000" stop="20241226083000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Nähe</title>
+    <desc lang="de">Vor dem Spiel gegen den SC Freiburg fragt sich ganz Stuttgart: Wie gut ist der VFB wirklich? Die Antwort liefert das Team auf dem Platz. In der Länderspielpause zeigt der VFB Präsenz auf dem Weindorf, organisiert die Mitgliederversammlung, feiert 130. Geburtstag - und Präsident Claus Vogt stellt sich dem Fan-Podcast.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226083000 +0000" stop="20241226090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
+    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226090000 +0000" stop="20241226093000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
+    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226093000 +0000" stop="20241226100000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
+    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226100000 +0000" stop="20241226103000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
+    <desc lang="de">Der VfB begleitet und beschäftigt viele Generationen - und so auch diese Folge. "VfB inTeam" ist hautnah dabei, wenn die U19 den lang ersehnten Mercedes-Benz JuniorCup gewinnt, die Profimannschaft nach einem emotionalen Jahresausklang in Stuttgart in eine ungewöhnliche Wintervorbereitung startet und VfB-Legende Timo Hildebrand die Türen zu seinem "Fußballkeller" öffnet.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226103000 +0000" stop="20241226111500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226111500 +0000" stop="20241226120000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226120000 +0000" stop="20241226133500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
+    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226133500 +0000" stop="20241226140000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 1. Episode</title>
+    <desc lang="de">Get Wild: 1. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241226140000 +0000" stop="20241226142000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 2. Episode</title>
+    <desc lang="de">Get Wild: 2. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241226142000 +0000" stop="20241226144000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 3. Episode</title>
+    <desc lang="de">Get Wild: 3. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241226144000 +0000" stop="20241226151500 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241222092500 +0000" stop="20241222095500 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL: The Franchise: Episode 11: Playoff Bound</title>
-    <desc lang="de">NFL: The Franchise: Episode 11: Playoff Bound.</desc>
+  <programme start="20241226151500 +0000" stop="20241226154500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Verantwortung</title>
+    <desc lang="de">Wie kann der VfB den überraschenden Abgang seines Kapitäns kompensieren, wer übernimmt jetzt mehr Verantwortung im Team? Welche Mittel stehen für Transfers zur Verfügung - und wie plant der VfB? Während die Verantwortlichen diese Fragen beantworten müssen, gelingt mit der Vertragsverlängerung von Hiroki Ito ein echter Coup. Neuzugang Deniz Undav schwitzt in der Reha für sein Comeback und erlebt erstmals die Karawane Cannstatt und die fantastische Stimmung in der MHPArena.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226154500 +0000" stop="20241226161500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Nähe</title>
+    <desc lang="de">Vor dem Spiel gegen den SC Freiburg fragt sich ganz Stuttgart: Wie gut ist der VFB wirklich? Die Antwort liefert das Team auf dem Platz. In der Länderspielpause zeigt der VFB Präsenz auf dem Weindorf, organisiert die Mitgliederversammlung, feiert 130. Geburtstag - und Präsident Claus Vogt stellt sich dem Fan-Podcast.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226161500 +0000" stop="20241226164500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
+    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226164500 +0000" stop="20241226171500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
+    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226171500 +0000" stop="20241226174500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
+    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226174500 +0000" stop="20241226181500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
+    <desc lang="de">Der VfB begleitet und beschäftigt viele Generationen - und so auch diese Folge. "VfB inTeam" ist hautnah dabei, wenn die U19 den lang ersehnten Mercedes-Benz JuniorCup gewinnt, die Profimannschaft nach einem emotionalen Jahresausklang in Stuttgart in eine ungewöhnliche Wintervorbereitung startet und VfB-Legende Timo Hildebrand die Türen zu seinem "Fußballkeller" öffnet.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226181500 +0000" stop="20241226190000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226190000 +0000" stop="20241226194500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226194500 +0000" stop="20241226212000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
+    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241226212000 +0000" stop="20241226214500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 1. Episode</title>
+    <desc lang="de">Get Wild: 1. Episode.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20241222095500 +0000" stop="20241222102500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
-    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
+  <programme start="20241226214500 +0000" stop="20241226220500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 2. Episode</title>
+    <desc lang="de">Get Wild: 2. Episode.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20241222102500 +0000" stop="20241222105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">FC Bayern World Squad: Episode 8</title>
-    <desc lang="de">In der letzten Folge der diesjährigen World Squad Dokumentation dreht sich alles um das Spiel zwischen der Class of '24 und der U19 des FC Bayern München. Begleiten Sie die Mannschaft beim Abschlusstraining vor dem großen Spiel und sehen Sie die Highlights der Begegnung - wie wird das vierte Aufeinandertreffen der beiden Teams ausgehen?</desc>
+  <programme start="20241226220500 +0000" stop="20241226222500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 3. Episode</title>
+    <desc lang="de">Get Wild: 3. Episode.</desc>
     <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241222105000 +0000" stop="20241222112000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241222112000 +0000" stop="20241222121000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 3</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 3.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241222121000 +0000" stop="20241222130000 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Features 2024/25: Panthers Blueprint: Germany</title>
-    <desc lang="de">NFL Features 2024/25: Panthers Blueprint: Germany.</desc>
-  </programme>
-  <programme start="20241222130000 +0000" stop="20241222133000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Warm Up: Bundesliga Highlights</title>
-    <desc lang="de">Mit diesem Warm Up seid ihr bestens vorbereitet auf den heutigen Spieltag.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241222133000 +0000" stop="20241222170000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241222170000 +0000" stop="20241222173000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241222173000 +0000" stop="20241223004500 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Domestic: NFL ENDZN - 16. Spieltag</title>
-    <desc lang="de">Moderator: Christoph Stadtler.</desc>
-    <date>2024</date>
   </programme>
   <programme start="20241223004500 +0000" stop="20241223070000 +0000" channel="DAZN 2 DE">
     <title lang="de">Sendepause</title>
