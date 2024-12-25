@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 25/12/2024 06:18" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 25/12/2024 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -316,114 +316,6 @@
   <channel id="Super Sport 7AL">
     <display-name>Super Sport 7AL</display-name>
   </channel>
-  <programme start="20241224083100 +0100" stop="20241224095400 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Mundial de snooker T23/24 · Final</title>
-    <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
-· El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241224095400 +0100" stop="20241224102800 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224102800 +0100" stop="20241224105700 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km persecución F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224105700 +0100" stop="20241224112500 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224112500 +0100" stop="20241224115600 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224115600 +0100" stop="20241224122300 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 1ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224122300 +0100" stop="20241224132400 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Innichen - Campo a través 2</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades. Votos: 5.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224132400 +0100" stop="20241224132600 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">The Minute T2024 · 21/12/2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Magazine deportivo de Eurosport.
-</desc>
-  </programme>
-  <programme start="20241224132600 +0100" stop="20241224155500 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Ciclismo en ruta - JJ OO París 2024 T2024 · Ruta (M)</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· Las pruebas de ciclismo en ruta recorren los lugares más emblemáticos de la Ciudad de la Luz, con epicentro en el puente de Alexandre III y el Trocadero. La competición entrega cuatro medallas de oro en las modalidades de ruta y contrarreloj. Votos: 12.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224155500 +0100" stop="20241224172500 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Tenis - JJ OO París 2024 T2024 · Finales: Djokovic - Alcaraz</title>
-    <desc lang="es">Deportes/Tenis | 2024 | TP | *8.0/10
-· Las instalaciones de Roland Garros acogen la competición de tenis de los Juegos Olímpicos del 27 de julio al 4 de agosto. El certamen entrega medallas en individuales (masculino y femenino) y dobles (masculino, femenino y mixto). Votos: 19.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224172500 +0100" stop="20241224182300 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Hall Of Fame París 2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
-</desc>
-  </programme>
-  <programme start="20241224182300 +0100" stop="20241224200000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (F)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224200000 +0100" stop="20241224213000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final pértiga (M)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224213000 +0100" stop="20241224230000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final triple salto (M)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224230000 +0100" stop="20241225000000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Hall Of Fame París 2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
-</desc>
-  </programme>
-  <programme start="20241225000000 +0100" stop="20241225013000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241225013000 +0100" stop="20241225033000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Baloncesto (M) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *10.0/10
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 8.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241225033000 +0100" stop="20241225063000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Ciclismo en ruta - JJ OO París 2024 T2024 · Ruta (M)</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· Las pruebas de ciclismo en ruta recorren los lugares más emblemáticos de la Ciudad de la Luz, con epicentro en el puente de Alexandre III y el Trocadero. La competición entrega cuatro medallas de oro en las modalidades de ruta y contrarreloj. Votos: 12.
-· País: Francia</desc>
-  </programme>
   <programme start="20241225063000 +0100" stop="20241225083000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
     <desc lang="es">Deportes/Atletismo | 2024 | TP
@@ -1181,125 +1073,125 @@
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241224062500 +0100" stop="20241224082300 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241231040000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241224082300 +0100" stop="20241224090900 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 1ª manga</title>
+  <programme start="20241231070000 +0100" stop="20241231074500 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Semmering - Eslalon gigante F - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Italia</desc>
+· País: Austria</desc>
   </programme>
-  <programme start="20241224090900 +0100" stop="20241224095400 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
-· País: Italia</desc>
+  <programme start="20241231074500 +0100" stop="20241231083000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Semmering - Eslalon gigante F - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+· País: Austria</desc>
   </programme>
-  <programme start="20241224095400 +0100" stop="20241224105800 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Mundial de Resistencia de la FIA T2024 · 24 Horas de Le Mans - Resumen</title>
-    <desc lang="es">Deportes/Motor | TP
-· Competición de automovilismo de velocidad que se disputa con prototipos deportivos y coches gran turismo. Prácticamente todas las carreras históricas de resistencia forman parte del calendario del campeonato, entre ellas las 24 Horas de Le Mans.
-· País: Francia</desc>
+  <programme start="20241231083000 +0100" stop="20241231094000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
   </programme>
-  <programme start="20241224105800 +0100" stop="20241224115300 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Hall Of Fame París 2024</title>
+  <programme start="20241231094000 +0100" stop="20241231094500 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">The Minute T2024 · 30/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
+· Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241224115300 +0100" stop="20241224122300 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Teqball Show T2024 · 23/12/2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· El teqball es un deporte de nuevo cuño que pretende ganarse un hueco entre la oferta atlética. Se trata de una especie de fútbol jugado sobre una mesa curva.
-</desc>
+  <programme start="20241231094500 +0100" stop="20241231103000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
-  <programme start="20241224122300 +0100" stop="20241224135600 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241231103000 +0100" stop="20241231111500 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241231111500 +0100" stop="20241231130000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241231130000 +0100" stop="20241231144500 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241231144500 +0100" stop="20241231161500 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241231161500 +0100" stop="20241231175000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Garmisch-Partenkirschen - F Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241231175000 +0100" stop="20241231205500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241224135600 +0100" stop="20241224145700 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 8.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224145700 +0100" stop="20241224153000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224153000 +0100" stop="20241224155900 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km persecución F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224155900 +0100" stop="20241224162700 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224162700 +0100" stop="20241224165800 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224165800 +0100" stop="20241224175300 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224175300 +0100" stop="20241224200000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
-    <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
-· La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241224200000 +0100" stop="20241225000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de apertura</title>
-    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
-· París viste sus mejores galas para dar la bienvenida a los Juegos de la 33ª Olimpiada. Una ceremonia innovadora, a orillas del Sena, da inicio a la fiesta. Pero no faltarán los actos tradicionales, como los juramentos, el desfile o el encendido. Votos: 35.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241225000000 +0100" stop="20241225010000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Hall Of Fame París 2024</title>
+  <programme start="20241231205500 +0100" stop="20241231210000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">The Minute T2024 · 30/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
+· Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241225010000 +0100" stop="20241225030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Fútbol (F) - JJ OO París 2024 T2024 · Finales: Brasil - Estados Unidos</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· El fútbol femenino es una de las apuestas más claras de España por la medalla. Las campeonas del mundo buscan completar un ciclo mágico con el oro en París. La fase de grupos arranca el 25 de julio y la final se celebra el 10 de agosto. Votos: 1.
-· País: Francia</desc>
+  <programme start="20241231210000 +0100" stop="20241231220000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
-  <programme start="20241225030000 +0100" stop="20241225040000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Voleibol (F) - JJ OO París 2024 T2024 · Finales: Estados Unidos - Italia</title>
-    <desc lang="es">Deportes/Voleibol | 2024 | TP
-· Doce selecciones pelean en el París Sur Arena por la medalla de oro en la competición femenina de voleibol. El torneo se celebra del 28 de julio al 11 de agosto. Hace tres años, Estados Unidos se hizo con la presea más deseada.
-· País: Francia</desc>
+  <programme start="20241231220000 +0100" stop="20241231230000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
   </programme>
-  <programme start="20241225040000 +0100" stop="20241225053000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.
-· País: Francia</desc>
+  <programme start="20241231230000 +0100" stop="20250101000000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
-  <programme start="20241225053000 +0100" stop="20241225070000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Balonmano (M) - JJ OO París 2024 T2024 · Finales: Alemania - Dinamarca</title>
-    <desc lang="es">Deportes/Balonmano | 2024 | TP
-· La competición masculina de los Juegos Olímpicos de París se desarrolla en dos sedes. La fase de grupos arranca el 27 de julio y la final se celebra el 11 de agosto en el estadio Pierre Mauroy. España es uno de los 12 equipos en liza y sueña con metal.
-· País: Francia</desc>
+  <programme start="20250101000000 +0100" stop="20250101010000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250101010000 +0100" stop="20250101020000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250101020000 +0100" stop="20250101030000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250101030000 +0100" stop="20250101040000 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
   <programme start="20241225070000 +0100" stop="20241225080000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Hall Of Fame París 2024</title>
@@ -1841,113 +1733,83 @@
 · El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
 · País: Francia</desc>
   </programme>
-  <programme start="20241224083100 +0100" stop="20241224095400 +0100" channel="EUROSPORT 1">
-    <title lang="es">Mundial de snooker T23/24 · Final</title>
-    <desc lang="es">Deportes/Snooker | 2024 | TP | *8.0/10
-· El Mundial de snooker es el torneo profesional más importante en términos de puntos y de ranking. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2023, el vencedor fue el belga Luca Brecel. Votos: 3.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241224095400 +0100" stop="20241224102800 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
+  <programme start="20241231053000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.
 · País: Francia</desc>
   </programme>
-  <programme start="20241224102800 +0100" stop="20241224105700 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km persecución F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224105700 +0100" stop="20241224112500 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224112500 +0100" stop="20241224115600 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224115600 +0100" stop="20241224122300 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 1ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224122300 +0100" stop="20241224132400 +0100" channel="EUROSPORT 1">
-    <title lang="es">Copa del mundo de esquí acrobático T24/25 · Innichen - Campo a través 2</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· El esquí de estilo libre o artístico es una modalidad que mezcla el esquí alpino con la acrobacia. Se originó en la década de 1970 en los Estados Unidos. La copa del mundo cuenta con varias especialidades. Votos: 5.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224132400 +0100" stop="20241224132600 +0100" channel="EUROSPORT 1">
-    <title lang="es">The Minute T2024 · 21/12/2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Magazine deportivo de Eurosport.
-</desc>
-  </programme>
-  <programme start="20241224132600 +0100" stop="20241224155500 +0100" channel="EUROSPORT 1">
-    <title lang="es">Ciclismo en ruta - JJ OO París 2024 T2024 · Ruta (M)</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· Las pruebas de ciclismo en ruta recorren los lugares más emblemáticos de la Ciudad de la Luz, con epicentro en el puente de Alexandre III y el Trocadero. La competición entrega cuatro medallas de oro en las modalidades de ruta y contrarreloj. Votos: 12.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224155500 +0100" stop="20241224172500 +0100" channel="EUROSPORT 1">
-    <title lang="es">Tenis - JJ OO París 2024 T2024 · Finales: Djokovic - Alcaraz</title>
-    <desc lang="es">Deportes/Tenis | 2024 | TP | *8.0/10
-· Las instalaciones de Roland Garros acogen la competición de tenis de los Juegos Olímpicos del 27 de julio al 4 de agosto. El certamen entrega medallas en individuales (masculino y femenino) y dobles (masculino, femenino y mixto). Votos: 19.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224172500 +0100" stop="20241224182300 +0100" channel="EUROSPORT 1">
-    <title lang="es">Hall Of Fame París 2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
-</desc>
-  </programme>
-  <programme start="20241224182300 +0100" stop="20241224200000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (F)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224200000 +0100" stop="20241224213000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final pértiga (M)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224213000 +0100" stop="20241224230000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final triple salto (M)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224230000 +0100" stop="20241225000000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Hall Of Fame París 2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
-</desc>
-  </programme>
-  <programme start="20241225000000 +0100" stop="20241225013000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
-    <desc lang="es">Deportes/Atletismo | 2024 | TP
-· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241225013000 +0100" stop="20241225033000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231070000 +0100" stop="20241231083000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Baloncesto (M) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
     <desc lang="es">Deportes/Baloncesto | 2024 | TP | *10.0/10
 · El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 8.
 · País: Francia</desc>
   </programme>
-  <programme start="20241225033000 +0100" stop="20241225063000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Ciclismo en ruta - JJ OO París 2024 T2024 · Ruta (M)</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· Las pruebas de ciclismo en ruta recorren los lugares más emblemáticos de la Ciudad de la Luz, con epicentro en el puente de Alexandre III y el Trocadero. La competición entrega cuatro medallas de oro en las modalidades de ruta y contrarreloj. Votos: 12.
+  <programme start="20241231083000 +0100" stop="20241231100000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
+    <desc lang="es">Deportes/Atletismo | 2024 | TP
+· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
 · País: Francia</desc>
+  </programme>
+  <programme start="20241231100000 +0100" stop="20241231120000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">The Power Of The Olympics T2024 · 11/08/2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
+</desc>
+  </programme>
+  <programme start="20241231120000 +0100" stop="20241231140000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de clausura</title>
+    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
+· El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231140000 +0100" stop="20241231160000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
+    <desc lang="es">Deportes/Atletismo | 2024 | TP
+· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231160000 +0100" stop="20241231180000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">The Power Of The Olympics T2024 · 11/08/2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
+</desc>
+  </programme>
+  <programme start="20241231180000 +0100" stop="20241231200000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de clausura</title>
+    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
+· El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231200000 +0100" stop="20241231220000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
+    <desc lang="es">Deportes/Atletismo | 2024 | TP
+· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231220000 +0100" stop="20250101000000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">The Power Of The Olympics T2024 · 11/08/2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
+</desc>
+  </programme>
+  <programme start="20250101000000 +0100" stop="20250101020000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de clausura</title>
+    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
+· El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20250101020000 +0100" stop="20250101040000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
+    <desc lang="es">Deportes/Snooker | 2024 | TP
+· El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20250101040000 +0100" stop="20250101050000 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
   </programme>
   <programme start="20241225063000 +0100" stop="20241225083000 +0100" channel="EUROSPORT 1">
     <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
@@ -2706,125 +2568,125 @@
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241224062500 +0100" stop="20241224082300 +0100" channel="EUROSPORT 2">
+  <programme start="20241231040000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 1">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241224082300 +0100" stop="20241224090900 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 1ª manga</title>
+  <programme start="20241231070000 +0100" stop="20241231074500 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Semmering - Eslalon gigante F - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-· País: Italia</desc>
+· País: Austria</desc>
   </programme>
-  <programme start="20241224090900 +0100" stop="20241224095400 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
-· País: Italia</desc>
+  <programme start="20241231074500 +0100" stop="20241231083000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Semmering - Eslalon gigante F - 1ª manga T24/25 · Copa del mundo de esquí alpino</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+· País: Austria</desc>
   </programme>
-  <programme start="20241224095400 +0100" stop="20241224105800 +0100" channel="EUROSPORT 2">
-    <title lang="es">Mundial de Resistencia de la FIA T2024 · 24 Horas de Le Mans - Resumen</title>
-    <desc lang="es">Deportes/Motor | TP
-· Competición de automovilismo de velocidad que se disputa con prototipos deportivos y coches gran turismo. Prácticamente todas las carreras históricas de resistencia forman parte del calendario del campeonato, entre ellas las 24 Horas de Le Mans.
-· País: Francia</desc>
+  <programme start="20241231083000 +0100" stop="20241231094000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
   </programme>
-  <programme start="20241224105800 +0100" stop="20241224115300 +0100" channel="EUROSPORT 2">
-    <title lang="es">Hall Of Fame París 2024</title>
+  <programme start="20241231094000 +0100" stop="20241231094500 +0100" channel="EUROSPORT 1">
+    <title lang="es">The Minute T2024 · 30/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
+· Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241224115300 +0100" stop="20241224122300 +0100" channel="EUROSPORT 2">
-    <title lang="es">Teqball Show T2024 · 23/12/2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· El teqball es un deporte de nuevo cuño que pretende ganarse un hueco entre la oferta atlética. Se trata de una especie de fútbol jugado sobre una mesa curva.
-</desc>
+  <programme start="20241231094500 +0100" stop="20241231103000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
-  <programme start="20241224122300 +0100" stop="20241224135600 +0100" channel="EUROSPORT 2">
+  <programme start="20241231103000 +0100" stop="20241231111500 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241231111500 +0100" stop="20241231130000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241231130000 +0100" stop="20241231144500 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241231144500 +0100" stop="20241231161500 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20241231161500 +0100" stop="20241231175000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Garmisch-Partenkirschen - F Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241231175000 +0100" stop="20241231205500 +0100" channel="EUROSPORT 1">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241224135600 +0100" stop="20241224145700 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 8.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224145700 +0100" stop="20241224153000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224153000 +0100" stop="20241224155900 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 10km persecución F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224155900 +0100" stop="20241224162700 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224162700 +0100" stop="20241224165800 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km salida en masa F</title>
-    <desc lang="es">Deportes/Deporte invierno | 2024 | TP
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241224165800 +0100" stop="20241224175300 +0100" channel="EUROSPORT 2">
-    <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 2ª manga</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 1.
-· País: Italia</desc>
-  </programme>
-  <programme start="20241224175300 +0100" stop="20241224200000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
-    <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
-· La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241224200000 +0100" stop="20241225000000 +0100" channel="EUROSPORT 2">
-    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de apertura</title>
-    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
-· París viste sus mejores galas para dar la bienvenida a los Juegos de la 33ª Olimpiada. Una ceremonia innovadora, a orillas del Sena, da inicio a la fiesta. Pero no faltarán los actos tradicionales, como los juramentos, el desfile o el encendido. Votos: 35.
-· País: Francia</desc>
-  </programme>
-  <programme start="20241225000000 +0100" stop="20241225010000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Hall Of Fame París 2024</title>
+  <programme start="20241231205500 +0100" stop="20241231210000 +0100" channel="EUROSPORT 1">
+    <title lang="es">The Minute T2024 · 30/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa.
+· Magazine deportivo de Eurosport.
 </desc>
   </programme>
-  <programme start="20241225010000 +0100" stop="20241225030000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Fútbol (F) - JJ OO París 2024 T2024 · Finales: Brasil - Estados Unidos</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· El fútbol femenino es una de las apuestas más claras de España por la medalla. Las campeonas del mundo buscan completar un ciclo mágico con el oro en París. La fase de grupos arranca el 25 de julio y la final se celebra el 10 de agosto. Votos: 1.
-· País: Francia</desc>
+  <programme start="20241231210000 +0100" stop="20241231220000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
-  <programme start="20241225030000 +0100" stop="20241225040000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Voleibol (F) - JJ OO París 2024 T2024 · Finales: Estados Unidos - Italia</title>
-    <desc lang="es">Deportes/Voleibol | 2024 | TP
-· Doce selecciones pelean en el París Sur Arena por la medalla de oro en la competición femenina de voleibol. El torneo se celebra del 28 de julio al 11 de agosto. Hace tres años, Estados Unidos se hizo con la presea más deseada.
-· País: Francia</desc>
+  <programme start="20241231220000 +0100" stop="20241231230000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
   </programme>
-  <programme start="20241225040000 +0100" stop="20241225053000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.
-· País: Francia</desc>
+  <programme start="20241231230000 +0100" stop="20250101000000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
-  <programme start="20241225053000 +0100" stop="20241225070000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Balonmano (M) - JJ OO París 2024 T2024 · Finales: Alemania - Dinamarca</title>
-    <desc lang="es">Deportes/Balonmano | 2024 | TP
-· La competición masculina de los Juegos Olímpicos de París se desarrolla en dos sedes. La fase de grupos arranca el 27 de julio y la final se celebra el 11 de agosto en el estadio Pierre Mauroy. España es uno de los 12 equipos en liza y sueña con metal.
-· País: Francia</desc>
+  <programme start="20250101000000 +0100" stop="20250101010000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250101010000 +0100" stop="20250101020000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20250101020000 +0100" stop="20250101030000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
+  </programme>
+  <programme start="20250101030000 +0100" stop="20250101040000 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+· País: Italia</desc>
   </programme>
   <programme start="20241225070000 +0100" stop="20241225080000 +0100" channel="EUROSPORT 2">
     <title lang="es">Hall Of Fame París 2024</title>
@@ -3366,113 +3228,83 @@
 · El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
 · País: Francia</desc>
   </programme>
-  <programme start="20241224000000 +0100" stop="20241224013000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Snooker · English Open: Finale - W. Yize - N. Robertson</title>
-    <desc lang="es">Sport | 2024 | TP
-· Finale.
+  <programme start="20241231053000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231070000 +0100" stop="20241231083000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Baloncesto (M) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *10.0/10
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 8.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231083000 +0100" stop="20241231100000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
+    <desc lang="es">Deportes/Atletismo | 2024 | TP
+· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231100000 +0100" stop="20241231120000 +0100" channel="EUROSPORT 2">
+    <title lang="es">The Power Of The Olympics T2024 · 11/08/2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
 </desc>
   </programme>
-  <programme start="20241224013000 +0100" stop="20241224030000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Sendepause</title>
-    <desc lang="es">2022 | TP
-· Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
+  <programme start="20241231120000 +0100" stop="20241231140000 +0100" channel="EUROSPORT 2">
+    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de clausura</title>
+    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
+· El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231140000 +0100" stop="20241231160000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
+    <desc lang="es">Deportes/Atletismo | 2024 | TP
+· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231160000 +0100" stop="20241231180000 +0100" channel="EUROSPORT 2">
+    <title lang="es">The Power Of The Olympics T2024 · 11/08/2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
 </desc>
   </programme>
-  <programme start="20241224030000 +0100" stop="20241224083100 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Sendepause</title>
-    <desc lang="es">2022 | TP
-· Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
+  <programme start="20241231180000 +0100" stop="20241231200000 +0100" channel="EUROSPORT 2">
+    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de clausura</title>
+    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
+· El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231200000 +0100" stop="20241231220000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (M)</title>
+    <desc lang="es">Deportes/Atletismo | 2024 | TP
+· La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
+· País: Francia</desc>
+  </programme>
+  <programme start="20241231220000 +0100" stop="20250101000000 +0100" channel="EUROSPORT 2">
+    <title lang="es">The Power Of The Olympics T2024 · 11/08/2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
 </desc>
   </programme>
-  <programme start="20241224083100 +0100" stop="20241224095400 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Snooker-WM 2024 · Finale</title>
-    <desc lang="es">Sport | 2024 | TP
-· Finale der Snooker Weltmeisterschaften 2024 aus Sheffiled: Kyren Wilson - Jak Jones.
-</desc>
+  <programme start="20250101000000 +0100" stop="20250101020000 +0100" channel="EUROSPORT 2">
+    <title lang="es">JJ OO París 2024 T2024 · Ceremonia de clausura</title>
+    <desc lang="es">Deportes/Evento deportivo | 2024 | TP | *8.0/10
+· El Estadio de Francia pone el broche a 17 días inolvidables de pasión y deporte. La ceremonia de clausura da carpetazo a París 2024, pero supone el inicio de la 34ª olimpiada, periodo de tiempo que concluirá en 2028 en Los Ángeles. Votos: 4.
+· País: Francia</desc>
   </programme>
-  <programme start="20241224095400 +0100" stop="20241224102800 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Verfolgung Männer 12.5km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
+  <programme start="20250101020000 +0100" stop="20250101040000 +0100" channel="EUROSPORT 2">
+    <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
+    <desc lang="es">Deportes/Snooker | 2024 | TP
+· El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
+· País: R.U.</desc>
   </programme>
-  <programme start="20241224102800 +0100" stop="20241224105700 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Verfolgung Frauen 10km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
-  </programme>
-  <programme start="20241224105700 +0100" stop="20241224112500 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Massenstart Männer 15km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
-  </programme>
-  <programme start="20241224112500 +0100" stop="20241224120000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Massenstart Frauen 12.5km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
-  </programme>
-  <programme start="20241224120000 +0100" stop="20241224123000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Alta Badia: Slalom Männer, 2. Lauf</title>
-    <desc lang="es">Sport | 2024 | TP
-· Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
-</desc>
-  </programme>
-  <programme start="20241224123000 +0100" stop="20241224132500 +0100" channel="Eurosport 1 Deutschland">
-    <desc lang="es">Sport | 2024 | TP
-
-</desc>
-    <title lang="es">FIS Ski Freestyle Weltcup · Innichen: Skicross Frauen/Männer</title>
-  </programme>
-  <programme start="20241224132500 +0100" stop="20241224133000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">The Minute · Magazin</title>
-    <desc lang="es">Unterhaltung | 2024 | TP
-· Der schnelle Blick auf die aktuellen Sport-Highlights.
+  <programme start="20250101040000 +0100" stop="20250101050000 +0100" channel="EUROSPORT 2">
+    <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
-  </programme>
-  <programme start="20241224133000 +0100" stop="20241224160000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele Paris 2024 · Radsport: Straßenrennen Männer</title>
-    <desc lang="es">Sport | 2024 | TP
-· Live-Übertragung der Olympischen Spiele 2024 aus Paris.
-</desc>
-  </programme>
-  <programme start="20241224160000 +0100" stop="20241224173000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele Paris 2024 · Tennis: Männer Einzel Finale, Novak Djokovic - Carlos Alcaraz</title>
-    <desc lang="es">Sport | 2024 | TP
-· Finale der Männer der Olympischen Spiele 2024 in Paris.
-</desc>
-  </programme>
-  <programme start="20241224173000 +0100" stop="20241224183000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele · Hall of Fame: Paris 2024</title>
-    <desc lang="es">Sport | 2024 | TP
-· Rückblick auf die Olympischen Spiele 2024 in Paris.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241224183000 +0100" stop="20241224200000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
-    <desc lang="es">Sport | 2024 | TP
-· Live-Übertragung der Olympischen Spiele 2024 aus Paris.
-</desc>
-  </programme>
-  <programme start="20241224200000 +0100" stop="20241224213000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
-    <desc lang="es">Sport | 2024 | TP
-· Übertragung der Olympischen Spiele 2024 aus Paris.
-</desc>
-  </programme>
-  <programme start="20241224213000 +0100" stop="20241224230000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
-    <desc lang="es">Sport | 2024 | TP
-· Live-Übertragung der Olympischen Spiele 2024 aus Paris.
-</desc>
-  </programme>
-  <programme start="20241224230000 +0100" stop="20241225000000 +0100" channel="Eurosport 1 Deutschland">
-    <title lang="es">Olympische Spiele · Hall of Fame: Paris 2024</title>
-    <desc lang="es">Sport | 2024 | TP
-· Rückblick auf die Olympischen Spiele 2024 in Paris.
-· País: R.U.</desc>
   </programme>
   <programme start="20241225000000 +0100" stop="20241225013000 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
@@ -3486,31 +3318,31 @@
 · Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
 </desc>
   </programme>
-  <programme start="20241225030000 +0100" stop="20241225083000 +0100" channel="Eurosport 1 Deutschland">
+  <programme start="20241225030000 +0100" stop="20241225083100 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Sendepause</title>
     <desc lang="es">2022 | TP
 · Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
 </desc>
   </programme>
-  <programme start="20241225083000 +0100" stop="20241225093000 +0100" channel="Eurosport 1 Deutschland">
+  <programme start="20241225083100 +0100" stop="20241225092600 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Kunstturnen, Frauen</title>
     <desc lang="es">Sport | 2024 | TP
 · Live-Übertragung der Olympischen Spiele 2024 aus Paris.
 </desc>
   </programme>
-  <programme start="20241225093000 +0100" stop="20241225103000 +0100" channel="Eurosport 1 Deutschland">
+  <programme start="20241225092600 +0100" stop="20241225102400 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Olympische Spiele · Hall of Fame: Paris 2024</title>
     <desc lang="es">Sport | 2024 | TP
 · Rückblick auf die Olympischen Spiele 2024 in Paris.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241225103000 +0100" stop="20241225113000 +0100" channel="Eurosport 1 Deutschland">
+  <programme start="20241225102400 +0100" stop="20241225112500 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik: Marathon</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragung der Olympischen Spiele 2024 aus Paris.
 </desc>
   </programme>
-  <programme start="20241225113000 +0100" stop="20241225130000 +0100" channel="Eurosport 1 Deutschland">
+  <programme start="20241225112500 +0100" stop="20241225130000 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Schwimmen: Tag 5</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragung der Olympischen Spiele 2024 aus Paris.
@@ -3570,7 +3402,13 @@
 · Finale der Männer der Olympischen Spiele 2024 in Paris.
 </desc>
   </programme>
-  <programme start="20241226013000 +0100" stop="20241226083000 +0100" channel="Eurosport 1 Deutschland">
+  <programme start="20241226013000 +0100" stop="20241226030000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">Sendepause</title>
+    <desc lang="es">2022 | TP
+· Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
+</desc>
+  </programme>
+  <programme start="20241226030000 +0100" stop="20241226083000 +0100" channel="Eurosport 1 Deutschland">
     <title lang="es">Sendepause</title>
     <desc lang="es">2022 | TP
 · Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
@@ -3900,118 +3738,118 @@
 · Aktuelle Skilanglauf Wettbewerbe, die durch den internationalen Skiverband FIS ausgerichtet werden.
 </desc>
   </programme>
-  <programme start="20241224012700 +0100" stop="20241224033000 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Snooker · English Open: Finale - W. Yize - N. Robertson</title>
+  <programme start="20241229000000 +0100" stop="20241229013000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">World Snooker Tour · Scottish Open - Finale</title>
     <desc lang="es">Sport | 2024 | TP
-· Finale.
+· Die Übertragung der World Snooker Tour.
 </desc>
   </programme>
-  <programme start="20241224033000 +0100" stop="20241224042900 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Val Gardena/Gröden: Abfahrt Männer</title>
+  <programme start="20241229013000 +0100" stop="20241229030000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">Sendepause</title>
+    <desc lang="es">2022 | TP
+· Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
+</desc>
+  </programme>
+  <programme start="20241229030000 +0100" stop="20241229083000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">Sendepause</title>
+    <desc lang="es">2022 | TP
+· Aktuell liegt eine Sendepause vor und alle Übertragungen sind vorübergehend eingestellt.
+</desc>
+  </programme>
+  <programme start="20241229083000 +0100" stop="20241229091500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Skilanglauf Weltcup · Tour de Ski / Toblach: Sprint Freestyle Frauen/Männer</title>
+    <desc lang="es">Sport | 2024 | TP
+· Aktuelle Skilanglauf Wettbewerbe, die durch den internationalen Skiverband FIS ausgerichtet werden.
+</desc>
+  </programme>
+  <programme start="20241229091500 +0100" stop="20241229101500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Bormio: Abfahrt Männer</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
 </desc>
   </programme>
-  <programme start="20241224042900 +0100" stop="20241224053000 +0100" channel="Eurosport 2 Deutschland">
-    <desc lang="es">Sport | 2024 | TP
-
-</desc>
-    <title lang="es">FIS Ski Freestyle Weltcup · Innichen: Skicross Frauen/Männer</title>
-  </programme>
-  <programme start="20241224053000 +0100" stop="20241224062500 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Alta Badia: Slalom Männer, 1. Lauf</title>
+  <programme start="20241229101500 +0100" stop="20241229113000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Semmering: Slalom, 1. Lauf</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
 </desc>
   </programme>
-  <programme start="20241224062500 +0100" stop="20241224082300 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Snooker · English Open: Finale - W. Yize - N. Robertson</title>
-    <desc lang="es">Sport | 2024 | TP
-· Finale.
-</desc>
-  </programme>
-  <programme start="20241224082300 +0100" stop="20241224090900 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Alta Badia: Slalom Männer, 1. Lauf</title>
+  <programme start="20241229113000 +0100" stop="20241229124500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Bormio: Super-G Männer</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
 </desc>
   </programme>
-  <programme start="20241224090900 +0100" stop="20241224095400 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Alta Badia: Slalom Männer, 2. Lauf</title>
+  <programme start="20241229124500 +0100" stop="20241229133000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Skilanglauf Weltcup · Tour de Ski / Toblach: 15km Massenstart klassisch Frauen</title>
+    <desc lang="es">Sport | 2024 | TP
+· Aktuelle Skilanglauf Wettbewerbe, die durch den internationalen Skiverband FIS ausgerichtet werden.
+</desc>
+  </programme>
+  <programme start="20241229133000 +0100" stop="20241229143000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Semmering: Slalom, 2. Lauf</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
 </desc>
   </programme>
-  <programme start="20241224095400 +0100" stop="20241224105800 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIA WEC · FIA WEC - 24h von Le Mans</title>
+  <programme start="20241229143000 +0100" stop="20241229154500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Skilanglauf Weltcup · Tour de Ski / Toblach: 15km Massenstart klassisch Männer</title>
     <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die Highlights der FIA-Langstrecken-Weltmeisterschaft.
+· Aktuelle Skilanglauf Wettbewerbe, die durch den internationalen Skiverband FIS ausgerichtet werden.
 </desc>
   </programme>
-  <programme start="20241224105800 +0100" stop="20241224115300 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Olympische Spiele · Hall of Fame: Paris 2024</title>
+  <programme start="20241229154500 +0100" stop="20241229160000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Skilanglauf Weltcup · Tour de Ski / Toblach: 15km Massenstart klassisch Frauen</title>
     <desc lang="es">Sport | 2024 | TP
-· Rückblick auf die Olympischen Spiele 2024 in Paris.
-· País: R.U.</desc>
-  </programme>
-  <programme start="20241224115300 +0100" stop="20241224122300 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Teqball Show</title>
-    <desc lang="es">Sport/Magazin | 2024 | TP
-· Gezeigt werden Highlights und Vorberichte von Teqball Wettstreiten.
+· Aktuelle Skilanglauf Wettbewerbe, die durch den internationalen Skiverband FIS ausgerichtet werden.
 </desc>
   </programme>
-  <programme start="20241224122300 +0100" stop="20241224135600 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Snooker · English Open: Finale - W. Yize - N. Robertson</title>
+  <programme start="20241229160000 +0100" stop="20241229184500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Skispringen Weltcup · Oberstdorf - Vierschanzentournee - Männer - HS 137</title>
     <desc lang="es">Sport | 2024 | TP
-· Finale.
+· Übertragung von aktuellen Skispringen and Skiflug Wettbewerben im FIS Weltcup.
 </desc>
   </programme>
-  <programme start="20241224135600 +0100" stop="20241224145700 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Val Gardena/Gröden: Abfahrt Männer</title>
+  <programme start="20241229184500 +0100" stop="20241229193000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Bormio: Super-G Männer</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
 </desc>
   </programme>
-  <programme start="20241224145700 +0100" stop="20241224153000 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Verfolgung Männer 12.5km</title>
+  <programme start="20241229193000 +0100" stop="20241229200000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">UCI Cyclocross Weltcup · Besançon - Männer</title>
     <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
+· Die Übertragung der UCI Cyclocross Weltcup Saison.
 </desc>
   </programme>
-  <programme start="20241224153000 +0100" stop="20241224155900 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Verfolgung Frauen 10km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
-  </programme>
-  <programme start="20241224155900 +0100" stop="20241224162700 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Massenstart Männer 15km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
-  </programme>
-  <programme start="20241224162700 +0100" stop="20241224165700 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">IBU Biathlon Weltcup · Annecy - Le Grand Bornand: Massenstart Frauen 12.5km</title>
-    <desc lang="es">Sport | 2024 | TP
-· Gezeigt werden die aktuellen Wettkämpfe im Biathlon.
-</desc>
-  </programme>
-  <programme start="20241224165700 +0100" stop="20241224175300 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">FIS Ski Alpin Weltcup · Alta Badia: Slalom Männer, 1. Lauf</title>
+  <programme start="20241229200000 +0100" stop="20241229204500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Semmering: Slalom, 2. Lauf</title>
     <desc lang="es">Sport | 2024 | TP
 · Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
 </desc>
   </programme>
-  <programme start="20241224175300 +0100" stop="20241224195600 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Snooker · English Open: Finale - W. Yize - N. Robertson</title>
+  <programme start="20241229204500 +0100" stop="20241229214500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Skispringen Weltcup · Oberstdorf - Vierschanzentournee - Männer - HS 137</title>
     <desc lang="es">Sport | 2024 | TP
-· Finale.
+· Übertragung von aktuellen Skispringen and Skiflug Wettbewerben im FIS Weltcup.
 </desc>
   </programme>
-  <programme start="20241224195600 +0100" stop="20241225000200 +0100" channel="Eurosport 2 Deutschland">
-    <title lang="es">Olympische Spiele Paris 2024 · Eröffnungsfeier</title>
+  <programme start="20241229214500 +0100" stop="20241229223000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">FIS Ski Alpin Weltcup · Bormio: Super-G Männer</title>
     <desc lang="es">Sport | 2024 | TP
-· Übertragung der Olympischen Spiele 2024 aus Paris.
+· Übertragungen von internationalen FIS Ski Alpin Weltcup Rennen.
+</desc>
+  </programme>
+  <programme start="20241229223000 +0100" stop="20241229231500 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">UCI Cyclocross Weltcup · Besançon - Frauen</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der UCI Cyclocross Weltcup Saison.
+</desc>
+  </programme>
+  <programme start="20241229231500 +0100" stop="20241230000000 +0100" channel="Eurosport 1 Deutschland">
+    <title lang="es">UCI Cyclocross Weltcup · Besançon - Männer</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der UCI Cyclocross Weltcup Saison.
 </desc>
   </programme>
   <programme start="20241225000200 +0100" stop="20241225005700 +0100" channel="Eurosport 2 Deutschland">
@@ -4020,19 +3858,19 @@
 · Rückblick auf die Olympischen Spiele 2024 in Paris.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241225005700 +0100" stop="20241225030000 +0100" channel="Eurosport 2 Deutschland">
+  <programme start="20241225005700 +0100" stop="20241225025900 +0100" channel="Eurosport 2 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Fußball, Frauen, Finale: Brasilien - USA</title>
     <desc lang="es">Sport/Fußball | 2024 | TP
 · Aus dem Prinzenpark in Paris, Frankreich.
 </desc>
   </programme>
-  <programme start="20241225030000 +0100" stop="20241225040000 +0100" channel="Eurosport 2 Deutschland">
+  <programme start="20241225025900 +0100" stop="20241225033200 +0100" channel="Eurosport 2 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Volleyball: Finale Frauen, USA - Italien</title>
     <desc lang="es">Sport | 2024 | TP
 · Live-Übertragung der Olympischen Spiele 2024 aus Paris.
 </desc>
   </programme>
-  <programme start="20241225040000 +0100" stop="20241225053000 +0100" channel="Eurosport 2 Deutschland">
+  <programme start="20241225033200 +0100" stop="20241225053000 +0100" channel="Eurosport 2 Deutschland">
     <title lang="es">Olympische Spiele Paris 2024 · Basketball, Frauen, Finale: Frankreich - USA</title>
     <desc lang="es">Sport/Basketball | 2024 | TP
 · Aus der Bercy Arena in Paris, Frankreich..
@@ -4380,82 +4218,94 @@
 · Aus dem Prinzenpark in Paris, Frankreich.
 </desc>
   </programme>
-  <programme start="20241224151000 +0100" stop="20241224161500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Born Racers T1 E1</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La academia más rápida sobre dos ruedas sigue la trayectoria de ocho adolescentes.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20241224161500 +0100" stop="20241224171000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Born Racers T1 · Rivalidad</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Born Racers, la academia más rápida sobre dos ruedas, sigue la trayectoria de ocho adolescentes que persiguen el sueño de llegar a lo más alto en el mundo de las carreras de motos.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20241224171000 +0100" stop="20241224180500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Born Racers T1 · - Capítulo 3 - Paternidad</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La historia de Rico nos lleva a correr sobre hielo en los lagos helados de Finlandia, mientras Ruché intenta salir de la sombra de su padre.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20241224180500 +0100" stop="20241224190500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Born Racers T1 · - Capítulo 4 - Redención</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Cormac intenta acabar con los fantasmas de años anteriores, pero un rayo cae dos veces y ve cómo sus sueños se esfuman, mientras que Máximo por fin desarrolla todo su potencial.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20241224190500 +0100" stop="20241224195500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Born Racers T1 · Gloria</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La Rookies Cup se decide de forma espectacular y asistimos al primer título mundial de una futura superestrella.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20241224195500 +0100" stop="20241224210500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Born Racers T1 · Reconocimiento</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· El futuro de nuestros novatos se decidirá de forma dramática en el último fin de semana de carreras de la temporada.
-· País: Austria
-· Productora: Whisper Films.</desc>
-  </programme>
-  <programme start="20241224210500 +0100" stop="20241224213000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Maverick Viñales: dos vidas</title>
-    <desc lang="es">Deportes/Motociclismo | 2024 | TP
-· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
-· País: España</desc>
-  </programme>
-  <programme start="20241224213000 +0100" stop="20241224220500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Documental sobre Ducati, la fuerza mayor de MotoGP.
+  <programme start="20241229000000 +0100" stop="20241229013000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
+    <desc lang="es">Sport | 2024 | TP
+· Leichtathletik.
 </desc>
   </programme>
-  <programme start="20241224220500 +0100" stop="20241225000500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Premier League T24/25 · Jornada 13: Liverpool - Manchester City</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· El Liverpool lidera la Premier con autoridad y Arne Slot sigue demostrando su gran impacto en los reds. Cinco derrotas oficiales consecutivas y a ocho puntos del primer puesto, el Man City vive una situación inédita que intentara revertir en Anfield. Votos: 14.
+  <programme start="20241229013000 +0100" stop="20241229033000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">World Snooker Tour · Scottish Open - Finale</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der World Snooker Tour.
+</desc>
+  </programme>
+  <programme start="20241229033000 +0100" stop="20241229050000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Basketball: Männer Finale, Frankreich - USA</title>
+    <desc lang="es">Sport | 2024 | TP
+· Übertragung der Olympischen Spiele 2024 aus Paris.
+</desc>
+  </programme>
+  <programme start="20241229050000 +0100" stop="20241229063000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Tennis: Männer Einzel Finale, Novak Djokovic - Carlos Alcaraz</title>
+    <desc lang="es">Sport | 2024 | TP
+· Finale der Männer der Olympischen Spiele 2024 in Paris.
+</desc>
+  </programme>
+  <programme start="20241229063000 +0100" stop="20241229083000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">World Snooker Tour · Scottish Open - Finale</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der World Snooker Tour.
+</desc>
+  </programme>
+  <programme start="20241229083000 +0100" stop="20241229100000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
+    <desc lang="es">Sport | 2024 | TP
+· Leichtathletik.
+</desc>
+  </programme>
+  <programme start="20241229100000 +0100" stop="20241229110000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele · Hall of Fame: Paris 2024</title>
+    <desc lang="es">Sport | 2024 | TP
+· Rückblick auf die Olympischen Spiele 2024 in Paris.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241225000500 +0100" stop="20241225014400 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Boxeo: velada Canelo vs. Ryder T2023 · Saúl "Canelo" Álvarez vs John Ryder (velada completa)</title>
-    <desc lang="es">Deportes/Boxeo | 2023 | +18 | *10.0/10
-· El Rey 'Canelo' Álvarez vuelve a pelear en su México natal por primera vez desde el año 2011. El púgil de Guadalajara defiende su campeonato indiscutible de peso supermediano contra John Ryder, campeón interino de la OMB. Votos: 1.
-· País: México</desc>
-  </programme>
-  <programme start="20241225014400 +0100" stop="20241225060000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241229110000 +0100" stop="20241229121500 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Tennis: Männer Einzel Finale, Novak Djokovic - Carlos Alcaraz</title>
+    <desc lang="es">Sport | 2024 | TP
+· Finale der Männer der Olympischen Spiele 2024 in Paris.
 </desc>
   </programme>
-  <programme start="20241225060000 +0100" stop="20241225130100 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241229121500 +0100" stop="20241229133000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">FIS Skilanglauf Weltcup · Tour de Ski / Toblach: 15km Massenstart klassisch Frauen</title>
+    <desc lang="es">Sport | 2024 | TP
+· Aktuelle Skilanglauf Wettbewerbe, die durch den internationalen Skiverband FIS ausgerichtet werden.
+</desc>
+  </programme>
+  <programme start="20241229133000 +0100" stop="20241229150000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">UCI Cyclocross Weltcup · Besançon - Frauen</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der UCI Cyclocross Weltcup Saison.
+</desc>
+  </programme>
+  <programme start="20241229150000 +0100" stop="20241229163000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">UCI Cyclocross Weltcup · Besançon - Männer</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der UCI Cyclocross Weltcup Saison.
+</desc>
+  </programme>
+  <programme start="20241229163000 +0100" stop="20241229180000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
+    <desc lang="es">Sport | 2024 | TP
+· Leichtathletik.
+</desc>
+  </programme>
+  <programme start="20241229180000 +0100" stop="20241229200000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">World Snooker Tour · Scottish Open - Finale</title>
+    <desc lang="es">Sport | 2024 | TP
+· Die Übertragung der World Snooker Tour.
+</desc>
+  </programme>
+  <programme start="20241229200000 +0100" stop="20241229220000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Leichtathletik</title>
+    <desc lang="es">Sport | 2024 | TP
+· Leichtathletik.
+</desc>
+  </programme>
+  <programme start="20241229220000 +0100" stop="20241230000000 +0100" channel="Eurosport 2 Deutschland">
+    <title lang="es">Olympische Spiele Paris 2024 · Tennis: Männer Einzel Finale, Novak Djokovic - Carlos Alcaraz</title>
+    <desc lang="es">Sport | 2024 | TP
+· Finale der Männer der Olympischen Spiele 2024 in Paris.
 </desc>
   </programme>
   <programme start="20241225130100 +0100" stop="20241225145700 +0100" channel="DAZN 1 Espana">
@@ -4579,7 +4429,7 @@
   <programme start="20241226132000 +0100" stop="20241226155000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Manchester City - Everton T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 9.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 10.
 · País: R.U.</desc>
   </programme>
   <programme start="20241226155000 +0100" stop="20241226182000 +0100" channel="DAZN 1 Espana">
@@ -4727,7 +4577,7 @@
 </desc>
   </programme>
   <programme start="20241228201500 +0100" stop="20241228211500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -4876,41 +4726,71 @@
 · Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
 · País: España</desc>
   </programme>
-  <programme start="20241224100000 +0100" stop="20241224140000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241231002500 +0100" stop="20241231060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224140000 +0100" stop="20241224180000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241231060000 +0100" stop="20241231130000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224180000 +0100" stop="20241224220000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241231130000 +0100" stop="20241231150000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 19: Aston Villa - Brighton &amp; Hove Albion T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241231150000 +0100" stop="20241231155500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">La vida en rojo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Documental sobre Ducati, la fuerza mayor de MotoGP.
 </desc>
   </programme>
-  <programme start="20241224220000 +0100" stop="20241225020000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241231155500 +0100" stop="20241231175500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 19: Ipswich Town - Chelsea T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241231175500 +0100" stop="20241231182000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Maverick Viñales: dos vidas</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP
+· Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
+· País: España</desc>
+  </programme>
+  <programme start="20241231182000 +0100" stop="20241231203000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">DIRECTO Jornada 19: Manchester Utd. - Newcastle T24/25 · Premier League</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+· País: R.U.</desc>
+  </programme>
+  <programme start="20241231203000 +0100" stop="20241231205000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Àlex Crivillé, referente máximo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Álex Crivillé es una figura clave en la historia del motociclismo español. En la temporada 1999, el de Seva rompió muchas barreras para España en un deporte dominado por ingleses y americanos.
+· País: España</desc>
+  </programme>
+  <programme start="20241231205000 +0100" stop="20241231212500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">David Alonso, historia para Colombia</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· David Alonso, el joven campeón de Moto3, analiza esta conquista tan especial para él.
 </desc>
   </programme>
-  <programme start="20241225020000 +0100" stop="20241225060000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241231212500 +0100" stop="20241231223000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Japón: Carrera Moto3</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP
+· El circuito de Motegi es uno de los más desafiantes del calendario del Mundial de motociclismo. Su combinación de curvas rápidas y lentas, largas rectas y fuertes frenadas dan pie a batallas épicas. Las Honda pretenden brillar en casa.
+· País: Japón</desc>
   </programme>
-  <programme start="20241225060000 +0100" stop="20241225100000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
+  <programme start="20241231223000 +0100" stop="20241231234500 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Mundial de motociclismo T2024 · GP de Tailandia: Carrera Moto2</title>
+    <desc lang="es">Deportes/Motociclismo | 2024 | TP
+· La gira oriental del Mundial de motocicliso llega al circuito internacional de Chang, ubicado en Buriram. El trazado tiene una longitud de 4,6 kilómetros y consta de 12 curvas que enlazan zonas de largas rectas.
+· País: España y Tailandia</desc>
   </programme>
   <programme start="20241225100000 +0100" stop="20241225140000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
@@ -5140,37 +5020,37 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224100000 +0100" stop="20241224140000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241231020000 +0100" stop="20241231060000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224140000 +0100" stop="20241224180000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241231060000 +0100" stop="20241231100000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224180000 +0100" stop="20241224220000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241231100000 +0100" stop="20241231140000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224220000 +0100" stop="20241225020000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241231140000 +0100" stop="20241231180000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241225020000 +0100" stop="20241225060000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241231180000 +0100" stop="20241231220000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241225060000 +0100" stop="20241225100000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241231220000 +0100" stop="20250101020000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -5398,37 +5278,37 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224100000 +0100" stop="20241224140000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241231020000 +0100" stop="20241231060000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224140000 +0100" stop="20241224180000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241231060000 +0100" stop="20241231100000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224180000 +0100" stop="20241224220000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241231100000 +0100" stop="20241231140000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224220000 +0100" stop="20241225020000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241231140000 +0100" stop="20241231180000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241225020000 +0100" stop="20241225060000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241231180000 +0100" stop="20241231220000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241225060000 +0100" stop="20241225100000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241231220000 +0100" stop="20250101020000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -5650,94 +5530,40 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224075800 +0100" stop="20241224095800 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Gran Bretaña: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2024 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 16.
+  <programme start="20241231020000 +0100" stop="20241231060000 +0100" channel="DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224095800 +0100" stop="20241224102800 +0100" channel="DAZN F1">
-    <title lang="es">Código F1 T2024 · Gran Bretaña</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.
+  <programme start="20241231060000 +0100" stop="20241231100000 +0100" channel="DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224102800 +0100" stop="20241224124300 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Mónaco: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2021 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 134.
+  <programme start="20241231100000 +0100" stop="20241231140000 +0100" channel="DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224124300 +0100" stop="20241224143800 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Italia: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2022 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 21.
+  <programme start="20241231140000 +0100" stop="20241231180000 +0100" channel="DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224143800 +0100" stop="20241224163800 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Arabia Saudi: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2023 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 56.
+  <programme start="20241231180000 +0100" stop="20241231220000 +0100" channel="DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224163800 +0100" stop="20241224185300 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Hungría: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2024 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 21.
-</desc>
-  </programme>
-  <programme start="20241224185300 +0100" stop="20241224191300 +0100" channel="DAZN F1">
-    <title lang="es">Código F1 T2024 · Hungría</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
-· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 1.
-</desc>
-  </programme>
-  <programme start="20241224191300 +0100" stop="20241224211300 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2021 · GP de España: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2021 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 117.
-· País: España</desc>
-  </programme>
-  <programme start="20241224211300 +0100" stop="20241224220000 +0100" channel="DAZN F1">
-    <title lang="es">The Operator</title>
-    <desc lang="es">Deportes/Fórmula 1 | 2024 | TP
-· The Operator.
-</desc>
-  </programme>
-  <programme start="20241224220000 +0100" stop="20241224235500 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Bélgica: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2024 | TP | *6.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 18.
-</desc>
-  </programme>
-  <programme start="20241224235500 +0100" stop="20241225015500 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Países Bajos: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2024 | TP | *6.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 21.
-</desc>
-  </programme>
-  <programme start="20241225015500 +0100" stop="20241225022000 +0100" channel="DAZN F1">
-    <title lang="es">Código F1 T2024 · Países Bajos</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
-· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 4.
-</desc>
-  </programme>
-  <programme start="20241225022000 +0100" stop="20241225042000 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Azerbaiyán: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2022 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 32.
-</desc>
-  </programme>
-  <programme start="20241225042000 +0100" stop="20241225051500 +0100" channel="DAZN F1">
-    <title lang="es">Gearbox T2024 E9</title>
-    <desc lang="es">Deportes/Fórmula 1 | 2024 | TP
-· Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.
-</desc>
-  </programme>
-  <programme start="20241225051500 +0100" stop="20241225074500 +0100" channel="DAZN F1">
-    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Australia: Carrera</title>
-    <desc lang="es">Deportes/Motor | 2023 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 38.
+  <programme start="20241231220000 +0100" stop="20250101020000 +0100" channel="DAZN 4 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
 </desc>
   </programme>
   <programme start="20241225074500 +0100" stop="20241225090500 +0100" channel="DAZN F1">
@@ -6298,77 +6124,100 @@
 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.
 </desc>
   </programme>
-  <programme start="20241224120000 +0100" stop="20241224140000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Getafe - Mallorca</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20241224140000 +0100" stop="20241224151500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">El Post de DAZN T24/25 · Análisis de la jornada 18</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La jornada de LaLiga no termina con el pitido final del último partido. Gracias a todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.
-· País: España
-· Presenta: Sandra Díaz, Alberto Edjogo.</desc>
-  </programme>
-  <programme start="20241224151500 +0100" stop="20241224171500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Osasuna - Athletic</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 9.
-· País: España</desc>
-  </programme>
-  <programme start="20241224171500 +0100" stop="20241224174500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Jornada 18</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
-· País: España</desc>
-  </programme>
-  <programme start="20241224174500 +0100" stop="20241224183000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Mbappé ya viste de blanco</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Mbappé ya viste de blanco Votos: 49.
-· País: España</desc>
-  </programme>
-  <programme start="20241224183000 +0100" stop="20241224190000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA World T24/25 E20</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
-· País: España</desc>
-  </programme>
-  <programme start="20241224190000 +0100" stop="20241224210000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Betis - Rayo</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Real Betis y Rayo Vallecano se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20241224210000 +0100" stop="20241224220000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20241224220000 +0100" stop="20241225000000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Real Madrid - Sevilla</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Real Madrid y Sevilla se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 54.
-· País: España</desc>
-  </programme>
-  <programme start="20241225000000 +0100" stop="20241225010000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 18</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
-· País: España</desc>
-  </programme>
-  <programme start="20241225010000 +0100" stop="20241225060000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241231045100 +0100" stop="20241231070000 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Canadá: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2022 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 37.
 </desc>
   </programme>
-  <programme start="20241225060000 +0100" stop="20241225120000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20241231070000 +0100" stop="20241231072500 +0100" channel="DAZN F1">
+    <title lang="es">True Driver T2024 · Williams, recuperar la identidad</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.
+</desc>
+  </programme>
+  <programme start="20241231072500 +0100" stop="20241231102500 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Mónaco: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2024 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 26.
+</desc>
+  </programme>
+  <programme start="20241231102500 +0100" stop="20241231104500 +0100" channel="DAZN F1">
+    <title lang="es">Código F1 T2024 · Mónaco</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 1.
+</desc>
+  </programme>
+  <programme start="20241231104500 +0100" stop="20241231125500 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2023 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 27.
+</desc>
+  </programme>
+  <programme start="20241231125500 +0100" stop="20241231141000 +0100" channel="DAZN F1">
+    <title lang="es">Campeonato de Fórmula 3 de la FIA T2024 · F3 Gran Bretraña: F3 Gran Bretaña: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2024
+· La F3 Series es un campeonato de automovilismo de velocidad por debajo de la F2.
+</desc>
+  </programme>
+  <programme start="20241231141000 +0100" stop="20241231143000 +0100" channel="DAZN F1">
+    <title lang="es">True Driver T2024 · El fichaje del siglo</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Ferrari ha fichado a Lewis Hamilton para 2025. La llegada del heptacampeón inglés a la ‘Scuderia’ revoluciona el mundo del deporte y se convierte en uno de los fichajes más espectaculares de los últimos tiempos en la Fórmula 1. Votos: 5.
+</desc>
+  </programme>
+  <programme start="20241231143000 +0100" stop="20241231145500 +0100" channel="DAZN F1">
+    <title lang="es">True Driver T2024 · La década híbrida</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 7.
+</desc>
+  </programme>
+  <programme start="20241231145500 +0100" stop="20241231171000 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de Canadá: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2024 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 9.
+</desc>
+  </programme>
+  <programme start="20241231171000 +0100" stop="20241231174000 +0100" channel="DAZN F1">
+    <title lang="es">Código F1 T2024 · Canadá</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.
+</desc>
+  </programme>
+  <programme start="20241231174000 +0100" stop="20241231195500 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2021 · GP de Arabia Saudi: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2021 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 47.
+</desc>
+  </programme>
+  <programme start="20241231195500 +0100" stop="20241231215500 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Catar: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2023 | TP | *6.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 25.
+</desc>
+  </programme>
+  <programme start="20241231215500 +0100" stop="20241231235500 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2024 · GP de España: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2024 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 13.
+· País: España</desc>
+  </programme>
+  <programme start="20241231235500 +0100" stop="20250101002500 +0100" channel="DAZN F1">
+    <title lang="es">Código F1 T2024 · España</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 9.
+</desc>
+  </programme>
+  <programme start="20250101002500 +0100" stop="20250101022500 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2022 · GP de Bélgica: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2022 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2022 promete más emoción y espectáculo que nunca. Votos: 25.
+</desc>
+  </programme>
+  <programme start="20250101022500 +0100" stop="20250101043000 +0100" channel="DAZN F1">
+    <title lang="es">Mundial de Fórmula 1 T2023 · GP de Abu Dabi: Carrera</title>
+    <desc lang="es">Deportes/Motor | 2023 | TP | *8.0/10
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 23.
 </desc>
   </programme>
   <programme start="20241225120000 +0100" stop="20241225140000 +0100" channel="DAZN LaLiga ES">
@@ -6378,7 +6227,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241225140000 +0100" stop="20241225150000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6472,7 +6321,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241226170000 +0100" stop="20241226180000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6628,7 +6477,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227203000 +0100" stop="20241227213000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -6816,7 +6665,7 @@
 </desc>
   </programme>
   <programme start="20241229110000 +0100" stop="20241229114500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6868,7 +6717,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241229183000 +0100" stop="20241229190000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6899,7 +6748,7 @@
 </desc>
   </programme>
   <programme start="20241229220000 +0100" stop="20241229223000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6966,7 +6815,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230154500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6990,7 +6839,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7026,78 +6875,93 @@
 · País: España
 · Presenta: Alberto Edjogo, Sandra Díaz.</desc>
   </programme>
-  <programme start="20241224120000 +0100" stop="20241224140000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Getafe - Mallorca</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Getafe y Mallorca se enfrentan en este partido de la Jornaad 18 de LaLiga EA SPORTS. Votos: 5.
+  <programme start="20241231010000 +0100" stop="20241231060000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">DAZN LALIGA</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231060000 +0100" stop="20241231120000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">DAZN LALIGA</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231120000 +0100" stop="20241231140000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">LALIGA EA SPORTS T23/24 · Jornada 29: Atlético de Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El partidazo de la jornada se juega en el Metropolitano con un duelo épico entre el Atlético de Madrid y el FC Barcelona con los catalanes con la mira puesta en alcanzar la segunda plaza y los rojiblancos en cuarto lugar, pero sin mucho margen de error. Votos: 71.
 · País: España</desc>
   </programme>
-  <programme start="20241224140000 +0100" stop="20241224151500 +0100" channel="DAZN LaLiga">
-    <title lang="es">El Post de DAZN T24/25 · Análisis de la jornada 18</title>
+  <programme start="20241231140000 +0100" stop="20241231150000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231150000 +0100" stop="20241231170000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">LALIGA EA SPORTS T23/24 · Jornada 35: Granada - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona. Votos: 53.
+· País: España</desc>
+  </programme>
+  <programme start="20241231170000 +0100" stop="20241231174500 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Courtois La vuelta del número 1 · Día cero</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *8.0/10
+· Un retrato que muestra el espectacular trabajo de Thibaut Courtois para llegar al tramo decisivo de la temporada después de la grave lesión sufrida justo antes del inicio de LaLiga. Votos: 22.
+· País: España
+· Productora: Wakai Media.</desc>
+  </programme>
+  <programme start="20241231174500 +0100" stop="20241231183000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Courtois La vuelta del número 1 · El gigante está en camino</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *6.0/10
+· Mientras continúa su proceso de recuperación, descubrimos facetas desconocidas de su vida. Votos: 6.
+· País: España
+· Productora: Wakai Media.</desc>
+  </programme>
+  <programme start="20241231183000 +0100" stop="20241231190000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Cara B - Cañada Real Galiana</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
+· Título original: Cara B | Cañada Real Galiana
+· País: España</desc>
+  </programme>
+  <programme start="20241231190000 +0100" stop="20241231210000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 1: Mallorca - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El actual campeón de liga visita tierras baleares en su estreno liguero. El fichaje de Mbappé ha marcado la actualidad madridista durante el verano y su posible debut con la camiseta blanca es uno de los alicientes del partido. Votos: 158.
+· País: España</desc>
+  </programme>
+  <programme start="20241231210000 +0100" stop="20241231213000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20241231213000 +0100" stop="20241231214500 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Dorsal 12 T23/24 · Messi vs. CR7: El último baile</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Rafa Escrig se desplaza hasta Arabia Saudí para vivir la Riyadh Season Cup con la presencia de estrellas como Leo Messi o Sergio Busquets.
+· País: España</desc>
+  </programme>
+  <programme start="20241231214500 +0100" stop="20241231234500 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 11: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Llega uno de los momentos más esperados de la temporada. Tras exhibirse ambos en Champions, el Clásico mide a los dos grandes aspirantes al título liguero. El Real Madrid cuenta con el Bernabéu en ebullición; el Barcelona, con tres puntos de ventaja. Votos: 209.
+· País: España</desc>
+  </programme>
+  <programme start="20241231234500 +0100" stop="20250101004500 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">El Post de DAZN T24/25 · Análisis de la jornada 6</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · La jornada de LaLiga no termina con el pitido final del último partido. Gracias a todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.
 · País: España
-· Presenta: Sandra Díaz, Alberto Edjogo.</desc>
+· Presenta: Alberto Edjogo, Sandra Díaz.</desc>
   </programme>
-  <programme start="20241224151500 +0100" stop="20241224171500 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Osasuna - Athletic</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 9.
-· País: España</desc>
-  </programme>
-  <programme start="20241224171500 +0100" stop="20241224174500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Jornada 18</title>
+  <programme start="20250101004500 +0100" stop="20250101010000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">El primer Kylian</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La sala de proyecciones de DAZN abre sus puertas para LaLiga.
+· Reportaje que muestra cómo fue su semana a prueba en la cantera del Real Madrid en 2012.
 · País: España</desc>
-  </programme>
-  <programme start="20241224174500 +0100" stop="20241224183000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Mbappé ya viste de blanco</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· Mbappé ya viste de blanco Votos: 49.
-· País: España</desc>
-  </programme>
-  <programme start="20241224183000 +0100" stop="20241224190000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA World T24/25 E20</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
-· País: España</desc>
-  </programme>
-  <programme start="20241224190000 +0100" stop="20241224210000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Betis - Rayo</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Real Betis y Rayo Vallecano se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 12.
-· País: España</desc>
-  </programme>
-  <programme start="20241224210000 +0100" stop="20241224220000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
-· País: España</desc>
-  </programme>
-  <programme start="20241224220000 +0100" stop="20241225000000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Real Madrid - Sevilla</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Real Madrid y Sevilla se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 54.
-· País: España</desc>
-  </programme>
-  <programme start="20241225000000 +0100" stop="20241225010000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 18</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
-· País: España</desc>
-  </programme>
-  <programme start="20241225010000 +0100" stop="20241225060000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
-  </programme>
-  <programme start="20241225060000 +0100" stop="20241225120000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
-</desc>
   </programme>
   <programme start="20241225120000 +0100" stop="20241225140000 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Osasuna - Athletic</title>
@@ -7106,7 +6970,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241225140000 +0100" stop="20241225150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7200,7 +7064,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241226170000 +0100" stop="20241226180000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7356,7 +7220,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227203000 +0100" stop="20241227213000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Erasmus FC T24/25 E10</title>
+    <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González.
 · País: España</desc>
@@ -7544,7 +7408,7 @@
 </desc>
   </programme>
   <programme start="20241229110000 +0100" stop="20241229114500 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7596,7 +7460,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241229183000 +0100" stop="20241229190000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7627,7 +7491,7 @@
 </desc>
   </programme>
   <programme start="20241229220000 +0100" stop="20241229223000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7694,7 +7558,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230154500 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7718,7 +7582,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7754,131 +7618,93 @@
 · País: España
 · Presenta: Alberto Edjogo, Sandra Díaz.</desc>
   </programme>
-  <programme start="20241224000000 +0100" stop="20241224010000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241224010000 +0100" stop="20241224020000 +0100" channel="Fox Sports">
-    <title lang="es">Money Line Show</title>
+  <programme start="20241231010000 +0100" stop="20241231060000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DAZN LALIGA</title>
     <desc lang="es">
-· Sin detalles...
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224020000 +0100" stop="20241224040000 +0100" channel="Fox Sports">
-    <title lang="es">Tottenham Hotspur vs. Liverpool</title>
+  <programme start="20241231060000 +0100" stop="20241231120000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DAZN LALIGA</title>
     <desc lang="es">
-· Sin detalles...
+· Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241224040000 +0100" stop="20241224050000 +0100" channel="Fox Sports">
-    <title lang="es">El show de la Premier League</title>
-    <desc lang="es">
-· Sin detalles...
+  <programme start="20241231120000 +0100" stop="20241231140000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LALIGA EA SPORTS T23/24 · Jornada 29: Atlético de Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El partidazo de la jornada se juega en el Metropolitano con un duelo épico entre el Atlético de Madrid y el FC Barcelona con los catalanes con la mira puesta en alcanzar la segunda plaza y los rojiblancos en cuarto lugar, pero sin mucho margen de error. Votos: 71.
+· País: España</desc>
+  </programme>
+  <programme start="20241231140000 +0100" stop="20241231150000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231150000 +0100" stop="20241231170000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LALIGA EA SPORTS T23/24 · Jornada 35: Granada - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. El Real Madrid defiende corona. Votos: 53.
+· País: España</desc>
+  </programme>
+  <programme start="20241231170000 +0100" stop="20241231174500 +0100" channel="DAZN LaLiga">
+    <title lang="es">Courtois La vuelta del número 1 · Día cero</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *8.0/10
+· Un retrato que muestra el espectacular trabajo de Thibaut Courtois para llegar al tramo decisivo de la temporada después de la grave lesión sufrida justo antes del inicio de LaLiga. Votos: 22.
+· País: España
+· Productora: Wakai Media.</desc>
+  </programme>
+  <programme start="20241231174500 +0100" stop="20241231183000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Courtois La vuelta del número 1 · El gigante está en camino</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP | *6.0/10
+· Mientras continúa su proceso de recuperación, descubrimos facetas desconocidas de su vida. Votos: 6.
+· País: España
+· Productora: Wakai Media.</desc>
+  </programme>
+  <programme start="20241231183000 +0100" stop="20241231190000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Cara B - Cañada Real Galiana</title>
+    <desc lang="es">Documentales/Deportes | 2024 | TP
+· El periodista Javi Valle acompaña a Adil, Ibra e Isma, tres jóvenes criados en el sector 6 de la Cañada Real de Madrid, para mostrar cómo el deporte puede llenar de ilusiones y esperanzas a los más jóvenes.
+· Título original: Cara B | Cañada Real Galiana
+· País: España</desc>
+  </programme>
+  <programme start="20241231190000 +0100" stop="20241231210000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 1: Mallorca - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El actual campeón de liga visita tierras baleares en su estreno liguero. El fichaje de Mbappé ha marcado la actualidad madridista durante el verano y su posible debut con la camiseta blanca es uno de los alicientes del partido. Votos: 158.
+· País: España</desc>
+  </programme>
+  <programme start="20241231210000 +0100" stop="20241231213000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20241224050000 +0100" stop="20241224060000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
+  <programme start="20241231213000 +0100" stop="20241231214500 +0100" channel="DAZN LaLiga">
+    <title lang="es">Dorsal 12 T23/24 · Messi vs. CR7: El último baile</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Rafa Escrig se desplaza hasta Arabia Saudí para vivir la Riyadh Season Cup con la presencia de estrellas como Leo Messi o Sergio Busquets.
+· País: España</desc>
   </programme>
-  <programme start="20241224060000 +0100" stop="20241224070000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
+  <programme start="20241231214500 +0100" stop="20241231234500 +0100" channel="DAZN LaLiga">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 11: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Llega uno de los momentos más esperados de la temporada. Tras exhibirse ambos en Champions, el Clásico mide a los dos grandes aspirantes al título liguero. El Real Madrid cuenta con el Bernabéu en ebullición; el Barcelona, con tres puntos de ventaja. Votos: 209.
+· País: España</desc>
   </programme>
-  <programme start="20241224070000 +0100" stop="20241224080000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
+  <programme start="20241231234500 +0100" stop="20250101004500 +0100" channel="DAZN LaLiga">
+    <title lang="es">El Post de DAZN T24/25 · Análisis de la jornada 6</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· La jornada de LaLiga no termina con el pitido final del último partido. Gracias a todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.
+· País: España
+· Presenta: Alberto Edjogo, Sandra Díaz.</desc>
   </programme>
-  <programme start="20241224080000 +0100" stop="20241224110000 +0100" channel="Fox Sports">
-    <title lang="es">Queens League Americas</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224110000 +0100" stop="20241224120000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241224120000 +0100" stop="20241224130000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224130000 +0100" stop="20241224140000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241224140000 +0100" stop="20241224143000 +0100" channel="Fox Sports">
-    <title lang="es">Fox Fit</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224143000 +0100" stop="20241224150000 +0100" channel="Fox Sports">
-    <title lang="es">Fox Fit</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224150000 +0100" stop="20241224160000 +0100" channel="Fox Sports">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">1997
-· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
-· País: México</desc>
-  </programme>
-  <programme start="20241224160000 +0100" stop="20241224170000 +0100" channel="Fox Sports">
-    <title lang="es">La última palabra</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224170000 +0100" stop="20241224180000 +0100" channel="Fox Sports">
-    <title lang="es">Fox impacto NFL · NFL</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224180000 +0100" stop="20241224190000 +0100" channel="Fox Sports">
-    <title lang="es">ALL Elite Show</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224190000 +0100" stop="20241224200000 +0100" channel="Fox Sports">
-    <title lang="es">Fox gol México</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224200000 +0100" stop="20241224210000 +0100" channel="Fox Sports">
-    <title lang="es">El show de la Premier League</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224210000 +0100" stop="20241224230000 +0100" channel="Fox Sports">
-    <title lang="es">West Ham vs. Brighton</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224230000 +0100" stop="20241225000000 +0100" channel="Fox Sports">
-    <title lang="es">Fox Sports Radio</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
+  <programme start="20250101004500 +0100" stop="20250101010000 +0100" channel="DAZN LaLiga">
+    <title lang="es">El primer Kylian</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportaje que muestra cómo fue su semana a prueba en la cantera del Real Madrid en 2012.
+· País: España</desc>
   </programme>
   <programme start="20241225000000 +0100" stop="20241225010000 +0100" channel="Fox Sports">
     <title lang="es">Central Fox</title>
@@ -8438,116 +8264,170 @@
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224010000 +0100" stop="20241224020000 +0100" channel="Fox Sports 2">
-    <title lang="es">AEW Rampage</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224020000 +0100" stop="20241224040000 +0100" channel="Fox Sports 2">
-    <title lang="es">WWE Raw</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224040000 +0100" stop="20241224050000 +0100" channel="Fox Sports 2">
-    <title lang="es">ALL Elite Show</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224050000 +0100" stop="20241224060000 +0100" channel="Fox Sports 2">
-    <title lang="es">WWE Raw</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224060000 +0100" stop="20241224070000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox impacto NFL · NFL</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224070000 +0100" stop="20241224090000 +0100" channel="Fox Sports 2">
-    <title lang="es">Power Slap</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224090000 +0100" stop="20241224100000 +0100" channel="Fox Sports 2">
-    <title lang="es">ALL Elite Show</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224100000 +0100" stop="20241224110000 +0100" channel="Fox Sports 2">
-    <title lang="es">Inside UFC</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224110000 +0100" stop="20241224140000 +0100" channel="Fox Sports 2">
-    <title lang="es">Queens League Americas</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224140000 +0100" stop="20241224150000 +0100" channel="Fox Sports 2">
+  <programme start="20241229100000 +0100" stop="20241229110000 +0100" channel="Fox Sports">
     <title lang="es">La última palabra</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224150000 +0100" stop="20241224153000 +0100" channel="Fox Sports 2">
+  <programme start="20241229110000 +0100" stop="20241229120000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241229120000 +0100" stop="20241229130000 +0100" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229130000 +0100" stop="20241229140000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241229140000 +0100" stop="20241229143000 +0100" channel="Fox Sports">
     <title lang="es">Fox Fit</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224153000 +0100" stop="20241224160000 +0100" channel="Fox Sports 2">
+  <programme start="20241229143000 +0100" stop="20241229150000 +0100" channel="Fox Sports">
     <title lang="es">Fox Fit</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224160000 +0100" stop="20241224170000 +0100" channel="Fox Sports 2">
-    <title lang="es">WWE Smackdown Highlight</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
+  <programme start="20241229150000 +0100" stop="20241229180000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
   </programme>
-  <programme start="20241224170000 +0100" stop="20241224180000 +0100" channel="Fox Sports 2">
-    <title lang="es">El show de la Premier League</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224180000 +0100" stop="20241224190000 +0100" channel="Fox Sports 2">
-    <title lang="es">Inside UFC</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224190000 +0100" stop="20241224210000 +0100" channel="Fox Sports 2">
-    <title lang="es">WWE Raw</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224210000 +0100" stop="20241224220000 +0100" channel="Fox Sports 2">
-    <title lang="es">ALL Elite Show</title>
-    <desc lang="es">
-· Sin detalles...
-</desc>
-  </programme>
-  <programme start="20241224220000 +0100" stop="20241224230000 +0100" channel="Fox Sports 2">
+  <programme start="20241229180000 +0100" stop="20241229183000 +0100" channel="Fox Sports">
     <title lang="es">Fox impacto NFL · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224230000 +0100" stop="20241225000000 +0100" channel="Fox Sports 2">
-    <title lang="es">WWE NXT</title>
+  <programme start="20241229183000 +0100" stop="20241229220000 +0100" channel="Fox Sports">
+    <title lang="es">NFL 24/25</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229220000 +0100" stop="20241230010000 +0100" channel="Fox Sports">
+    <title lang="es">NFL 24/25</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230010000 +0100" stop="20241230020000 +0100" channel="Fox Sports">
+    <title lang="es">Inside UFC</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230020000 +0100" stop="20241230040000 +0100" channel="Fox Sports">
+    <title lang="es">Leicester vs. Manchester City</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230040000 +0100" stop="20241230050000 +0100" channel="Fox Sports">
+    <title lang="es">Fox gol México</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230050000 +0100" stop="20241230060000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241230060000 +0100" stop="20241230070000 +0100" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230070000 +0100" stop="20241230080000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241230080000 +0100" stop="20241230100000 +0100" channel="Fox Sports">
+    <title lang="es">Tottenham Hotspur vs. Wolverhamtpon</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230100000 +0100" stop="20241230110000 +0100" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230110000 +0100" stop="20241230120000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241230120000 +0100" stop="20241230130000 +0100" channel="Fox Sports">
+    <title lang="es">La última palabra</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230130000 +0100" stop="20241230140000 +0100" channel="Fox Sports">
+    <title lang="es">Central Fox</title>
+    <desc lang="es">1997
+· Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
+· País: México</desc>
+  </programme>
+  <programme start="20241230140000 +0100" stop="20241230143000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230143000 +0100" stop="20241230150000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Fit</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230150000 +0100" stop="20241230190000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230190000 +0100" stop="20241230230000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230230000 +0100" stop="20241231030000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241231030000 +0100" stop="20241231070000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241231070000 +0100" stop="20241231110000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -8619,7 +8499,7 @@
 </desc>
   </programme>
   <programme start="20241225170000 +0100" stop="20241225180000 +0100" channel="Fox Sports 2">
-    <title lang="es">Fox impacto NFL · NFL</title>
+    <title lang="es">El show de la fórmula 1</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -8966,128 +8846,128 @@
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224010000 +0100" stop="20241224020000 +0100" channel="Fox Sports Premium">
-    <title lang="es">DTM 2024</title>
+  <programme start="20241229120000 +0100" stop="20241229130000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Saturday Night</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224020000 +0100" stop="20241224030000 +0100" channel="Fox Sports Premium">
-    <title lang="es">WEC 2024</title>
+  <programme start="20241229130000 +0100" stop="20241229140000 +0100" channel="Fox Sports 2">
+    <title lang="es">Lo Mejor del 2024</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224030000 +0100" stop="20241224040000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR Sudamericana</title>
+  <programme start="20241229140000 +0100" stop="20241229150000 +0100" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224040000 +0100" stop="20241224060000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 GP de Austria</title>
+  <programme start="20241229150000 +0100" stop="20241229154500 +0100" channel="Fox Sports 2">
+    <title lang="es">Lo Mejor del 2024</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224060000 +0100" stop="20241224070000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Motul FIM Superbikes World Cha</title>
+  <programme start="20241229154500 +0100" stop="20241229180000 +0100" channel="Fox Sports 2">
+    <title lang="es">Everton vs. Nottingham Forest</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224070000 +0100" stop="20241224080000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Motul FIM Superbikes World Cha</title>
+  <programme start="20241229180000 +0100" stop="20241229184500 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox impacto NFL · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224080000 +0100" stop="20241224090000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Motul FIM Superbikes World Cha</title>
+  <programme start="20241229184500 +0100" stop="20241229220000 +0100" channel="Fox Sports 2">
+    <title lang="es">NFL 24/25</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224090000 +0100" stop="20241224093000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR World Tour 2024</title>
+  <programme start="20241229220000 +0100" stop="20241230010000 +0100" channel="Fox Sports 2">
+    <title lang="es">NFL 24/25</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224093000 +0100" stop="20241224100000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 Academy</title>
+  <programme start="20241230010000 +0100" stop="20241230050000 +0100" channel="Fox Sports 2">
+    <title lang="es">AEW PPV</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224100000 +0100" stop="20241224110000 +0100" channel="Fox Sports Premium">
-    <title lang="es">DTM 2024</title>
+  <programme start="20241230050000 +0100" stop="20241230060000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox gol México</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224110000 +0100" stop="20241224120000 +0100" channel="Fox Sports Premium">
-    <title lang="es">DTM 2024</title>
+  <programme start="20241230060000 +0100" stop="20241230080000 +0100" channel="Fox Sports 2">
+    <title lang="es">West Ham vs. Liverpool</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224120000 +0100" stop="20241224130000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR Sudamericana</title>
+  <programme start="20241230080000 +0100" stop="20241230090000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Raw Highlight</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224130000 +0100" stop="20241224150000 +0100" channel="Fox Sports Premium">
-    <title lang="es">F1 GP de Austria</title>
+  <programme start="20241230090000 +0100" stop="20241230100000 +0100" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown Highlight</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224150000 +0100" stop="20241224170000 +0100" channel="Fox Sports Premium">
-    <title lang="es">AEW Collision</title>
+  <programme start="20241230100000 +0100" stop="20241230110000 +0100" channel="Fox Sports 2">
+    <title lang="es">Lo Mejor del 2024</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224170000 +0100" stop="20241224180000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR Sudamericana</title>
+  <programme start="20241230110000 +0100" stop="20241230140000 +0100" channel="Fox Sports 2">
+    <title lang="es">UFC Reloaded</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224180000 +0100" stop="20241224190000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Motul FIM Superbikes World Cha</title>
+  <programme start="20241230140000 +0100" stop="20241230150000 +0100" channel="Fox Sports 2">
+    <title lang="es">La última palabra</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224190000 +0100" stop="20241224200000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Motul FIM Superbikes World Cha</title>
+  <programme start="20241230150000 +0100" stop="20241230190000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224200000 +0100" stop="20241224210000 +0100" channel="Fox Sports Premium">
-    <title lang="es">Motul FIM Superbikes World Cha</title>
+  <programme start="20241230190000 +0100" stop="20241230230000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224210000 +0100" stop="20241224220000 +0100" channel="Fox Sports Premium">
-    <title lang="es">World Rally Championship</title>
+  <programme start="20241230230000 +0100" stop="20241231030000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224220000 +0100" stop="20241224230000 +0100" channel="Fox Sports Premium">
-    <title lang="es">WEC 2024</title>
+  <programme start="20241231030000 +0100" stop="20241231070000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241224230000 +0100" stop="20241225000000 +0100" channel="Fox Sports Premium">
-    <title lang="es">TCR Sudamericana</title>
+  <programme start="20241231070000 +0100" stop="20241231110000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -9718,6 +9598,222 @@
   </programme>
   <programme start="20241229080000 +0100" stop="20241229090000 +0100" channel="Fox Sports Premium">
     <title lang="es">Motul FIM Superbikes World Cha</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229090000 +0100" stop="20241229100000 +0100" channel="Fox Sports Premium">
+    <title lang="es">European Le Mans Series</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229100000 +0100" stop="20241229103000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fast Zone</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229103000 +0100" stop="20241229113000 +0100" channel="Fox Sports Premium">
+    <title lang="es">TCR Sudamericana</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229113000 +0100" stop="20241229120000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Le Mans Cup</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229120000 +0100" stop="20241229130000 +0100" channel="Fox Sports Premium">
+    <title lang="es">European Le Mans Series</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229130000 +0100" stop="20241229150000 +0100" channel="Fox Sports Premium">
+    <title lang="es">F1 GP de Singapur</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229150000 +0100" stop="20241229160000 +0100" channel="Fox Sports Premium">
+    <title lang="es">El show de la fórmula 1</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229160000 +0100" stop="20241229170000 +0100" channel="Fox Sports Premium">
+    <title lang="es">European Le Mans Series</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229170000 +0100" stop="20241229173000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Le Mans Cup</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229173000 +0100" stop="20241229180000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fast Zone</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229180000 +0100" stop="20241229193000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Red Bull 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229193000 +0100" stop="20241229200000 +0100" channel="Fox Sports Premium">
+    <title lang="es">F1 Academy</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229200000 +0100" stop="20241229210000 +0100" channel="Fox Sports Premium">
+    <title lang="es">European Le Mans Series</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229210000 +0100" stop="20241229220000 +0100" channel="Fox Sports Premium">
+    <title lang="es">World Rally Championship</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229220000 +0100" stop="20241229230000 +0100" channel="Fox Sports Premium">
+    <title lang="es">WEC 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229230000 +0100" stop="20241229233000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fast Zone</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241229233000 +0100" stop="20241230000000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Le Mans Cup</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230000000 +0100" stop="20241230010000 +0100" channel="Fox Sports Premium">
+    <title lang="es">DTM 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230010000 +0100" stop="20241230020000 +0100" channel="Fox Sports Premium">
+    <title lang="es">DTM 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230020000 +0100" stop="20241230030000 +0100" channel="Fox Sports Premium">
+    <title lang="es">WEC 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230030000 +0100" stop="20241230040000 +0100" channel="Fox Sports Premium">
+    <title lang="es">WEC 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230040000 +0100" stop="20241230060000 +0100" channel="Fox Sports Premium">
+    <title lang="es">F1 GP de Estados Unidos</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230060000 +0100" stop="20241230070000 +0100" channel="Fox Sports Premium">
+    <title lang="es">El show de la fórmula 1</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230070000 +0100" stop="20241230080000 +0100" channel="Fox Sports Premium">
+    <title lang="es">WEC 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230080000 +0100" stop="20241230083000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fast Zone</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230083000 +0100" stop="20241230090000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Le Mans Cup</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230090000 +0100" stop="20241230100000 +0100" channel="Fox Sports Premium">
+    <title lang="es">ABB FIA Formula E 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230100000 +0100" stop="20241230113000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Red Bull 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230113000 +0100" stop="20241230120000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fast Zone</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230120000 +0100" stop="20241230130000 +0100" channel="Fox Sports Premium">
+    <title lang="es">WEC 2024</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230130000 +0100" stop="20241230150000 +0100" channel="Fox Sports Premium">
+    <title lang="es">F1 GP de Estados Unidos</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230150000 +0100" stop="20241230190000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230190000 +0100" stop="20241230230000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241230230000 +0100" stop="20241231030000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241231030000 +0100" stop="20241231070000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20241231070000 +0100" stop="20241231110000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
