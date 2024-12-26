@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 26/12/2024 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 26/12/2024 18:59" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -316,91 +316,97 @@
   <channel id="Super Sport 7AL">
     <display-name>Super Sport 7AL</display-name>
   </channel>
-  <programme start="20241226070000 +0100" stop="20241226083000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226060200 +0100" stop="20241226065800 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241226083000 +0100" stop="20241226100000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226065800 +0100" stop="20241226083100 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241226083100 +0100" stop="20241226095800 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226100000 +0100" stop="20241226110000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226095800 +0100" stop="20241226105400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Hall Of Fame París 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa. Votos: 2.
 </desc>
   </programme>
-  <programme start="20241226110000 +0100" stop="20241226120000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226105400 +0100" stop="20241226120200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 9.
 · País: Italia</desc>
   </programme>
-  <programme start="20241226120000 +0100" stop="20241226130000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226120200 +0100" stop="20241226125500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Hall Of Fame París 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa. Votos: 2.
 </desc>
   </programme>
-  <programme start="20241226130000 +0100" stop="20241226133000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226125500 +0100" stop="20241226132500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Ciclocross Superprestige T24/25 · Mol - Masculino</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226133000 +0100" stop="20241226150000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226132500 +0100" stop="20241226145600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Gavere - Carrera F T24/25 · Copa del mundo de ciclocross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 7.
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 11.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226150000 +0100" stop="20241226163000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226145600 +0100" stop="20241226162600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Gavere - Carrera M T24/25 · Copa del mundo de ciclocross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 10.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226163000 +0100" stop="20241226171500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226162600 +0100" stop="20241226171200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241226171500 +0100" stop="20241226181500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226171200 +0100" stop="20241226181200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241226181500 +0100" stop="20241226190000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226181200 +0100" stop="20241226185700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Gavere - Carrera M T24/25 · Copa del mundo de ciclocross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 10.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226190000 +0100" stop="20241226200000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226185700 +0100" stop="20241226195700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de salto ecuestre T24/25 · Western European League: Londres</title>
     <desc lang="es">Deportes/Hípica | 2024 | TP
 · La Copa del mundo de salto ecuestre es una competición organizada por la FEI.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226200000 +0100" stop="20241226210000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226195700 +0100" stop="20241226210100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">The Racket</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Documental de tenis.
 </desc>
   </programme>
-  <programme start="20241226210000 +0100" stop="20241226220000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226210100 +0100" stop="20241226220300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Forza Jannik Sinner and the Rise of Italian Tennis</title>
     <desc lang="es">Deportes/Programa deportes | 2024
 · El tenis italiano vive un momento de máximo esplendor. Son muchas las figuras que brilla tanto en el circuito femenino como en el masculina. Pero una destaca por encima de las otras, el número 1 del ranking ATP Jannik Sinner.
 </desc>
   </programme>
-  <programme start="20241226220000 +0100" stop="20241226230000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241226220300 +0100" stop="20241226230000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Rafa Nadal, rey de París</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · La carrera de Rafa Nadal está plagada de éxitos por todo el planeta. Pero hay un torneo y una ciudad íntimamente relacionadas al tenista español. Su hegemonía en el parisino Grand Slam de Roland Garros no tiene parangón en la historia del deporte.
@@ -468,10 +474,10 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241227112500 +0100" stop="20241227130000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-</desc>
+    <title lang="es">DIRECTO Bormio - Descenso M T24/25 · Copa del mundo de esquí alpino</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 4.
+· País: Italia</desc>
   </programme>
   <programme start="20241227130000 +0100" stop="20241227134000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Gavere - Carrera M T24/25 · Copa del mundo de ciclocross</title>
@@ -607,14 +613,14 @@
   </programme>
   <programme start="20241228141500 +0100" stop="20241228161500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - Esprín Libre T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *2.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241228161500 +0100" stop="20241228180000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *10.0/10
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 2.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *6.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 6.
 · País: Alemania</desc>
   </programme>
   <programme start="20241228180000 +0100" stop="20241228191500 +0100" channel="EUROSPORT 1 ES">
@@ -655,8 +661,8 @@
   </programme>
   <programme start="20241228230000 +0100" stop="20241229000000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - Esprín Libre T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *2.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229000000 +0100" stop="20241229013000 +0100" channel="EUROSPORT 1 ES">
@@ -703,8 +709,8 @@
   </programme>
   <programme start="20241229083000 +0100" stop="20241229091500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - Esprín Libre T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *2.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229091500 +0100" stop="20241229101500 +0100" channel="EUROSPORT 1 ES">
@@ -721,8 +727,8 @@
   </programme>
   <programme start="20241229113000 +0100" stop="20241229133000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229133000 +0100" stop="20241229143000 +0100" channel="EUROSPORT 1 ES">
@@ -739,8 +745,8 @@
   </programme>
   <programme start="20241229154500 +0100" stop="20241229160000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241229160000 +0100" stop="20241229183000 +0100" channel="EUROSPORT 1 ES">
@@ -751,14 +757,14 @@
   </programme>
   <programme start="20241229183000 +0100" stop="20241229193000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229193000 +0100" stop="20241229200000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229200000 +0100" stop="20241229204500 +0100" channel="EUROSPORT 1 ES">
@@ -775,20 +781,20 @@
   </programme>
   <programme start="20241229214500 +0100" stop="20241229223000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229223000 +0100" stop="20241229231500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Besanzón - Carrera F T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *2.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229231500 +0100" stop="20241230000000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241230000000 +0100" stop="20241230013000 +0100" channel="EUROSPORT 1 ES">
@@ -811,8 +817,8 @@
   </programme>
   <programme start="20241230031500 +0100" stop="20241230040000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241230040000 +0100" stop="20241230070000 +0100" channel="EUROSPORT 1 ES">
@@ -847,14 +853,14 @@
   </programme>
   <programme start="20241230100000 +0100" stop="20241230113000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241230113000 +0100" stop="20241230123000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241230123000 +0100" stop="20241230133000 +0100" channel="EUROSPORT 1 ES">
@@ -883,14 +889,14 @@
   </programme>
   <programme start="20241230160000 +0100" stop="20241230170000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241230170000 +0100" stop="20241230185500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Besanzón - Carrera F T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *2.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241230185500 +0100" stop="20241230190000 +0100" channel="EUROSPORT 1 ES">
@@ -907,14 +913,14 @@
   </programme>
   <programme start="20241230194500 +0100" stop="20241230204000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241230204000 +0100" stop="20241230215000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 2.
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
   <programme start="20241230215000 +0100" stop="20241230224500 +0100" channel="EUROSPORT 1 ES">
@@ -961,8 +967,8 @@
   </programme>
   <programme start="20241231033000 +0100" stop="20241231040000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241231040000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 1 ES">
@@ -997,8 +1003,8 @@
   </programme>
   <programme start="20241231094500 +0100" stop="20241231103000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241231103000 +0100" stop="20241231111500 +0100" channel="EUROSPORT 1 ES">
@@ -1021,8 +1027,8 @@
   </programme>
   <programme start="20241231144500 +0100" stop="20241231161500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241231161500 +0100" stop="20241231175000 +0100" channel="EUROSPORT 1 ES">
@@ -1057,8 +1063,8 @@
   </programme>
   <programme start="20241231230000 +0100" stop="20250101000000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101000000 +0100" stop="20250101010000 +0100" channel="EUROSPORT 1 ES">
@@ -1075,8 +1081,8 @@
   </programme>
   <programme start="20250101020000 +0100" stop="20250101030000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101030000 +0100" stop="20250101040000 +0100" channel="EUROSPORT 1 ES">
@@ -1093,8 +1099,8 @@
   </programme>
   <programme start="20250101070000 +0100" stop="20250101073000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101073000 +0100" stop="20250101083000 +0100" channel="EUROSPORT 1 ES">
@@ -1111,8 +1117,8 @@
   </programme>
   <programme start="20250101093000 +0100" stop="20250101101500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101101500 +0100" stop="20250101113000 +0100" channel="EUROSPORT 1 ES">
@@ -1214,7 +1220,7 @@
   <programme start="20241226110000 +0100" stop="20241226120000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Ciclismo de montaña - JJ OO París 2024 T2024 · Campo a través (M)</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
-· La Colina de Elancourt, el punto más alto de la región de París, pone a prueba a los ciclistas en la modalidad de bicicleta de montaña. Un exigente circuito campo a través selecciona al campeón olímpico. En liza, dos medallas, la masculina y la femenina. Votos: 13.
+· La Colina de Elancourt, el punto más alto de la región de París, pone a prueba a los ciclistas en la modalidad de bicicleta de montaña. Un exigente circuito campo a través selecciona al campeón olímpico. En liza, dos medallas, la masculina y la femenina. Votos: 15.
 · País: Francia</desc>
   </programme>
   <programme start="20241226120000 +0100" stop="20241226140000 +0100" channel="EUROSPORT 2 ES">
@@ -1279,8 +1285,8 @@
   </programme>
   <programme start="20241227033000 +0100" stop="20241227050000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241227050000 +0100" stop="20241227063000 +0100" channel="EUROSPORT 2 ES">
@@ -1327,8 +1333,8 @@
   </programme>
   <programme start="20241227160000 +0100" stop="20241227180000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241227180000 +0100" stop="20241227200000 +0100" channel="EUROSPORT 2 ES">
@@ -1387,8 +1393,8 @@
   </programme>
   <programme start="20241228100000 +0100" stop="20241228115500 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241228115500 +0100" stop="20241228130000 +0100" channel="EUROSPORT 2 ES">
@@ -1489,20 +1495,20 @@
   </programme>
   <programme start="20241229121500 +0100" stop="20241229133000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241229133000 +0100" stop="20241229150000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Besanzón - Carrera F T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *2.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229150000 +0100" stop="20241229163000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229163000 +0100" stop="20241229180000 +0100" channel="EUROSPORT 2 ES">
@@ -1561,8 +1567,8 @@
   </programme>
   <programme start="20241230070000 +0100" stop="20241230083000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241230083000 +0100" stop="20241230100000 +0100" channel="EUROSPORT 2 ES">
@@ -1591,8 +1597,8 @@
   </programme>
   <programme start="20241230160000 +0100" stop="20241230180000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 2.
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *8.0/10
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 4.
 · País: Francia</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230200000 +0100" channel="EUROSPORT 2 ES">
@@ -1633,8 +1639,8 @@
   </programme>
   <programme start="20241231053000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 2.
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *8.0/10
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 4.
 · País: Francia</desc>
   </programme>
   <programme start="20241231070000 +0100" stop="20241231083000 +0100" channel="EUROSPORT 2 ES">
@@ -1711,8 +1717,8 @@
   </programme>
   <programme start="20250101050000 +0100" stop="20250101060000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101060000 +0100" stop="20250101070000 +0100" channel="EUROSPORT 2 ES">
@@ -1735,8 +1741,8 @@
   </programme>
   <programme start="20250101110000 +0100" stop="20250101120000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20250101120000 +0100" stop="20250101124500 +0100" channel="EUROSPORT 2 ES">
@@ -1748,7 +1754,7 @@
   <programme start="20250101124500 +0100" stop="20250101134000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 2.
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
   <programme start="20250101134000 +0100" stop="20250101144500 +0100" channel="EUROSPORT 2 ES">
@@ -1771,8 +1777,8 @@
   </programme>
   <programme start="20250101161500 +0100" stop="20250101170000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20250101170000 +0100" stop="20250101180000 +0100" channel="EUROSPORT 2 ES">
@@ -1835,91 +1841,97 @@
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241226070000 +0100" stop="20241226083000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226060200 +0100" stop="20241226065800 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241226083000 +0100" stop="20241226100000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226065800 +0100" stop="20241226083100 +0100" channel="EUROSPORT 1">
+    <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
+    <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
+· País: Alemania</desc>
+  </programme>
+  <programme start="20241226083100 +0100" stop="20241226095800 +0100" channel="EUROSPORT 1">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226100000 +0100" stop="20241226110000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226095800 +0100" stop="20241226105400 +0100" channel="EUROSPORT 1">
     <title lang="es">Hall Of Fame París 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa. Votos: 2.
 </desc>
   </programme>
-  <programme start="20241226110000 +0100" stop="20241226120000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226105400 +0100" stop="20241226120200 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Val Gardena / Groeden - Descenso M</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *8.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 9.
 · País: Italia</desc>
   </programme>
-  <programme start="20241226120000 +0100" stop="20241226130000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226120200 +0100" stop="20241226125500 +0100" channel="EUROSPORT 1">
     <title lang="es">Hall Of Fame París 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa. Votos: 2.
 </desc>
   </programme>
-  <programme start="20241226130000 +0100" stop="20241226133000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226125500 +0100" stop="20241226132500 +0100" channel="EUROSPORT 1">
     <title lang="es">Ciclocross Superprestige T24/25 · Mol - Masculino</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226133000 +0100" stop="20241226150000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226132500 +0100" stop="20241226145600 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Gavere - Carrera F T24/25 · Copa del mundo de ciclocross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 7.
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 11.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226150000 +0100" stop="20241226163000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226145600 +0100" stop="20241226162600 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Gavere - Carrera M T24/25 · Copa del mundo de ciclocross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 10.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226163000 +0100" stop="20241226171500 +0100" channel="EUROSPORT 1">
+  <programme start="20241226162600 +0100" stop="20241226171200 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241226171500 +0100" stop="20241226181500 +0100" channel="EUROSPORT 1">
+  <programme start="20241226171200 +0100" stop="20241226181200 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Oberstdorf - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2023 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241226181500 +0100" stop="20241226190000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226181200 +0100" stop="20241226185700 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Gavere - Carrera M T24/25 · Copa del mundo de ciclocross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 10.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241226190000 +0100" stop="20241226200000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226185700 +0100" stop="20241226195700 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de salto ecuestre T24/25 · Western European League: Londres</title>
     <desc lang="es">Deportes/Hípica | 2024 | TP
 · La Copa del mundo de salto ecuestre es una competición organizada por la FEI.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226200000 +0100" stop="20241226210000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226195700 +0100" stop="20241226210100 +0100" channel="EUROSPORT 1">
     <title lang="es">The Racket</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Documental de tenis.
 </desc>
   </programme>
-  <programme start="20241226210000 +0100" stop="20241226220000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226210100 +0100" stop="20241226220300 +0100" channel="EUROSPORT 1">
     <title lang="es">Forza Jannik Sinner and the Rise of Italian Tennis</title>
     <desc lang="es">Deportes/Programa deportes | 2024
 · El tenis italiano vive un momento de máximo esplendor. Son muchas las figuras que brilla tanto en el circuito femenino como en el masculina. Pero una destaca por encima de las otras, el número 1 del ranking ATP Jannik Sinner.
 </desc>
   </programme>
-  <programme start="20241226220000 +0100" stop="20241226230000 +0100" channel="EUROSPORT 1">
+  <programme start="20241226220300 +0100" stop="20241226230000 +0100" channel="EUROSPORT 1">
     <title lang="es">Rafa Nadal, rey de París</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · La carrera de Rafa Nadal está plagada de éxitos por todo el planeta. Pero hay un torneo y una ciudad íntimamente relacionadas al tenista español. Su hegemonía en el parisino Grand Slam de Roland Garros no tiene parangón en la historia del deporte.
@@ -1987,10 +1999,10 @@
 · País: Italia</desc>
   </programme>
   <programme start="20241227112500 +0100" stop="20241227130000 +0100" channel="EUROSPORT 1">
-    <title lang="es">DIRECTO · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
-</desc>
+    <title lang="es">DIRECTO Bormio - Descenso M T24/25 · Copa del mundo de esquí alpino</title>
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 4.
+· País: Italia</desc>
   </programme>
   <programme start="20241227130000 +0100" stop="20241227134000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Gavere - Carrera M T24/25 · Copa del mundo de ciclocross</title>
@@ -2126,14 +2138,14 @@
   </programme>
   <programme start="20241228141500 +0100" stop="20241228161500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - Esprín Libre T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *2.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241228161500 +0100" stop="20241228180000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *10.0/10
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 2.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *6.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 6.
 · País: Alemania</desc>
   </programme>
   <programme start="20241228180000 +0100" stop="20241228191500 +0100" channel="EUROSPORT 1">
@@ -2174,8 +2186,8 @@
   </programme>
   <programme start="20241228230000 +0100" stop="20241229000000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - Esprín Libre T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *2.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229000000 +0100" stop="20241229013000 +0100" channel="EUROSPORT 1">
@@ -2222,8 +2234,8 @@
   </programme>
   <programme start="20241229083000 +0100" stop="20241229091500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - Esprín Libre T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *2.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229091500 +0100" stop="20241229101500 +0100" channel="EUROSPORT 1">
@@ -2240,8 +2252,8 @@
   </programme>
   <programme start="20241229113000 +0100" stop="20241229133000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229133000 +0100" stop="20241229143000 +0100" channel="EUROSPORT 1">
@@ -2258,8 +2270,8 @@
   </programme>
   <programme start="20241229154500 +0100" stop="20241229160000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241229160000 +0100" stop="20241229183000 +0100" channel="EUROSPORT 1">
@@ -2270,14 +2282,14 @@
   </programme>
   <programme start="20241229183000 +0100" stop="20241229193000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229193000 +0100" stop="20241229200000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229200000 +0100" stop="20241229204500 +0100" channel="EUROSPORT 1">
@@ -2294,20 +2306,20 @@
   </programme>
   <programme start="20241229214500 +0100" stop="20241229223000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241229223000 +0100" stop="20241229231500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Besanzón - Carrera F T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *2.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229231500 +0100" stop="20241230000000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241230000000 +0100" stop="20241230013000 +0100" channel="EUROSPORT 1">
@@ -2330,8 +2342,8 @@
   </programme>
   <programme start="20241230031500 +0100" stop="20241230040000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241230040000 +0100" stop="20241230070000 +0100" channel="EUROSPORT 1">
@@ -2366,14 +2378,14 @@
   </programme>
   <programme start="20241230100000 +0100" stop="20241230113000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241230113000 +0100" stop="20241230123000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241230123000 +0100" stop="20241230133000 +0100" channel="EUROSPORT 1">
@@ -2402,14 +2414,14 @@
   </programme>
   <programme start="20241230160000 +0100" stop="20241230170000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Supergigante M T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2024 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241230170000 +0100" stop="20241230185500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Besanzón - Carrera F T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *2.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241230185500 +0100" stop="20241230190000 +0100" channel="EUROSPORT 1">
@@ -2426,14 +2438,14 @@
   </programme>
   <programme start="20241230194500 +0100" stop="20241230204000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241230204000 +0100" stop="20241230215000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 2.
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
   <programme start="20241230215000 +0100" stop="20241230224500 +0100" channel="EUROSPORT 1">
@@ -2480,8 +2492,8 @@
   </programme>
   <programme start="20241231033000 +0100" stop="20241231040000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241231040000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 1">
@@ -2516,8 +2528,8 @@
   </programme>
   <programme start="20241231094500 +0100" stop="20241231103000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241231103000 +0100" stop="20241231111500 +0100" channel="EUROSPORT 1">
@@ -2540,8 +2552,8 @@
   </programme>
   <programme start="20241231144500 +0100" stop="20241231161500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20241231161500 +0100" stop="20241231175000 +0100" channel="EUROSPORT 1">
@@ -2576,8 +2588,8 @@
   </programme>
   <programme start="20241231230000 +0100" stop="20250101000000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101000000 +0100" stop="20250101010000 +0100" channel="EUROSPORT 1">
@@ -2594,8 +2606,8 @@
   </programme>
   <programme start="20250101020000 +0100" stop="20250101030000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101030000 +0100" stop="20250101040000 +0100" channel="EUROSPORT 1">
@@ -2612,8 +2624,8 @@
   </programme>
   <programme start="20250101070000 +0100" stop="20250101073000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101073000 +0100" stop="20250101083000 +0100" channel="EUROSPORT 1">
@@ -2630,8 +2642,8 @@
   </programme>
   <programme start="20250101093000 +0100" stop="20250101101500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101101500 +0100" stop="20250101113000 +0100" channel="EUROSPORT 1">
@@ -2733,7 +2745,7 @@
   <programme start="20241226110000 +0100" stop="20241226120000 +0100" channel="EUROSPORT 2">
     <title lang="es">Ciclismo de montaña - JJ OO París 2024 T2024 · Campo a través (M)</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
-· La Colina de Elancourt, el punto más alto de la región de París, pone a prueba a los ciclistas en la modalidad de bicicleta de montaña. Un exigente circuito campo a través selecciona al campeón olímpico. En liza, dos medallas, la masculina y la femenina. Votos: 13.
+· La Colina de Elancourt, el punto más alto de la región de París, pone a prueba a los ciclistas en la modalidad de bicicleta de montaña. Un exigente circuito campo a través selecciona al campeón olímpico. En liza, dos medallas, la masculina y la femenina. Votos: 15.
 · País: Francia</desc>
   </programme>
   <programme start="20241226120000 +0100" stop="20241226140000 +0100" channel="EUROSPORT 2">
@@ -2798,8 +2810,8 @@
   </programme>
   <programme start="20241227033000 +0100" stop="20241227050000 +0100" channel="EUROSPORT 2">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241227050000 +0100" stop="20241227063000 +0100" channel="EUROSPORT 2">
@@ -2846,8 +2858,8 @@
   </programme>
   <programme start="20241227160000 +0100" stop="20241227180000 +0100" channel="EUROSPORT 2">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241227180000 +0100" stop="20241227200000 +0100" channel="EUROSPORT 2">
@@ -2906,8 +2918,8 @@
   </programme>
   <programme start="20241228100000 +0100" stop="20241228115500 +0100" channel="EUROSPORT 2">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241228115500 +0100" stop="20241228130000 +0100" channel="EUROSPORT 2">
@@ -3008,20 +3020,20 @@
   </programme>
   <programme start="20241229121500 +0100" stop="20241229133000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Toblach - 15km Clásico salida en masa F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *8.0/10
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
   <programme start="20241229133000 +0100" stop="20241229150000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Besanzón - Carrera F T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *2.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229150000 +0100" stop="20241229163000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20241229163000 +0100" stop="20241229180000 +0100" channel="EUROSPORT 2">
@@ -3080,8 +3092,8 @@
   </programme>
   <programme start="20241230070000 +0100" stop="20241230083000 +0100" channel="EUROSPORT 2">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
-    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *10.0/10
-· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 5.
+    <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
+· Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 7.
 · País: Francia</desc>
   </programme>
   <programme start="20241230083000 +0100" stop="20241230100000 +0100" channel="EUROSPORT 2">
@@ -3110,8 +3122,8 @@
   </programme>
   <programme start="20241230160000 +0100" stop="20241230180000 +0100" channel="EUROSPORT 2">
     <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 2.
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *8.0/10
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 4.
 · País: Francia</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230200000 +0100" channel="EUROSPORT 2">
@@ -3152,8 +3164,8 @@
   </programme>
   <programme start="20241231053000 +0100" stop="20241231070000 +0100" channel="EUROSPORT 2">
     <title lang="es">Baloncesto (F) - JJ OO París 2024 T2024 · Finales: Francia - Estados Unidos</title>
-    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *6.0/10
-· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 2.
+    <desc lang="es">Deportes/Baloncesto | 2024 | TP | *8.0/10
+· El baloncesto olímpico se disputa en dos sedes: el estadio Pierre Mauroy para la fase de grupos y el Bercy Arena para los cruces. Doce equipos pelean por la medalla de oro, presea que defiende el máximo candidato al primer puesto, Estados Unidos. Votos: 4.
 · País: Francia</desc>
   </programme>
   <programme start="20241231070000 +0100" stop="20241231083000 +0100" channel="EUROSPORT 2">
@@ -3230,8 +3242,8 @@
   </programme>
   <programme start="20250101050000 +0100" stop="20250101060000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
-    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
-· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
+    <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
   <programme start="20250101060000 +0100" stop="20250101070000 +0100" channel="EUROSPORT 2">
@@ -3254,8 +3266,8 @@
   </programme>
   <programme start="20250101110000 +0100" stop="20250101120000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20250101120000 +0100" stop="20250101124500 +0100" channel="EUROSPORT 2">
@@ -3267,7 +3279,7 @@
   <programme start="20250101124500 +0100" stop="20250101134000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 2.
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 4.
 · País: Bélgica</desc>
   </programme>
   <programme start="20250101134000 +0100" stop="20250101144500 +0100" channel="EUROSPORT 2">
@@ -3290,8 +3302,8 @@
   </programme>
   <programme start="20250101161500 +0100" stop="20250101170000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Besanzón - Carrera M T24/25 · Copa del mundo de ciclocross</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP
-· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
+· La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 2.
 · País: Francia</desc>
   </programme>
   <programme start="20250101170000 +0100" stop="20250101180000 +0100" channel="EUROSPORT 2">
@@ -4358,47 +4370,47 @@
   </programme>
   <programme start="20241226130000 +0100" stop="20241226132000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League.
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241226132000 +0100" stop="20241226155000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Manchester City - Everton T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Manchester City y Everton abren la jornada del Boxing Day. El City llega fuera de los puestos europeos ante un Everton que solo ha perdido dos de sus últimos doce partidos. Votos: 11.
+· Manchester City y Everton abren la jornada del Boxing Day. El City llega fuera de los puestos europeos ante un Everton que solo ha perdido dos de sus últimos doce partidos. Votos: 18.
 · País: R.U.</desc>
   </programme>
   <programme start="20241226155000 +0100" stop="20241226182000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Chelsea - Fulham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20241226182000 +0100" stop="20241226205000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 18: Wolverhampton - Manchester Utd. T24/25 · Premier League</title>
+    <title lang="es">DIRECTO Jornada 18: Wolverhampton - Manchester United T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226205000 +0100" stop="20241226225200 +0100" channel="DAZN 1 Espana">
+  <programme start="20241226205000 +0100" stop="20241226230500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Liverpool - Leicester T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226225200 +0100" stop="20241226231900 +0100" channel="DAZN 1 Espana">
+  <programme start="20241226230500 +0100" stop="20241226235400 +0100" channel="DAZN 1 Espana">
     <title lang="es">Maverick Viñales: dos vidas</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
 · Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
 · País: España</desc>
   </programme>
-  <programme start="20241226231900 +0100" stop="20241227012200 +0100" channel="DAZN 1 Espana">
+  <programme start="20241226235400 +0100" stop="20241227015400 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier League T24/25 · Jornada 18: Bournemouth - Crystal Palace</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227012200 +0100" stop="20241227060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241227015400 +0100" stop="20241227060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -4436,8 +4448,8 @@
   </programme>
   <programme start="20241227183500 +0100" stop="20241227203500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Nottingham Forest - Tottenham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20241227203500 +0100" stop="20241227205000 +0100" channel="DAZN 1 Espana">
@@ -4489,7 +4501,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20241228163500 +0100" stop="20241228183500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 18: Brighton - Brentford T24/25 · Premier League</title>
+    <title lang="es">DIRECTO Jornada 18: Brighton &amp; Hove Albion - Brentford T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -4539,7 +4551,7 @@
   <programme start="20241229130000 +0100" stop="20241229150000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Liverpool - Leicester T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 3.
 · País: R.U.</desc>
   </programme>
   <programme start="20241229150000 +0100" stop="20241229152000 +0100" channel="DAZN 1 Espana">
@@ -4806,13 +4818,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241226155000 +0100" stop="20241226180000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241226155000 +0100" stop="20241226180300 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 18: Newcastle - Aston Villa T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *4.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226180000 +0100" stop="20241226220000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241226180300 +0100" stop="20241226220000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -4855,7 +4867,7 @@
 </desc>
   </programme>
   <programme start="20241227202000 +0100" stop="20241227223000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">DIRECTO Jornada 18: Brighton - Brentford T24/25 · Premier League</title>
+    <title lang="es">DIRECTO Jornada 18: Brighton &amp; Hove Albion - Brentford T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -4928,8 +4940,8 @@
   </programme>
   <programme start="20241229155000 +0100" stop="20241229180000 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 19: Tottenham - Wolverhampton T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *4.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20241229180000 +0100" stop="20241229220000 +0100" channel="DAZN 2 Espana">
@@ -4976,8 +4988,8 @@
   </programme>
   <programme start="20241230203500 +0100" stop="20241230224500 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 19: Ipswich Town - Chelsea T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *2.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
   <programme start="20241230224500 +0100" stop="20241231020000 +0100" channel="DAZN 2 Espana">
@@ -5070,13 +5082,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241226155000 +0100" stop="20241226180000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241226155000 +0100" stop="20241226180300 +0100" channel="DAZN 3 Espana">
     <title lang="es">DIRECTO Jornada 18: Nottingham Forest - Tottenham T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226180000 +0100" stop="20241226220000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241226180300 +0100" stop="20241226220000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -5328,13 +5340,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241226155000 +0100" stop="20241226180000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241226155000 +0100" stop="20241226180300 +0100" channel="DAZN 4 Espana">
     <title lang="es">DIRECTO Jornada 18: Southampton - West Ham T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *4.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241226180000 +0100" stop="20241226220000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241226180300 +0100" stop="20241226220000 +0100" channel="DAZN 4 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -5631,7 +5643,7 @@
   <programme start="20241226225500 +0100" stop="20241227011000 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1 T2024 · GP de México: Carrera</title>
     <desc lang="es">Deportes/Motor | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 13.
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca. Votos: 19.
 </desc>
   </programme>
   <programme start="20241227011000 +0100" stop="20241227031000 +0100" channel="DAZN F1">
@@ -5667,7 +5679,7 @@
   <programme start="20241227110500 +0100" stop="20241227130000 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1 T2021 · GP de Italia: Carrera</title>
     <desc lang="es">Deportes/Motor | 2021 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 74.
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2021 promete más emoción y espectáculo que nunca. Votos: 76.
 </desc>
   </programme>
   <programme start="20241227130000 +0100" stop="20241227150000 +0100" channel="DAZN F1">
@@ -5750,8 +5762,8 @@
   </programme>
   <programme start="20241228073000 +0100" stop="20241228075000 +0100" channel="DAZN F1">
     <title lang="es">True Driver T2024 · Pepe Martí, construyendo un talento</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
-· La F2 es la escalera que lleva a la puerta de la F1 y Pepe Martí ya ha subido varios peldaños. Representado por Fernando Alonso, el joven piloto de Campos Racing sigue construyendo su talento al volante. Votos: 5.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· La F2 es la escalera que lleva a la puerta de la F1 y Pepe Martí ya ha subido varios peldaños. Representado por Fernando Alonso, el joven piloto de Campos Racing sigue construyendo su talento al volante. Votos: 7.
 </desc>
   </programme>
   <programme start="20241228075000 +0100" stop="20241228095500 +0100" channel="DAZN F1">
@@ -6291,7 +6303,7 @@
   <programme start="20241226220000 +0100" stop="20241227000000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 4: Athletic - Atlético de Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El equipo de Simeone visita el siempre complicado estadio de San Mamés tras cosechar un empate (0-0) frente al Espanyol. Por su parte el Athletic llega con moral tras conseguir la primera victoria de la temporada. Votos: 25.
+· El equipo de Simeone visita el siempre complicado estadio de San Mamés tras cosechar un empate (0-0) frente al Espanyol. Por su parte el Athletic llega con moral tras conseguir la primera victoria de la temporada. Votos: 27.
 · País: España</desc>
   </programme>
   <programme start="20241227000000 +0100" stop="20241227010000 +0100" channel="DAZN LaLiga ES">
@@ -6326,8 +6338,8 @@
   </programme>
   <programme start="20241227120000 +0100" stop="20241227123000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Fase de grupos: Peñarol - At. Madrid T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *2.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241227123000 +0100" stop="20241227130000 +0100" channel="DAZN LaLiga ES">
@@ -6386,14 +6398,14 @@
   </programme>
   <programme start="20241227180000 +0100" stop="20241227183000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Fase de grupos: Athletic - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241227183000 +0100" stop="20241227190000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Fase de grupos: Betis - Orlando City T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *4.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20241227190000 +0100" stop="20241227193000 +0100" channel="DAZN LaLiga ES">
@@ -6465,8 +6477,8 @@
   </programme>
   <programme start="20241228113000 +0100" stop="20241228120000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Fase de grupos: Juventus - Las Palmas T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *10.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 2.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241228120000 +0100" stop="20241228123000 +0100" channel="DAZN LaLiga ES">
@@ -6482,7 +6494,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241228130000 +0100" stop="20241228133000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Fase de grupos: At. Madrid - Villarreal T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Fase de grupos: Atlético de Madrid - Villarreal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
 · País: España</desc>
@@ -6561,13 +6573,13 @@
   <programme start="20241228193000 +0100" stop="20241228200000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Cuartos de final 3 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 9.
 · País: España</desc>
   </programme>
   <programme start="20241228200000 +0100" stop="20241228203000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Cuartos de final 4 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20241228203000 +0100" stop="20241228214500 +0100" channel="DAZN LaLiga ES">
@@ -6603,13 +6615,13 @@
 </desc>
   </programme>
   <programme start="20241229110000 +0100" stop="20241229114500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20241229114500 +0100" stop="20241229123000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Semifinales: Segunda semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Semifinal 2 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6737,13 +6749,13 @@
   <programme start="20241230130000 +0100" stop="20241230133000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Cuartos de final 3 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 9.
 · País: España</desc>
   </programme>
   <programme start="20241230133000 +0100" stop="20241230140000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Cuartos de final 4 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20241230140000 +0100" stop="20241230150000 +0100" channel="DAZN LaLiga ES">
@@ -6753,13 +6765,13 @@
 · País: España</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230154500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20241230154500 +0100" stop="20241230163000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Semifinales: Segunda semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Semifinal 2 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6952,7 +6964,7 @@
 · Productora: Wakai Media.</desc>
   </programme>
   <programme start="20250101183000 +0100" stop="20250101190000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <title lang="es">LALIGA World T24/25 E21</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
@@ -7039,7 +7051,7 @@
   <programme start="20241226220000 +0100" stop="20241227000000 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 4: Athletic - Atlético de Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El equipo de Simeone visita el siempre complicado estadio de San Mamés tras cosechar un empate (0-0) frente al Espanyol. Por su parte el Athletic llega con moral tras conseguir la primera victoria de la temporada. Votos: 25.
+· El equipo de Simeone visita el siempre complicado estadio de San Mamés tras cosechar un empate (0-0) frente al Espanyol. Por su parte el Athletic llega con moral tras conseguir la primera victoria de la temporada. Votos: 27.
 · País: España</desc>
   </programme>
   <programme start="20241227000000 +0100" stop="20241227010000 +0100" channel="DAZN LaLiga">
@@ -7074,8 +7086,8 @@
   </programme>
   <programme start="20241227120000 +0100" stop="20241227123000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Fase de grupos: Peñarol - At. Madrid T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *2.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 2.
 · País: España</desc>
   </programme>
   <programme start="20241227123000 +0100" stop="20241227130000 +0100" channel="DAZN LaLiga">
@@ -7134,14 +7146,14 @@
   </programme>
   <programme start="20241227180000 +0100" stop="20241227183000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Fase de grupos: Athletic - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241227183000 +0100" stop="20241227190000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Fase de grupos: Betis - Orlando City T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *4.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20241227190000 +0100" stop="20241227193000 +0100" channel="DAZN LaLiga">
@@ -7213,8 +7225,8 @@
   </programme>
   <programme start="20241228113000 +0100" stop="20241228120000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Fase de grupos: Juventus - Las Palmas T2024 · Torneo Internacional LaLiga FC Futures</title>
-    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *10.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 2.
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
 · País: España</desc>
   </programme>
   <programme start="20241228120000 +0100" stop="20241228123000 +0100" channel="DAZN LaLiga">
@@ -7230,7 +7242,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241228130000 +0100" stop="20241228133000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Fase de grupos: At. Madrid - Villarreal T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Fase de grupos: Atlético de Madrid - Villarreal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros.
 · País: España</desc>
@@ -7309,13 +7321,13 @@
   <programme start="20241228193000 +0100" stop="20241228200000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Cuartos de final 3 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 9.
 · País: España</desc>
   </programme>
   <programme start="20241228200000 +0100" stop="20241228203000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Cuartos de final 4 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20241228203000 +0100" stop="20241228214500 +0100" channel="DAZN LaLiga">
@@ -7351,13 +7363,13 @@
 </desc>
   </programme>
   <programme start="20241229110000 +0100" stop="20241229114500 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20241229114500 +0100" stop="20241229123000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Semifinales: Segunda semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Semifinal 2 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7485,13 +7497,13 @@
   <programme start="20241230130000 +0100" stop="20241230133000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Cuartos de final 3 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 9.
 · País: España</desc>
   </programme>
   <programme start="20241230133000 +0100" stop="20241230140000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Cuartos de final 4 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20241230140000 +0100" stop="20241230150000 +0100" channel="DAZN LaLiga">
@@ -7501,13 +7513,13 @@
 · País: España</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230154500 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Semifinales: Semifinal 1 T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Primera semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20241230154500 +0100" stop="20241230163000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Semifinales: Segunda semifinal T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Semifinales: Semifinal 2 T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7700,7 +7712,7 @@
 · Productora: Wakai Media.</desc>
   </programme>
   <programme start="20250101183000 +0100" stop="20250101190000 +0100" channel="DAZN LaLiga">
-    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <title lang="es">LALIGA World T24/25 E21</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
@@ -25778,76 +25790,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nba-588037351.jpg" />
   </programme>
-  <programme start="20241225070000 +0000" stop="20241225090000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241225090000 +0000" stop="20241225092000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241225092000 +0000" stop="20241225111500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241225111500 +0000" stop="20241225114000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241225114000 +0000" stop="20241225133500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241225133500 +0000" stop="20241225140000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241225140000 +0000" stop="20241225155500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241225155500 +0000" stop="20241225162500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225162500 +0000" stop="20241225170000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 17. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 17. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225170000 +0000" stop="20241225193000 +0000" channel="DAZN 1 DE">
-    <title lang="de">NBA: New York Knicks - San Antonio Spurs</title>
-    <desc lang="de">Kommentator: Sebastian Ulrich / Experte: André Voigt.</desc>
-    <date>2024</date>
-    <category lang="de">Basketball</category>
-  </programme>
-  <programme start="20241225193000 +0000" stop="20241225214000 +0000" channel="DAZN 1 DE">
-    <title lang="de">NBA: Dallas Mavericks - Minnesota Timberwolves</title>
-    <desc lang="de">Schaue das Duell in der NBA zwischen Minnesota Timberwolves und Dallas Mavericks.</desc>
-    <date>2024</date>
-    <category lang="de">Basketball</category>
-  </programme>
-  <programme start="20241225214000 +0000" stop="20241225230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">NFL Features 2024/25: Panthers Blueprint: Germany</title>
-    <desc lang="de">NFL Features 2024/25: Panthers Blueprint: Germany.</desc>
-  </programme>
-  <programme start="20241225230000 +0000" stop="20241226070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241226070000 +0000" stop="20241226073000 +0000" channel="DAZN 1 DE">
     <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: In der Spur</title>
     <desc lang="de">Erstmals produziert der VfB Stuttgart eine saisonbegleitende Doku. Ein Trainingslager, das ins Wasser fällt. Neuzugänge, die sich verletzen. Dennoch: Der VfB ist in der Spur. Das Team wächst zusammen, gewinnt souverän in der ersten Pokalrunde. Und alle sind heiß auf die Heimpremiere gegen Bochum. VfB inTeam begleitet die Mannschaft in der ersten Episode durch die Saisonvorbereitung und liefert exklusive Einblicke.</desc>
@@ -26168,165 +26110,75 @@
     <desc lang="de">3. Liga Highlightshow 2024/25: 19. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241225070000 +0000" stop="20241225072500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 1. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des ersten Serie A Spieltags.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225072500 +0000" stop="20241225075500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 2. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des zweiten Serie A Spieltags.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225075500 +0000" stop="20241225082500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 3. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des dritten Serie A Spieltags.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225082500 +0000" stop="20241225085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 4. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des vierten Serie A Spieltags.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225085000 +0000" stop="20241225092000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 5. Spieltag</title>
-    <desc lang="de">Wir zeigen euch die Highlights des fünften Serie A Spieltags.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225092000 +0000" stop="20241225095000 +0000" channel="DAZN 2 DE">
+  <programme start="20241228223500 +0000" stop="20241228230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241225095000 +0000" stop="20241225102000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 6. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 6. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225102000 +0000" stop="20241225104500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 7. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 7. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225104500 +0000" stop="20241225111500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 8. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 8. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225111500 +0000" stop="20241225114500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 9. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 9. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225114500 +0000" stop="20241225121500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241225121500 +0000" stop="20241225124500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 10. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 10. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225124500 +0000" stop="20241225131000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 11. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 11. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225131000 +0000" stop="20241225134000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 12. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 12. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225134000 +0000" stop="20241225141000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 13. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 13. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225141000 +0000" stop="20241225150500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241225150500 +0000" stop="20241225153000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 14. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 14. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225153000 +0000" stop="20241225160000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225160000 +0000" stop="20241225163000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225163000 +0000" stop="20241225170000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 17. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 17. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225170000 +0000" stop="20241225175500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241225175500 +0000" stop="20241225182500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 9. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 9. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225182500 +0000" stop="20241225185000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 10. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 10. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225185000 +0000" stop="20241225192000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 11. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 11. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225192000 +0000" stop="20241225195000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 12. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 12. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225195000 +0000" stop="20241225201500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 13. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 13. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225201500 +0000" stop="20241225204500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 14. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 14. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225204500 +0000" stop="20241225211500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225211500 +0000" stop="20241225214000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225214000 +0000" stop="20241225221500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 17. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 17. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241225221500 +0000" stop="20241225230000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241225230000 +0000" stop="20241226070000 +0000" channel="DAZN 2 DE">
+  <programme start="20241228230000 +0000" stop="20241229070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241229070000 +0000" stop="20241229085000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
+    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241229085000 +0000" stop="20241229090500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241229090500 +0000" stop="20241229095000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
+    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241229095000 +0000" stop="20241229112500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
+    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20241229112500 +0000" stop="20241229133500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Udinese Calcio - FC Turin</title>
+    <desc lang="de">Serie A: Udinese Calcio - FC Turin.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241229133500 +0000" stop="20241229135500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241229135500 +0000" stop="20241229161000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: SSC Neapel - FC Venedig</title>
+    <desc lang="de">Serie A: SSC Neapel - FC Venedig.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241229161000 +0000" stop="20241229163000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 2. Episode</title>
+    <desc lang="de">Get Wild: 2. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241229163000 +0000" stop="20241229165500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241229165500 +0000" stop="20241229190000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Juventus Turin - AC Florenz</title>
+    <desc lang="de">Serie A: Juventus Turin - AC Florenz.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241229190000 +0000" stop="20241229223000 +0000" channel="DAZN 1 DE">
+    <title lang="de">World Darts Championship: 12. Tag - 2. Session</title>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Rowby-John Rodriguez.</desc>
+    <date>2024</date>
+    <category lang="de">Darts</category>
   </programme>
   <programme start="20241226070000 +0000" stop="20241226085000 +0000" channel="DAZN 2 DE">
     <title lang="de">Premier League Darts: Playoffs - London</title>
