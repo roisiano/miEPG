@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 27/12/2024 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 27/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -320,79 +320,79 @@
   <channel id="Super Sport 7AL">
     <display-name>Super Sport 7AL</display-name>
   </channel>
-  <programme start="20241227070000 +0100" stop="20241227083000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227065700 +0100" stop="20241227083100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Bischofshofen - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *10.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona. Votos: 1.
 · País: Austria</desc>
   </programme>
-  <programme start="20241227083000 +0100" stop="20241227100000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227083100 +0100" stop="20241227095400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227100000 +0100" stop="20241227103000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227095400 +0100" stop="20241227102700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227103000 +0100" stop="20241227110000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227102700 +0100" stop="20241227105400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227110000 +0100" stop="20241227112500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227105400 +0100" stop="20241227112000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241227112500 +0100" stop="20241227130000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227112000 +0100" stop="20241227125500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Bormio - Descenso M T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 5.
 · País: Italia</desc>
   </programme>
-  <programme start="20241227130000 +0100" stop="20241227134000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227125500 +0100" stop="20241227133500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de ciclocross T24/25 · Gavere - Carrera M</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 13.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241227134000 +0100" stop="20241227144000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227133500 +0100" stop="20241227143900 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Carrera F T2024 · Exact Cross Loenhout - Azencross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Azencross es una carrera de ciclocross que se disputa en Loenhout, Bélgica. Votos: 6.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241227144000 +0100" stop="20241227145500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227143900 +0100" stop="20241227145100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">The Power of Sport T2024 · 27/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
 </desc>
   </programme>
-  <programme start="20241227145500 +0100" stop="20241227161500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227145100 +0100" stop="20241227161000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Carrera M T2024 · Exact Cross Loenhout - Azencross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP
 · El Azencross es una carrera de ciclocross que se disputa en Loenhout, Bélgica.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241227161500 +0100" stop="20241227171500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227161000 +0100" stop="20241227171100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Innsbruck - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona. Votos: 2.
 · País: Austria</desc>
   </programme>
-  <programme start="20241227171500 +0100" stop="20241227181500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227171100 +0100" stop="20241227181200 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Bischofshofen - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *10.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona. Votos: 1.
 · País: Austria</desc>
   </programme>
-  <programme start="20241227181500 +0100" stop="20241227190000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241227181200 +0100" stop="20241227190000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Carrera M T2024 · Exact Cross Loenhout - Azencross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP
 · El Azencross es una carrera de ciclocross que se disputa en Loenhout, Bélgica.
@@ -1208,49 +1208,49 @@
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241227063000 +0100" stop="20241227083000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227062800 +0100" stop="20241227082600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227083000 +0100" stop="20241227100000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227082600 +0100" stop="20241227095300 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (F)</title>
     <desc lang="es">Deportes/Atletismo | 2024 | TP
 · La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227100000 +0100" stop="20241227120000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227095300 +0100" stop="20241227115800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Triatlón - JJ OO París 2024 T2024 · Individual (F)</title>
     <desc lang="es">Deportes/Triatlón | 2024 | TP | *8.0/10
 · El puente de Alexandre III, sobre el transcurso del Sena por el corazón de París, es el epicentro de las pruebas de triatlón olímpico. Esta prueba combinada entrega medallas en las categorías masculina, femenina y de relevo mixto. Votos: 3.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227120000 +0100" stop="20241227130000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227115800 +0100" stop="20241227125200 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Hall Of Fame París 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa. Votos: 6.
 </desc>
   </programme>
-  <programme start="20241227130000 +0100" stop="20241227140000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227125200 +0100" stop="20241227135800 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227140000 +0100" stop="20241227160000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227135800 +0100" stop="20241227155600 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (F)</title>
     <desc lang="es">Deportes/Atletismo | 2024 | TP
 · La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227160000 +0100" stop="20241227180000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227155600 +0100" stop="20241227180200 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
     <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
 · Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 9.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227180000 +0100" stop="20241227200000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20241227180200 +0100" stop="20241227200000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
@@ -1874,79 +1874,79 @@
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241227070000 +0100" stop="20241227083000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227065700 +0100" stop="20241227083100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Bischofshofen - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *10.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona. Votos: 1.
 · País: Austria</desc>
   </programme>
-  <programme start="20241227083000 +0100" stop="20241227100000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227083100 +0100" stop="20241227095400 +0100" channel="EUROSPORT 1">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227100000 +0100" stop="20241227103000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227095400 +0100" stop="20241227102700 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 12,5km persecución M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 5.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227103000 +0100" stop="20241227110000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227102700 +0100" stop="20241227105400 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 15km salida en masa M</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP
 · La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227110000 +0100" stop="20241227112500 +0100" channel="EUROSPORT 1">
+  <programme start="20241227105400 +0100" stop="20241227112000 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Alta Badia - Eslalon M - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
 · País: Italia</desc>
   </programme>
-  <programme start="20241227112500 +0100" stop="20241227130000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227112000 +0100" stop="20241227125500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Bormio - Descenso M T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *6.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 5.
 · País: Italia</desc>
   </programme>
-  <programme start="20241227130000 +0100" stop="20241227134000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227125500 +0100" stop="20241227133500 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de ciclocross T24/25 · Gavere - Carrera M</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
 · La Copa del mundo de ciclocross recorre diferentes puntos de Europa en busca del especialista más completo. El belga Eli Iserbyt dominó la pasada campaña y se perfila como el rival a batir; en mujeres, Ceylin del Carmen Alvarado defiende título. Votos: 13.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241227134000 +0100" stop="20241227144000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227133500 +0100" stop="20241227143900 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Carrera F T2024 · Exact Cross Loenhout - Azencross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
 · El Azencross es una carrera de ciclocross que se disputa en Loenhout, Bélgica. Votos: 6.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241227144000 +0100" stop="20241227145500 +0100" channel="EUROSPORT 1">
+  <programme start="20241227143900 +0100" stop="20241227145100 +0100" channel="EUROSPORT 1">
     <title lang="es">The Power of Sport T2024 · 27/12/2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · El deporte puede servir de inspiración y de guía. Este espacio profundiza en esa idea y muestra cómo ha servido a muchos atletas a salir de situaciones complicadas de su vida.
 </desc>
   </programme>
-  <programme start="20241227145500 +0100" stop="20241227161500 +0100" channel="EUROSPORT 1">
+  <programme start="20241227145100 +0100" stop="20241227161000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Carrera M T2024 · Exact Cross Loenhout - Azencross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP
 · El Azencross es una carrera de ciclocross que se disputa en Loenhout, Bélgica.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20241227161500 +0100" stop="20241227171500 +0100" channel="EUROSPORT 1">
+  <programme start="20241227161000 +0100" stop="20241227171100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Innsbruck - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona. Votos: 2.
 · País: Austria</desc>
   </programme>
-  <programme start="20241227171500 +0100" stop="20241227181500 +0100" channel="EUROSPORT 1">
+  <programme start="20241227171100 +0100" stop="20241227181200 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T23/24 · Bischofshofen - Trampolín largo (M)</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *10.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El noruego Halvor Egner Granerud defiende el título. En mujeres, la austriaca Eva Pinkelnig es la campeona. Votos: 1.
 · País: Austria</desc>
   </programme>
-  <programme start="20241227181500 +0100" stop="20241227190000 +0100" channel="EUROSPORT 1">
+  <programme start="20241227181200 +0100" stop="20241227190000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Carrera M T2024 · Exact Cross Loenhout - Azencross</title>
     <desc lang="es">Deportes/Ciclismo | 2024 | TP
 · El Azencross es una carrera de ciclocross que se disputa en Loenhout, Bélgica.
@@ -2762,49 +2762,49 @@
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241227063000 +0100" stop="20241227083000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227062800 +0100" stop="20241227082600 +0100" channel="EUROSPORT 2">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227083000 +0100" stop="20241227100000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227082600 +0100" stop="20241227095300 +0100" channel="EUROSPORT 2">
     <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (F)</title>
     <desc lang="es">Deportes/Atletismo | 2024 | TP
 · La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227100000 +0100" stop="20241227120000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227095300 +0100" stop="20241227115800 +0100" channel="EUROSPORT 2">
     <title lang="es">Triatlón - JJ OO París 2024 T2024 · Individual (F)</title>
     <desc lang="es">Deportes/Triatlón | 2024 | TP | *8.0/10
 · El puente de Alexandre III, sobre el transcurso del Sena por el corazón de París, es el epicentro de las pruebas de triatlón olímpico. Esta prueba combinada entrega medallas en las categorías masculina, femenina y de relevo mixto. Votos: 3.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227120000 +0100" stop="20241227130000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227115800 +0100" stop="20241227125200 +0100" channel="EUROSPORT 2">
     <title lang="es">Hall Of Fame París 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Los Juegos Olímpicos de París han recuperado el esplendor olímpico y el calor del público. Y todo, en una ciudad de postal. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita francesa. Votos: 6.
 </desc>
   </programme>
-  <programme start="20241227130000 +0100" stop="20241227140000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227125200 +0100" stop="20241227135800 +0100" channel="EUROSPORT 2">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241227140000 +0100" stop="20241227160000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227135800 +0100" stop="20241227155600 +0100" channel="EUROSPORT 2">
     <title lang="es">Atletismo - JJ OO París 2024 T2024 · Final altura (F)</title>
     <desc lang="es">Deportes/Atletismo | 2024 | TP
 · La joya del programa olímpico reúne a más de 1.800 competidores en París que representan como nadie el lema del barón Coubertain: "Más rápido, más alto, más fuerte". La gran mayoría de las 48 pruebas que dan medalla de oro se disputan en Saint Denis.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227160000 +0100" stop="20241227180000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227155600 +0100" stop="20241227180200 +0100" channel="EUROSPORT 2">
     <title lang="es">Gimnasia artística - JJ OO París 2024 T2024 · Final concurso completo (F)</title>
     <desc lang="es">Deportes/Gimnasia | 2024 | TP | *8.0/10
 · Una de las joyas del programa olímpico es la competición de gimnasia artística, que lleva al límite la fuerza y la elasticidad de los atletas. El Bercy Arena acoge este deporte que entrega catorce medallas de oro, ocho masculinas y seis femeninas. Votos: 9.
 · País: Francia</desc>
   </programme>
-  <programme start="20241227180000 +0100" stop="20241227200000 +0100" channel="EUROSPORT 2">
+  <programme start="20241227180200 +0100" stop="20241227200000 +0100" channel="EUROSPORT 2">
     <title lang="es">Abierto de Irlanda del Norte de snooker T24/25 · Final- Sesión 1</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP
 · El Waterfront Hall acoge una nueva edición del abierto de Irlanda del Norte de snooker. Del 20 al 27 de octubre, los mejores especialistas se dan cita en Belfast con la intención de suceder a Judd Trump en el palmarés del torneo.
@@ -4502,113 +4502,119 @@
 · El Festival of Speed de Goodwood es uno de esos eventos que son de obligado visionado para los amantes del motor. Los automóviles más icónicos de la historia salen a escena para hacer las delicias de los aficionados.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241228144500 +0100" stop="20241228163500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228144500 +0100" stop="20241228164000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Festival of Speed de Goodwood T2024 · Día 4</title>
     <desc lang="es">Deportes/Motor | 2024 | TP
 · El Festival of Speed de Goodwood es uno de esos eventos que son de obligado visionado para los amantes del motor. Los automóviles más icónicos de la historia salen a escena para hacer las delicias de los aficionados.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241228163500 +0100" stop="20241228183500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228164000 +0100" stop="20241228184000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Brighton &amp; Hove Albion - Brentford T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241228183500 +0100" stop="20241228192500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228184000 +0100" stop="20241228193200 +0100" channel="DAZN 1 Espana">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20241228192500 +0100" stop="20241228195000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228193200 +0100" stop="20241228204000 +0100" channel="DAZN 1 Espana">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 2</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20241228195000 +0100" stop="20241228201500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228204000 +0100" stop="20241228220500 +0100" channel="DAZN 1 Espana">
     <title lang="es">eSport MotoGP Global Series T2024 · Carrera 1</title>
     <desc lang="es">Deportes/eSports | 2024 | TP
 · Campeonato de eSport de motociclismo.12 corredores se enfrentan virtualmente en las diferentes rondas, celebrando la final en la 'Milan games week' que se celebrará en Italia.
 </desc>
   </programme>
-  <programme start="20241228201500 +0100" stop="20241228211500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228220500 +0100" stop="20241228230500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Erasmus FC T24/25 · El 'Wrapped' 2024 de Erasmus</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 2.
 · País: España</desc>
   </programme>
-  <programme start="20241228211500 +0100" stop="20241228231500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241228230500 +0100" stop="20241229010700 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 18: Arsenal - Ipswich Town T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241228231500 +0100" stop="20241229060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229010700 +0100" stop="20241229060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241229060000 +0100" stop="20241229130000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229060000 +0100" stop="20241229124500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241229130000 +0100" stop="20241229150000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229124500 +0100" stop="20241229144600 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier League T24/25 · Jornada 18: Liverpool - Leicester</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241229150000 +0100" stop="20241229152000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229144600 +0100" stop="20241229152000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Ander Herrera: toque y garra</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Con 132 partidos en Premier League, Ander Herrera fue votado jugador del año por el Manchester United y ganó tres títulos con los diablos rojos. El mediocentro vasco explica cómo fue su paso por la liga inglesa donde estuvo jugando 5 temporadas.
 · País: España</desc>
   </programme>
-  <programme start="20241229152000 +0100" stop="20241229173000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229152000 +0100" stop="20241229173500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: Leicester - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 9.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241229173000 +0100" stop="20241229180500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229173500 +0100" stop="20241229180500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
 · País: España</desc>
   </programme>
-  <programme start="20241229180500 +0100" stop="20241229201500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229180500 +0100" stop="20241229202000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: West Ham - Liverpool T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241229201500 +0100" stop="20241229211000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229202000 +0100" stop="20241229212500 +0100" channel="DAZN 1 Espana">
     <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Documental sobre Ducati, la fuerza mayor de MotoGP.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *2.0/10
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 2.
 </desc>
   </programme>
-  <programme start="20241229211000 +0100" stop="20241229220000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229212500 +0100" stop="20241229221800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Mundial de motociclismo T2024 · Carrera Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
 · El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 3.
 · País: España</desc>
   </programme>
-  <programme start="20241229220000 +0100" stop="20241229231500 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229221800 +0100" stop="20241229233500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Mundial de motociclismo T2024 · Carrera MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
 · El Gran Premio Solidario Motul de Barcelona tiene la última palabra. El circuit de Barcelona-Catalunya acoge, con la Comunidad Valenciana en la memoría, la última carrera de la temporada 2024, con el Mundial de MotoGP por decidir. Votos: 10.
 · País: España</desc>
   </programme>
-  <programme start="20241229231500 +0100" stop="20241230060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20241229233500 +0100" stop="20241230013500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier League T24/25 · Jornada 19: Crystal Palace - Southampton</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
+  </programme>
+  <programme start="20241230013500 +0100" stop="20241230060000 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
   </programme>
   <programme start="20241230060000 +0100" stop="20241230130000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
@@ -4970,13 +4976,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241229155000 +0100" stop="20241229180000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241229155000 +0100" stop="20241229180300 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 19: Tottenham - Wolverhampton T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *4.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 5.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241229180000 +0100" stop="20241229220000 +0100" channel="DAZN 2 Espana">
+  <programme start="20241229180300 +0100" stop="20241229220000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -5222,13 +5228,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241229155000 +0100" stop="20241229180000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241229155000 +0100" stop="20241229180300 +0100" channel="DAZN 3 Espana">
     <title lang="es">DIRECTO Jornada 19: Everton - Nottingham Forest T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *4.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 4.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241229180000 +0100" stop="20241229220000 +0100" channel="DAZN 3 Espana">
+  <programme start="20241229180300 +0100" stop="20241229220000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -5474,13 +5480,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20241229155000 +0100" stop="20241229180000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241229155000 +0100" stop="20241229180300 +0100" channel="DAZN 4 Espana">
     <title lang="es">DIRECTO Jornada 19: Fulham - Bournemouth T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *4.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 6.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241229180000 +0100" stop="20241229220000 +0100" channel="DAZN 4 Espana">
+  <programme start="20241229180300 +0100" stop="20241229220000 +0100" channel="DAZN 4 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -6315,7 +6321,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227120000 +0100" stop="20241227123000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Fase de grupos: Peñarol - At. Madrid T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Fase de grupos: Peñarol - Atlético de Madrid T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *4.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
 · País: España</desc>
@@ -6645,7 +6651,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241229183000 +0100" stop="20241229190000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
 · País: España</desc>
@@ -6676,7 +6682,7 @@
 </desc>
   </programme>
   <programme start="20241229220000 +0100" stop="20241229223000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
 · País: España</desc>
@@ -6767,7 +6773,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
 · País: España</desc>
@@ -7070,7 +7076,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241227120000 +0100" stop="20241227123000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Fase de grupos: Peñarol - At. Madrid T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Fase de grupos: Peñarol - Atlético de Madrid T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *4.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 4.
 · País: España</desc>
@@ -7400,7 +7406,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241229183000 +0100" stop="20241229190000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
 · País: España</desc>
@@ -7431,7 +7437,7 @@
 </desc>
   </programme>
   <programme start="20241229220000 +0100" stop="20241229223000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
 · País: España</desc>
@@ -7522,7 +7528,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final de consolación T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: 3er y 4º puesto T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
 · País: España</desc>
@@ -25746,146 +25752,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/ncaa-college-football-589627031.jpg" />
   </programme>
-  <programme start="20241226070000 +0000" stop="20241226073000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: In der Spur</title>
-    <desc lang="de">Erstmals produziert der VfB Stuttgart eine saisonbegleitende Doku. Ein Trainingslager, das ins Wasser fällt. Neuzugänge, die sich verletzen. Dennoch: Der VfB ist in der Spur. Das Team wächst zusammen, gewinnt souverän in der ersten Pokalrunde. Und alle sind heiß auf die Heimpremiere gegen Bochum. VfB inTeam begleitet die Mannschaft in der ersten Episode durch die Saisonvorbereitung und liefert exklusive Einblicke.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226073000 +0000" stop="20241226080000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Verantwortung</title>
-    <desc lang="de">Wie kann der VfB den überraschenden Abgang seines Kapitäns kompensieren, wer übernimmt jetzt mehr Verantwortung im Team? Welche Mittel stehen für Transfers zur Verfügung - und wie plant der VfB? Während die Verantwortlichen diese Fragen beantworten müssen, gelingt mit der Vertragsverlängerung von Hiroki Ito ein echter Coup. Neuzugang Deniz Undav schwitzt in der Reha für sein Comeback und erlebt erstmals die Karawane Cannstatt und die fantastische Stimmung in der MHPArena.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226080000 +0000" stop="20241226082000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Nähe</title>
-    <desc lang="de">Vor dem Spiel gegen den SC Freiburg fragt sich ganz Stuttgart: Wie gut ist der VFB wirklich? Die Antwort liefert das Team auf dem Platz. In der Länderspielpause zeigt der VFB Präsenz auf dem Weindorf, organisiert die Mitgliederversammlung, feiert 130. Geburtstag - und Präsident Claus Vogt stellt sich dem Fan-Podcast.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226082000 +0000" stop="20241226090000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
-    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226090000 +0000" stop="20241226092000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226092000 +0000" stop="20241226094500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226094500 +0000" stop="20241226101500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
-    <desc lang="de">Der VfB begleitet und beschäftigt viele Generationen - und so auch diese Folge. "VfB inTeam" ist hautnah dabei, wenn die U19 den lang ersehnten Mercedes-Benz JuniorCup gewinnt, die Profimannschaft nach einem emotionalen Jahresausklang in Stuttgart in eine ungewöhnliche Wintervorbereitung startet und VfB-Legende Timo Hildebrand die Türen zu seinem "Fußballkeller" öffnet.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226101500 +0000" stop="20241226110000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
-    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226110000 +0000" stop="20241226114000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226114000 +0000" stop="20241226131500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
-    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226131500 +0000" stop="20241226134000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 1. Episode</title>
-    <desc lang="de">Get Wild: 1. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226134000 +0000" stop="20241226140000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 2. Episode</title>
-    <desc lang="de">Get Wild: 2. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226140000 +0000" stop="20241226141000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 3. Episode</title>
-    <desc lang="de">Get Wild: 3. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226141000 +0000" stop="20241226151500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241226151500 +0000" stop="20241226154500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Verantwortung</title>
-    <desc lang="de">Wie kann der VfB den überraschenden Abgang seines Kapitäns kompensieren, wer übernimmt jetzt mehr Verantwortung im Team? Welche Mittel stehen für Transfers zur Verfügung - und wie plant der VfB? Während die Verantwortlichen diese Fragen beantworten müssen, gelingt mit der Vertragsverlängerung von Hiroki Ito ein echter Coup. Neuzugang Deniz Undav schwitzt in der Reha für sein Comeback und erlebt erstmals die Karawane Cannstatt und die fantastische Stimmung in der MHPArena.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226154500 +0000" stop="20241226161500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Nähe</title>
-    <desc lang="de">Vor dem Spiel gegen den SC Freiburg fragt sich ganz Stuttgart: Wie gut ist der VFB wirklich? Die Antwort liefert das Team auf dem Platz. In der Länderspielpause zeigt der VFB Präsenz auf dem Weindorf, organisiert die Mitgliederversammlung, feiert 130. Geburtstag - und Präsident Claus Vogt stellt sich dem Fan-Podcast.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226161500 +0000" stop="20241226164500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
-    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226164500 +0000" stop="20241226170500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226170500 +0000" stop="20241226173500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226173500 +0000" stop="20241226180500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
-    <desc lang="de">Der VfB begleitet und beschäftigt viele Generationen - und so auch diese Folge. "VfB inTeam" ist hautnah dabei, wenn die U19 den lang ersehnten Mercedes-Benz JuniorCup gewinnt, die Profimannschaft nach einem emotionalen Jahresausklang in Stuttgart in eine ungewöhnliche Wintervorbereitung startet und VfB-Legende Timo Hildebrand die Türen zu seinem "Fußballkeller" öffnet.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226180500 +0000" stop="20241226190000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
-    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226190000 +0000" stop="20241226193000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226193000 +0000" stop="20241226210000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
-    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241226210000 +0000" stop="20241226213000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 1. Episode</title>
-    <desc lang="de">Get Wild: 1. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226213000 +0000" stop="20241226215000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 2. Episode</title>
-    <desc lang="de">Get Wild: 2. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226215000 +0000" stop="20241226220500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 3. Episode</title>
-    <desc lang="de">Get Wild: 3. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226220500 +0000" stop="20241226230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241226230000 +0000" stop="20241227070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241227070000 +0000" stop="20241227090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
     <desc lang="de">Kommentator: Flo Hauser.</desc>
@@ -26136,88 +26002,81 @@
     <date>2024</date>
     <category lang="de">Darts</category>
   </programme>
-  <programme start="20241226070000 +0000" stop="20241226085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Premier League Darts: Playoffs - London</title>
-    <desc lang="de">Premier League Darts: Playoffs - London.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241226085000 +0000" stop="20241226092000 +0000" channel="DAZN 2 DE">
+  <programme start="20241229223000 +0000" stop="20241229230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241226092000 +0000" stop="20241226105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Darts Features: Gaga wirft den Titelverteidiger aus dem Turnier</title>
-    <desc lang="de">Zusammenfassung des Sensationssieges von Gabriel Clemens.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226105000 +0000" stop="20241226112000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241226112000 +0000" stop="20241226132000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Paddy Power World Darts Championship: Das Finale</title>
-    <desc lang="de">Paddy Power World Darts Championship: Das Finale.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241226132000 +0000" stop="20241226140000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: International Darts Open Finale: Martin Schindler - Gerwyn Price</title>
-    <desc lang="de">Club Profile: International Darts Open Finale: Martin Schindler - Gerwyn Price.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226140000 +0000" stop="20241226144500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien</title>
-    <desc lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226144500 +0000" stop="20241226153000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
-    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226153000 +0000" stop="20241226161500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Players Championship: Luke Littler - Luke Humphries</title>
-    <desc lang="de">Players Championship: Luke Littler - Luke Humphries.</desc>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241226161500 +0000" stop="20241226163000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241226163000 +0000" stop="20241226194500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Swiss Darts Trophy: 3. Tag - 2. Session</title>
-    <desc lang="de">Swiss Darts Trophy: 3. Tag - 2. Session.</desc>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241226194500 +0000" stop="20241226202000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: Hungarian Darts Trophy: Schindler - Bunting (Achtelfinale)</title>
-    <desc lang="de">Club Profile: Hungarian Darts Trophy: Schindler - Bunting (Achtelfinale).</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241226202000 +0000" stop="20241226205000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241226205000 +0000" stop="20241226224000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Premier League Darts: Playoffs - London</title>
-    <desc lang="de">Premier League Darts: Playoffs - London.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241226224000 +0000" stop="20241226231500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241226231500 +0000" stop="20241227070000 +0000" channel="DAZN 2 DE">
+  <programme start="20241229230000 +0000" stop="20241230070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20241230070000 +0000" stop="20241230090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241230090000 +0000" stop="20241230093000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241230093000 +0000" stop="20241230113000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
+    <desc lang="de">Serie A: FC Cagliari - Inter Mailand.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241230113000 +0000" stop="20241230120000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241230120000 +0000" stop="20241230140000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241230140000 +0000" stop="20241230155000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20241230155000 +0000" stop="20241230165000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen</title>
+    <desc lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241230165000 +0000" stop="20241230170500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 3. Episode</title>
+    <desc lang="de">Get Wild: 3. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241230170500 +0000" stop="20241230172500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20241230172500 +0000" stop="20241230194000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Como 1907 - US Lecce</title>
+    <desc lang="de">Serie A: Como 1907 - US Lecce.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241230194000 +0000" stop="20241230215000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: FC Bologna - Hellas Verona</title>
+    <desc lang="de">Serie A: FC Bologna - Hellas Verona.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20241230215000 +0000" stop="20241230222500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
   </programme>
   <programme start="20241227070000 +0000" stop="20241227085000 +0000" channel="DAZN 2 DE">
     <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
