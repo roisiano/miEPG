@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/12/2024 18:59" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/12/2024 21:31" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -263,29 +263,14 @@
     <display-name>NO - TV3+</display-name>
     <icon src="https://cdn.images.simply.tv/13020422521558164262" />
   </channel>
-  <channel id="Arena Sport 1 Croatia">
-    <display-name>Arena Sport 1 Croatia</display-name>
-  </channel>
   <channel id="Arena Sport 2 Croatia">
     <display-name>Arena Sport 2 Croatia</display-name>
   </channel>
   <channel id="Arena Sport 4 Croatia">
     <display-name>Arena Sport 4 Croatia</display-name>
   </channel>
-  <channel id="Arena Sport 5 Croatia">
-    <display-name>Arena Sport 5 Croatia</display-name>
-  </channel>
   <channel id="Arena Sport 6 Croatia">
     <display-name>Arena Sport 6 Croatia</display-name>
-  </channel>
-  <channel id="Arena Sport 7 Croatia">
-    <display-name>Arena Sport 7 Croatia</display-name>
-  </channel>
-  <channel id="Arena Sport 9 Croatia">
-    <display-name>Arena Sport 9 Croatia</display-name>
-  </channel>
-  <channel id="Arena Sport 10 Croatia">
-    <display-name>Arena Sport 10 Croatia</display-name>
   </channel>
   <channel id="Viaplay Premium">
     <display-name>Viaplay Premium</display-name>
@@ -376,8 +361,8 @@
   </programme>
   <programme start="20241229160000 +0100" stop="20241229184500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241229184500 +0100" stop="20241229193000 +0100" channel="EUROSPORT 1 ES">
@@ -400,8 +385,8 @@
   </programme>
   <programme start="20241229204500 +0100" stop="20241229214500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241229214500 +0100" stop="20241229223000 +0100" channel="EUROSPORT 1 ES">
@@ -424,8 +409,8 @@
   </programme>
   <programme start="20241230000000 +0100" stop="20241230013000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241230013000 +0100" stop="20241230023000 +0100" channel="EUROSPORT 1 ES">
@@ -496,8 +481,8 @@
   </programme>
   <programme start="20241230133000 +0100" stop="20241230150000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230153000 +0100" channel="EUROSPORT 1 ES">
@@ -562,8 +547,8 @@
   </programme>
   <programme start="20241230230000 +0100" stop="20241231000000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241231000000 +0100" stop="20241231004500 +0100" channel="EUROSPORT 1 ES">
@@ -580,8 +565,8 @@
   </programme>
   <programme start="20241231013000 +0100" stop="20241231024500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241231024500 +0100" stop="20241231033000 +0100" channel="EUROSPORT 1 ES">
@@ -616,8 +601,8 @@
   </programme>
   <programme start="20241231083000 +0100" stop="20241231094000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241231094000 +0100" stop="20241231094500 +0100" channel="EUROSPORT 1 ES">
@@ -1030,8 +1015,8 @@
   </programme>
   <programme start="20250103210000 +0100" stop="20250103220000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250103220000 +0100" stop="20250103230000 +0100" channel="EUROSPORT 1 ES">
@@ -1048,8 +1033,8 @@
   </programme>
   <programme start="20250104000000 +0100" stop="20250104010000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104010000 +0100" stop="20250104020000 +0100" channel="EUROSPORT 1 ES">
@@ -1072,8 +1057,8 @@
   </programme>
   <programme start="20250104040000 +0100" stop="20250104050000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104050000 +0100" stop="20250104060000 +0100" channel="EUROSPORT 1 ES">
@@ -1096,8 +1081,8 @@
   </programme>
   <programme start="20250104073000 +0100" stop="20250104083000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104083000 +0100" stop="20250104091500 +0100" channel="EUROSPORT 1 ES">
@@ -1162,8 +1147,8 @@
   </programme>
   <programme start="20250104210000 +0100" stop="20250104220000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104220000 +0100" stop="20250104230000 +0100" channel="EUROSPORT 1 ES">
@@ -1186,8 +1171,8 @@
   </programme>
   <programme start="20250105000000 +0100" stop="20250105010000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250105010000 +0100" stop="20250105013000 +0100" channel="EUROSPORT 1 ES">
@@ -1222,8 +1207,8 @@
   </programme>
   <programme start="20250105040000 +0100" stop="20250105050000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250105050000 +0100" stop="20250105053000 +0100" channel="EUROSPORT 1 ES">
@@ -2080,8 +2065,8 @@
   </programme>
   <programme start="20241229160000 +0100" stop="20241229184500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241229184500 +0100" stop="20241229193000 +0100" channel="EUROSPORT 1">
@@ -2104,8 +2089,8 @@
   </programme>
   <programme start="20241229204500 +0100" stop="20241229214500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241229214500 +0100" stop="20241229223000 +0100" channel="EUROSPORT 1">
@@ -2128,8 +2113,8 @@
   </programme>
   <programme start="20241230000000 +0100" stop="20241230013000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241230013000 +0100" stop="20241230023000 +0100" channel="EUROSPORT 1">
@@ -2200,8 +2185,8 @@
   </programme>
   <programme start="20241230133000 +0100" stop="20241230150000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230153000 +0100" channel="EUROSPORT 1">
@@ -2266,8 +2251,8 @@
   </programme>
   <programme start="20241230230000 +0100" stop="20241231000000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241231000000 +0100" stop="20241231004500 +0100" channel="EUROSPORT 1">
@@ -2284,8 +2269,8 @@
   </programme>
   <programme start="20241231013000 +0100" stop="20241231024500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241231024500 +0100" stop="20241231033000 +0100" channel="EUROSPORT 1">
@@ -2320,8 +2305,8 @@
   </programme>
   <programme start="20241231083000 +0100" stop="20241231094000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberstdorf - M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
-    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
-· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
+    <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
+· Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
   <programme start="20241231094000 +0100" stop="20241231094500 +0100" channel="EUROSPORT 1">
@@ -2734,8 +2719,8 @@
   </programme>
   <programme start="20250103210000 +0100" stop="20250103220000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250103220000 +0100" stop="20250103230000 +0100" channel="EUROSPORT 1">
@@ -2752,8 +2737,8 @@
   </programme>
   <programme start="20250104000000 +0100" stop="20250104010000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104010000 +0100" stop="20250104020000 +0100" channel="EUROSPORT 1">
@@ -2776,8 +2761,8 @@
   </programme>
   <programme start="20250104040000 +0100" stop="20250104050000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104050000 +0100" stop="20250104060000 +0100" channel="EUROSPORT 1">
@@ -2800,8 +2785,8 @@
   </programme>
   <programme start="20250104073000 +0100" stop="20250104083000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104083000 +0100" stop="20250104091500 +0100" channel="EUROSPORT 1">
@@ -2866,8 +2851,8 @@
   </programme>
   <programme start="20250104210000 +0100" stop="20250104220000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104220000 +0100" stop="20250104230000 +0100" channel="EUROSPORT 1">
@@ -2890,8 +2875,8 @@
   </programme>
   <programme start="20250105000000 +0100" stop="20250105010000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250105010000 +0100" stop="20250105013000 +0100" channel="EUROSPORT 1">
@@ -2926,8 +2911,8 @@
   </programme>
   <programme start="20250105040000 +0100" stop="20250105050000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
-    <desc lang="es">Deportes/Motor | 2025 | TP
-· El año deportivo comienza con la disputa del Dakar.
+    <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
+· El año deportivo comienza con la disputa del Dakar. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250105050000 +0100" stop="20250105053000 +0100" channel="EUROSPORT 1">
@@ -4763,7 +4748,7 @@
   <programme start="20241229152000 +0100" stop="20241229173500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: Leicester - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 17.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 21.
 · País: R.U.</desc>
   </programme>
   <programme start="20241229173500 +0100" stop="20241229180500 +0100" channel="DAZN 1 Espana">
@@ -4774,8 +4759,8 @@
   </programme>
   <programme start="20241229180500 +0100" stop="20241229202000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: West Ham - Liverpool T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20241229202000 +0100" stop="20241229212500 +0100" channel="DAZN 1 Espana">
@@ -4829,7 +4814,7 @@
   <programme start="20241230153000 +0100" stop="20241230174000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: Leicester - Manchester City T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 17.
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 21.
 · País: R.U.</desc>
   </programme>
   <programme start="20241230174000 +0100" stop="20241230175500 +0100" channel="DAZN 1 Espana">
@@ -4846,8 +4831,8 @@
   </programme>
   <programme start="20241230180500 +0100" stop="20241230201000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: West Ham - Liverpool T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20241230201000 +0100" stop="20241230204000 +0100" channel="DAZN 1 Espana">
@@ -5105,8 +5090,8 @@
   </programme>
   <programme start="20250103150700 +0100" stop="20250103170800 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: West Ham - Liverpool T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
   <programme start="20250103170800 +0100" stop="20250103180000 +0100" channel="DAZN 1 Espana">
@@ -6688,11 +6673,11 @@
   <programme start="20241229183000 +0100" stop="20241229190000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Finales: Real Madrid - Barcelona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241229190000 +0100" stop="20241229200000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: Betis - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 7.
 · País: España</desc>
@@ -6719,11 +6704,11 @@
   <programme start="20241229220000 +0100" stop="20241229223000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Finales: Real Madrid - Barcelona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241229223000 +0100" stop="20241229233000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: Betis - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 7.
 · País: España</desc>
@@ -6760,7 +6745,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230123000 +0100" stop="20241230130000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de Final: Villarreal - Sevilla</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de final 2</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6772,7 +6757,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230133000 +0100" stop="20241230140000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de final 4</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de Final: Betis - Las Palmas</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 12.
 · País: España</desc>
@@ -6810,11 +6795,11 @@
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Finales: Real Madrid - Barcelona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241230183000 +0100" stop="20241230193000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: Betis - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 7.
 · País: España</desc>
@@ -6834,7 +6819,7 @@
   <programme start="20241230214500 +0100" stop="20241230234500 +0100" channel="DAZN LaLiga ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Real Madrid - Sevilla</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Real Madrid y Sevilla se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 60.
+· Real Madrid y Sevilla se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 61.
 · País: España</desc>
   </programme>
   <programme start="20241230234500 +0100" stop="20241231010000 +0100" channel="DAZN LaLiga ES">
@@ -7325,11 +7310,11 @@
   <programme start="20241229183000 +0100" stop="20241229190000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Finales: Real Madrid - Barcelona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241229190000 +0100" stop="20241229200000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: Betis - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 7.
 · País: España</desc>
@@ -7356,11 +7341,11 @@
   <programme start="20241229220000 +0100" stop="20241229223000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Finales: Real Madrid - Barcelona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241229223000 +0100" stop="20241229233000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: Betis - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 7.
 · País: España</desc>
@@ -7397,7 +7382,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230123000 +0100" stop="20241230130000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de Final: Villarreal - Sevilla</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de final 2</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7409,7 +7394,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230133000 +0100" stop="20241230140000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de final 4</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Cuartos de Final: Betis - Las Palmas</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 12.
 · País: España</desc>
@@ -7447,11 +7432,11 @@
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Finales: Real Madrid - Barcelona T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
-· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 7.
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241230183000 +0100" stop="20241230193000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DIRECTO Finales: Final T2024 · Torneo Internacional LaLiga FC Futures</title>
+    <title lang="es">DIRECTO Finales: Betis - Sevilla T2024 · Torneo Internacional LaLiga FC Futures</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 7.
 · País: España</desc>
@@ -7471,7 +7456,7 @@
   <programme start="20241230214500 +0100" stop="20241230234500 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Real Madrid - Sevilla</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· Real Madrid y Sevilla se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 60.
+· Real Madrid y Sevilla se enfrentan en este partido de la Jornada 18 de LaLiga EA SPORTS. Votos: 61.
 · País: España</desc>
   </programme>
   <programme start="20241230234500 +0100" stop="20241231010000 +0100" channel="DAZN LaLiga">
@@ -7997,20 +7982,20 @@
 · Un noticiero deportivo que mantiene informado a todos los latinoamericanos sobre los temas deportivos que acontecen a nivel mundial.
 · País: México</desc>
   </programme>
-  <programme start="20241229180000 +0100" stop="20241229183000 +0100" channel="Fox Sports">
+  <programme start="20241229180000 +0100" stop="20241229184500 +0100" channel="Fox Sports">
     <title lang="es">Fox impacto NFL · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
-  <programme start="20241229183000 +0100" stop="20241229220000 +0100" channel="Fox Sports">
-    <title lang="es">NFL 24/25</title>
+  <programme start="20241229184500 +0100" stop="20241229220000 +0100" channel="Fox Sports">
+    <title lang="es">Jets vs. Bills · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
   <programme start="20241229220000 +0100" stop="20241230010000 +0100" channel="Fox Sports">
-    <title lang="es">NFL 24/25</title>
+    <title lang="es">Packers vs. Vikings · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -8195,6 +8180,42 @@
 · Sin detalles...
 </desc>
   </programme>
+  <programme start="20250102110000 +0100" stop="20250102150000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102150000 +0100" stop="20250102190000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102190000 +0100" stop="20250102230000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102230000 +0100" stop="20250103030000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250103030000 +0100" stop="20250103070000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250103070000 +0100" stop="20250103110000 +0100" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
   <programme start="20241229020000 +0100" stop="20241229050000 +0100" channel="Fox Sports 2">
     <title lang="es">UFC Reloaded</title>
     <desc lang="es">
@@ -8256,13 +8277,13 @@
 </desc>
   </programme>
   <programme start="20241229184500 +0100" stop="20241229220000 +0100" channel="Fox Sports 2">
-    <title lang="es">NFL 24/25</title>
+    <title lang="es">Panthers vs. Buccaneers · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
   </programme>
   <programme start="20241229220000 +0100" stop="20241230010000 +0100" channel="Fox Sports 2">
-    <title lang="es">NFL 24/25</title>
+    <title lang="es">Dolphins vs. Browns · NFL</title>
     <desc lang="es">
 · Sin detalles...
 </desc>
@@ -8412,6 +8433,42 @@
 </desc>
   </programme>
   <programme start="20250102070000 +0100" stop="20250102110000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102110000 +0100" stop="20250102150000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102150000 +0100" stop="20250102190000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102190000 +0100" stop="20250102230000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102230000 +0100" stop="20250103030000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250103030000 +0100" stop="20250103070000 +0100" channel="Fox Sports 2">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250103070000 +0100" stop="20250103110000 +0100" channel="Fox Sports 2">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
@@ -8748,6 +8805,42 @@
 </desc>
   </programme>
   <programme start="20250102070000 +0100" stop="20250102110000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102110000 +0100" stop="20250102150000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102150000 +0100" stop="20250102190000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102190000 +0100" stop="20250102230000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250102230000 +0100" stop="20250103030000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250103030000 +0100" stop="20250103070000 +0100" channel="Fox Sports Premium">
+    <title lang="es">Fox Sports</title>
+    <desc lang="es">
+· Sin detalles...
+</desc>
+  </programme>
+  <programme start="20250103070000 +0100" stop="20250103110000 +0100" channel="Fox Sports Premium">
     <title lang="es">Fox Sports</title>
     <desc lang="es">
 · Sin detalles...
@@ -34513,40 +34606,6 @@
 <title>Kanalpause</title>
 <desc>Kanalen sendes for øyeblikket ikke.</desc>
 </programme>
-<programme start="20241227050000 +0000" stop="20241227090000 +0000" channel="NO - TV2 Sport Premium">
-<title>Kanalpause</title>
-</programme>
-<programme start="20241227090000 +0000" stop="20241227130000 +0000" channel="NO - TV2 Sport Premium">
-<title>Kanalpause</title>
-</programme>
-<programme start="20241227130000 +0000" stop="20241227150000 +0000" channel="NO - TV2 Sport Premium">
-<title>LaLiga</title>
-<desc>Fra Estadio Abanca-Balaídos og kampen mellom Celta og Real Sociedad i 18. serierunde av LaLiga EA Sports. Engelsk kommentator.</desc>
-<episode-num system="xmltv_ns">2023.175.</episode-num>
-</programme>
-<programme start="20241227150000 +0000" stop="20241227170000 +0000" channel="NO - TV2 Sport Premium">
-<title>LaLiga Hypermotion</title>
-<desc>Fra A Malata og kampen mellom Racing Ferrol og Almería i 20. serierunde av LaLiga Hypermotion. Engelsk kommentator.</desc>
-<episode-num system="xmltv_ns">2023.23.</episode-num>
-</programme>
-<programme start="20241227170000 +0000" stop="20241227190000 +0000" channel="NO - TV2 Sport Premium">
-<title>LaLiga</title>
-<desc>Fra Estadio de Vallecas og kampen mellom Rayo Vallecano og Real Madrid i 17. serierunde av LaLiga EA Sports. Kommentator: Haakon Thon.</desc>
-<episode-num system="xmltv_ns">2023.377.</episode-num>
-</programme>
-<programme start="20241227190000 +0000" stop="20241227210000 +0000" channel="NO - TV2 Sport Premium">
-<title>LaLiga</title>
-<desc>Fra Estadi de Mestalla og kampen mellom Valencia og Alaves i 18. serierunde av LaLiga EA Sports. Engelsk kommentator.</desc>
-<episode-num system="xmltv_ns">2023.240.</episode-num>
-</programme>
-<programme start="20241227210000 +0000" stop="20241228033000 +0000" channel="NO - TV2 Sport Premium">
-<title>LaLiga</title>
-<desc>Fra Estadio Santiago Bernabeu, Madrid og kampen mellom Real Madrid og Sevilla i 18. serierunde av LaLiga EA Sports. Kommentator: Espen Ween.</desc>
-<episode-num system="xmltv_ns">2023.355.</episode-num>
-</programme>
-<programme start="20241228033000 +0000" stop="20241228050000 +0000" channel="NO - TV2 Sport Premium">
-<title>Kanalpause</title>
-</programme>
 <programme start="20241228050000 +0000" stop="20241228090000 +0000" channel="NO - TV2 Sport Premium">
 <title>Kanalpause</title>
 </programme>
@@ -34612,23 +34671,39 @@
 <desc>Fra Estadio Benito Villamarín og kampen mellom Real Betis og Rayo Vallecano i 18. serierunde av LaLiga EA Sports. Kommentator: Petter Bø Tosterud.</desc>
 <episode-num system="xmltv_ns">2023.315.</episode-num>
 </programme>
-<programme start="20241227050000 +0000" stop="20241227090000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241230033000 +0000" stop="20241230050000 +0000" channel="NO - TV2 Sport Premium">
 <title>Kanalpause</title>
 </programme>
-<programme start="20241227090000 +0000" stop="20241227130000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241230050000 +0000" stop="20241230090000 +0000" channel="NO - TV2 Sport Premium">
 <title>Kanalpause</title>
 </programme>
-<programme start="20241227130000 +0000" stop="20241227170000 +0000" channel="NO - TV2 Sport Premium 2">
+<programme start="20241230090000 +0000" stop="20241230130000 +0000" channel="NO - TV2 Sport Premium">
 <title>Kanalpause</title>
 </programme>
-<programme start="20241227170000 +0000" stop="20241227210000 +0000" channel="NO - TV2 Sport Premium 2">
-<title>Kanalpause</title>
+<programme start="20241230130000 +0000" stop="20241230150000 +0000" channel="NO - TV2 Sport Premium">
+<title>UEFA Champions League</title>
+<desc>Fra San Siro og kampen mellom Milan og Liverpool i UEFA Champions League. Kommentator: Øyvind Alsaker, Jesper Mathisen.</desc>
+<episode-num system="xmltv_ns">2023.125.</episode-num>
 </programme>
-<programme start="20241227210000 +0000" stop="20241228010000 +0000" channel="NO - TV2 Sport Premium 2">
-<title>Kanalpause</title>
+<programme start="20241230150000 +0000" stop="20241230170000 +0000" channel="NO - TV2 Sport Premium">
+<title>UEFA Champions League</title>
+<desc>Fra Etihad Stadium, Manchester og kampen mellom Manchester City og Inter i UEFA Champions League. Kommentator: Espen Ween.</desc>
+<episode-num system="xmltv_ns">2023.15.</episode-num>
 </programme>
-<programme start="20241228010000 +0000" stop="20241228050000 +0000" channel="NO - TV2 Sport Premium 2">
-<title>Kanalpause</title>
+<programme start="20241230170000 +0000" stop="20241230190000 +0000" channel="NO - TV2 Sport Premium">
+<title>UEFA Champions League</title>
+<desc>Fra Gewiss Stadium og kampen mellom Atalanta og Arsenal i UEFA Champions League. Kommentator: Øyvind Alsaker, Jesper Mathisen.</desc>
+<episode-num system="xmltv_ns">2023.48.</episode-num>
+</programme>
+<programme start="20241230190000 +0000" stop="20241230210000 +0000" channel="NO - TV2 Sport Premium">
+<title>UEFA Champions League</title>
+<desc>Fra Emirates Stadium, London og kampen mellom Arsenal og PSG i UEFA Champions League. Kommentatorer: Øyvind Alsaker, Brede Hangeland.</desc>
+<episode-num system="xmltv_ns">2023.9.</episode-num>
+</programme>
+<programme start="20241230210000 +0000" stop="20241231033000 +0000" channel="NO - TV2 Sport Premium">
+<title>UEFA Champions League</title>
+<desc>Fra Villa Park, Birmingham og kampen mellom Aston Villa og Bayern i UEFA Champions League. Kommentator: Haakon Thon.</desc>
+<episode-num system="xmltv_ns">2023.82.</episode-num>
 </programme>
 <programme start="20241228050000 +0000" stop="20241228090000 +0000" channel="NO - TV2 Sport Premium 2">
 <title>Kanalpause</title>
@@ -34661,6 +34736,24 @@
 <title>Kanalpause</title>
 </programme>
 <programme start="20241229210000 +0000" stop="20241230010000 +0000" channel="NO - TV2 Sport Premium 2">
+<title>Kanalpause</title>
+</programme>
+<programme start="20241230010000 +0000" stop="20241230050000 +0000" channel="NO - TV2 Sport Premium 2">
+<title>Kanalpause</title>
+</programme>
+<programme start="20241230050000 +0000" stop="20241230090000 +0000" channel="NO - TV2 Sport Premium 2">
+<title>Kanalpause</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230130000 +0000" channel="NO - TV2 Sport Premium 2">
+<title>Kanalpause</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230170000 +0000" channel="NO - TV2 Sport Premium 2">
+<title>Kanalpause</title>
+</programme>
+<programme start="20241230170000 +0000" stop="20241230210000 +0000" channel="NO - TV2 Sport Premium 2">
+<title>Kanalpause</title>
+</programme>
+<programme start="20241230210000 +0000" stop="20241231010000 +0000" channel="NO - TV2 Sport Premium 2">
 <title>Kanalpause</title>
 </programme>
   <programme start="20241229010000 +0000" stop="20241229021000 +0000" channel="NO - TV3">
@@ -37075,91 +37168,16 @@
     <country lang="nb">US</country>
     <previously-shown />
   </programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229020000 +0000" stop="20241229040000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="Arena Sport 1 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 2 Croatia">
-<title>CEV LIGA PRVAKINJA: MLADOST - MARITZA PLOVDIV, odbojka</title>
-</programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Arena Sport 2 Croatia">
-<title>NHL: PITTSBURGH - CAROLINA, hokej na ledu</title>
-</programme>
-<programme start="20241228080000 +0000" stop="20241228110000 +0000" channel="Arena Sport 2 Croatia">
-<title>NFL: KANSAS CITY - HOUSTON, američki nogomet</title>
-</programme>
-<programme start="20241228110000 +0000" stop="20241228130000 +0000" channel="Arena Sport 2 Croatia">
-<title>FIBA 3X3 WORLD TOUR: HONG KONG ZAVRŠNICA, košarka</title>
-</programme>
-<programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="Arena Sport 2 Croatia">
-<title>Sin Konga</title>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Arena Sport 2 Croatia">
-<title>UŽIVO: TALIJANSKA LIGA: PARMA - MONZA, nogomet</title>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Arena Sport 2 Croatia">
-<title>UŽIVO: ABA LIGA: DERBY - MEGA MIS, košarka</title>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Arena Sport 2 Croatia">
-<title>UŽIVO: ABA LIGA: FMP - BUDUCNOST VOLI, košarka</title>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228230000 +0000" channel="Arena Sport 2 Croatia">
-<title>UŽIVO: NBA LIGA: ATLANTA - MIAMI, košarka</title>
-</programme>
-<programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Arena Sport 2 Croatia">
-<title>NBA ACTION, emisija</title>
-</programme>
-<programme start="20241229000000 +0000" stop="20241229011500 +0000" channel="Arena Sport 2 Croatia">
-<title>Diplomat</title>
-</programme>
-<programme start="20241229011500 +0000" stop="20241229040000 +0000" channel="Arena Sport 2 Croatia">
-<title>UŽIVO: NFL: LA RAMS - ARIZONA, američki nogomet</title>
-</programme>
-<programme start="20241229040000 +0000" stop="20241229060000 +0000" channel="Arena Sport 2 Croatia">
+<programme start="20241229050000 +0000" stop="20241229053000 +0000" channel="Arena Sport 2 Croatia">
 <title>CEV LIGA PRVAKA: WARSZAWA - BERLIN, odbojka</title>
 </programme>
-<programme start="20241229060000 +0000" stop="20241229083000 +0000" channel="Arena Sport 2 Croatia">
+<programme start="20241229053000 +0000" stop="20241229073000 +0000" channel="Arena Sport 2 Croatia">
 <title>NHL: OTTAWA - TAMPA BAY, hokej na ledu</title>
 </programme>
-<programme start="20241229083000 +0000" stop="20241229110000 +0000" channel="Arena Sport 2 Croatia">
+<programme start="20241229073000 +0000" stop="20241229093000 +0000" channel="Arena Sport 2 Croatia">
 <title>NFL: GREEN BAY - NEW ORLEANS, američki nogomet</title>
 </programme>
-<programme start="20241229110000 +0000" stop="20241229123000 +0000" channel="Arena Sport 2 Croatia">
+<programme start="20241229093000 +0000" stop="20241229123000 +0000" channel="Arena Sport 2 Croatia">
 <title>FIBA 3X3 WORL TOUR: SHANGHAI ZAVRŠNICA, košarka</title>
 </programme>
 <programme start="20241229123000 +0000" stop="20241229150000 +0000" channel="Arena Sport 2 Croatia">
@@ -37183,146 +37201,74 @@
 <programme start="20241229230000 +0000" stop="20241230020000 +0000" channel="Arena Sport 2 Croatia">
 <title>UŽIVO: NBA LIGA: BOSTON - INDIANA, košarka</title>
 </programme>
-<programme start="20241229070000 +0000" stop="20241229050000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230020000 +0000" stop="20241230040000 +0000" channel="Arena Sport 2 Croatia">
+<title>PREMIER LEAGUE: TOTTENHAM - WOLVES, nogomet</title>
+</programme>
+<programme start="20241230040000 +0000" stop="20241230060000 +0000" channel="Arena Sport 2 Croatia">
+<title>CEV LIGA PRVAKA: HALKBANK - PERUGIA, odbojka</title>
+</programme>
+<programme start="20241230060000 +0000" stop="20241230083000 +0000" channel="Arena Sport 2 Croatia">
+<title>NHL: DETROIT - PHILADELPHIA, hokej na ledu</title>
+</programme>
+<programme start="20241230083000 +0000" stop="20241230110000 +0000" channel="Arena Sport 2 Croatia">
+<title>NFL: CHICAGO - SEATTLE, američki nogomet</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230130000 +0000" channel="Arena Sport 2 Croatia">
+<title>NBA LIGA: SACRAMENTO - INDIANA, košarka</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230141000 +0000" channel="Arena Sport 2 Croatia">
+<title>(NE)USPJEH PRVAKA, emisija</title>
+</programme>
+<programme start="20241230141000 +0000" stop="20241230163000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: SPENGLER CUP: POLUFINALE 1, hokej na ledu</title>
+</programme>
+<programme start="20241230163000 +0000" stop="20241230173000 +0000" channel="Arena Sport 2 Croatia">
+<title>TALIJANSKA LIGA: PREGLED KOLA, nogomet</title>
+</programme>
+<programme start="20241230173000 +0000" stop="20241230194500 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: TALIJANSKA LIGA: COMO - LECCE, nogomet</title>
+</programme>
+<programme start="20241230194500 +0000" stop="20241230213000 +0000" channel="Arena Sport 2 Croatia">
+<title>UŽIVO: TALIJANSKA LIGA: BOLOGNA - VERONA, nogomet</title>
+</programme>
+<programme start="20241230213000 +0000" stop="20241230220000 +0000" channel="Arena Sport 2 Croatia">
+<title>NBA ACTION, emisija</title>
+</programme>
+<programme start="20241230220000 +0000" stop="20241231000000 +0000" channel="Arena Sport 2 Croatia">
+<title>WBC and IBF WOMEN’S WELTERWEIGHT WORLD CHAMPIONSHIP: IVANA HABAZIN - NATASHA JONAS, boks</title>
+</programme>
+<programme start="20241231000000 +0000" stop="20241231030000 +0000" channel="Arena Sport 2 Croatia">
+<title>SPENGLER CUP: POLUFINALE 1, hokej na ledu</title>
+</programme>
+<programme start="20241230070000 +0000" stop="20241230050000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229090000 +0000" stop="20241229070000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230090000 +0000" stop="20241230070000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229110000 +0000" stop="20241229090000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230110000 +0000" stop="20241230090000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229130000 +0000" stop="20241229110000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230130000 +0000" stop="20241230110000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229150000 +0000" stop="20241229130000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230150000 +0000" stop="20241230130000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229170000 +0000" stop="20241229150000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230170000 +0000" stop="20241230150000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229190000 +0000" stop="20241229170000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230190000 +0000" stop="20241230170000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229210000 +0000" stop="20241229190000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230210000 +0000" stop="20241230190000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241229230000 +0000" stop="20241229210000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241230230000 +0000" stop="20241230210000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
 </programme>
-<programme start="20241230010000 +0000" stop="20241229230000 +0000" channel="Arena Sport 4 Croatia">
+<programme start="20241231010000 +0000" stop="20241230230000 +0000" channel="Arena Sport 4 Croatia">
 <title>Najava programa</title>
-</programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229020000 +0000" stop="20241229040000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="Arena Sport 5 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228060000 +0000" stop="20241228070000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228070000 +0000" stop="20241228080000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228080000 +0000" stop="20241228090000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228090000 +0000" stop="20241228100000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228100000 +0000" stop="20241228110000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228110000 +0000" stop="20241228120000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228130000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228130000 +0000" stop="20241228140000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228150000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228150000 +0000" stop="20241228160000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228170000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228170000 +0000" stop="20241228180000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228190000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241229000000 +0000" stop="20241229010000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241229010000 +0000" stop="20241229020000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241229020000 +0000" stop="20241229030000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241229030000 +0000" stop="20241229040000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
-</programme>
-<programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="Arena Sport 6 Croatia">
-<title>Nema informacija</title>
 </programme>
 <programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Arena Sport 6 Croatia">
 <title>Nema informacija</title>
@@ -37387,122 +37333,80 @@
 <programme start="20241230010000 +0000" stop="20241230020000 +0000" channel="Arena Sport 6 Croatia">
 <title>Nema informacija</title>
 </programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230020000 +0000" stop="20241230030000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230030000 +0000" stop="20241230040000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230040000 +0000" stop="20241230050000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230050000 +0000" stop="20241230060000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230060000 +0000" stop="20241230070000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230070000 +0000" stop="20241230080000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230080000 +0000" stop="20241230090000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230090000 +0000" stop="20241230100000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230100000 +0000" stop="20241230110000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230110000 +0000" stop="20241230120000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230120000 +0000" stop="20241230130000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241229020000 +0000" stop="20241229040000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230130000 +0000" stop="20241230140000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="Arena Sport 7 Croatia">
-<title>Najava programa</title>
+<programme start="20241230140000 +0000" stop="20241230150000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230150000 +0000" stop="20241230160000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230160000 +0000" stop="20241230170000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230170000 +0000" stop="20241230180000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230180000 +0000" stop="20241230190000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230190000 +0000" stop="20241230200000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230200000 +0000" stop="20241230210000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230210000 +0000" stop="20241230220000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230220000 +0000" stop="20241230230000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241230230000 +0000" stop="20241231000000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241231000000 +0000" stop="20241231010000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
+<programme start="20241231010000 +0000" stop="20241231020000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
-<programme start="20241229020000 +0000" stop="20241229040000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="Arena Sport 9 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229020000 +0000" stop="20241229040000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
-</programme>
-<programme start="20241229040000 +0000" stop="20241229050000 +0000" channel="Arena Sport 10 Croatia">
-<title>Najava programa</title>
+<programme start="20241231020000 +0000" stop="20241231030000 +0000" channel="Arena Sport 6 Croatia">
+<title>Nema informacija</title>
 </programme>
   <programme start="20241229104500 +0000" stop="20241229114500 +0000" channel="Viaplay Premium">
     <title lang="sv">Premier League Review</title>
@@ -38026,14 +37930,6 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">E18</episode-num>
   </programme>
-<programme start="20241227190000 +0000" stop="20241228070000 +0000" channel="Super Sport 1AL">
-<title>Sport News</title>
-<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
-</programme>
-<programme start="20241228070000 +0000" stop="20241228190000 +0000" channel="Super Sport 1AL">
-<title>Sport News</title>
-<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
-</programme>
 <programme start="20241228190000 +0000" stop="20241229070000 +0000" channel="Super Sport 1AL">
 <title>Sport News</title>
 <desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
@@ -38050,62 +37946,13 @@
 <title>Sport News</title>
 <desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
-<programme start="20241227230000 +0000" stop="20241228010000 +0000" channel="Super Sport 2AL">
-<title>Mainz-Bayern</title>
-<desc>Bundesliga - Shikoni ndeshjen e futbollit në të cilën Mainz përballon Bayern Munich.</desc>
+<programme start="20241230190000 +0000" stop="20241231070000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
-<programme start="20241228010000 +0000" stop="20241228030000 +0000" channel="Super Sport 2AL">
-<title>Arsenal-Ipswich</title>
-<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 18-te nga stadiumi ”Emirates Stadium” ne Londer. Komenti: Ylli Aga.</desc>
-</programme>
-<programme start="20241228030000 +0000" stop="20241228050000 +0000" channel="Super Sport 2AL">
-<title>Barcelona-Atl Madrid La Liga</title>
-<desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 18-te nga stadiumi ”Estadi Olimpic Lluis Companys” ne Barcelone. Komenti: Glenti Nallbani.</desc>
-</programme>
-<programme start="20241228050000 +0000" stop="20241228070000 +0000" channel="Super Sport 2AL">
-<title>Brighton-Brentford</title>
-<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 18-te nga stadiumi ”American Express Community” ne Falmer. Komenti: Elvis Rexha.</desc>
-</programme>
-<programme start="20241228070000 +0000" stop="20241228090000 +0000" channel="Super Sport 2AL">
-<title>Mainz-Bayern</title>
-<desc>Bundesliga - Shikoni ndeshjen e futbollit në të cilën Mainz përballon Bayern Munich.</desc>
-</programme>
-<programme start="20241228090000 +0000" stop="20241228101000 +0000" channel="Super Sport 2AL">
-<title>Highlights Super Lig</title>
-<desc>Permbledhje e golave dhe momenteve me te mira te javes se 10-te, ne kampionatin turk. Super Lig, sezoni 2024-2025.</desc>
-</programme>
-<programme start="20241228101000 +0000" stop="20241228120000 +0000" channel="Super Sport 2AL">
-<title>Steven Gerrard: Make us dream</title>
-<desc>Dokumentar per jeten dhe karrieren e nje legjende futbolli si Steven Gerrad. Nje lider ne fushe e jashte saj per skuadren e famshme te Liverpool.</desc>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Super Sport 2AL">
-<title>Liverpool-Leicester</title>
-<desc>Premier League, sezoni 2022-2023. Sfide e vlefshme per javen e 18-te nga stadiumi ”Anfield” ne Liverpool. Komenti: Ylli Aga.</desc>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228154500 +0000" channel="Super Sport 2AL">
-<title>Higuita</title>
-<desc>Nga fillimet modeste deri tek transformimi ne legjende. Dokumentari ndjek ngjitjen e portierit kolumbian Rene Higuita, karrieren ikonike dhe polemikat e tij personale, teksa krijonte identitetin e ”Akrepit”.</desc>
-</programme>
-<programme start="20241228154500 +0000" stop="20241228174500 +0000" channel="Super Sport 2AL">
-<title>Arsenal-Ipswich</title>
-<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 18-te nga stadiumi ”Emirates Stadium” ne Londer. Komenti: Ylli Aga.</desc>
-</programme>
-<programme start="20241228174500 +0000" stop="20241228185000 +0000" channel="Super Sport 2AL">
-<title>Apotheosis, Milan Kampion Europe 1994</title>
-<desc>Apoteoza kujton rrugen drejt lavdise permes heronjve qe e ben ate te ndodhe ne vitin 1994. Nga tekniku Fabio Capello tek kapiteni Baresi e me rradhe Savicevic, Massaro, Desai, Tassotti, Maldini, Costacurta, Albertini, Donadoni, F. Galli dhe portieri S. Rossi.</desc>
-</programme>
-<programme start="20241228185000 +0000" stop="20241228205000 +0000" channel="Super Sport 2AL">
-<title>Man City-Everton</title>
-<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 18-te nga stadiumi ”Etihad Stadium” ne Manchester. Komenti: Elvis Rexha.</desc>
-</programme>
-<programme start="20241228205000 +0000" stop="20241228220000 +0000" channel="Super Sport 2AL">
-<title>Beckham</title>
-<desc>David Beckham.</desc>
-<episode-num system="xmltv_ns">.0.</episode-num>
-</programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Super Sport 2AL">
-<title>Chelsea-Fulham</title>
-<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 18-te nga stadiumi ”Stamford Bridge” ne Londer. Komenti: Ylli Aga.</desc>
+<programme start="20241231070000 +0000" stop="20241231190000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
 <programme start="20241229000000 +0000" stop="20241229013000 +0000" channel="Super Sport 2AL">
 <title>Kapitenët e Kupës së Botës</title>
@@ -38179,45 +38026,63 @@
 <title>Dortmund-Bayern</title>
 <desc>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshme per javen e 14-te nga stadiumi ”Signal Iduna Park” ne Dortmund. Komenti: Blendi Resnja.</desc>
 </programme>
-<programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230090000 +0000" stop="20241230110000 +0000" channel="Super Sport 2AL">
+<title>Gjeorgji-Shqiperi</title>
+<desc>UEFA Nations League - Shikoni ndeshjen e futbollit në të cilën Gjeorgji përballon Shqipëri.</desc>
 </programme>
-<programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230110000 +0000" stop="20241230130000 +0000" channel="Super Sport 2AL">
+<title>Betis-Barcelona La Liga</title>
+<desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 16-te nga stadiumi ”Estadio Benito Villamarin” ne Sevilla. Komenti: Glenti Nallbani.</desc>
 </programme>
-<programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230130000 +0000" stop="20241230144000 +0000" channel="Super Sport 2AL">
+<title>Kapitenet e botes -4</title>
+<desc>Nga dhomat e zhveshjes deri në fushë, kjo seri dokumentaresh ofron pamje ekskluzive të 32 ekipeve pjesëmarrëse në Kupën e Botës 2022.</desc>
+<episode-num system="xmltv_ns">.2.</episode-num>
 </programme>
-<programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230144000 +0000" stop="20241230164000 +0000" channel="Super Sport 2AL">
+<title>West Ham-Liverpool</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”London Stadium” ne Londer.</desc>
 </programme>
-<programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230164000 +0000" stop="20241230184000 +0000" channel="Super Sport 2AL">
+<title>Leicester-Man City</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”King Power Stadium” ne Leicester.</desc>
 </programme>
-<programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230184000 +0000" stop="20241230194500 +0000" channel="Super Sport 2AL">
+<title>Kapitenët e Kupës së Botës</title>
+<desc>Miqtë e një klubi shndërrohen në armiq kur Franca përballet me Anglinë. Argjentina i hap Holandës disa plagë të vjetra.</desc>
+<episode-num system="xmltv_ns">.4.</episode-num>
 </programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230194500 +0000" stop="20241230214500 +0000" channel="Super Sport 2AL">
+<title>Ipswich-Chelsea</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Portman Road” ne Ipswich. Komenti: Sokol Xhihani.</desc>
 </programme>
-<programme start="20241228060000 +0000" stop="20241228070000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241230214500 +0000" stop="20241230230000 +0000" channel="Super Sport 2AL">
+<title>Apotheosis, Milan Kampion Europe 1994</title>
+<desc>Apoteoza kujton rrugen drejt lavdise permes heronjve qe e ben ate te ndodhe ne vitin 1994. Nga tekniku Fabio Capello tek kapiteni Baresi e me rradhe Savicevic, Massaro, Desai, Tassotti, Maldini, Costacurta, Albertini, Donadoni, F. Galli dhe portieri S. Rossi.</desc>
 </programme>
-<programme start="20241228070000 +0000" stop="20241228190000 +0000" channel="Super Sport 3AL">
-<title>Premier League Channel</title>
-<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
+<programme start="20241230230000 +0000" stop="20241231010000 +0000" channel="Super Sport 2AL">
+<title>Man Utd-Newcastle</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Old Trafford” ne Manchester.</desc>
 </programme>
-<programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241231010000 +0000" stop="20241231030000 +0000" channel="Super Sport 2AL">
+<title>Ath Bilbao-Real Madrid La Liga</title>
+<desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”San Mames Barria” ne Bilbao. Komenti: Glenti Nallbani.</desc>
 </programme>
-<programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241231030000 +0000" stop="20241231050000 +0000" channel="Super Sport 2AL">
+<title>Ipswich-Chelsea</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Portman Road” ne Ipswich.</desc>
 </programme>
-<programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241231050000 +0000" stop="20241231070000 +0000" channel="Super Sport 2AL">
+<title>Dortmund-Bayern</title>
+<desc>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshme per javen e 14-te nga stadiumi ”Signal Iduna Park” ne Dortmund. Komenti: Blendi Resnja.</desc>
 </programme>
-<programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Super Sport 3AL">
-<title>Unknown show</title>
+<programme start="20241231070000 +0000" stop="20241231090000 +0000" channel="Super Sport 2AL">
+<title>Aston Villa-Brighton</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Villa Park” ne Birmingham.</desc>
+</programme>
+<programme start="20241231090000 +0000" stop="20241231110000 +0000" channel="Super Sport 2AL">
+<title>Bayern-Leverkusen</title>
+<desc>DFB Pokal, sezoni 2024-2025. Sfide e vlefshme per fazen e 1/8-ve te kompeticionit nga stadiumi ”Allianz Arena” ne Munchen. Komenti: Blendi Resnja.</desc>
 </programme>
 <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Super Sport 3AL">
 <title>Unknown show</title>
@@ -38267,53 +38132,25 @@
 <title>Premier League Channel</title>
 <desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
-<programme start="20241228000000 +0000" stop="20241228020000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20241230190000 +0000" stop="20241230192500 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
-<programme start="20241228020000 +0000" stop="20241228040000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20241230192500 +0000" stop="20241230200000 +0000" channel="Super Sport 3AL">
+<title>Mohamed Salah</title>
+<desc>Ikona Globale. Nje dokumentar qe eksploron ngjitjen e futbollistit egjiptian Mohamed Salah ne majat e futbollit boteror, si dhe arritjet e tij brenda dhe jashte fushes se gjelber.</desc>
 </programme>
-<programme start="20241228040000 +0000" stop="20241228060000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20241230200000 +0000" stop="20241230220000 +0000" channel="Super Sport 3AL">
+<title>Man Utd-Newcastle</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Old Trafford” ne Manchester. Komenti: Ylli Aga.</desc>
 </programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20241230220000 +0000" stop="20241231070000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20241231070000 +0000" stop="20241231190000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
 <programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Super Sport 4AL">
 <title>SuperSport 4 - Program Sportiv</title>
@@ -38387,45 +38224,61 @@
 <title>SuperSport 4 - Program Sportiv</title>
 <desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241227230000 +0000" stop="20241228000000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230100000 +0000" stop="20241230120000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228000000 +0000" stop="20241228010000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230120000 +0000" stop="20241230140000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228010000 +0000" stop="20241228020000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230140000 +0000" stop="20241230160000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228020000 +0000" stop="20241228030000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228030000 +0000" stop="20241228040000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230180000 +0000" stop="20241230194500 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228040000 +0000" stop="20241228050000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230194500 +0000" stop="20241230214500 +0000" channel="Super Sport 4AL">
+<title>Aston Villa-Brighton</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Villa Park” ne Birmingham. Komenti: Anarildo Alia.</desc>
 </programme>
-<programme start="20241228050000 +0000" stop="20241228060000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230214500 +0000" stop="20241230220000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228060000 +0000" stop="20241228070000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241230220000 +0000" stop="20241231000000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228070000 +0000" stop="20241228190000 +0000" channel="Super Sport 5AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20241231000000 +0000" stop="20241231020000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228190000 +0000" stop="20241228200000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241231020000 +0000" stop="20241231040000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228200000 +0000" stop="20241228210000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241231040000 +0000" stop="20241231060000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228210000 +0000" stop="20241228220000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241231060000 +0000" stop="20241231080000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20241228220000 +0000" stop="20241228230000 +0000" channel="Super Sport 5AL">
-<title>Unknown show</title>
+<programme start="20241231080000 +0000" stop="20241231100000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20241231100000 +0000" stop="20241231120000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
 <programme start="20241228230000 +0000" stop="20241229000000 +0000" channel="Super Sport 5AL">
 <title>Unknown show</title>
@@ -38471,53 +38324,13 @@
 <title>Info</title>
 <desc>Informacion rreth programit te Supersport.</desc>
 </programme>
-<programme start="20241228000000 +0000" stop="20241228020000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
+<programme start="20241230190000 +0000" stop="20241231070000 +0000" channel="Super Sport 5AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
 </programme>
-<programme start="20241228020000 +0000" stop="20241228040000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228040000 +0000" stop="20241228060000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228060000 +0000" stop="20241228080000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228080000 +0000" stop="20241228100000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228100000 +0000" stop="20241228120000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228120000 +0000" stop="20241228140000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228140000 +0000" stop="20241228160000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228160000 +0000" stop="20241228180000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228180000 +0000" stop="20241228200000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228200000 +0000" stop="20241228220000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20241228220000 +0000" stop="20241229000000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
+<programme start="20241231070000 +0000" stop="20241231190000 +0000" channel="Super Sport 5AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
 </programme>
 <programme start="20241229000000 +0000" stop="20241229020000 +0000" channel="Super Sport 6AL">
 <title>SuperSport 6 - Program Sportiv</title>
@@ -38591,13 +38404,57 @@
 <title>SuperSport 6 - Program Sportiv</title>
 <desc>SuperSport 6 - Program Sportiv</desc>
 </programme>
-<programme start="20241227190000 +0000" stop="20241228070000 +0000" channel="Super Sport 7AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20241230100000 +0000" stop="20241230120000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
 </programme>
-<programme start="20241228070000 +0000" stop="20241228190000 +0000" channel="Super Sport 7AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20241230120000 +0000" stop="20241230140000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241230140000 +0000" stop="20241230160000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241230180000 +0000" stop="20241230200000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241230200000 +0000" stop="20241230220000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241230220000 +0000" stop="20241231000000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241231000000 +0000" stop="20241231020000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241231020000 +0000" stop="20241231040000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241231040000 +0000" stop="20241231060000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241231060000 +0000" stop="20241231080000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241231080000 +0000" stop="20241231100000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20241231100000 +0000" stop="20241231120000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
 </programme>
 <programme start="20241228190000 +0000" stop="20241229070000 +0000" channel="Super Sport 7AL">
 <title>Info</title>
@@ -38612,6 +38469,14 @@
 <desc>Informacion rreth programit te Supersport.</desc>
 </programme>
 <programme start="20241230070000 +0000" stop="20241230190000 +0000" channel="Super Sport 7AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
+</programme>
+<programme start="20241230190000 +0000" stop="20241231070000 +0000" channel="Super Sport 7AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
+</programme>
+<programme start="20241231070000 +0000" stop="20241231190000 +0000" channel="Super Sport 7AL">
 <title>Info</title>
 <desc>Informacion rreth programit te Supersport.</desc>
 </programme>
