@@ -22,7 +22,7 @@ jobs:
 
     - name: Download the new EPG file
       run: |
-        wget https://www.bevy.be/bevyfiles/norwaypremium.xml.gz
+        wget https://www.open-epg.com/files/norwaypremium.xml.gz
     - name: Decompress the new EPG file 
       run: |
         gunzip norwaypremium.xml.gz
