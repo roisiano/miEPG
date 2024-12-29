@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/12/2024 21:31" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/12/2024 22:06" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -272,6 +272,33 @@
   <channel id="Arena Sport 6 Croatia">
     <display-name>Arena Sport 6 Croatia</display-name>
   </channel>
+  <channel id="Arena Sport 1 Croatia">
+    <display-name>Arena Sport 1 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 3 Croatia">
+    <display-name>Arena Sport 3 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 4 Croatia">
+    <display-name>Arena Sport 4 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 5 Croatia">
+    <display-name>Arena Sport 5 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 6 Croatia">
+    <display-name>Arena Sport 6 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 7 Croatia">
+    <display-name>Arena Sport 7 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 8 Croatia">
+    <display-name>Arena Sport 8 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 9 Croatia">
+    <display-name>Arena Sport 9 Croatia</display-name>
+  </channel>
+  <channel id="Arena Sport 10 Croatia">
+    <display-name>Arena Sport 10 Croatia</display-name>
+  </channel>
   <channel id="Viaplay Premium">
     <display-name>Viaplay Premium</display-name>
   </channel>
@@ -298,6 +325,12 @@
   </channel>
   <channel id="Super Sport 7AL">
     <display-name>Super Sport 7AL</display-name>
+  </channel>
+  <channel id="LI - Go 3 Sport 1">
+    <display-name>LI - Go 3 Sport 1</display-name>
+  </channel>
+  <channel id="LI - Go 3 Sport 2">
+    <display-name>LI - Go 3 Sport 2</display-name>
   </channel>
   <programme start="20241229064500 +0100" stop="20241229073000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Semmering - Eslalon gigante F - 1ª manga</title>
@@ -37408,6 +37441,507 @@
 <programme start="20241231020000 +0000" stop="20241231030000 +0000" channel="Arena Sport 6 Croatia">
 <title>Nema informacija</title>
 </programme>
+<programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Arena Sport 1 Croatia">
+<title>LIGA PRVAKA: JUVENTUS - MANCHESTER CITY, nogomet</title>
+</programme>
+<programme start="20241229060000 +0000" stop="20241229073000 +0000" channel="Arena Sport 1 Croatia">
+<title>EHF EUROPSKA LIGA: NEXE - TORRELAVEGA, rukomet</title>
+</programme>
+<programme start="20241229073000 +0000" stop="20241229093000 +0000" channel="Arena Sport 1 Croatia">
+<title>FRANCUSKA LIGA: REIMS - MONACO, nogomet</title>
+</programme>
+<programme start="20241229093000 +0000" stop="20241229110000 +0000" channel="Arena Sport 1 Croatia">
+<title>ABA LIGA: ZADAR - SPARTAK, košarka</title>
+</programme>
+<programme start="20241229110000 +0000" stop="20241229113000 +0000" channel="Arena Sport 1 Croatia">
+<title>SERIE A SHOW, emisija</title>
+</programme>
+<programme start="20241229113000 +0000" stop="20241229133000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: TALIJANSKA LIGA: UDINESE - TORINO, nogomet</title>
+</programme>
+<programme start="20241229133000 +0000" stop="20241229150000 +0000" channel="Arena Sport 1 Croatia">
+<title>ABA LIGA: Split - Mornar, košarka</title>
+</programme>
+<programme start="20241229150000 +0000" stop="20241229170000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: TOTTENHAM - WOLVES, nogomet</title>
+</programme>
+<programme start="20241229170000 +0000" stop="20241229180000 +0000" channel="Arena Sport 1 Croatia">
+<title>(NE)USPJEH PRVAKA, emisija</title>
+</programme>
+<programme start="20241229180000 +0000" stop="20241229212500 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: NFL: PHILADELPHIA - DALLAS, američki nogomet</title>
+</programme>
+<programme start="20241229212500 +0000" stop="20241230000000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: NFL: MINNESOTA - GREEN BAY, američki nogomet</title>
+</programme>
+<programme start="20241230000000 +0000" stop="20241230012000 +0000" channel="Arena Sport 1 Croatia">
+<title>(NE)USPJEH PRVAKA, emisija</title>
+</programme>
+<programme start="20241230012000 +0000" stop="20241230040000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: NFL: WASHINGTON - ATLANTA, američki nogomet</title>
+</programme>
+<programme start="20241230040000 +0000" stop="20241230054500 +0000" channel="Arena Sport 1 Croatia">
+<title>LIGA PRVAKA: DINAMO ZAGREB - CELTIC, nogomet</title>
+</programme>
+<programme start="20241230054500 +0000" stop="20241230070000 +0000" channel="Arena Sport 1 Croatia">
+<title>EHF LIGA PRVAKA: BARCELONA - ZAGREB, rukomet</title>
+</programme>
+<programme start="20241230070000 +0000" stop="20241230090000 +0000" channel="Arena Sport 1 Croatia">
+<title>FRANCUSKA LIGA: O. MARSEILLE - LILLE, nogomet</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230110000 +0000" channel="Arena Sport 1 Croatia">
+<title>ABA LIGA: CIBONA - BORAC, košarka</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230130000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: ABA LIGA: IGOKEA - MORNAR, košarka</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230150000 +0000" channel="Arena Sport 1 Croatia">
+<title>TALIJANSKA LIGA: MILAN - ROMA, nogomet</title>
+</programme>
+<programme start="20241230150000 +0000" stop="20241230153000 +0000" channel="Arena Sport 1 Croatia">
+<title>PL STORIES, emisija</title>
+</programme>
+<programme start="20241230153000 +0000" stop="20241230160000 +0000" channel="Arena Sport 1 Croatia">
+<title>ARENA SPECIJAL VEDRAN ZRNIĆ, emisija</title>
+</programme>
+<programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: TURSKA LIGA: Manisa - Besiktas, košarka</title>
+</programme>
+<programme start="20241230180000 +0000" stop="20241230190000 +0000" channel="Arena Sport 1 Croatia">
+<title>FRANCUSKA LIGA: PREGLED KOLA</title>
+</programme>
+<programme start="20241230190000 +0000" stop="20241230200000 +0000" channel="Arena Sport 1 Croatia">
+<title>(NE)USPJEH PRVAKA, emisija</title>
+</programme>
+<programme start="20241230200000 +0000" stop="20241230220000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: MANCHESTER UNITED - NEWCASTLE, nogomet</title>
+</programme>
+<programme start="20241230220000 +0000" stop="20241230230000 +0000" channel="Arena Sport 1 Croatia">
+<title>TALIJANSKA LIGA: PREGLED KOLA, nogomet</title>
+</programme>
+<programme start="20241230230000 +0000" stop="20241231011500 +0000" channel="Arena Sport 1 Croatia">
+<title>TALIJANSKA LIGA: BOLOGNA - VERONA, nogomet</title>
+</programme>
+<programme start="20241231011500 +0000" stop="20241231040000 +0000" channel="Arena Sport 1 Croatia">
+<title>UŽIVO: NFL: SAN FRANCISCO - DETROIT, američki nogomet</title>
+</programme>
+<programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Arena Sport 3 Croatia">
+<title>PREMIER LEAGUE: WOLVES - MANCHESTER UNITED, nogomet</title>
+</programme>
+<programme start="20241229060000 +0000" stop="20241229080000 +0000" channel="Arena Sport 3 Croatia">
+<title>TALIJANSKA LIGA: EMPOLI - GENOA, nogomet</title>
+</programme>
+<programme start="20241229080000 +0000" stop="20241229083000 +0000" channel="Arena Sport 3 Croatia">
+<title>SHORTLIST EP., emisija</title>
+</programme>
+<programme start="20241229083000 +0000" stop="20241229090000 +0000" channel="Arena Sport 3 Croatia">
+<title>SHORTLIST EP., emisija</title>
+</programme>
+<programme start="20241229090000 +0000" stop="20241229110000 +0000" channel="Arena Sport 3 Croatia">
+<title>RUSKA PREMIJER LIGA: SPARTAK MOSKVA - NIZHNY NOVGOROD, nogomet</title>
+</programme>
+<programme start="20241229110000 +0000" stop="20241229123000 +0000" channel="Arena Sport 3 Croatia">
+<title>Loveći Tysona</title>
+</programme>
+<programme start="20241229123000 +0000" stop="20241229143000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: TURSKA LIGA: ANADOLU EFES - KARSIYAKA, košarka</title>
+</programme>
+<programme start="20241229143000 +0000" stop="20241229163000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: LEICESTER - MANCHESTER CITY, nogomet</title>
+</programme>
+<programme start="20241229163000 +0000" stop="20241229171500 +0000" channel="Arena Sport 3 Croatia">
+<title>NETBUSTERS, emisija, serija</title>
+</programme>
+<programme start="20241229171500 +0000" stop="20241229193000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: WEST HAM - LIVERPOOL, nogomet</title>
+</programme>
+<programme start="20241229193000 +0000" stop="20241229200000 +0000" channel="Arena Sport 3 Croatia">
+<title>MI ŽIVIMO ZA NOGOMET EP., emisija, serija</title>
+</programme>
+<programme start="20241229200000 +0000" stop="20241229220000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: CHAMPIONSHIP: MIDDLESBROUGH - BURNLEY, nogomet</title>
+</programme>
+<programme start="20241229220000 +0000" stop="20241230000000 +0000" channel="Arena Sport 3 Croatia">
+<title>TALIJANSKA LIGA: UDINESE - TORINO, nogomet</title>
+</programme>
+<programme start="20241230000000 +0000" stop="20241230020000 +0000" channel="Arena Sport 3 Croatia">
+<title>PREMIER LEAGUE: LEICESTER - MANCHESTER CITY, nogomet</title>
+</programme>
+<programme start="20241230020000 +0000" stop="20241230040000 +0000" channel="Arena Sport 3 Croatia">
+<title>FRANCUSKA LIGA: PSG - LYON, nogomet</title>
+</programme>
+<programme start="20241230040000 +0000" stop="20241230060000 +0000" channel="Arena Sport 3 Croatia">
+<title>PREMIER LEAGUE: TOTTENHAM - LIVERPOOL, nogomet</title>
+</programme>
+<programme start="20241230060000 +0000" stop="20241230080000 +0000" channel="Arena Sport 3 Croatia">
+<title>PREMIER LEAGUE: WEST HAM - LIVERPOOL, nogomet</title>
+</programme>
+<programme start="20241230080000 +0000" stop="20241230083000 +0000" channel="Arena Sport 3 Croatia">
+<title>SHORTLIST EP., emisija</title>
+</programme>
+<programme start="20241230083000 +0000" stop="20241230090000 +0000" channel="Arena Sport 3 Croatia">
+<title>SHORTLIST, emisija</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230110000 +0000" channel="Arena Sport 3 Croatia">
+<title>RUSKA PREMIJER LIGA: DINAMO MOSKVA - KHIMKI, nogomet</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230130000 +0000" channel="Arena Sport 3 Croatia">
+<title>ŠPANJOLSKA LIGA: REAL MADRID - SEVILLA, nogomet</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230140000 +0000" channel="Arena Sport 3 Croatia">
+<title>LIGA PRVAKA: SAŽETAK 10.12.24., nogomet</title>
+</programme>
+<programme start="20241230140000 +0000" stop="20241230160000 +0000" channel="Arena Sport 3 Croatia">
+<title>PREMIER LEAGUE: LEICESTER - MANCHESTER CITY, nogomet</title>
+</programme>
+<programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="Arena Sport 3 Croatia">
+<title>FRANCUSKA LIGA: PSG - LYON, nogomet</title>
+</programme>
+<programme start="20241230180000 +0000" stop="20241230194500 +0000" channel="Arena Sport 3 Croatia">
+<title>ŠKOTSKA LIGA: DUNDEE - ABERDEEN, nogomet</title>
+</programme>
+<programme start="20241230194500 +0000" stop="20241230220000 +0000" channel="Arena Sport 3 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: IPSWICH - CHELSEA, nogomet</title>
+</programme>
+<programme start="20241230220000 +0000" stop="20241230230000 +0000" channel="Arena Sport 3 Croatia">
+<title>PREMIER LEAGUE: PREGLED KOLA, emisija</title>
+</programme>
+<programme start="20241230230000 +0000" stop="20241231010000 +0000" channel="Arena Sport 3 Croatia">
+<title>ŠPANJOLSKA LIGA: REAL MADRID - SEVILLA, nogomet</title>
+</programme>
+<programme start="20241231010000 +0000" stop="20241231020000 +0000" channel="Arena Sport 3 Croatia">
+<title>LIGA PRVAKA: SAŽETAK 02. 10. 24., nogomet</title>
+</programme>
+<programme start="20241231020000 +0000" stop="20241231040000 +0000" channel="Arena Sport 3 Croatia">
+<title>FRANCUSKA LIGA: TOULOUSE - ST ETIENNE, nogomet</title>
+</programme>
+<programme start="20241230060000 +0000" stop="20241230050000 +0000" channel="Arena Sport 4 Croatia">
+<title>MNR: ČEŠ/SLO, dokumentarni film, serija</title>
+</programme>
+<programme start="20241230070000 +0000" stop="20241230060000 +0000" channel="Arena Sport 4 Croatia">
+<title>NBA LIGA: DENVER - GSW, košarka</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230070000 +0000" channel="Arena Sport 4 Croatia">
+<title>PREMIER LEAGUE: CRYSTAL PALACE - SOUTHAMPTON, nogomet</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230090000 +0000" channel="Arena Sport 4 Croatia">
+<title>INDYCAR: MILWAUKEE RACE 1, automobilizam</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230110000 +0000" channel="Arena Sport 4 Croatia">
+<title>ABA LIGA: FMP - BUDUCNOST VOLI, košarka</title>
+</programme>
+<programme start="20241230150000 +0000" stop="20241230130000 +0000" channel="Arena Sport 4 Croatia">
+<title>NJEMAČKI KUP: BAYERN MUNICH - BAYER LEVERKUSEN, nogomet</title>
+</programme>
+<programme start="20241230170000 +0000" stop="20241230150000 +0000" channel="Arena Sport 4 Croatia">
+<title>POLJSKA LIGA: IASI - FCSB, nogomet</title>
+</programme>
+<programme start="20241230190000 +0000" stop="20241230170000 +0000" channel="Arena Sport 4 Croatia">
+<title>ŠPANJOLSKA LIGA: PREGLED KOLA, nogomet</title>
+</programme>
+<programme start="20241230194500 +0000" stop="20241230190000 +0000" channel="Arena Sport 4 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: ASTON VILLA - BRIGHTON, nogomet</title>
+</programme>
+<programme start="20241230220000 +0000" stop="20241230194500 +0000" channel="Arena Sport 4 Croatia">
+<title>EHF EUROPSKA LIGA: NEXE - TORRELAVEGA, rukomet</title>
+</programme>
+<programme start="20241230233000 +0000" stop="20241230220000 +0000" channel="Arena Sport 4 Croatia">
+<title>ABA LIGA: PARTIZAN - CEDEVITA, košarka</title>
+</programme>
+<programme start="20241231010000 +0000" stop="20241230233000 +0000" channel="Arena Sport 4 Croatia">
+<title>NJEMAČKI KUP: BIELEFELD - FREIBURG, nogomet</title>
+</programme>
+<programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229060000 +0000" stop="20241229080000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229080000 +0000" stop="20241229100000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229100000 +0000" stop="20241229120000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229120000 +0000" stop="20241229133000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229133000 +0000" stop="20241229150000 +0000" channel="Arena Sport 5 Croatia">
+<title>Tommy</title>
+</programme>
+<programme start="20241229150000 +0000" stop="20241229170000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: ŠKOTSKA LIGA: MOTHERWELL - RANGERS, nogomet</title>
+</programme>
+<programme start="20241229170000 +0000" stop="20241229180000 +0000" channel="Arena Sport 5 Croatia">
+<title>Outdoor</title>
+</programme>
+<programme start="20241229180000 +0000" stop="20241229212500 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: NFL: REDZONE, američki nogomet</title>
+</programme>
+<programme start="20241229212500 +0000" stop="20241230000000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: NFL: REDZONE, američki nogomet</title>
+</programme>
+<programme start="20241230000000 +0000" stop="20241230020000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230020000 +0000" stop="20241230040000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230040000 +0000" stop="20241230060000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230060000 +0000" stop="20241230080000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230080000 +0000" stop="20241230100000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230100000 +0000" stop="20241230120000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230120000 +0000" stop="20241230140000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230140000 +0000" stop="20241230163000 +0000" channel="Arena Sport 5 Croatia">
+<title>LIGA PRVAKA: ZURICH - EISBAREN BERLIN, hokej na ledu</title>
+</programme>
+<programme start="20241230163000 +0000" stop="20241230191500 +0000" channel="Arena Sport 5 Croatia">
+<title>NHL: NY RANGERS - CAROLINA, hokej na ledu</title>
+</programme>
+<programme start="20241230191500 +0000" stop="20241230213000 +0000" channel="Arena Sport 5 Croatia">
+<title>UŽIVO: SPENGLER CUP: POLUFINALE 2, hokej na ledu</title>
+</programme>
+<programme start="20241230213000 +0000" stop="20241230233000 +0000" channel="Arena Sport 5 Croatia">
+<title>INDYCAR: MILWAUKEE RACE 1, automobilizam</title>
+</programme>
+<programme start="20241230233000 +0000" stop="20241231020000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241231020000 +0000" stop="20241231040000 +0000" channel="Arena Sport 5 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229060000 +0000" stop="20241229080000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229080000 +0000" stop="20241229100000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229100000 +0000" stop="20241229120000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229120000 +0000" stop="20241229130000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229130000 +0000" stop="20241229150000 +0000" channel="Arena Sport 6 Croatia">
+<title>FRANCUSKA LIGA: PSG - LYON, nogomet</title>
+</programme>
+<programme start="20241229150000 +0000" stop="20241229170000 +0000" channel="Arena Sport 6 Croatia">
+<title>UŽIVO: PREMIER LEAGUE: FULHAM - BOURNEMOUTH, nogomet</title>
+</programme>
+<programme start="20241229170000 +0000" stop="20241229174500 +0000" channel="Arena Sport 6 Croatia">
+<title>LIGA PRVAKA: MAGAZIN LIGE PRVAKA, nogomet</title>
+</programme>
+<programme start="20241229174500 +0000" stop="20241229200000 +0000" channel="Arena Sport 6 Croatia">
+<title>UŽIVO: CHAMPIONSHIP: DERBY - LEEDS, nogomet</title>
+</programme>
+<programme start="20241229200000 +0000" stop="20241229230000 +0000" channel="Arena Sport 6 Croatia">
+<title>UŽIVO: NHL: ST LOUIS - BUFFALO, hokej na ledu</title>
+</programme>
+<programme start="20241229230000 +0000" stop="20241230010000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230010000 +0000" stop="20241230030000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230030000 +0000" stop="20241230050000 +0000" channel="Arena Sport 6 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241229050000 +0000" stop="20241229060000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: ASTANA - CHELSEA, nogomet</title>
+</programme>
+<programme start="20241229060000 +0000" stop="20241229070000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: SAŽETAK KOLA, nogomet</title>
+</programme>
+<programme start="20241229070000 +0000" stop="20241229090000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: OLYMPIACOS - TWENTE, nogomet</title>
+</programme>
+<programme start="20241229090000 +0000" stop="20241229093000 +0000" channel="Arena Sport 7 Croatia">
+<title>MAGAZIN LIGE PRVAKA, emisija</title>
+</programme>
+<programme start="20241229093000 +0000" stop="20241229100000 +0000" channel="Arena Sport 7 Croatia">
+<title>Najveće nogometne momčadi, Ajax, serija</title>
+</programme>
+<programme start="20241229100000 +0000" stop="20241229110000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: SAŽETAK 27.11.24., nogomet</title>
+</programme>
+<programme start="20241229110000 +0000" stop="20241229130000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: REAL SOCIEDAD - DYNAMO KIEV, nogomet</title>
+</programme>
+<programme start="20241229130000 +0000" stop="20241229150000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: SHAMROCK - BORAC, nogomet</title>
+</programme>
+<programme start="20241229150000 +0000" stop="20241229171500 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: CHAMPIONSHIP: STOKE - SUNDERLAND, nogomet</title>
+</programme>
+<programme start="20241229171500 +0000" stop="20241229190000 +0000" channel="Arena Sport 7 Croatia">
+<title>UŽIVO: ŠKOTSKA LIGA: DUNDEE - ABERDEEN, nogomet</title>
+</programme>
+<programme start="20241229190000 +0000" stop="20241229200000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: SAŽETAK 6. KOLA, nogomet</title>
+</programme>
+<programme start="20241229200000 +0000" stop="20241229220000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: FIORENTINA - LASK, nogomet</title>
+</programme>
+<programme start="20241229220000 +0000" stop="20241230000000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: BORUSSIA DORTMUND - BARCELONA, nogomet</title>
+</programme>
+<programme start="20241230000000 +0000" stop="20241230020000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: REAL SOCIEDAD - DYNAMO KIEV, nogomet</title>
+</programme>
+<programme start="20241230020000 +0000" stop="20241230040000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: BAYER LEVERKUSEN - INTER, nogomet</title>
+</programme>
+<programme start="20241230040000 +0000" stop="20241230060000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: OLIMPIJA - CERCLE BRUGGE, nogomet</title>
+</programme>
+<programme start="20241230060000 +0000" stop="20241230070000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: SAŽETAK 05.11.24., nogomet</title>
+</programme>
+<programme start="20241230070000 +0000" stop="20241230090000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: RANGERS - TOTTENHAM, nogomet</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230093000 +0000" channel="Arena Sport 7 Croatia">
+<title>MAGAZIN LIGE PRVAKA, emisija</title>
+</programme>
+<programme start="20241230093000 +0000" stop="20241230100000 +0000" channel="Arena Sport 7 Croatia">
+<title>Najveće nogometne momčadi, Real Madrid</title>
+</programme>
+<programme start="20241230100000 +0000" stop="20241230110000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: SAŽETAK 18.09.2024., nogomet</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230130000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: AJAX - LAZIO, nogomet</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230140000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: SAŽETAK 05.11.24., nogomet</title>
+</programme>
+<programme start="20241230140000 +0000" stop="20241230160000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: FIORENTINA - LASK, nogomet</title>
+</programme>
+<programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: DINAMO - CELTIC, nogomet</title>
+</programme>
+<programme start="20241230180000 +0000" stop="20241230200000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: AJAX - LAZIO, nogomet</title>
+</programme>
+<programme start="20241230200000 +0000" stop="20241230220000 +0000" channel="Arena Sport 7 Croatia">
+<title>KONFERENCIJSKA LIGA: SHAMROCK - BORAC, nogomet</title>
+</programme>
+<programme start="20241230220000 +0000" stop="20241231000000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: DORTMUND - BARCELONA, nogomet</title>
+</programme>
+<programme start="20241231000000 +0000" stop="20241231020000 +0000" channel="Arena Sport 7 Croatia">
+<title>EUROPALIGA: AJAX - LAZIO, nogomet</title>
+</programme>
+<programme start="20241231020000 +0000" stop="20241231040000 +0000" channel="Arena Sport 7 Croatia">
+<title>LIGA PRVAKA: STURM - CLUB BRUGGE, nogomet</title>
+</programme>
+<programme start="20241230053000 +0000" stop="20241230050000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: NEW ORLEANS - DENVER, košarka</title>
+</programme>
+<programme start="20241230073000 +0000" stop="20241230053000 +0000" channel="Arena Sport 8 Croatia">
+<title>Kada je Garden imao prvake</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230073000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: LA LAKERS - ORLANDO, košarka</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230090000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: MIAMI - DALLAS, košarka</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230110000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: CLEVELAND - BOSTON, košarka</title>
+</programme>
+<programme start="20241230150000 +0000" stop="20241230130000 +0000" channel="Arena Sport 8 Croatia">
+<title>Celticsi protiv Lakersa: Najveći neprijatelji, 1. dio</title>
+</programme>
+<programme start="20241230160000 +0000" stop="20241230150000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: BROOKLYN - MILWAUKEE, košarka</title>
+</programme>
+<programme start="20241230180000 +0000" stop="20241230160000 +0000" channel="Arena Sport 8 Croatia">
+<title>NFL: LA CHARGERS - DENVER BRONCOS, američki nogomet</title>
+</programme>
+<programme start="20241230210000 +0000" stop="20241230180000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: SACRAMENTO - LA LAKERS, košarka</title>
+</programme>
+<programme start="20241230230000 +0000" stop="20241230210000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA LIGA: DALLAS - LA CLIPPERS, košarka</title>
+</programme>
+<programme start="20241231010000 +0000" stop="20241230230000 +0000" channel="Arena Sport 8 Croatia">
+<title>NBA CLASSIC GAME: UTAH - CHICAGO 98, košarka</title>
+</programme>
+<programme start="20241230070000 +0000" stop="20241230050000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230070000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230090000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230110000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230150000 +0000" stop="20241230130000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230170000 +0000" stop="20241230150000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230190000 +0000" stop="20241230170000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230210000 +0000" stop="20241230190000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230230000 +0000" stop="20241230210000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241231010000 +0000" stop="20241230230000 +0000" channel="Arena Sport 9 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230070000 +0000" stop="20241230050000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230070000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230110000 +0000" stop="20241230090000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230130000 +0000" stop="20241230110000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230150000 +0000" stop="20241230130000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230170000 +0000" stop="20241230150000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230190000 +0000" stop="20241230170000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230210000 +0000" stop="20241230190000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241230230000 +0000" stop="20241230210000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
+<programme start="20241231010000 +0000" stop="20241230230000 +0000" channel="Arena Sport 10 Croatia">
+<title>Najava programa</title>
+</programme>
   <programme start="20241229104500 +0000" stop="20241229114500 +0000" channel="Viaplay Premium">
     <title lang="sv">Premier League Review</title>
     <desc lang="sv">Magasin från den senaste omgången i Premier League.</desc>
@@ -38479,5 +39013,191 @@
 <programme start="20241231070000 +0000" stop="20241231190000 +0000" channel="Super Sport 7AL">
 <title>Info</title>
 <desc>Informacion rreth programit te Supersport.</desc>
+</programme>
+<programme start="20241228223000 +0000" stop="20241229003500 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: Eirolīga. ALBA - Real Madrid</title>
+<episode-num system="xmltv_ns">254.120.</episode-num>
+</programme>
+<programme start="20241229003500 +0000" stop="20241229025000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: Eirolīga. FC Bayern - Panathinaikos</title>
+<episode-num system="xmltv_ns">254.126.</episode-num>
+</programme>
+<programme start="20241229025000 +0000" stop="20241229050000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: Eirolīga. Partizan - Fenerbahce</title>
+<episode-num system="xmltv_ns">254.124.</episode-num>
+</programme>
+<programme start="20241229050000 +0000" stop="20241229071000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: Eirolīga. Baskonia - Paris</title>
+<episode-num system="xmltv_ns">254.125.</episode-num>
+</programme>
+<programme start="20241229071000 +0000" stop="20241229091500 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NBA 2024/25. Bulls - Hawks</title>
+<episode-num system="xmltv_ns">.70.</episode-num>
+</programme>
+<programme start="20241229091500 +0000" stop="20241229112000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NBA 2024/25. Celtics - Pacers</title>
+<episode-num system="xmltv_ns">.71.</episode-num>
+</programme>
+<programme start="20241229112000 +0000" stop="20241229133000 +0000" channel="LI - Go 3 Sport 1">
+<title>Futbols: Serie A. Udinese - Torino</title>
+<episode-num system="xmltv_ns">254.74.</episode-num>
+</programme>
+<programme start="20241229133000 +0000" stop="20241229153000 +0000" channel="LI - Go 3 Sport 1">
+<title>Futbols: Serie A. Parma - Monza</title>
+<episode-num system="xmltv_ns">254.71.</episode-num>
+</programme>
+<programme start="20241229153000 +0000" stop="20241229155500 +0000" channel="LI - Go 3 Sport 1">
+<title>Motorsports: Monza Rally Show. Monza Rally. Apskats</title>
+<episode-num system="xmltv_ns">254.1.</episode-num>
+</programme>
+<programme start="20241229155500 +0000" stop="20241229175500 +0000" channel="LI - Go 3 Sport 1">
+<title>NHL 2024/25. Panthers - Canadiens</title>
+<episode-num system="xmltv_ns">254.28.</episode-num>
+</programme>
+<programme start="20241229175500 +0000" stop="20241229203000 +0000" channel="LI - Go 3 Sport 1">
+<title>Futbols: Skotijas Premjerlīga 2023/24. Celtic - St. Johnstone</title>
+<episode-num system="xmltv_ns">254.6.</episode-num>
+</programme>
+<programme start="20241229203000 +0000" stop="20241229230000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NBA 2024/25. Brooklyn Nets - Orlando Magic</title>
+</programme>
+<programme start="20241229230000 +0000" stop="20241230013000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NBA 2024/25. Pacers - Celtics</title>
+<episode-num system="xmltv_ns">.75.</episode-num>
+</programme>
+<programme start="20241230013000 +0000" stop="20241230031000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: ACB league. Zaragoza - Girona</title>
+<episode-num system="xmltv_ns">254.42.</episode-num>
+</programme>
+<programme start="20241230031000 +0000" stop="20241230031500 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NCAA. Diamond Head Classic Championship</title>
+<episode-num system="xmltv_ns">254.23.</episode-num>
+</programme>
+<programme start="20241230050000 +0000" stop="20241230065000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NBA 2024/25. Brooklyn Nets - Orlando Magic</title>
+</programme>
+<programme start="20241230065000 +0000" stop="20241230090000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: ACB league. Coruña - Bilbao Basket</title>
+<episode-num system="xmltv_ns">254.40.</episode-num>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230111000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: ACB league. Zaragoza - Girona</title>
+<episode-num system="xmltv_ns">254.42.</episode-num>
+</programme>
+<programme start="20241230111000 +0000" stop="20241230132000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: ACB league. Real Madrid - Barça</title>
+<episode-num system="xmltv_ns">254.44.</episode-num>
+</programme>
+<programme start="20241230132000 +0000" stop="20241230152000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NCAA. Campbell-North Carolina</title>
+<episode-num system="xmltv_ns">254.24.</episode-num>
+</programme>
+<programme start="20241230152000 +0000" stop="20241230172000 +0000" channel="LI - Go 3 Sport 1">
+<title>Futbols: Serie A. Udinese - Torino</title>
+<episode-num system="xmltv_ns">254.74.</episode-num>
+</programme>
+<programme start="20241230172000 +0000" stop="20241230203000 +0000" channel="LI - Go 3 Sport 1">
+<title>Futbols: Serie A. Como - Lecce</title>
+<episode-num system="xmltv_ns">254.78.</episode-num>
+</programme>
+<programme start="20241230203000 +0000" stop="20241230230000 +0000" channel="LI - Go 3 Sport 1">
+<title>Hokejs: PČ Junioriem. Vācija-Latvija</title>
+<episode-num system="xmltv_ns">254.2.</episode-num>
+</programme>
+<programme start="20241230230000 +0000" stop="20241231011000 +0000" channel="LI - Go 3 Sport 1">
+<title>Basketbols: NBA 2024/25. Pacers - Celtics</title>
+<episode-num system="xmltv_ns">.75.</episode-num>
+</programme>
+<programme start="20241231011000 +0000" stop="20241231030000 +0000" channel="LI - Go 3 Sport 1">
+<title>Motorsports: Apskats. Dubai International Baja</title>
+<episode-num system="xmltv_ns">254.8.</episode-num>
+</programme>
+<programme start="20241228234500 +0000" stop="20241229025000 +0000" channel="LI - Go 3 Sport 2">
+<title>NBA. "Bulls" - "Hawks"</title>
+<episode-num system="xmltv_ns">.70.</episode-num>
+</programme>
+<programme start="20241229025000 +0000" stop="20241229050000 +0000" channel="LI - Go 3 Sport 2">
+<title>NBA. "Celtics" - "Pacers"</title>
+<episode-num system="xmltv_ns">.71.</episode-num>
+</programme>
+<programme start="20241229050000 +0000" stop="20241229053000 +0000" channel="LI - Go 3 Sport 2">
+<title>Krepšinis: NBA Action. Episode 3410</title>
+<episode-num system="xmltv_ns">254.9.</episode-num>
+</programme>
+<programme start="20241229053000 +0000" stop="20241229073500 +0000" channel="LI - Go 3 Sport 2">
+<title>NBA. "Warriors" - "Clippers"</title>
+<episode-num system="xmltv_ns">.72.</episode-num>
+</programme>
+<programme start="20241229073500 +0000" stop="20241229094000 +0000" channel="LI - Go 3 Sport 2">
+<title>NBA. "Heat" - "Hawks"</title>
+<episode-num system="xmltv_ns">.73.</episode-num>
+</programme>
+<programme start="20241229094000 +0000" stop="20241229114500 +0000" channel="LI - Go 3 Sport 2">
+<title>Eurolyga. "Baskonia" - "Paris"</title>
+<episode-num system="xmltv_ns">254.125.</episode-num>
+</programme>
+<programme start="20241229114500 +0000" stop="20241229135000 +0000" channel="LI - Go 3 Sport 2">
+<title>Eurolyga. "Barcelona" - "Crvena zvezda"</title>
+<episode-num system="xmltv_ns">254.123.</episode-num>
+</programme>
+<programme start="20241229135000 +0000" stop="20241229160000 +0000" channel="LI - Go 3 Sport 2">
+<title>Futbolas: Serie A 2023/24. "Napoli" - "Venezia"</title>
+<episode-num system="xmltv_ns">254.75.</episode-num>
+</programme>
+<programme start="20241229160000 +0000" stop="20241229165000 +0000" channel="LI - Go 3 Sport 2">
+<title>Krepšinis: Euroleague Originals 2023/24. Rivalries: Italy</title>
+<episode-num system="xmltv_ns">254.5.</episode-num>
+</programme>
+<programme start="20241229165000 +0000" stop="20241229193500 +0000" channel="LI - Go 3 Sport 2">
+<title>Futbolas: Serie A 2023/24. "Juventus" - "Fiorentina"</title>
+<episode-num system="xmltv_ns">254.76.</episode-num>
+</programme>
+<programme start="20241229193500 +0000" stop="20241229214500 +0000" channel="LI - Go 3 Sport 2">
+<title>Futbolas: Serie A 2023/24. "Milan" - "Roma"</title>
+<episode-num system="xmltv_ns">254.77.</episode-num>
+</programme>
+<programme start="20241229214500 +0000" stop="20241229234500 +0000" channel="LI - Go 3 Sport 2">
+<title>NHL. "Panthers" - "Canadiens"</title>
+<episode-num system="xmltv_ns">254.28.</episode-num>
+</programme>
+<programme start="20241229234500 +0000" stop="20241230025000 +0000" channel="LI - Go 3 Sport 2">
+<title>ACB lyga. "Murcia" - "Granada"</title>
+<episode-num system="xmltv_ns">254.41.</episode-num>
+</programme>
+<programme start="20241230025000 +0000" stop="20241230050000 +0000" channel="LI - Go 3 Sport 2">
+<title>ACB lyga. "Coruña" - "Bilbao Basket"</title>
+<episode-num system="xmltv_ns">254.40.</episode-num>
+</programme>
+<programme start="20241230050000 +0000" stop="20241230090000 +0000" channel="LI - Go 3 Sport 2">
+<title>. Singles. Round 1</title>
+<episode-num system="xmltv_ns">254.3.</episode-num>
+</programme>
+<programme start="20241230090000 +0000" stop="20241230104000 +0000" channel="LI - Go 3 Sport 2">
+<title>. Singles. Round 1</title>
+<episode-num system="xmltv_ns">254.4.</episode-num>
+</programme>
+<programme start="20241230104000 +0000" stop="20241230151000 +0000" channel="LI - Go 3 Sport 2">
+<title>Boksas. Naoya Inoue-Sam Goodman</title>
+<episode-num system="xmltv_ns">.166.</episode-num>
+</programme>
+<programme start="20241230151000 +0000" stop="20241230172000 +0000" channel="LI - Go 3 Sport 2">
+<title>Futbolas: Serie A 2023/24. "Juventus" - "Fiorentina"</title>
+<episode-num system="xmltv_ns">254.76.</episode-num>
+</programme>
+<programme start="20241230172000 +0000" stop="20241230193500 +0000" channel="LI - Go 3 Sport 2">
+<title>Futbolas: Serie A 2023/24. "Milan" - "Roma"</title>
+<episode-num system="xmltv_ns">254.77.</episode-num>
+</programme>
+<programme start="20241230193500 +0000" stop="20241230215000 +0000" channel="LI - Go 3 Sport 2">
+<title>Futbolas: Serie A 2023/24. "Bologna" - "Verona"</title>
+<episode-num system="xmltv_ns">254.79.</episode-num>
+</programme>
+<programme start="20241230215000 +0000" stop="20241231010000 +0000" channel="LI - Go 3 Sport 2">
+<title>NCAA. Campbell-North Carolina</title>
+<episode-num system="xmltv_ns">254.24.</episode-num>
+</programme>
+<programme start="20241231010000 +0000" stop="20241231050000 +0000" channel="LI - Go 3 Sport 2">
+<title>. Singles. Round 1</title>
+<episode-num system="xmltv_ns">254.5.</episode-num>
 </programme>
 </tv>
