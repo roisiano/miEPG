@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/12/2024 22:06" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/12/2024 22:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -173,6 +173,9 @@
   <channel id="DAZN 2 DE">
     <display-name>DAZN 2 DE</display-name>
     <icon src="http://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png" />
+  </channel>
+  <channel id="DAZN 1 IT">
+    <display-name>DAZN 1 IT</display-name>
   </channel>
   <channel id="Sky Sport Uno (Italy) - Vpn Italy">
     <display-name>Sky Sport Uno (Italy) - Vpn Italy</display-name>
@@ -25604,6 +25607,218 @@
     <title lang="de">Get Wild: 3. Episode</title>
     <desc lang="de">Get Wild: 3. Episode.</desc>
     <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20241229000000 +0100" stop="20241229000000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241229020000 +0100" stop="20241229040000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241229040000 +0100" stop="20241229060000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241229060000 +0100" stop="20241229080000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241229080000 +0100" stop="20241229101000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Empoli-Genoa (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Empoli-Genoa (REPLAY).</desc>
+  </programme>
+  <programme start="20241229101000 +0100" stop="20241229120500 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Cagliari-Internazionale (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Cagliari-Internazionale (REPLAY).</desc>
+  </programme>
+  <programme start="20241229120500 +0100" stop="20241229123000 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">My Skills: Bernabé.</desc>
+  </programme>
+  <programme start="20241229123000 +0100" stop="20241229150000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Udinese-Torino (LIVE)</title>
+    <desc lang="it">Serie A 2024/2025: Udinese-Torino (LIVE).</desc>
+  </programme>
+  <programme start="20241229150000 +0100" stop="20241229172000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Napoli-Venezia (LIVE)</title>
+    <desc lang="it">Serie A 2024/2025: Napoli-Venezia (LIVE).</desc>
+  </programme>
+  <programme start="20241229172000 +0100" stop="20241229195500 +0100" channel="DAZN 1 IT">
+    <title lang="it">Lega Basket Serie A 2024/2025: Universo Treviso-Olimpia Milano (LIVE)</title>
+    <desc lang="it">Lega Basket Serie A 2024/2025: Universo Treviso-Olimpia Milano (LIVE).</desc>
+  </programme>
+  <programme start="20241229195500 +0100" stop="20241229203000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Fedi</title>
+    <desc lang="it">Roma.</desc>
+  </programme>
+  <programme start="20241229203000 +0100" stop="20241229204500 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Milan v Napoli Top 30 Gol.</desc>
+  </programme>
+  <programme start="20241229204500 +0100" stop="20241229230000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Milan-Roma (LIVE)</title>
+    <desc lang="it">Serie A 2024/2025: Milan-Roma (LIVE).</desc>
+  </programme>
+  <programme start="20241229230000 +0100" stop="20241230060000 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Inter v Roma Top 30 Gol.</desc>
+  </programme>
+  <programme start="20241230060000 +0100" stop="20241230080000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241230080000 +0100" stop="20241230095000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Milan-Roma (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Milan-Roma (REPLAY).</desc>
+  </programme>
+  <programme start="20241230095000 +0100" stop="20241230104000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Italy LC - Serie A 2024/25 Matchday Highlights</title>
+    <desc lang="it">Serie A 2024/25 Matchday 8 Highlights.</desc>
+  </programme>
+  <programme start="20241230104000 +0100" stop="20241230113500 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - El Clasico Golf Cup</title>
+    <desc lang="it">El Clasico Golf Cup.</desc>
+  </programme>
+  <programme start="20241230113500 +0100" stop="20241230120000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Italy LC - La Liga 2024/25 Matchday Highlights</title>
+    <desc lang="it">La Liga 2024/25 Matchday 14 Highlights.</desc>
+  </programme>
+  <programme start="20241230120000 +0100" stop="20241230135000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Napoli-Venezia (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Napoli-Venezia (REPLAY).</desc>
+  </programme>
+  <programme start="20241230135000 +0100" stop="20241230142000 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Interview with Moncada.</desc>
+  </programme>
+  <programme start="20241230142000 +0100" stop="20241230170000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Parma-Monza (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Parma-Monza (REPLAY).</desc>
+  </programme>
+  <programme start="20241230170000 +0100" stop="20241230173500 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Silvio Baldini - Questo è calcio.</desc>
+  </programme>
+  <programme start="20241230173500 +0100" stop="20241230175500 +0100" channel="DAZN 1 IT">
+    <title lang="it">Top Gol</title>
+    <desc lang="it">Milan Derby.</desc>
+  </programme>
+  <programme start="20241230175500 +0100" stop="20241230183000 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">My Skills: Dodò.</desc>
+  </programme>
+  <programme start="20241230183000 +0100" stop="20241230204500 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Como-Lecce (LIVE)</title>
+    <desc lang="it">Serie A 2024/2025: Como-Lecce (LIVE).</desc>
+  </programme>
+  <programme start="20241230204500 +0100" stop="20241230211000 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Interview with Moncada.</desc>
+  </programme>
+  <programme start="20241230211000 +0100" stop="20241230214500 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie B Features</title>
+    <desc lang="it">Palermo Sunrise.</desc>
+  </programme>
+  <programme start="20241230214500 +0100" stop="20241230220500 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Decido io | Gli arbitri come non li avete mai visti.</desc>
+  </programme>
+  <programme start="20241230220500 +0100" stop="20241230223500 +0100" channel="DAZN 1 IT">
+    <title lang="it">Italy LC - Kickboxing - Evolution Fight</title>
+    <desc lang="it">Kickboxing - Evolution Fight Rosolini part 1.</desc>
+  </programme>
+  <programme start="20241230223500 +0100" stop="20241231020000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241231020000 +0100" stop="20241231040000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20241231040000 +0100" stop="20241231060000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20250101020000 +0100" stop="20250101040000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20250101040000 +0100" stop="20250101060000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20250101060000 +0100" stop="20250101080000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
+  </programme>
+  <programme start="20250101080000 +0100" stop="20250101094700 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Udinese-Torino (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Udinese-Torino (REPLAY).</desc>
+  </programme>
+  <programme start="20250101094700 +0100" stop="20250101102900 +0100" channel="DAZN 1 IT">
+    <title lang="it">Italy LC - Serie A 2024/25 Matchday Highlights</title>
+    <desc lang="it">Serie A 2024/25 Matchday 9 Highlights.</desc>
+  </programme>
+  <programme start="20250101102900 +0100" stop="20250101111400 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Six Kings</title>
+    <desc lang="it">Six Kings Slam Highlights.</desc>
+  </programme>
+  <programme start="20250101111400 +0100" stop="20250101113100 +0100" channel="DAZN 1 IT">
+    <title lang="it">Linea Diletta</title>
+    <desc lang="it">Ordas.</desc>
+  </programme>
+  <programme start="20250101113100 +0100" stop="20250101115000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Italy LC - La Liga 2024/25 Matchday Highlights</title>
+    <desc lang="it">La Liga 2024/25 Matchday 15 Highlights.</desc>
+  </programme>
+  <programme start="20250101115000 +0100" stop="20250101133600 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Empoli-Genoa (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Empoli-Genoa (REPLAY).</desc>
+  </programme>
+  <programme start="20250101133600 +0100" stop="20250101135000 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Interview with Kalulu.</desc>
+  </programme>
+  <programme start="20250101135000 +0100" stop="20250101153600 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Como-Lecce (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Como-Lecce (REPLAY).</desc>
+  </programme>
+  <programme start="20250101153600 +0100" stop="20250101155600 +0100" channel="DAZN 1 IT">
+    <title lang="it">ITALY LC - Serie A Features</title>
+    <desc lang="it">Mario Balotelli.</desc>
+  </programme>
+  <programme start="20250101155600 +0100" stop="20250101174300 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Milan-Roma (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Milan-Roma (REPLAY).</desc>
+  </programme>
+  <programme start="20250101174300 +0100" stop="20250101183000 +0100" channel="DAZN 1 IT">
+    <title lang="it">El Presidente</title>
+    <desc lang="it">El Presidente - Episodio 1.</desc>
+  </programme>
+  <programme start="20250101183000 +0100" stop="20250101191900 +0100" channel="DAZN 1 IT">
+    <title lang="it">El Presidente</title>
+    <desc lang="it">El Presidente - Episodio 2.</desc>
+  </programme>
+  <programme start="20250101191900 +0100" stop="20250101193600 +0100" channel="DAZN 1 IT">
+    <title lang="it">Open VAR Masterclass</title>
+    <desc lang="it">Ep. 1.</desc>
+  </programme>
+  <programme start="20250101193600 +0100" stop="20250101195100 +0100" channel="DAZN 1 IT">
+    <title lang="it">Open VAR Masterclass</title>
+    <desc lang="it">Ep. 2.</desc>
+  </programme>
+  <programme start="20250101195100 +0100" stop="20250101213800 +0100" channel="DAZN 1 IT">
+    <title lang="it">Serie A 2024/2025: Napoli-Venezia (REPLAY)</title>
+    <desc lang="it">Serie A 2024/2025: Napoli-Venezia (REPLAY).</desc>
+  </programme>
+  <programme start="20250101213800 +0100" stop="20250101230900 +0100" channel="DAZN 1 IT">
+    <title lang="it">Italy LC - Kickboxing - Evolution Fight</title>
+    <desc lang="it">Kickboxing - Evolution Fight Rosolini part 2.</desc>
+  </programme>
+  <programme start="20250101230900 +0100" stop="20250102020000 +0100" channel="DAZN 1 IT">
+    <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
+    <desc lang="it">Le trasmissioni inizieranno alle ore 8.</desc>
   </programme>
   <programme start="20241228050000 +0000" stop="20241228070000 +0000" channel="Sky Sport Uno (Italy) - Vpn Italy">
     <title lang="it">Basket Eurolega - Ep. 65 - Basket Eurolega Round 18 Olimpia Milano/ Olympiacos 26/12/2024</title>
