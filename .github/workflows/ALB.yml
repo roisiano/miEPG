@@ -22,7 +22,7 @@ jobs:
 
     - name: Download the new EPG file
       run: |
-        wget https://www.bevy.be/bevyfiles/albania1.xml.gz
+        wget https://www.open-epg.com/files/albania1.xml.gz
     - name: Decompress the new EPG file 
       run: |
         gunzip albania1.xml.gz
