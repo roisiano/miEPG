@@ -33,13 +33,13 @@ jobs:
         sed -i 's/<desc/\n<desc/g' latvia1.xml
         sed -i 's/<episode/\n<episode/g' latvia1.xml
         sed -i 's/<\/programme>/\n<\/programme>/g' latvia1.xml
-    - name: Save the formatted file as latvia1.xml
+    - name: Save the formatted file as LETONIA1.xml
       run: |
         mv latvia1.xml ./LETONIA1.xml
     - name: Commit and force-push the changes
       run: |
         git config --global user.email "your-email@example.com"
         git config --global user.name "GitHub Actions"
-        git add latvia1.xml
+        git add LETONIA1.xml
         git commit -m "Update EPG file" --allow-empty
         git push origin main --force
