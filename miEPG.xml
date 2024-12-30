@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 30/12/2024 13:56" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/12/2024 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -441,8 +441,8 @@
   </programme>
   <programme start="20241230202500 +0100" stop="20241230214500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 8.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 13.
 · País: Bélgica</desc>
   </programme>
   <programme start="20241230214500 +0100" stop="20241230215000 +0100" channel="EUROSPORT 1 ES">
@@ -1353,8 +1353,8 @@
   </programme>
   <programme start="20250101124500 +0100" stop="20250101134000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 8.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 13.
 · País: Bélgica</desc>
   </programme>
   <programme start="20250101134000 +0100" stop="20250101144500 +0100" channel="EUROSPORT 2 ES">
@@ -1690,7 +1690,7 @@
   <programme start="20250104010000 +0100" stop="20250104020000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El año deportivo comienza con la disputa del Dakar. Votos: 1.
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104020000 +0100" stop="20250104040000 +0100" channel="EUROSPORT 2 ES">
@@ -1714,7 +1714,7 @@
   <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El año deportivo comienza con la disputa del Dakar. Votos: 1.
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104070000 +0100" stop="20250104073000 +0100" channel="EUROSPORT 2 ES">
@@ -1828,7 +1828,7 @@
   <programme start="20250105010000 +0100" stop="20250105020000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El año deportivo comienza con la disputa del Dakar. Votos: 1.
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250105020000 +0100" stop="20250105040000 +0100" channel="EUROSPORT 2 ES">
@@ -1983,8 +1983,8 @@
   </programme>
   <programme start="20241230202500 +0100" stop="20241230214500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 8.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 13.
 · País: Bélgica</desc>
   </programme>
   <programme start="20241230214500 +0100" stop="20241230215000 +0100" channel="EUROSPORT 1">
@@ -2895,8 +2895,8 @@
   </programme>
   <programme start="20250101124500 +0100" stop="20250101134000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Diegem - Masculino T24/25 · Ciclocross Superprestige</title>
-    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *8.0/10
-· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 8.
+    <desc lang="es">Deportes/Ciclismo | 2024 | TP | *6.0/10
+· El Superprestige es una competición de ciclocross formada por diferentes pruebas que se disputan desde octubre hasta mediados de febrero. Este año, todas las carreras se celebran en Bélgica. Votos: 13.
 · País: Bélgica</desc>
   </programme>
   <programme start="20250101134000 +0100" stop="20250101144500 +0100" channel="EUROSPORT 2">
@@ -3232,7 +3232,7 @@
   <programme start="20250104010000 +0100" stop="20250104020000 +0100" channel="EUROSPORT 2">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El año deportivo comienza con la disputa del Dakar. Votos: 1.
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104020000 +0100" stop="20250104040000 +0100" channel="EUROSPORT 2">
@@ -3256,7 +3256,7 @@
   <programme start="20250104060000 +0100" stop="20250104070000 +0100" channel="EUROSPORT 2">
     <title lang="es">Dakar 2025 T2025 · Prólogo</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El año deportivo comienza con la disputa del Dakar. Votos: 1.
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104070000 +0100" stop="20250104073000 +0100" channel="EUROSPORT 2">
@@ -3370,7 +3370,7 @@
   <programme start="20250105010000 +0100" stop="20250105020000 +0100" channel="EUROSPORT 2">
     <title lang="es">Dakar 2025 T2025 · Etapa 1</title>
     <desc lang="es">Deportes/Motor | 2025 | TP | *10.0/10
-· El año deportivo comienza con la disputa del Dakar. Votos: 1.
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250105020000 +0100" stop="20250105040000 +0100" channel="EUROSPORT 2">
@@ -4532,7 +4532,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230205000 +0100" stop="20241230230500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 19: Manchester Utd. - Newcastle T24/25 · Premier League</title>
+    <title lang="es">DIRECTO Jornada 19: Manchester United - Newcastle T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -4541,7 +4541,7 @@
     <title lang="es">Los mejores momentos de 2024</title>
     <desc lang="es">Sin clasificar/SIN CLASIFICAR | 2024 | TP
 · Revive con los mejores momentos deportivos del año 2024.
-</desc>
+· País: España</desc>
   </programme>
   <programme start="20241230231800 +0100" stop="20241231002500 +0100" channel="DAZN 1 Espana">
     <title lang="es">La vida en rojo</title>
@@ -4592,7 +4592,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241231185600 +0100" stop="20241231205800 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 19: Manchester Utd. - Newcastle T24/25 · Premier League</title>
+    <title lang="es">DIRECTO Jornada 19: Manchester United - Newcastle T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
@@ -6405,7 +6405,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230154500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Primera semifinal</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -6429,13 +6429,13 @@
 · País: España</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Final de consolación</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241230183000 +0100" stop="20241230193000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Final</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
 · País: España</desc>
@@ -6996,7 +6996,7 @@
 · País: España</desc>
   </programme>
   <programme start="20241230150000 +0100" stop="20241230154500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Primera semifinal</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -7020,13 +7020,13 @@
 · País: España</desc>
   </programme>
   <programme start="20241230180000 +0100" stop="20241230183000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Final de consolación</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20241230183000 +0100" stop="20241230193000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Final</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
 · País: España</desc>
@@ -24348,76 +24348,6 @@
     <category lang="nl">Sportprogramma</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nba-action-588304371.jpg" />
   </programme>
-  <programme start="20241229070000 +0000" stop="20241229085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241229085000 +0000" stop="20241229090500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241229090500 +0000" stop="20241229095000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241229095000 +0000" stop="20241229112500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
-    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20241229112500 +0000" stop="20241229133500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Udinese Calcio - FC Turin</title>
-    <desc lang="de">Serie A: Udinese Calcio - FC Turin.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241229133500 +0000" stop="20241229135500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241229135500 +0000" stop="20241229161000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: SSC Neapel - FC Venedig</title>
-    <desc lang="de">Serie A: SSC Neapel - FC Venedig.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241229161000 +0000" stop="20241229163000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 2. Episode</title>
-    <desc lang="de">Get Wild: 2. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20241229163000 +0000" stop="20241229165500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241229165500 +0000" stop="20241229190000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Juventus Turin - AC Florenz</title>
-    <desc lang="de">Serie A: Juventus Turin - AC Florenz.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241229190000 +0000" stop="20241229223000 +0000" channel="DAZN 1 DE">
-    <title lang="de">World Darts Championship: 12. Tag - 2. Session</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Rowby-John Rodriguez.</desc>
-    <date>2024</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20241229223000 +0000" stop="20241229230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20241229230000 +0000" stop="20241230070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20241230070000 +0000" stop="20241230090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
@@ -24728,57 +24658,68 @@
     <date>2025</date>
     <category lang="de">Darts</category>
   </programme>
-  <programme start="20241229070000 +0000" stop="20241229085000 +0000" channel="DAZN 2 DE">
+  <programme start="20250101223000 +0000" stop="20250101230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250101230000 +0000" stop="20250102070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250102070000 +0000" stop="20250102090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250102090000 +0000" stop="20250102093000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250102093000 +0000" stop="20250102112000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
     <desc lang="de">Serie A: FC Cagliari - Inter Mailand.</desc>
     <date>2024</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20241229085000 +0000" stop="20241229091000 +0000" channel="DAZN 2 DE">
+  <programme start="20250102112000 +0000" stop="20250102115000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241229091000 +0000" stop="20241229110000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
+  <programme start="20250102115000 +0000" stop="20250102134000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20241229110000 +0000" stop="20241229113000 +0000" channel="DAZN 2 DE">
+  <programme start="20250102134000 +0000" stop="20250102140000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20241229113000 +0000" stop="20241229120000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20241229120000 +0000" stop="20241229123000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 15. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20241229123000 +0000" stop="20241229160500 +0000" channel="DAZN 2 DE">
-    <title lang="de">World Darts Championship: 12. Tag - 1. Session</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Rowby-John Rodriguez.</desc>
-    <date>2024</date>
+  <programme start="20250102140000 +0000" stop="20250102172000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Swiss Darts Trophy: 3. Tag - 2. Session</title>
+    <desc lang="de">Swiss Darts Trophy: 3. Tag - 2. Session.</desc>
     <category lang="de">Darts</category>
   </programme>
-  <programme start="20241229160500 +0000" stop="20241229164500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Decoded 2023/24: NFL: Coaching</title>
-    <desc lang="de">Die Suche nach dem perfekten Drive führt Moderatorin Jennifer Becks in der vierten Folge von DAZN DECODED NFL nach Düsseldorf - und zwar ins Tonstudio. Denn, wie Dirigenten müssen Coaches in der NFL ihr Team orchestrieren, um ein harmonisches Ganzes zu kreieren. Nadine Nurasyid, ehemalige Headcoach der Munich Cowboys, erklärt, was einen erfolgreichen Coaching Staff ausmacht sowie dekodiert anhand detaillierter Analysen unterschiedliche Plays und zeigt wie Playcalling funktioniert.</desc>
+  <programme start="20250102172000 +0000" stop="20250102181500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: Lange Version</title>
+    <desc lang="de">Get Wild: Lange Version.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20241229164500 +0000" stop="20241229173000 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Features 2024/25: Panthers Blueprint: Germany</title>
-    <desc lang="de">NFL Features 2024/25: Panthers Blueprint: Germany.</desc>
+  <programme start="20250102181500 +0000" stop="20250102190000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
+    <category lang="de">Dokumentation</category>
   </programme>
-  <programme start="20241229173000 +0000" stop="20241230003500 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Domestic: NFL ENDZN - 17. Spieltag</title>
-    <desc lang="de">NFL Domestic: NFL ENDZN - 17. Spieltag.</desc>
-    <date>2024</date>
+  <programme start="20250102190000 +0000" stop="20250102193000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 18. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
+    <category lang="de">Fußball</category>
   </programme>
   <programme start="20241230003500 +0000" stop="20241230070000 +0000" channel="DAZN 2 DE">
     <title lang="de">Sendepause</title>
@@ -25071,6 +25012,91 @@
     <title lang="de">Get Wild: 3. Episode</title>
     <desc lang="de">Get Wild: 3. Episode.</desc>
     <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250101222500 +0000" stop="20250101230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250101230000 +0000" stop="20250102070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250102070000 +0000" stop="20250102090000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
+    <desc lang="de">Serie A: FC Cagliari - Inter Mailand.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250102090000 +0000" stop="20250102105000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250102105000 +0000" stop="20250102112500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250102112500 +0000" stop="20250102120000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102135000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250102135000 +0000" stop="20250102140000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250102140000 +0000" stop="20250102155000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
+    <desc lang="de">Serie A: FC Cagliari - Inter Mailand.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250102155000 +0000" stop="20250102164000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Her Element by Laura Wontorra: Episode 1</title>
+    <desc lang="de">Her Element by Laura Wontorra: Episode 1.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250102164000 +0000" stop="20250102171000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250102171000 +0000" stop="20250102180000 +0000" channel="DAZN 2 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250102180000 +0000" stop="20250102185500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Get Wild: Lange Version</title>
+    <desc lang="de">Get Wild: Lange Version.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250102185500 +0000" stop="20250102210500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Italienischer Super Cup: Inter Mailand - Atalanta Bergamo</title>
+    <desc lang="de">Italienischer Super Cup: Inter Mailand - Atalanta Bergamo.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250102210500 +0000" stop="20250102213000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250102213000 +0000" stop="20250102220000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 18. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
+    <category lang="de">Fußball</category>
   </programme>
   <programme start="20241230000000 +0100" stop="20241230000000 +0100" channel="DAZN 1 IT">
     <title lang="it">ITALY LC - Serie A Features</title>
