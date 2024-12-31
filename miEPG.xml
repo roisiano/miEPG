@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 31/12/2024 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 31/12/2024 16:15" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -346,6 +346,9 @@
   <channel id="Super Sport 7AL">
     <display-name>Super Sport 7AL</display-name>
   </channel>
+  <channel id="LI - Go 3 Sport 1">
+    <display-name>LI - Go 3 Sport 1</display-name>
+  </channel>
   <channel id="LI - Go 3 Sport 2">
     <display-name>LI - Go 3 Sport 2</display-name>
   </channel>
@@ -369,70 +372,106 @@
     <display-name>LaLiga TV Hypermotion</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
   </channel>
+  <channel id="LALIGA TV HYPERMOTION">
+    <display-name>LALIGA TV HYPERMOTION</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
+  </channel>
+  <channel id="LaLiga TV HYPERMOTION ES">
+    <display-name>LaLiga TV HYPERMOTION ES</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
+  </channel>
+  <channel id="LaLiga TV HYPERMOTION 2">
+    <display-name>LaLiga TV HYPERMOTION 2</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
+  </channel>
+  <channel id="LaLiga TV HYPERMOTION 2 ES">
+    <display-name>LaLiga TV HYPERMOTION 2 ES</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
+  </channel>
+  <channel id="LaLiga TV HYPERMOTION 3">
+    <display-name>LaLiga TV HYPERMOTION 3</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
+  </channel>
+  <channel id="LaLiga TV HYPERMOTION 3 ES">
+    <display-name>LaLiga TV HYPERMOTION 3 ES</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
+  </channel>
   <channel id="DAZN 1 FR">
     <display-name>DAZN 1 FR</display-name>
   </channel>
-  <programme start="20241231070000 +0100" stop="20241231074500 +0100" channel="EUROSPORT 1 ES">
+  <channel id="JOJSport.sk">
+    <display-name>JOJSport.sk</display-name>
+    <icon src="http://www.programy-tv.cz/stanice/no-icon.png" />
+  </channel>
+  <channel id="JOJ Šport 🇸🇰">
+    <display-name>JOJ Šport 🇸🇰</display-name>
+    <icon src="http://www.programy-tv.cz/stanice/no-icon.png" />
+  </channel>
+  <channel id="JOJ Šport SK">
+    <display-name>JOJ Šport SK</display-name>
+    <icon src="http://www.programy-tv.cz/stanice/no-icon.png" />
+  </channel>
+  <programme start="20241231065700 +0100" stop="20241231074100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Semmering - Eslalon gigante F - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Austria</desc>
   </programme>
-  <programme start="20241231074500 +0100" stop="20241231083000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231074100 +0100" stop="20241231083100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Semmering - Eslalon gigante F - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Austria</desc>
   </programme>
-  <programme start="20241231083000 +0100" stop="20241231094500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231083100 +0100" stop="20241231094300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Oberstdorf - M Trampolín Largo</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241231094500 +0100" stop="20241231103000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231094300 +0100" stop="20241231102700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Toblach - 15km Clásico salida en masa F</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231103000 +0100" stop="20241231111500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231102700 +0100" stop="20241231111100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Toblach - 15km Clásico salida en masa F</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231111500 +0100" stop="20241231130000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231111100 +0100" stop="20241231125600 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231130000 +0100" stop="20241231144500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231125600 +0100" stop="20241231144300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241231144500 +0100" stop="20241231161500 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231144300 +0100" stop="20241231161300 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231161500 +0100" stop="20241231175000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231161300 +0100" stop="20241231174500 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Garmisch-Partenkirschen - F Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241231175000 +0100" stop="20241231210000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231174500 +0100" stop="20241231205700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241231210000 +0100" stop="20241231220000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20241231205700 +0100" stop="20241231220000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
@@ -876,7 +915,13 @@
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20250104120000 +0100" stop="20250104133000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20250104120000 +0100" stop="20250104121500 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">DIRECTO Val Di Fiemme - Esprín Clásico T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250104121500 +0100" stop="20250104133000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Kranjska Gora - Eslalon gigante F - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2025 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
@@ -1081,7 +1126,7 @@
 · País: Eslovenia</desc>
   </programme>
   <programme start="20250105210000 +0100" stop="20250105220000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -1135,7 +1180,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250106040000 +0100" stop="20250106050000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -1171,7 +1216,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250106083000 +0100" stop="20250106093000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -1237,7 +1282,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250106210000 +0100" stop="20250106220000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 2</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -1279,7 +1324,7 @@
 · País: Austria</desc>
   </programme>
   <programme start="20250107040000 +0100" stop="20250107050000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 2</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -2011,7 +2056,7 @@
 · País: Australia</desc>
   </programme>
   <programme start="20250105230000 +0100" stop="20250106000000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -2023,7 +2068,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250106020000 +0100" stop="20250106030000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -2178,67 +2223,67 @@
 · La copa del mundo de esquí acrobático recorre las mejores estaciones del planeta.
 </desc>
   </programme>
-  <programme start="20241231070000 +0100" stop="20241231074500 +0100" channel="EUROSPORT 1">
+  <programme start="20241231065700 +0100" stop="20241231074100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Semmering - Eslalon gigante F - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Austria</desc>
   </programme>
-  <programme start="20241231074500 +0100" stop="20241231083000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231074100 +0100" stop="20241231083100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Semmering - Eslalon gigante F - 1ª manga</title>
     <desc lang="es">Deportes/Esquí alpino | 2024 | TP | *10.0/10
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 2.
 · País: Austria</desc>
   </programme>
-  <programme start="20241231083000 +0100" stop="20241231094500 +0100" channel="EUROSPORT 1">
+  <programme start="20241231083100 +0100" stop="20241231094300 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de saltos de esquí T24/25 · Oberstdorf - M Trampolín Largo</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP | *2.0/10
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir. Votos: 1.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241231094500 +0100" stop="20241231103000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231094300 +0100" stop="20241231102700 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Toblach - 15km Clásico salida en masa F</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231103000 +0100" stop="20241231111500 +0100" channel="EUROSPORT 1">
+  <programme start="20241231102700 +0100" stop="20241231111100 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de esquí de fondo T24/25 · Toblach - 15km Clásico salida en masa F</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *6.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 4.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231111500 +0100" stop="20241231130000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231111100 +0100" stop="20241231125600 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231130000 +0100" stop="20241231144500 +0100" channel="EUROSPORT 1">
+  <programme start="20241231125600 +0100" stop="20241231144300 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Garmisch- Partenkirschen: Garmisch-Partenkirschen - QUA M Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241231144500 +0100" stop="20241231161500 +0100" channel="EUROSPORT 1">
+  <programme start="20241231144300 +0100" stop="20241231161300 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre F T24/25 · Copa del mundo de esquí de fondo</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP | *10.0/10
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título. Votos: 2.
 · País: Italia</desc>
   </programme>
-  <programme start="20241231161500 +0100" stop="20241231175000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231161300 +0100" stop="20241231174500 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Garmisch-Partenkirschen - F Trampolín Largo T24/25 · Copa del mundo de saltos de esquí</title>
     <desc lang="es">Deportes/Saltos de esquí | 2024 | TP
 · Los mejores saltadores de esquí del mundo participan en este evento que premia la regularidad y que recorre trampolines de todo el planeta. El austriaco Stefan Kraft defiende el título. En mujeres, la eslovena Nika Prevc es la campeona a batir.
 · País: Alemania</desc>
   </programme>
-  <programme start="20241231175000 +0100" stop="20241231210000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231174500 +0100" stop="20241231205700 +0100" channel="EUROSPORT 1">
     <title lang="es">Abierto de Inglaterra de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
 · La ciudad de Brentwood alberga la disputa del Abierto de Inglaterra del 16 al 22 de septiembre. Judd Trump es el defensor del título. El snooker es la modalidad del billar más profesional. Votos: 2.
 · País: R.U.</desc>
   </programme>
-  <programme start="20241231210000 +0100" stop="20241231220000 +0100" channel="EUROSPORT 1">
+  <programme start="20241231205700 +0100" stop="20241231220000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Toblach - 20km Libre M T24/25 · Copa del mundo de esquí de fondo</title>
     <desc lang="es">Deportes/Esquí de fondo | 2024 | TP
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
@@ -2682,7 +2727,13 @@
 · El esquí de fondo es la modalidad más antigua de este deporte, con pruebas de estilo clásico y libre. La Copa del mundo es un circuito que premia la regularidad. Harald Ostberg Amundsen (H) y Jessie Diggins (F) defienden título.
 · País: Italia</desc>
   </programme>
-  <programme start="20250104120000 +0100" stop="20250104133000 +0100" channel="EUROSPORT 1">
+  <programme start="20250104120000 +0100" stop="20250104121500 +0100" channel="EUROSPORT 1">
+    <title lang="es">DIRECTO Val Di Fiemme - Esprín Clásico T24/25 · Copa del mundo de esquí de fondo</title>
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
+· El esquí de fondo es la modalidad más antigua de este deporte. Votos: 6.
+</desc>
+  </programme>
+  <programme start="20250104121500 +0100" stop="20250104133000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Kranjska Gora - Eslalon gigante F - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
     <desc lang="es">Deportes/Esquí alpino | 2025 | TP
 · Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
@@ -2887,7 +2938,7 @@
 · País: Eslovenia</desc>
   </programme>
   <programme start="20250105210000 +0100" stop="20250105220000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -2941,7 +2992,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250106040000 +0100" stop="20250106050000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -2977,7 +3028,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250106083000 +0100" stop="20250106093000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -3043,7 +3094,7 @@
 · País: Italia</desc>
   </programme>
   <programme start="20250106210000 +0100" stop="20250106220000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 2</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -3085,7 +3136,7 @@
 · País: Austria</desc>
   </programme>
   <programme start="20250107040000 +0100" stop="20250107050000 +0100" channel="EUROSPORT 1">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 2</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -3817,7 +3868,7 @@
 · País: Australia</desc>
   </programme>
   <programme start="20250105230000 +0100" stop="20250106000000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -3829,7 +3880,7 @@
 · País: R.U.</desc>
   </programme>
   <programme start="20250106020000 +0100" stop="20250106030000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Dakar 2025 T2025 · Etapa 2</title>
+    <title lang="es">Dakar 2025 T2025 · Etapa 2 - Día 1</title>
     <desc lang="es">Deportes/Rally | 2025 | TP
 · Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
 · País: Arabia Saudí</desc>
@@ -5186,7 +5237,7 @@
   </programme>
   <programme start="20250101182000 +0100" stop="20250101203500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: Brentford - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
@@ -5265,7 +5316,7 @@
   <programme start="20250102195000 +0100" stop="20250102215600 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Inter y Atalanta se enfrentarán en la semifinal de la Supercopa Italiana en el Kingdom Arena de Riad. El Inter, actual campeón de la Serie A, busca su cuarto título consecutivo en esta competición. Votos: 4.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250102215600 +0100" stop="20250102221200 +0100" channel="DAZN 1 Espana">
@@ -5276,7 +5327,7 @@
   </programme>
   <programme start="20250102221200 +0100" stop="20250103001400 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 19: Brentford - Arsenal T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
@@ -5326,13 +5377,13 @@
   <programme start="20250103180000 +0100" stop="20250103195000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· Inter y Atalanta se enfrentarán en la semifinal de la Supercopa Italiana en el Kingdom Arena de Riad. El Inter, actual campeón de la Serie A, busca su cuarto título consecutivo en esta competición. Votos: 4.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250103195000 +0100" stop="20250103220100 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La semifinal de la Supercopa Italiana entre Juventus y Milán se disputa en el Kingdom Arena de Riad, Arabia Saudita. El ganador de este encuentro avanzará a la final.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250103220100 +0100" stop="20250103222700 +0100" channel="DAZN 1 Espana">
@@ -5404,7 +5455,7 @@
   <programme start="20250104203900 +0100" stop="20250104224500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La semifinal de la Supercopa Italiana entre Juventus y Milán se disputa en el Kingdom Arena de Riad, Arabia Saudita. El ganador de este encuentro avanzará a la final.
+· La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250104224500 +0100" stop="20250105004500 +0100" channel="DAZN 1 Espana">
@@ -7258,7 +7309,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250103200000 +0100" stop="20250103210000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Especiales LaLiga T24/25 · Los mejores partidos de 2024</title>
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
@@ -7474,7 +7525,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250106140000 +0100" stop="20250106150000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Especiales LaLiga T24/25 · Los mejores partidos de 2024</title>
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
@@ -7831,7 +7882,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250103200000 +0100" stop="20250103210000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Especiales LaLiga T24/25 · Los mejores partidos de 2024</title>
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
@@ -8047,7 +8098,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250106140000 +0100" stop="20250106150000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Especiales LaLiga T24/25 · Los mejores partidos de 2024</title>
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
@@ -41217,6 +41268,102 @@
 <title>Info</title>
 <desc>Informacion rreth programit te Supersport.</desc>
 </programme>
+<programme start="20241230230000 +0000" stop="20241231011000 +0000" channel="LI - Go 3 Sport 1">
+<title>NBA korvpall. Pacers - Celtics</title>
+<episode-num system="xmltv_ns">.75.</episode-num>
+</programme>
+<programme start="20241231011000 +0000" stop="20241231030000 +0000" channel="LI - Go 3 Sport 1">
+<title>Motorsport: Ülevaade. Dubai International Baja</title>
+<episode-num system="xmltv_ns">254.8.</episode-num>
+</programme>
+<programme start="20241231030000 +0000" stop="20241231050000 +0000" channel="LI - Go 3 Sport 1">
+<title>NBA korvpall. Mavericks - Kings</title>
+<episode-num system="xmltv_ns">.76.</episode-num>
+</programme>
+<programme start="20241231050000 +0000" stop="20241231071000 +0000" channel="LI - Go 3 Sport 1">
+<title>NBA korvpall. Orlando Magic - Brooklyn Nets</title>
+<desc>Maailma kõige tugevamas korvpalliliigas lahevad vastamisi Orlando Magic - Brooklyn Nets.</desc>
+</programme>
+<programme start="20241231071000 +0000" stop="20241231092000 +0000" channel="LI - Go 3 Sport 1">
+<title>NBA korvpall. Pacers - Celtics</title>
+<episode-num system="xmltv_ns">.75.</episode-num>
+</programme>
+<programme start="20241231092000 +0000" stop="20241231113000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: ACB league. Coruña - Bilbao Basket</title>
+<episode-num system="xmltv_ns">254.40.</episode-num>
+</programme>
+<programme start="20241231113000 +0000" stop="20241231134000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: ACB league. Zaragoza - Girona</title>
+<episode-num system="xmltv_ns">254.42.</episode-num>
+</programme>
+<programme start="20241231134000 +0000" stop="20241231154000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: NCAA. Campbell-North Carolina</title>
+<episode-num system="xmltv_ns">254.24.</episode-num>
+</programme>
+<programme start="20241231154000 +0000" stop="20241231175000 +0000" channel="LI - Go 3 Sport 1">
+<title>Jalgpall: Scottish Premiership 2023/24. Hearts - Hibernian</title>
+<episode-num system="xmltv_ns">254.5.</episode-num>
+</programme>
+<programme start="20241231175000 +0000" stop="20241231200000 +0000" channel="LI - Go 3 Sport 1">
+<title>Jalgpall: Scottish Premiership 2023/24. Celtic - St. Johnstone</title>
+<episode-num system="xmltv_ns">254.6.</episode-num>
+</programme>
+<programme start="20241231200000 +0000" stop="20241231223000 +0000" channel="LI - Go 3 Sport 1">
+<title>NBA korvpall. Bucks - Pacers</title>
+<episode-num system="xmltv_ns">.77.</episode-num>
+</programme>
+<programme start="20241231223000 +0000" stop="20250101003000 +0000" channel="LI - Go 3 Sport 1">
+<title>Jalgpall: Serie A. Como - Lecce</title>
+<episode-num system="xmltv_ns">254.78.</episode-num>
+</programme>
+<programme start="20250101003000 +0000" stop="20250101025000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: EuroLeague. Partizan - Fenerbahce</title>
+<episode-num system="xmltv_ns">254.124.</episode-num>
+</programme>
+<programme start="20250101025000 +0000" stop="20250101050000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: EuroLeague. Baskonia - Paris</title>
+<episode-num system="xmltv_ns">254.125.</episode-num>
+</programme>
+<programme start="20250101050000 +0000" stop="20250101070000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: EuroLeague. Baskonia - Paris</title>
+<episode-num system="xmltv_ns">254.125.</episode-num>
+</programme>
+<programme start="20250101070000 +0000" stop="20250101092000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: EuroLeague. FC Bayern - Panathinaikos</title>
+<episode-num system="xmltv_ns">254.126.</episode-num>
+</programme>
+<programme start="20250101092000 +0000" stop="20250101113000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: ACB league. Coruña - Bilbao Basket</title>
+<episode-num system="xmltv_ns">254.40.</episode-num>
+</programme>
+<programme start="20250101113000 +0000" stop="20250101134000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: ACB league. Zaragoza - Girona</title>
+<episode-num system="xmltv_ns">254.42.</episode-num>
+</programme>
+<programme start="20250101134000 +0000" stop="20250101155000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: ACB league. Manresa - Baskonia</title>
+<episode-num system="xmltv_ns">254.43.</episode-num>
+</programme>
+<programme start="20250101155000 +0000" stop="20250101180000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: ACB league. Barcelona - Joventut Badalona</title>
+<episode-num system="xmltv_ns">254.48.</episode-num>
+</programme>
+<programme start="20250101180000 +0000" stop="20250101200000 +0000" channel="LI - Go 3 Sport 1">
+<title>Korvpall: NCAA. Campbell-North Carolina</title>
+<episode-num system="xmltv_ns">254.24.</episode-num>
+</programme>
+<programme start="20250101200000 +0000" stop="20250101220000 +0000" channel="LI - Go 3 Sport 1">
+<title>Tennis: Next Gen ATP Finals. Singles. Final</title>
+<episode-num system="xmltv_ns">254.1.</episode-num>
+</programme>
+<programme start="20250101220000 +0000" stop="20250102000000 +0000" channel="LI - Go 3 Sport 1">
+<title>Jaahoki: NHL. Panthers - Canadiens</title>
+<episode-num system="xmltv_ns">254.28.</episode-num>
+</programme>
+<programme start="20250102000000 +0000" stop="20250102030000 +0000" channel="LI - Go 3 Sport 1">
+<title>NBA korvpall. Bulls - Wizards</title>
+<episode-num system="xmltv_ns">.78.</episode-num>
+</programme>
 <programme start="20241231010000 +0000" stop="20241231050000 +0000" channel="LI - Go 3 Sport 2">
 <title>. Singles. Round 1</title>
 <episode-num system="xmltv_ns">254.5.</episode-num>
@@ -44235,6 +44382,1482 @@
 · Programa por determinar...
 </desc>
   </programme>
+  <programme start="20241231070000 +0100" stop="20241231110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231110000 +0100" stop="20241231150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231150000 +0100" stop="20241231190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231190000 +0100" stop="20241231230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231230000 +0100" stop="20250101030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101030000 +0100" stop="20250101070000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101070000 +0100" stop="20250101110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101110000 +0100" stop="20250101150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101150000 +0100" stop="20250101190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101190000 +0100" stop="20250101230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101230000 +0100" stop="20250102030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102030000 +0100" stop="20250102070000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102070000 +0100" stop="20250102110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102110000 +0100" stop="20250102150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102150000 +0100" stop="20250102190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102190000 +0100" stop="20250102230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102230000 +0100" stop="20250103030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103030000 +0100" stop="20250103070000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103070000 +0100" stop="20250103110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103110000 +0100" stop="20250103150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103150000 +0100" stop="20250103190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103190000 +0100" stop="20250103230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103230000 +0100" stop="20250104030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104030000 +0100" stop="20250104070000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104110000 +0100" stop="20250104150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104150000 +0100" stop="20250104190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104190000 +0100" stop="20250104230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104230000 +0100" stop="20250105030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105030000 +0100" stop="20250105070000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105070000 +0100" stop="20250105110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105110000 +0100" stop="20250105150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105150000 +0100" stop="20250105190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105190000 +0100" stop="20250105230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105230000 +0100" stop="20250106030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106030000 +0100" stop="20250106070000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106070000 +0100" stop="20250106110000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106110000 +0100" stop="20250106150000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106150000 +0100" stop="20250106190000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106190000 +0100" stop="20250106230000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106230000 +0100" stop="20250107030000 +0100" channel="LALIGA TV HYPERMOTION">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231070000 +0100" stop="20241231110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231110000 +0100" stop="20241231150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231150000 +0100" stop="20241231190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231190000 +0100" stop="20241231230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231230000 +0100" stop="20250101030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101030000 +0100" stop="20250101070000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101070000 +0100" stop="20250101110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101110000 +0100" stop="20250101150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101150000 +0100" stop="20250101190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101190000 +0100" stop="20250101230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101230000 +0100" stop="20250102030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102030000 +0100" stop="20250102070000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102070000 +0100" stop="20250102110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102110000 +0100" stop="20250102150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102150000 +0100" stop="20250102190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102190000 +0100" stop="20250102230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102230000 +0100" stop="20250103030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103030000 +0100" stop="20250103070000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103070000 +0100" stop="20250103110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103110000 +0100" stop="20250103150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103150000 +0100" stop="20250103190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103190000 +0100" stop="20250103230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103230000 +0100" stop="20250104030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104030000 +0100" stop="20250104070000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104070000 +0100" stop="20250104110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104110000 +0100" stop="20250104150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104150000 +0100" stop="20250104190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104190000 +0100" stop="20250104230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104230000 +0100" stop="20250105030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105030000 +0100" stop="20250105070000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105070000 +0100" stop="20250105110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105110000 +0100" stop="20250105150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105150000 +0100" stop="20250105190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105190000 +0100" stop="20250105230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105230000 +0100" stop="20250106030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106030000 +0100" stop="20250106070000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106070000 +0100" stop="20250106110000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106110000 +0100" stop="20250106150000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106150000 +0100" stop="20250106190000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106190000 +0100" stop="20250106230000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106230000 +0100" stop="20250107030000 +0100" channel="LaLiga TV HYPERMOTION ES">
+    <title lang="es">LALIGA TV HYPERMOTION</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231073000 +0100" stop="20241231113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231113000 +0100" stop="20241231153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231153000 +0100" stop="20241231193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231193000 +0100" stop="20241231233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231233000 +0100" stop="20250101033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101033000 +0100" stop="20250101073000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101073000 +0100" stop="20250101113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101113000 +0100" stop="20250101153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101153000 +0100" stop="20250101193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101193000 +0100" stop="20250101233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101233000 +0100" stop="20250102033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102033000 +0100" stop="20250102073000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102073000 +0100" stop="20250102113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102113000 +0100" stop="20250102153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102153000 +0100" stop="20250102193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102193000 +0100" stop="20250102233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102233000 +0100" stop="20250103033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103033000 +0100" stop="20250103073000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103073000 +0100" stop="20250103113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103113000 +0100" stop="20250103153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103153000 +0100" stop="20250103193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103193000 +0100" stop="20250103233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103233000 +0100" stop="20250104033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104033000 +0100" stop="20250104073000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104073000 +0100" stop="20250104113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104113000 +0100" stop="20250104153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104153000 +0100" stop="20250104193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104193000 +0100" stop="20250104233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105033000 +0100" stop="20250105073000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105073000 +0100" stop="20250105113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105113000 +0100" stop="20250105153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105153000 +0100" stop="20250105193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105193000 +0100" stop="20250105233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105233000 +0100" stop="20250106033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106033000 +0100" stop="20250106073000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106073000 +0100" stop="20250106113000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106113000 +0100" stop="20250106153000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106153000 +0100" stop="20250106193000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106193000 +0100" stop="20250106233000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106233000 +0100" stop="20250107033000 +0100" channel="LaLiga TV HYPERMOTION 2">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231073000 +0100" stop="20241231113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231113000 +0100" stop="20241231153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231153000 +0100" stop="20241231193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231193000 +0100" stop="20241231233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231233000 +0100" stop="20250101033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101033000 +0100" stop="20250101073000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101073000 +0100" stop="20250101113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101113000 +0100" stop="20250101153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101153000 +0100" stop="20250101193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101193000 +0100" stop="20250101233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101233000 +0100" stop="20250102033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102033000 +0100" stop="20250102073000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102073000 +0100" stop="20250102113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102113000 +0100" stop="20250102153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102153000 +0100" stop="20250102193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102193000 +0100" stop="20250102233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102233000 +0100" stop="20250103033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103033000 +0100" stop="20250103073000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103073000 +0100" stop="20250103113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103113000 +0100" stop="20250103153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103153000 +0100" stop="20250103193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103193000 +0100" stop="20250103233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103233000 +0100" stop="20250104033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104033000 +0100" stop="20250104073000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104073000 +0100" stop="20250104113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104113000 +0100" stop="20250104153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104153000 +0100" stop="20250104193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104193000 +0100" stop="20250104233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105033000 +0100" stop="20250105073000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105073000 +0100" stop="20250105113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105113000 +0100" stop="20250105153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105153000 +0100" stop="20250105193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105193000 +0100" stop="20250105233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105233000 +0100" stop="20250106033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106033000 +0100" stop="20250106073000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106073000 +0100" stop="20250106113000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106113000 +0100" stop="20250106153000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106153000 +0100" stop="20250106193000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106193000 +0100" stop="20250106233000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106233000 +0100" stop="20250107033000 +0100" channel="LaLiga TV HYPERMOTION 2 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 2</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231083000 +0100" stop="20241231123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231123000 +0100" stop="20241231163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231163000 +0100" stop="20241231203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231203000 +0100" stop="20250101003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101003000 +0100" stop="20250101043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101043000 +0100" stop="20250101083000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101123000 +0100" stop="20250101163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101163000 +0100" stop="20250101203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101203000 +0100" stop="20250102003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102003000 +0100" stop="20250102043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102043000 +0100" stop="20250102083000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102083000 +0100" stop="20250102123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102123000 +0100" stop="20250102163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102163000 +0100" stop="20250102203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102203000 +0100" stop="20250103003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103003000 +0100" stop="20250103043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103043000 +0100" stop="20250103083000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103083000 +0100" stop="20250103123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103123000 +0100" stop="20250103163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103163000 +0100" stop="20250103203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103203000 +0100" stop="20250104003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104003000 +0100" stop="20250104043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104043000 +0100" stop="20250104083000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104083000 +0100" stop="20250104123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104123000 +0100" stop="20250104163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104163000 +0100" stop="20250104203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104203000 +0100" stop="20250105003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105003000 +0100" stop="20250105043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105043000 +0100" stop="20250105083000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105083000 +0100" stop="20250105123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105123000 +0100" stop="20250105163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105163000 +0100" stop="20250105203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105203000 +0100" stop="20250106003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106003000 +0100" stop="20250106043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106043000 +0100" stop="20250106083000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106083000 +0100" stop="20250106123000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106123000 +0100" stop="20250106163000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106163000 +0100" stop="20250106203000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106203000 +0100" stop="20250107003000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250107003000 +0100" stop="20250107043000 +0100" channel="LaLiga TV HYPERMOTION 3">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231083000 +0100" stop="20241231123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231123000 +0100" stop="20241231163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231163000 +0100" stop="20241231203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20241231203000 +0100" stop="20250101003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101003000 +0100" stop="20250101043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101043000 +0100" stop="20250101083000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101123000 +0100" stop="20250101163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101163000 +0100" stop="20250101203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250101203000 +0100" stop="20250102003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102003000 +0100" stop="20250102043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102043000 +0100" stop="20250102083000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102083000 +0100" stop="20250102123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102123000 +0100" stop="20250102163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102163000 +0100" stop="20250102203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250102203000 +0100" stop="20250103003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103003000 +0100" stop="20250103043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103043000 +0100" stop="20250103083000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103083000 +0100" stop="20250103123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103123000 +0100" stop="20250103163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103163000 +0100" stop="20250103203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250103203000 +0100" stop="20250104003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104003000 +0100" stop="20250104043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104043000 +0100" stop="20250104083000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104083000 +0100" stop="20250104123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104123000 +0100" stop="20250104163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104163000 +0100" stop="20250104203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250104203000 +0100" stop="20250105003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105003000 +0100" stop="20250105043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105043000 +0100" stop="20250105083000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105083000 +0100" stop="20250105123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105123000 +0100" stop="20250105163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105163000 +0100" stop="20250105203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250105203000 +0100" stop="20250106003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106003000 +0100" stop="20250106043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106043000 +0100" stop="20250106083000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106083000 +0100" stop="20250106123000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106123000 +0100" stop="20250106163000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106163000 +0100" stop="20250106203000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250106203000 +0100" stop="20250107003000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
+  <programme start="20250107003000 +0100" stop="20250107043000 +0100" channel="LaLiga TV HYPERMOTION 3 ES">
+    <title lang="es">LALIGA TV HYPERMOTION 3</title>
+    <desc lang="es">
+· Programa por determinar...
+</desc>
+  </programme>
   <programme start="20241230050000 +0000" stop="20241230071000 +0000" channel="DAZN 1 FR">
     <title lang="fr">Gravelines-Dunkerque / Dijon</title>
     <sub-title lang="fr">Betclic Elite - 14e journée</sub-title>
@@ -45143,5 +46766,872 @@
     <premiere />  <rating system="CSA">
       <value>1</value>
     </rating>
+  </programme>
+  <programme start="20241231232000 +0100" stop="20250101013500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Oberstdorf, Nemecko - muži, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101013500 +0100" stop="20250101032500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Svetový pohár Super G muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - Super G muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101032500 +0100" stop="20250101053000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Svetový pohár zjazd muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár muži - zjazd.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101053000 +0100" stop="20250101064000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Bedminton World Tour</title>
+    <sub-title lang="cs">World Tour Finals - Hangzhou, Čína - dvojhra muži: Antonsen - Shi - 15.12.2024</sub-title>
+    <desc lang="cs">Záznam bedmintonových zápasov Bedminton World Tour.</desc>
+    <category lang="cs">Sport</category>
+    <episode-num system="onscreen">E207</episode-num>
+  </programme>
+  <programme start="20250101064000 +0100" stop="20250101083000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - muži, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101085000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101085000 +0100" stop="20250101120000 +0100" channel="JOJSport.sk">
+    <title lang="cs">IIHF MS juniorov</title>
+    <sub-title lang="cs">Slovensko - Kazachstan</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101120000 +0100" stop="20250101144500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Hokej - Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Priamy prenos hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101144500 +0100" stop="20250101161500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km ženy</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101161500 +0100" stop="20250101183000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen - ženy, veľký mostík HS142</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101183000 +0100" stop="20250101201000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km muži</sub-title>
+    <desc lang="cs">Premiérový záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101201000 +0100" stop="20250101205000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Hokej - Zostrihy Tipos Extraligy</title>
+    <sub-title lang="cs">33. kolo</sub-title>
+    <desc lang="cs">Záznam highlightov hokejovej Tipos Extraligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101205000 +0100" stop="20250101213500 +0100" channel="JOJSport.sk">
+    <title lang="cs">O baskete</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101213500 +0100" stop="20250101235000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101235000 +0100" stop="20250102015500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Chongqing, Čína - exhibícia</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102015500 +0100" stop="20250102064500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Parkúrové jazdectvo</title>
+    <sub-title lang="cs">Nations Cup</sub-title>
+    <desc lang="cs">Záznam pretekov parkúrového jazdectva.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102064500 +0100" stop="20250102080000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Squash - PSA World Tour</title>
+    <sub-title lang="cs">Hong Kong Open - 1. semifinále žien</sub-title>
+    <desc lang="cs">Záznam svetového turné profesionálnych squashových zápasov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102080000 +0100" stop="20250102102500 +0100" channel="JOJSport.sk">
+    <title lang="cs">IIHF MS juniorov</title>
+    <sub-title lang="cs">Slovensko - Kazachstan</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102102500 +0100" stop="20250102122500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 15km Pursuit Classic muži</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102122500 +0100" stop="20250102135500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 15km Pursuit Classic ženy</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102135500 +0100" stop="20250102161000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen, Nemecko - muži, veľký mostík HS142</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102161000 +0100" stop="20250102181000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - ženy, veľký mostík HS137</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102181000 +0100" stop="20250102204500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Svetový pohár Super G muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - Super G muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102204500 +0100" stop="20250102232000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102232000 +0100" stop="20250103012000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km muži</sub-title>
+    <desc lang="cs">Záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103012000 +0100" stop="20250103034500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen - ženy, veľký mostík HS142</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103034500 +0100" stop="20250103063000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Parkúrové jazdectvo</title>
+    <sub-title lang="cs">Gold Grand Prix</sub-title>
+    <desc lang="cs">Záznam pretekov parkúrového jazdectva.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103063000 +0100" stop="20250103085500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Fribourg-Gottéron - Dynamo Pardubice</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103085500 +0100" stop="20250103105500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen, Nemecko - muži, veľký mostík HS142</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103105500 +0100" stop="20250103124500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - ženy, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103124500 +0100" stop="20250103153000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Kärpät Oulu - Fribourg-Gottéron</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103153000 +0100" stop="20250103174000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Basketbal - Tipos SBL</title>
+    <sub-title lang="cs">Nitra Blue Wings - Inter Bratislava</sub-title>
+    <desc lang="cs">Záznam basketbalového zápasu Slovenskej basketbalovej ligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103174000 +0100" stop="20250103180500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103180500 +0100" stop="20250103210000 +0100" channel="JOJSport.sk">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 1</sub-title>
+    <desc lang="cs">Priamy prenos zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103210000 +0100" stop="20250103230500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km ženy</sub-title>
+    <desc lang="cs">Záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103230500 +0100" stop="20250104014500 +0100" channel="JOJSport.sk">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 2</sub-title>
+    <desc lang="cs">Priamy prenos zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104014500 +0100" stop="20250104024500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Grenoble, Francúzsko - voľná jazda: ženy</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104024500 +0100" stop="20250104035500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Grenoble, Francúzsko - voľná jazda: muži</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104035500 +0100" stop="20250104055000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Futbal - Európska konferenčná liga</title>
+    <sub-title lang="cs">Chelsea FC - Shamrock Rovers</sub-title>
+    <desc lang="cs">Záznam futbalového zápasu UEFA.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104055000 +0100" stop="20250104084500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Straubing Tigers - HC Davos</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104084500 +0100" stop="20250104100500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Svetový pohár obrovský slalom muži</title>
+    <sub-title lang="cs">Alta Badia, Taliansko - 1. kolo</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - obrovský slalom muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104100500 +0100" stop="20250104112500 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Svetový pohár obrovský slalom muži</title>
+    <sub-title lang="cs">Alta Badia, Taliansko - 2. kolo</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - obrovský slalom muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104112500 +0100" stop="20250104115000 +0100" channel="JOJSport.sk">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104115000 +0100" stop="20250104144000 +0100" channel="JOJSport.sk">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 1</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104144000 +0100" stop="20250104170000 +0100" channel="JOJSport.sk">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Val Di Fiemme, Taliansko - Šprint Classic</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104170000 +0100" stop="20250104172500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">Tipos extraliga</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104172500 +0100" stop="20250104210500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Hokej - Extraliga</title>
+    <sub-title lang="cs">HC Košice - HK 32 Liptovský Mikuláš</sub-title>
+    <desc lang="cs">Priamy prenos dohrávky 29. kola hokejovej extraligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104210500 +0100" stop="20250104233000 +0100" channel="JOJSport.sk">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 2</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105020500 +0100" channel="JOJSport.sk">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Dynamo Pardubice - Kärpät Oulu</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20241231232000 +0100" stop="20250101013500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Oberstdorf, Nemecko - muži, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101013500 +0100" stop="20250101032500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Svetový pohár Super G muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - Super G muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101032500 +0100" stop="20250101053000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Svetový pohár zjazd muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár muži - zjazd.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101053000 +0100" stop="20250101064000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Bedminton World Tour</title>
+    <sub-title lang="cs">World Tour Finals - Hangzhou, Čína - dvojhra muži: Antonsen - Shi - 15.12.2024</sub-title>
+    <desc lang="cs">Záznam bedmintonových zápasov Bedminton World Tour.</desc>
+    <category lang="cs">Sport</category>
+    <episode-num system="onscreen">E207</episode-num>
+  </programme>
+  <programme start="20250101064000 +0100" stop="20250101083000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - muži, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101085000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101085000 +0100" stop="20250101120000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">IIHF MS juniorov</title>
+    <sub-title lang="cs">Slovensko - Kazachstan</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101120000 +0100" stop="20250101144500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Hokej - Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Priamy prenos hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101144500 +0100" stop="20250101161500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km ženy</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101161500 +0100" stop="20250101183000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen - ženy, veľký mostík HS142</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101183000 +0100" stop="20250101201000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km muži</sub-title>
+    <desc lang="cs">Premiérový záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101201000 +0100" stop="20250101205000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Hokej - Zostrihy Tipos Extraligy</title>
+    <sub-title lang="cs">33. kolo</sub-title>
+    <desc lang="cs">Záznam highlightov hokejovej Tipos Extraligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101205000 +0100" stop="20250101213500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">O baskete</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101213500 +0100" stop="20250101235000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101235000 +0100" stop="20250102015500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Chongqing, Čína - exhibícia</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102015500 +0100" stop="20250102064500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Parkúrové jazdectvo</title>
+    <sub-title lang="cs">Nations Cup</sub-title>
+    <desc lang="cs">Záznam pretekov parkúrového jazdectva.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102064500 +0100" stop="20250102080000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Squash - PSA World Tour</title>
+    <sub-title lang="cs">Hong Kong Open - 1. semifinále žien</sub-title>
+    <desc lang="cs">Záznam svetového turné profesionálnych squashových zápasov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102080000 +0100" stop="20250102102500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">IIHF MS juniorov</title>
+    <sub-title lang="cs">Slovensko - Kazachstan</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102102500 +0100" stop="20250102122500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 15km Pursuit Classic muži</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102122500 +0100" stop="20250102135500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 15km Pursuit Classic ženy</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102135500 +0100" stop="20250102161000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen, Nemecko - muži, veľký mostík HS142</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102161000 +0100" stop="20250102181000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - ženy, veľký mostík HS137</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102181000 +0100" stop="20250102204500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Svetový pohár Super G muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - Super G muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102204500 +0100" stop="20250102232000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102232000 +0100" stop="20250103012000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km muži</sub-title>
+    <desc lang="cs">Záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103012000 +0100" stop="20250103034500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen - ženy, veľký mostík HS142</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103034500 +0100" stop="20250103063000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Parkúrové jazdectvo</title>
+    <sub-title lang="cs">Gold Grand Prix</sub-title>
+    <desc lang="cs">Záznam pretekov parkúrového jazdectva.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103063000 +0100" stop="20250103085500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Fribourg-Gottéron - Dynamo Pardubice</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103085500 +0100" stop="20250103105500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen, Nemecko - muži, veľký mostík HS142</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103105500 +0100" stop="20250103124500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - ženy, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103124500 +0100" stop="20250103153000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Kärpät Oulu - Fribourg-Gottéron</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103153000 +0100" stop="20250103174000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Basketbal - Tipos SBL</title>
+    <sub-title lang="cs">Nitra Blue Wings - Inter Bratislava</sub-title>
+    <desc lang="cs">Záznam basketbalového zápasu Slovenskej basketbalovej ligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103174000 +0100" stop="20250103180500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103180500 +0100" stop="20250103210000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 1</sub-title>
+    <desc lang="cs">Priamy prenos zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103210000 +0100" stop="20250103230500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km ženy</sub-title>
+    <desc lang="cs">Záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103230500 +0100" stop="20250104014500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 2</sub-title>
+    <desc lang="cs">Priamy prenos zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104014500 +0100" stop="20250104024500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Grenoble, Francúzsko - voľná jazda: ženy</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104024500 +0100" stop="20250104035500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Grenoble, Francúzsko - voľná jazda: muži</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104035500 +0100" stop="20250104055000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Futbal - Európska konferenčná liga</title>
+    <sub-title lang="cs">Chelsea FC - Shamrock Rovers</sub-title>
+    <desc lang="cs">Záznam futbalového zápasu UEFA.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104055000 +0100" stop="20250104084500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Straubing Tigers - HC Davos</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104084500 +0100" stop="20250104100500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Svetový pohár obrovský slalom muži</title>
+    <sub-title lang="cs">Alta Badia, Taliansko - 1. kolo</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - obrovský slalom muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104100500 +0100" stop="20250104112500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Svetový pohár obrovský slalom muži</title>
+    <sub-title lang="cs">Alta Badia, Taliansko - 2. kolo</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - obrovský slalom muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104112500 +0100" stop="20250104115000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104115000 +0100" stop="20250104144000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 1</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104144000 +0100" stop="20250104170000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Val Di Fiemme, Taliansko - Šprint Classic</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104170000 +0100" stop="20250104172500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">Tipos extraliga</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104172500 +0100" stop="20250104210500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Hokej - Extraliga</title>
+    <sub-title lang="cs">HC Košice - HK 32 Liptovský Mikuláš</sub-title>
+    <desc lang="cs">Priamy prenos dohrávky 29. kola hokejovej extraligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104210500 +0100" stop="20250104233000 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 2</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105020500 +0100" channel="JOJ Šport 🇸🇰">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Dynamo Pardubice - Kärpät Oulu</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20241231232000 +0100" stop="20250101013500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Oberstdorf, Nemecko - muži, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101013500 +0100" stop="20250101032500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Svetový pohár Super G muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - Super G muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101032500 +0100" stop="20250101053000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Svetový pohár zjazd muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár muži - zjazd.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101053000 +0100" stop="20250101064000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Bedminton World Tour</title>
+    <sub-title lang="cs">World Tour Finals - Hangzhou, Čína - dvojhra muži: Antonsen - Shi - 15.12.2024</sub-title>
+    <desc lang="cs">Záznam bedmintonových zápasov Bedminton World Tour.</desc>
+    <category lang="cs">Sport</category>
+    <episode-num system="onscreen">E207</episode-num>
+  </programme>
+  <programme start="20250101064000 +0100" stop="20250101083000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - muži, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101085000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101085000 +0100" stop="20250101120000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">IIHF MS juniorov</title>
+    <sub-title lang="cs">Slovensko - Kazachstan</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101120000 +0100" stop="20250101144500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Hokej - Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Priamy prenos hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101144500 +0100" stop="20250101161500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km ženy</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101161500 +0100" stop="20250101183000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen - ženy, veľký mostík HS142</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101183000 +0100" stop="20250101201000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km muži</sub-title>
+    <desc lang="cs">Premiérový záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101201000 +0100" stop="20250101205000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Hokej - Zostrihy Tipos Extraligy</title>
+    <sub-title lang="cs">33. kolo</sub-title>
+    <desc lang="cs">Záznam highlightov hokejovej Tipos Extraligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101205000 +0100" stop="20250101213500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">O baskete</title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101213500 +0100" stop="20250101235000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250101235000 +0100" stop="20250102015500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Chongqing, Čína - exhibícia</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102015500 +0100" stop="20250102064500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Parkúrové jazdectvo</title>
+    <sub-title lang="cs">Nations Cup</sub-title>
+    <desc lang="cs">Záznam pretekov parkúrového jazdectva.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102064500 +0100" stop="20250102080000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Squash - PSA World Tour</title>
+    <sub-title lang="cs">Hong Kong Open - 1. semifinále žien</sub-title>
+    <desc lang="cs">Záznam svetového turné profesionálnych squashových zápasov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102080000 +0100" stop="20250102102500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">IIHF MS juniorov</title>
+    <sub-title lang="cs">Slovensko - Kazachstan</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102102500 +0100" stop="20250102122500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 15km Pursuit Classic muži</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102122500 +0100" stop="20250102135500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 15km Pursuit Classic ženy</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102135500 +0100" stop="20250102161000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen, Nemecko - muži, veľký mostík HS142</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102161000 +0100" stop="20250102181000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - ženy, veľký mostík HS137</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102181000 +0100" stop="20250102204500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Svetový pohár Super G muži</title>
+    <sub-title lang="cs">Bormio, Taliansko</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - Super G muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102204500 +0100" stop="20250102232000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Finále</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250102232000 +0100" stop="20250103012000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km muži</sub-title>
+    <desc lang="cs">Záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103012000 +0100" stop="20250103034500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen - ženy, veľký mostík HS142</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103034500 +0100" stop="20250103063000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Parkúrové jazdectvo</title>
+    <sub-title lang="cs">Gold Grand Prix</sub-title>
+    <desc lang="cs">Záznam pretekov parkúrového jazdectva.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103063000 +0100" stop="20250103085500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Fribourg-Gottéron - Dynamo Pardubice</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103085500 +0100" stop="20250103105500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Turné štyroch mostíkov: Garmisch-Partenkirchen, Nemecko - muži, veľký mostík HS142</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103105500 +0100" stop="20250103124500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Skoky na lyžiach</title>
+    <sub-title lang="cs">Oberstdorf, Nemecko - ženy, veľký mostík HS137</sub-title>
+    <desc lang="cs">Záznam z FIS Skoky na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103124500 +0100" stop="20250103153000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Kärpät Oulu - Fribourg-Gottéron</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103153000 +0100" stop="20250103174000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Basketbal - Tipos SBL</title>
+    <sub-title lang="cs">Nitra Blue Wings - Inter Bratislava</sub-title>
+    <desc lang="cs">Záznam basketbalového zápasu Slovenskej basketbalovej ligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103174000 +0100" stop="20250103180500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103180500 +0100" stop="20250103210000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 1</sub-title>
+    <desc lang="cs">Priamy prenos zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103210000 +0100" stop="20250103230500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Toblach, Taliansko - 20km ženy</sub-title>
+    <desc lang="cs">Záznam z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250103230500 +0100" stop="20250104014500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 2</sub-title>
+    <desc lang="cs">Priamy prenos zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104014500 +0100" stop="20250104024500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Grenoble, Francúzsko - voľná jazda: ženy</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104024500 +0100" stop="20250104035500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Krasokorčuľovanie ISU Grand Prix</title>
+    <sub-title lang="cs">Grenoble, Francúzsko - voľná jazda: muži</sub-title>
+    <desc lang="cs">Záznam krasokorčuliarskeho podujatia z ISU Grand Prix.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104035500 +0100" stop="20250104055000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Futbal - Európska konferenčná liga</title>
+    <sub-title lang="cs">Chelsea FC - Shamrock Rovers</sub-title>
+    <desc lang="cs">Záznam futbalového zápasu UEFA.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104055000 +0100" stop="20250104084500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Straubing Tigers - HC Davos</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104084500 +0100" stop="20250104100500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Svetový pohár obrovský slalom muži</title>
+    <sub-title lang="cs">Alta Badia, Taliansko - 1. kolo</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - obrovský slalom muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104100500 +0100" stop="20250104112500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Svetový pohár obrovský slalom muži</title>
+    <sub-title lang="cs">Alta Badia, Taliansko - 2. kolo</sub-title>
+    <desc lang="cs">Záznam z FIS Svetový pohár - obrovský slalom muži.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104112500 +0100" stop="20250104115000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">IIHF MS juniorov 2025</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104115000 +0100" stop="20250104144000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 1</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104144000 +0100" stop="20250104170000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">FIS Beh na lyžiach</title>
+    <sub-title lang="cs">Val Di Fiemme, Taliansko - Šprint Classic</sub-title>
+    <desc lang="cs">Priamy prenos z FIS Beh na lyžiach.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104170000 +0100" stop="20250104172500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Štúdio Hokej</title>
+    <sub-title lang="cs">Tipos extraliga</sub-title>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104172500 +0100" stop="20250104210500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Hokej - Extraliga</title>
+    <sub-title lang="cs">HC Košice - HK 32 Liptovský Mikuláš</sub-title>
+    <desc lang="cs">Priamy prenos dohrávky 29. kola hokejovej extraligy.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104210500 +0100" stop="20250104233000 +0100" channel="JOJ Šport SK">
+    <title lang="cs">IIHF MS juniorov 2025</title>
+    <sub-title lang="cs">Štvrťfinále 2</sub-title>
+    <desc lang="cs">Záznam zápasu Majstrovstviev sveta v ľadovom hokeji hráčov do 20 rokov.</desc>
+    <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105020500 +0100" channel="JOJ Šport SK">
+    <title lang="cs">Spengler Cup</title>
+    <sub-title lang="cs">Dynamo Pardubice - Kärpät Oulu</sub-title>
+    <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
+    <category lang="cs">Sport</category>
   </programme>
 </tv>
