@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 30/12/2024 23:44" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 31/12/2024 00:28" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -355,7 +355,7 @@
   </channel>
   <channel id="NBA TV">
     <display-name>NBA TV</display-name>
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%20NBA.png" />
   </channel>
   <channel id="Red Bull TV">
     <display-name>Red Bull TV</display-name>
@@ -41300,678 +41300,666 @@
 · Aus dem HBF Park in Perth, Australien.
 </desc>
   </programme>
-  <programme start="20241230060000 -0500" stop="20241230063000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230063000 -0500" stop="20241230070000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230070000 -0500" stop="20241230073000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230073000 -0500" stop="20241230080000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230080000 -0500" stop="20241230083000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230083000 -0500" stop="20241230090000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230090000 -0500" stop="20241230093000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Sunday, December 29.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230093000 -0500" stop="20241230113000 -0500" channel="NBA TV">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">Cleveland Cavaliers vs. Sacramento Kings</sub-title>
-    <desc lang="en">LeBron James&apos; first professional game where he put up 25 points, 6 rebounds and 9 assists. From Oct. 29, 2003.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241230113000 -0500" stop="20241230123000 -0500" channel="NBA TV">
-    <title lang="en">High Tops</title>
-    <sub-title lang="en">Best of LeBron James</sub-title>
-    <desc lang="en">We highlight the top plays and moments from the legendary career of LeBron James in his quest to become the NBA&apos;s all-time leading scorer.</desc>
-    <credits>
-      <actor>Chris Miles</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241230123000 -0500" stop="20241230143000 -0500" channel="NBA TV">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">Charlotte Bobcats at Miami Heat</sub-title>
-    <desc lang="en">From March 3, 2014. LeBron James scores 61 points to lead Miami.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241230143000 -0500" stop="20241230163000 -0500" channel="NBA TV">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">2016: Golden State Warriors at Cleveland Cavaliers</sub-title>
-    <desc lang="en">2016 NBA Finals, Game 6. From June 16, 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241230163000 -0500" stop="20241230173000 -0500" channel="NBA TV">
-    <title lang="en">Run It Back</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241230173000 -0500" stop="20241230183000 -0500" channel="NBA TV">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">2012: Miami Heat at Boston Celtics - Popcast</sub-title>
-    <desc lang="en">Game 6 of the 2012 Eastern Conference Finals. From June 7, 2012.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241230183000 -0500" stop="20241230190000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Pregame Show</title>
-    <desc lang="en">Preview of tonight&apos;s game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230190000 -0500" stop="20241230213000 -0500" channel="NBA TV">
-    <title lang="en">Live: NBA Basketball</title>
-    <sub-title lang="en">New York Knicks at Washington Wizards</sub-title>
-    <desc lang="en">The Knicks and Wizards end a two-game set in the nation&apos;s capital. New York guard Josh Hart may be a part of the Villanova crew with Jalen Brunson and Mikal Bridges, but he was born in Silver Spring, Md., and went to high school in Washington, D.C.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+  <programme start="20241230000000 +0000" stop="20241230023000 +0000" channel="NBA TV">
+    <title lang="es">Memphis Grizzlies x Oklahoma City Thunder: NBA T1 · Memphis Grizzlies x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Memphis Grizzlies e Oklahoma City Thunder.
+· País: EE.UU.</desc>
   </programme>
-  <programme start="20241230213000 -0500" stop="20241230220000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241230220000 -0500" stop="20241231003000 -0500" channel="NBA TV">
-    <title lang="en">Live: NBA Basketball</title>
-    <sub-title lang="en">Dallas Mavericks at Sacramento Kings</sub-title>
-    <desc lang="en">The Mavericks continue to adjust to life without Luka Doncic as they visit the Kings. Doncic suffered a calf strain in Dallas&apos; Christmas Day loss to Minnesota and is expected to be out for a month. Sacramento fired coach Mike Brown on Dec. 27.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+  <programme start="20241230023000 +0000" stop="20241230043000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · seg 30-dez, 02:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
   </programme>
-  <programme start="20241231003000 -0500" stop="20241231013000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Postgame Show</title>
-    <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231013000 -0500" stop="20241231020000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231020000 -0500" stop="20241231030000 -0500" channel="NBA TV">
-    <title lang="en">High Tops</title>
-    <sub-title lang="en">Best of LeBron James</sub-title>
-    <desc lang="en">We highlight the top plays and moments from the legendary career of LeBron James in his quest to become the NBA&apos;s all-time leading scorer.</desc>
-    <credits>
-      <actor>Chris Miles</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231030000 -0500" stop="20241231033000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231033000 -0500" stop="20241231060000 -0500" channel="NBA TV">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">New York Knicks at Washington Wizards</sub-title>
-    <desc lang="en">The Knicks and Wizards end a two-game set in the nation&apos;s capital. New York guard Josh Hart may be a part of the Villanova crew with Jalen Brunson and Mikal Bridges, but he was born in Silver Spring, Md., and went to high school in Washington, D.C.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231060000 -0500" stop="20241231063000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231063000 -0500" stop="20241231070000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231070000 -0500" stop="20241231073000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231073000 -0500" stop="20241231080000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231080000 -0500" stop="20241231083000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231083000 -0500" stop="20241231090000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231090000 -0500" stop="20241231093000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231093000 -0500" stop="20241231100000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231100000 -0500" stop="20241231103000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231103000 -0500" stop="20241231110000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231110000 -0500" stop="20241231113000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Monday, December 30.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231113000 -0500" stop="20241231140000 -0500" channel="NBA TV">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Dallas Mavericks at Sacramento Kings</sub-title>
-    <desc lang="en">The Mavericks continue to adjust to life without Luka Doncic as they visit the Kings. Doncic suffered a calf strain in Dallas&apos; Christmas Day loss to Minnesota and is expected to be out for a month. Sacramento fired coach Mike Brown on Dec. 27.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231140000 -0500" stop="20241231160000 -0500" channel="NBA TV">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">2016: Golden State Warriors at Cleveland Cavaliers</sub-title>
-    <desc lang="en">2016 NBA Finals, Game 6. From June 16, 2016.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231160000 -0500" stop="20241231170000 -0500" channel="NBA TV">
-    <title lang="en">Run It Back</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231170000 -0500" stop="20241231173000 -0500" channel="NBA TV">
-    <title lang="en">High Tops</title>
-    <sub-title lang="en">Best of NBA Cup</sub-title>
-    <desc lang="en">A look at the best of the NBA Cup.</desc>
-    <credits>
-      <actor>Chris Miles</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231173000 -0500" stop="20241231193000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20241231193000 -0500" stop="20241231200000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Pregame Show</title>
-    <desc lang="en">Preview of tonight&apos;s game.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231200000 -0500" stop="20241231223000 -0500" channel="NBA TV">
-    <title lang="en">Live: NBA Basketball</title>
-    <sub-title lang="en">Minnesota Timberwolves at Oklahoma City Thunder</sub-title>
-    <desc lang="en">Northwest Division rivals duel for the first time this season as the Thunder host the Timberwolves. The two split four 2023-24 meetings, with Minnesota earning an NBA Cup win. Oklahoma City&apos;s Shai Gilgeous-Alexander averaged 34 points in those games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
+  <programme start="20241230043000 +0000" stop="20241230050000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 04:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
   </programme>
-  <programme start="20241231223000 -0500" stop="20241231233000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Postgame Show</title>
-    <desc lang="en">Review of the game; highlights; interviews with players and coaches.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20241231233000 -0500" stop="20250101000000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101000000 -0500" stop="20250101003000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101003000 -0500" stop="20250101010000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101010000 -0500" stop="20250101013000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101013000 -0500" stop="20250101020000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101020000 -0500" stop="20250101023000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101023000 -0500" stop="20250101030000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101030000 -0500" stop="20250101053000 -0500" channel="NBA TV">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Minnesota Timberwolves at Oklahoma City Thunder</sub-title>
-    <desc lang="en">Northwest Division rivals duel for the first time this season as the Thunder host the Timberwolves. The two split four 2023-24 meetings, with Minnesota earning an NBA Cup win. Oklahoma City&apos;s Shai Gilgeous-Alexander averaged 34 points in those games.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250101053000 -0500" stop="20250101060000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101060000 -0500" stop="20250101063000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101063000 -0500" stop="20250101070000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101070000 -0500" stop="20250101073000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101073000 -0500" stop="20250101080000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101080000 -0500" stop="20250101083000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101083000 -0500" stop="20250101090000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101090000 -0500" stop="20250101093000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101093000 -0500" stop="20250101100000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101100000 -0500" stop="20250101103000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101103000 -0500" stop="20250101110000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101110000 -0500" stop="20250101113000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101113000 -0500" stop="20250101120000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Tuesday, December 31.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250101120000 -0500" stop="20250101140000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250101140000 -0500" stop="20250101160000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250101160000 -0500" stop="20250101170000 -0500" channel="NBA TV">
-    <title lang="en">Run It Back</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250101170000 -0500" stop="20250101190000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250101190000 -0500" stop="20250101193000 -0500" channel="NBA TV">
-    <title lang="en">High Tops</title>
-    <sub-title lang="en">Best of NBA Cup</sub-title>
-    <desc lang="en">A look at the best of the NBA Cup.</desc>
-    <credits>
-      <actor>Chris Miles</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250101193000 -0500" stop="20250101210000 -0500" channel="NBA TV">
-    <title lang="en">The Announcement</title>
-    <desc lang="en">At 32 years of age, Earvin &quot;Magic&quot; Johnson makes the stunning announcement that he is HIV-positive and will be retiring from the NBA immediately. Two decades later, Magic has defied the odds and continues to thrive.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
+  <programme start="20241230050000 +0000" stop="20241230053000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 05:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
   </programme>
-  <programme start="20250101210000 -0500" stop="20250102000000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102000000 -0500" stop="20250102010000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime Live</title>
-    <desc lang="en">Featuring a deep rotation of top basketball analysts who share the latest news, scores, highlights and analysis surrounding the leading storylines from around the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102010000 -0500" stop="20250102013000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102013000 -0500" stop="20250102020000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102020000 -0500" stop="20250102023000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102023000 -0500" stop="20250102030000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102030000 -0500" stop="20250102033000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102033000 -0500" stop="20250102040000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102040000 -0500" stop="20250102043000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102043000 -0500" stop="20250102050000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102050000 -0500" stop="20250102053000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102053000 -0500" stop="20250102060000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102060000 -0500" stop="20250102063000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102063000 -0500" stop="20250102070000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102070000 -0500" stop="20250102073000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102073000 -0500" stop="20250102080000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102080000 -0500" stop="20250102083000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102083000 -0500" stop="20250102090000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102090000 -0500" stop="20250102093000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102093000 -0500" stop="20250102100000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102100000 -0500" stop="20250102103000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102103000 -0500" stop="20250102110000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102110000 -0500" stop="20250102113000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102113000 -0500" stop="20250102120000 -0500" channel="NBA TV">
-    <title lang="en">NBA GameTime</title>
-    <desc lang="en">The latest NBA news, scores and highlights from Wednesday, January 1.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <previously-shown /></programme>
-  <programme start="20250102120000 -0500" stop="20250102140000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102140000 -0500" stop="20250102160000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102160000 -0500" stop="20250102170000 -0500" channel="NBA TV">
-    <title lang="en">Run It Back</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102170000 -0500" stop="20250102190000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102190000 -0500" stop="20250102193000 -0500" channel="NBA TV">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
+  <programme start="20241230053000 +0000" stop="20241230073000 +0000" channel="NBA TV">
+    <title lang="es">Memphis Grizzlies x Oklahoma City Thunder: NBA T1 · Memphis Grizzlies x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Memphis Grizzlies e Oklahoma City Thunder.
+· País: EE.UU.</desc>
   </programme>
-  <programme start="20250102193000 -0500" stop="20250102200000 -0500" channel="NBA TV">
-    <title lang="en">NBA Special</title>
-    <sub-title lang="en">Point Gods of Puerto Rico</sub-title>
-    <desc lang="en">Nuyorican legend Bobbito Garcia sits down with some of Puerto Rico&apos;s finest -- Carlos Arroyo, J.J. Barea and Jose Alvarado -- to discuss the history of the Point Guard on the island.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102200000 -0500" stop="20250102203000 -0500" channel="NBA TV">
-    <title lang="en">High Tops</title>
-    <sub-title lang="en">Best of NBA Cup</sub-title>
-    <desc lang="en">A look at the best of the NBA Cup.</desc>
-    <credits>
-      <actor>Chris Miles</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102203000 -0500" stop="20250102213000 -0500" channel="NBA TV">
-    <title lang="en">High Tops</title>
-    <sub-title lang="en">Best of LeBron James</sub-title>
-    <desc lang="en">We highlight the top plays and moments from the legendary career of LeBron James in his quest to become the NBA&apos;s all-time leading scorer.</desc>
-    <credits>
-      <actor>Chris Miles</actor>
-    </credits>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250102213000 -0500" stop="20250102220000 -0500" channel="NBA TV">
-    <title lang="en">NBA Action</title>
-    <desc lang="en">A weekly look back at the top news and highlights in the NBA.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
+  <programme start="20241230073000 +0000" stop="20241230080000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 07:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
   </programme>
-  <programme start="20250102220000 -0500" stop="20250103000000 -0500" channel="NBA TV">
-    <title lang="en">Hardwood Classics</title>
-    <sub-title lang="en">2014: Charlotte Bobcats at New York Knicks</sub-title>
-    <desc lang="en">From Jan. 24, 2014.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250103000000 -0500" stop="20250103020000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250103020000 -0500" stop="20250103040000 -0500" channel="NBA TV">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <desc lang="en">The best match-up of the week from around the Association.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
-  <programme start="20250103040000 -0500" stop="20250103050000 -0500" channel="NBA TV">
-    <title lang="en">Inside the NBA</title>
-    <desc lang="en">Ernie Johnson, Charles Barkley, Kenny Smith and Shaquille O&apos;Neal discuss and give analysis of tonight&apos;s games, including highlights and interviews.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Basketball</category>
-    <previously-shown /></programme>
+  <programme start="20241230080000 +0000" stop="20241230083000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 08:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230083000 +0000" stop="20241230090000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 08:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230090000 +0000" stop="20241230093000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 09:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230093000 +0000" stop="20241230100000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 09:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230100000 +0000" stop="20241230103000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 10:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230103000 +0000" stop="20241230110000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 10:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230110000 +0000" stop="20241230130000 +0000" channel="NBA TV">
+    <title lang="es">Memphis Grizzlies x Oklahoma City Thunder: NBA T1 · Memphis Grizzlies x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Memphis Grizzlies e Oklahoma City Thunder.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230130000 +0000" stop="20241230133000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 13:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230133000 +0000" stop="20241230140000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 13:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230140000 +0000" stop="20241230143000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 14:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230143000 +0000" stop="20241230150000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 14:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230150000 +0000" stop="20241230153000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 15:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230153000 +0000" stop="20241230160000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · seg 30-dez, 15:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230160000 +0000" stop="20241230180000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · seg 30-dez, 16:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230180000 +0000" stop="20241230183000 +0000" channel="NBA TV">
+    <title lang="es">Stephen Curry: The Art Of The 3 T1 · seg 30-dez, 18:00</title>
+    <desc lang="es">Desporto | 2021 | +12
+· A lenda do Pacers, Reggie Miller, que está no top 3 de mais arremessos de três pontos de todos os tempos, e o superastro dos Warriors, Stephen Curry, que já ultrapassou Miller e Ray Allen, discutem essa arte.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230183000 +0000" stop="20241230203000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · seg 30-dez, 18:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230203000 +0000" stop="20241230223000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · seg 30-dez, 20:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241230223000 +0000" stop="20241230230000 +0000" channel="NBA TV">
+    <title lang="es">NBA Special T1 · NBA 75 the Celebration</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· Espaço dedicado à transmissão de programação especial da NBA!
+</desc>
+  </programme>
+  <programme start="20241230230000 +0000" stop="20241230233000 +0000" channel="NBA TV">
+    <title lang="es">NBA Action T1 · seg 30-dez, 23:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | 2024 | +12
+· Magazine semanal dedicado à maior competição de basquetebol de Mundo.
+· País: EE.UU.
+· Reparto: Ian Eagle.</desc>
+  </programme>
+  <programme start="20241230233000 +0000" stop="20241231000000 +0000" channel="NBA TV">
+    <title lang="es">NBA Action T1 · seg 30-dez, 23:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | 2024 | +12
+· Magazine semanal dedicado à maior competição de basquetebol de Mundo.
+· País: EE.UU.
+· Reparto: Ian Eagle.</desc>
+  </programme>
+  <programme start="20241231000000 +0000" stop="20241231020000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · ter 31-dez, 00:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231020000 +0000" stop="20241231030000 +0000" channel="NBA TV">
+    <title lang="es">2023 High Tops T1 · Best of Lebron James</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· As melhores jogadas de 2023 da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231030000 +0000" stop="20241231053000 +0000" channel="NBA TV">
+    <title lang="es">Cleveland Cavaliers x Golden State Warriors: NBA T1 · Cleveland Cavaliers x Golden State Warriors</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Cleveland Cavaliers e Golden State Warriors.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231053000 +0000" stop="20241231063000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Rip City Revival T1 · ter 31-dez, 05:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· As histórias não contadas por trás dos Portland Trail Blazers de 1989-92 – uma pequena equipa que desafiou as expectativas e chegou a duas finais da NBA.
+</desc>
+  </programme>
+  <programme start="20241231063000 +0000" stop="20241231070000 +0000" channel="NBA TV">
+    <title lang="es">NBA Action T1 · ter 31-dez, 06:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | 2024 | +12
+· Magazine semanal dedicado à maior competição de basquetebol de Mundo.
+· País: EE.UU.
+· Reparto: Ian Eagle.</desc>
+  </programme>
+  <programme start="20241231070000 +0000" stop="20241231073000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 07:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231073000 +0000" stop="20241231080000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 07:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231080000 +0000" stop="20241231083000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 08:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231083000 +0000" stop="20241231103000 +0000" channel="NBA TV">
+    <title lang="es">Cleveland Cavaliers x Golden State Warriors: NBA T1 · Cleveland Cavaliers x Golden State Warriors</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Cleveland Cavaliers e Golden State Warriors.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231103000 +0000" stop="20241231110000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 10:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231110000 +0000" stop="20241231113000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 11:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231113000 +0000" stop="20241231120000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 11:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231120000 +0000" stop="20241231123000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 12:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231123000 +0000" stop="20241231130000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 12:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231130000 +0000" stop="20241231133000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 13:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231133000 +0000" stop="20241231140000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · ter 31-dez, 13:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231140000 +0000" stop="20241231160000 +0000" channel="NBA TV">
+    <title lang="es">Cleveland Cavaliers x Golden State Warriors: NBA T1 · Cleveland Cavaliers x Golden State Warriors</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Cleveland Cavaliers e Golden State Warriors.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231160000 +0000" stop="20241231180000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · ter 31-dez, 16:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231180000 +0000" stop="20241231200000 +0000" channel="NBA TV">
+    <title lang="es">Cleveland Cavaliers x Golden State Warriors: NBA T1 · Cleveland Cavaliers x Golden State Warriors</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do jogo da NBA, entre Cleveland Cavaliers e Golden State Warriors.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231200000 +0000" stop="20241231223000 +0000" channel="NBA TV">
+    <title lang="es">Toronto Raptors x Boston Celtics: NBA T1 · Toronto Raptors x Boston Celtics</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2024 | +12
+· Transmissão do confronto entre Toronto Raptors e Boston Celtics, referente à NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20241231223000 +0000" stop="20250101003000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · ter 31-dez, 22:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101003000 +0000" stop="20250101013000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Rip City Revival T1 · qua 1-jan, 00:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· As histórias não contadas por trás dos Portland Trail Blazers de 1989-92 – uma pequena equipa que desafiou as expectativas e chegou a duas finais da NBA.
+</desc>
+  </programme>
+  <programme start="20250101013000 +0000" stop="20250101033000 +0000" channel="NBA TV">
+    <title lang="es">Toronto Raptors x Boston Celtics: NBA T1 · Toronto Raptors x Boston Celtics</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do confronto entre Toronto Raptors e Boston Celtics, referente à NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101033000 +0000" stop="20250101040000 +0000" channel="NBA TV">
+    <title lang="es">NBA Action T1 · qua 1-jan, 03:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | 2024 | +12
+· Magazine semanal dedicado à maior competição de basquetebol de Mundo.
+· País: EE.UU.
+· Reparto: Ian Eagle.</desc>
+  </programme>
+  <programme start="20250101040000 +0000" stop="20250101050000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Shaq: The Rookie Season T1 · qua 1-jan, 04:00</title>
+    <desc lang="es">Desporto | +12
+· Um mergulho profundo nos jogadores icónicos, histórias, negócios e cultura da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101050000 +0000" stop="20250101053000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 05:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101053000 +0000" stop="20250101060000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 05:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101060000 +0000" stop="20250101063000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 06:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101063000 +0000" stop="20250101070000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 06:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101070000 +0000" stop="20250101073000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 07:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101073000 +0000" stop="20250101080000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 07:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101080000 +0000" stop="20250101083000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 08:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101083000 +0000" stop="20250101090000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 08:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101090000 +0000" stop="20250101110000 +0000" channel="NBA TV">
+    <title lang="es">Toronto Raptors x Boston Celtics: NBA T1 · Toronto Raptors x Boston Celtics</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do confronto entre Toronto Raptors e Boston Celtics, referente à NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101110000 +0000" stop="20250101130000 +0000" channel="NBA TV">
+    <title lang="es">NBA Special T1 · Toni Kukoc - The Magical Seven</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· Espaço dedicado à transmissão de programação especial da NBA!
+</desc>
+  </programme>
+  <programme start="20250101130000 +0000" stop="20250101133000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 13:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101133000 +0000" stop="20250101140000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 13:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101140000 +0000" stop="20250101143000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 14:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101143000 +0000" stop="20250101150000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 14:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101150000 +0000" stop="20250101153000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 15:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101153000 +0000" stop="20250101160000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qua 1-jan, 15:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101160000 +0000" stop="20250101180000 +0000" channel="NBA TV">
+    <title lang="es">Toronto Raptors x Boston Celtics: NBA T1 · Toronto Raptors x Boston Celtics</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do confronto entre Toronto Raptors e Boston Celtics, referente à NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101180000 +0000" stop="20250101200000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qua 1-jan, 18:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101200000 +0000" stop="20250101220000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qua 1-jan, 20:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250101220000 +0000" stop="20250102000000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qua 1-jan, 22:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102000000 +0000" stop="20250102010000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Sir Charles &amp; The Doctor T1 · qui 2-jan, 00:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· Charles Barkley sabia exatamente quem era "O Doutor". Mas o que Julius Erving achou do rookie dos 76ers?
+</desc>
+  </programme>
+  <programme start="20250102010000 +0000" stop="20250102033000 +0000" channel="NBA TV">
+    <title lang="es">Dallas Mavericks x Houston Rockets: NBA T1 · Dallas Mavericks x Houston Rockets</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre Dallas Mavericks e Houston Rockets.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102033000 +0000" stop="20250102053000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qui 2-jan, 03:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102053000 +0000" stop="20250102063000 +0000" channel="NBA TV">
+    <title lang="es">2023 High Tops T1 · Best of Lebron James</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· As melhores jogadas de 2023 da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102063000 +0000" stop="20250102070000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 06:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102070000 +0000" stop="20250102073000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 07:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102073000 +0000" stop="20250102093000 +0000" channel="NBA TV">
+    <title lang="es">Dallas Mavericks x Houston Rockets: NBA T1 · Dallas Mavericks x Houston Rockets</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre Dallas Mavericks e Houston Rockets.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102093000 +0000" stop="20250102100000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 09:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102100000 +0000" stop="20250102103000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 10:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102103000 +0000" stop="20250102110000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 10:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102110000 +0000" stop="20250102113000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 11:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102113000 +0000" stop="20250102120000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 11:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102123000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 12:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102123000 +0000" stop="20250102130000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 12:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102130000 +0000" stop="20250102150000 +0000" channel="NBA TV">
+    <title lang="es">Dallas Mavericks x Houston Rockets: NBA T1 · Dallas Mavericks x Houston Rockets</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre Dallas Mavericks e Houston Rockets.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102150000 +0000" stop="20250102153000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 15:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102153000 +0000" stop="20250102160000 +0000" channel="NBA TV">
+    <title lang="es">NBA GameTime T1 · qui 2-jan, 15:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | +12
+· As últimas notícias, pontuações e destaques da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102163000 +0000" channel="NBA TV">
+    <title lang="es">Stephen Curry: The Art Of The 3 T1 · qui 2-jan, 16:00</title>
+    <desc lang="es">Desporto | 2021 | +12
+· A lenda do Pacers, Reggie Miller, que está no top 3 de mais arremessos de três pontos de todos os tempos, e o superastro dos Warriors, Stephen Curry, que já ultrapassou Miller e Ray Allen, discutem essa arte.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102163000 +0000" stop="20250102183000 +0000" channel="NBA TV">
+    <title lang="es">Dallas Mavericks x Houston Rockets: NBA T1 · Dallas Mavericks x Houston Rockets</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre Dallas Mavericks e Houston Rockets.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102183000 +0000" stop="20250102190000 +0000" channel="NBA TV">
+    <title lang="es">NBA Action T1 · qui 2-jan, 18:30</title>
+    <desc lang="es">Magazine de desporto/Desporto | 2024 | +12
+· Magazine semanal dedicado à maior competição de basquetebol de Mundo.
+· País: EE.UU.
+· Reparto: Ian Eagle.</desc>
+  </programme>
+  <programme start="20250102190000 +0000" stop="20250102210000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qui 2-jan, 19:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102210000 +0000" stop="20250102230000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qui 2-jan, 21:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250102230000 +0000" stop="20250103010000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · qui 2-jan, 23:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103010000 +0000" stop="20250103033000 +0000" channel="NBA TV">
+    <title lang="es">LA Clippers x Oklahoma City Thunder: NBA T1 · LA Clippers x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre LA Clippers e Oklahoma City Thunder.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103033000 +0000" stop="20250103053000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · sex 3-jan, 03:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103053000 +0000" stop="20250103063000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Rip City Revival T1 · sex 3-jan, 05:30</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· As histórias não contadas por trás dos Portland Trail Blazers de 1989-92 – uma pequena equipa que desafiou as expectativas e chegou a duas finais da NBA.
+</desc>
+  </programme>
+  <programme start="20250103063000 +0000" stop="20250103070000 +0000" channel="NBA TV">
+    <title lang="es">NBA Special T1 · NBA 75 the Celebration</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· Espaço dedicado à transmissão de programação especial da NBA!
+</desc>
+  </programme>
+  <programme start="20250103070000 +0000" stop="20250103090000 +0000" channel="NBA TV">
+    <title lang="es">LA Clippers x Oklahoma City Thunder: NBA T1 · LA Clippers x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre LA Clippers e Oklahoma City Thunder.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103090000 +0000" stop="20250103110000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · sex 3-jan, 09:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103110000 +0000" stop="20250103120000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Sir Charles &amp; The Doctor T1 · sex 3-jan, 11:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· Charles Barkley sabia exatamente quem era "O Doutor". Mas o que Julius Erving achou do rookie dos 76ers?
+</desc>
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103130000 +0000" channel="NBA TV">
+    <title lang="es">Inside The NBA T1 · sex 3-jan, 12:00</title>
+    <desc lang="es">Magazine de desporto/Desporto | 2024 | +12
+· Junte-se a Ernie, Kenny, Shaq e Charles acompanhando as conversas vindas do núcleo da NBA.
+· País: EE.UU.
+· Reparto: Charles Barkley, Shaquille O'Neal, Ernie Johnson, Kenny Smith.</desc>
+  </programme>
+  <programme start="20250103130000 +0000" stop="20250103140000 +0000" channel="NBA TV">
+    <title lang="es">Basketball Stories: Rip City Revival T1 · sex 3-jan, 13:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | +12
+· As histórias não contadas por trás dos Portland Trail Blazers de 1989-92 – uma pequena equipa que desafiou as expectativas e chegou a duas finais da NBA.
+</desc>
+  </programme>
+  <programme start="20250103140000 +0000" stop="20250103160000 +0000" channel="NBA TV">
+    <title lang="es">LA Clippers x Oklahoma City Thunder: NBA T1 · LA Clippers x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre LA Clippers e Oklahoma City Thunder.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103170000 +0000" channel="NBA TV">
+    <title lang="es">2023 High Tops T1 · Best of Lebron James</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· As melhores jogadas de 2023 da NBA.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103170000 +0000" stop="20250103190000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · sex 3-jan, 17:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103190000 +0000" stop="20250103210000 +0000" channel="NBA TV">
+    <title lang="es">LA Clippers x Oklahoma City Thunder: NBA T1 · LA Clippers x Oklahoma City Thunder</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2025 | +12
+· Transmissão do jogo da NBA, entre LA Clippers e Oklahoma City Thunder.
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103210000 +0000" stop="20250103230000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · sex 3-jan, 21:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
+  <programme start="20250103230000 +0000" stop="20250104010000 +0000" channel="NBA TV">
+    <title lang="es">2023-24 NBA Marquee Matchup T1 · sex 3-jan, 23:00</title>
+    <desc lang="es">Basquetebol/Desportos de equipa/Desporto | 2023 | +12
+· Reveja os jogos mais emocionantes da NBA!
+· País: EE.UU.</desc>
+  </programme>
   <programme start="20241230001354 +0000" stop="20241230044123 +0000" channel="Red Bull TV">
     <title lang="es">Red Bull Rampage 2024 Men's Competition T1 E1</title>
     <desc lang="es">
