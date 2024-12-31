@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 31/12/2024 16:15" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 31/12/2024 16:54" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -410,6 +410,14 @@
   <channel id="JOJ Šport SK">
     <display-name>JOJ Šport SK</display-name>
     <icon src="http://www.programy-tv.cz/stanice/no-icon.png" />
+  </channel>
+  <channel id="LaLiga TV 🇪🇸">
+    <display-name>LaLiga TV 🇪🇸</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" />
+  </channel>
+  <channel id="LaLiga TV ES">
+    <display-name>LaLiga TV ES</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" />
   </channel>
   <programme start="20241231065700 +0100" stop="20241231074100 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de esquí alpino T24/25 · Semmering - Eslalon gigante F - 1ª manga</title>
@@ -47633,5 +47641,2333 @@
     <sub-title lang="cs">Dynamo Pardubice - Kärpät Oulu</sub-title>
     <desc lang="cs">Záznam hokejového zápasu Spenglerovho pohára.</desc>
     <category lang="cs">Sport</category>
+  </programme>
+  <programme start="20241231071000 +0100" stop="20241231080400 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231080400 +0100" stop="20241231082100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20241231082100 +0100" stop="20241231085000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20241231085000 +0100" stop="20241231092000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20241231092000 +0100" stop="20241231095000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20241231095000 +0100" stop="20241231105000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231105000 +0100" stop="20241231114500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20241231114500 +0100" stop="20241231121500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20241231121500 +0100" stop="20241231140200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 14: Leganés - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El CD Leganés se prepara para recibir al Real Madrid de Kilian Mbappé en un Estadio de Butarque absolutamente abarrotado. El conjunto local buscará su primera victoria ante los merengues en LALIGA EA SPORTS, tras ocho intentos sin éxito. Votos: 138.
+· País: España</desc>
+  </programme>
+  <programme start="20241231140200 +0100" stop="20241231143000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20241231143000 +0100" stop="20241231145900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20241231145900 +0100" stop="20241231152800 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E1</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20241231152800 +0100" stop="20241231163500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20241231163500 +0100" stop="20241231182500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 15: Barcelona - Las Palmas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· En plenas celebraciones para conmemorar su 125 aniversario, el FC Barcelona recibe a la UD Las Palmas. Los azulgranas buscarán reaccionar tras encadenar dos tropiezos seguidos en LaLiga y ver muy reducida su ventaja en el liderato. Votos: 62.
+· País: España</desc>
+  </programme>
+  <programme start="20241231182500 +0100" stop="20241231191900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231191900 +0100" stop="20241231195000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20241231195000 +0100" stop="20241231214200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 1: Valencia - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El nuevo Barcelona de Hansi Flick empieza el campeonato en un feudo siempre complicado para los azulgrana. El Valencia intentará seguir con las buenas sensaciones que dejó el final de temporada pasada. Votos: 110.
+· País: España</desc>
+  </programme>
+  <programme start="20241231214200 +0100" stop="20241231221200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20241231221200 +0100" stop="20241231223200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20241231223200 +0100" stop="20241231230200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20241231230200 +0100" stop="20250101005500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: At. Madrid - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El Atlético de Madrid ha ganado sus últimos siete partidos oficiales, una racha que, además, le ha permitido reengancharse a la lucha por el título. El equipo de Simeone juega cada vez mejor. Votos: 65.
+· País: España</desc>
+  </programme>
+  <programme start="20250101005500 +0100" stop="20250101012500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250101012500 +0100" stop="20250101015300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250101015300 +0100" stop="20250101022200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250101022200 +0100" stop="20250101025200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20250101025200 +0100" stop="20250101032000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250101032000 +0100" stop="20250101051100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 10: Barcelona - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona recibe a un Sevilla FC que llega crecido tras su trascendental victoria en el derbi ante el Betis. El equipo de Hansi Flick buscará la que sería su novena victoria en diez jornadas justo antes de visitar el Santiago Bernabéu. Votos: 124.
+· País: España</desc>
+  </programme>
+  <programme start="20250101051100 +0100" stop="20250101055400 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+</desc>
+  </programme>
+  <programme start="20250101055400 +0100" stop="20250101073900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: Girona - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Tras visitar San Mamés entre semana, el Real Madrid repite como visitante, esta vez en Montilivi. Los de Carlo Ancelotti necesitan los tres puntos para mantener su mano a mano por el liderato con el FC Barcelona. Votos: 116.
+· País: España</desc>
+  </programme>
+  <programme start="20250101073900 +0100" stop="20250101080000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250101080000 +0100" stop="20250101083000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101090000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250101090000 +0100" stop="20250101093000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250101093000 +0100" stop="20250101100000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250101100000 +0100" stop="20250101102300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250101102300 +0100" stop="20250101110000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250101110000 +0100" stop="20250101125000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: Girona - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Tras visitar San Mamés entre semana, el Real Madrid repite como visitante, esta vez en Montilivi. Los de Carlo Ancelotti necesitan los tres puntos para mantener su mano a mano por el liderato con el FC Barcelona. Votos: 116.
+· País: España</desc>
+  </programme>
+  <programme start="20250101125000 +0100" stop="20250101133500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101133500 +0100" stop="20250101142000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101142000 +0100" stop="20250101145000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250101145000 +0100" stop="20250101155700 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250101155700 +0100" stop="20250101175500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· País: España</desc>
+  </programme>
+  <programme start="20250101175500 +0100" stop="20250101184600 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250101184600 +0100" stop="20250101191500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250101191500 +0100" stop="20250101200900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250101200900 +0100" stop="20250101203900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250101203900 +0100" stop="20250101222300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 76.
+· País: España</desc>
+  </programme>
+  <programme start="20250101222300 +0100" stop="20250101230500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101230500 +0100" stop="20250101235000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101235000 +0100" stop="20250102002000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102002000 +0100" stop="20250102012700 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102012700 +0100" stop="20250102015600 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250102015600 +0100" stop="20250102022400 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250102022400 +0100" stop="20250102031500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102031500 +0100" stop="20250102033400 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250102033400 +0100" stop="20250102040300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250102040300 +0100" stop="20250102054900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Las Palmas - Espanyol</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Tras un flojo inicio de temporada, la llegada de Diego Martínez ha permitido a la UD Las Palmas acercarse a la zona tranquila tras ganar 5 de los 8 encuentros en LALIGA EA SPORTS. Votos: 17.
+· País: España</desc>
+  </programme>
+  <programme start="20250102054900 +0100" stop="20250102063900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102063900 +0100" stop="20250102073200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250102073200 +0100" stop="20250102080000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250102080000 +0100" stop="20250102084500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250102084500 +0100" stop="20250102093000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250102093000 +0100" stop="20250102100000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102100000 +0100" stop="20250102110600 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102110600 +0100" stop="20250102112500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250102112500 +0100" stop="20250102115400 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250102115400 +0100" stop="20250102124500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102124500 +0100" stop="20250102134500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250102134500 +0100" stop="20250102141600 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250102141600 +0100" stop="20250102160100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 76.
+· País: España</desc>
+  </programme>
+  <programme start="20250102160100 +0100" stop="20250102163100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250102163100 +0100" stop="20250102170000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250102170000 +0100" stop="20250102172000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250102172000 +0100" stop="20250102175000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250102175000 +0100" stop="20250102182000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102182000 +0100" stop="20250102192700 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102192700 +0100" stop="20250102202100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250102202100 +0100" stop="20250102211500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102211500 +0100" stop="20250102214500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250102214500 +0100" stop="20250102234300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· País: España</desc>
+  </programme>
+  <programme start="20250102234300 +0100" stop="20250103001300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103001300 +0100" stop="20250103004200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250103004200 +0100" stop="20250103011200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250103011200 +0100" stop="20250103013100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103013100 +0100" stop="20250103020000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250103020000 +0100" stop="20250103023000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250103023000 +0100" stop="20250103030100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250103030100 +0100" stop="20250103033100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20250103033100 +0100" stop="20250103052100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Celta - Real Sociedad</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El RC Celta intentará reengancharse a la lucha por un puesto europeo aprovechando la fortaleza que le otorga el Abanca Balaídos, donde ha ganado 17 de sus 21 puntos. Enfrente tendrá un rival directo como la Real Sociedad. Votos: 14.
+· País: España</desc>
+  </programme>
+  <programme start="20250103052100 +0100" stop="20250103055000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103055000 +0100" stop="20250103062500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250103062500 +0100" stop="20250103065500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Aboubacar Bassinga</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250103065500 +0100" stop="20250103071500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103071500 +0100" stop="20250103080000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+</desc>
+  </programme>
+  <programme start="20250103080000 +0100" stop="20250103094800 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Valencia - Alavés</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El Valencia CF sigue en busca del punto de inflexión que le permita recortar los 6 puntos que ahora le separan de la salvación. Mestalla debe ser vital para conseguir el objetivo, y el primer obstáculo es el Deportivo Alavés. Votos: 21.
+· País: España</desc>
+  </programme>
+  <programme start="20250103094800 +0100" stop="20250103101800 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250103101800 +0100" stop="20250103104700 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250103104700 +0100" stop="20250103111900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103111900 +0100" stop="20250103121900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250103121900 +0100" stop="20250103124700 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250103124700 +0100" stop="20250103130700 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103130700 +0100" stop="20250103140200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250103140200 +0100" stop="20250103143200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250103143200 +0100" stop="20250103162200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· País: España</desc>
+  </programme>
+  <programme start="20250103162200 +0100" stop="20250103165200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250103165200 +0100" stop="20250103184200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: At. Madrid - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El Atlético de Madrid ha ganado sus últimos siete partidos oficiales, una racha que, además, le ha permitido reengancharse a la lucha por el título. El equipo de Simeone juega cada vez mejor. Votos: 65.
+· País: España</desc>
+  </programme>
+  <programme start="20250103184200 +0100" stop="20250103191200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250103191200 +0100" stop="20250103193200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103193200 +0100" stop="20250103200500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103200500 +0100" stop="20250103204900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Previa LALIGA EA Sports T24/25 · Valencia - Real Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Previa Liga Española. 1ª División.
+</desc>
+  </programme>
+  <programme start="20250103204900 +0100" stop="20250103225500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250103225500 +0100" stop="20250103233500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Post LALIGA EA SPORTS T24/25 · Valencia - Real Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Postpartido Liga.
+</desc>
+  </programme>
+  <programme start="20250103233500 +0100" stop="20250104000500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250104000500 +0100" stop="20250104010000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104010000 +0100" stop="20250104024500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Granada - Getafe T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Escribá y Bordalás frente a frente. El Granada está fuerte, peleando por los puestos de playoff en la segunda categoría y mostrándose sólido en casa. Tras una apurada clasificación ante el Orihuela el Getafe llega presionado por su situación en liga.
+· País: España</desc>
+  </programme>
+  <programme start="20250104024500 +0100" stop="20250104031500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250104031500 +0100" stop="20250104050000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Racing Ferrol - Rayo T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250104050000 +0100" stop="20250104055500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250104055500 +0100" stop="20250104074000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Pontevedra - Mallorca T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250104074000 +0100" stop="20250104080000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250104080000 +0100" stop="20250104085500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250104085500 +0100" stop="20250104095000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104095000 +0100" stop="20250104102000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250104102000 +0100" stop="20250104121000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250104121000 +0100" stop="20250104125000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+</desc>
+  </programme>
+  <programme start="20250104125000 +0100" stop="20250104132000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250104132000 +0100" stop="20250104135000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250104135000 +0100" stop="20250104145000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250104145000 +0100" stop="20250104152000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250104152000 +0100" stop="20250104173000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250104173000 +0100" stop="20250104180000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250104180000 +0100" stop="20250104185500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104185500 +0100" stop="20250104192500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250104192500 +0100" stop="20250104202400 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250104202400 +0100" stop="20250104205200 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250104205200 +0100" stop="20250104212000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250104212000 +0100" stop="20250104233000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105000000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250105000000 +0100" stop="20250105015000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105015000 +0100" stop="20250105022000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250105022000 +0100" stop="20250105041000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250105041000 +0100" stop="20250105044000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250105044000 +0100" stop="20250105063000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250105063000 +0100" stop="20250105070000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250105070000 +0100" stop="20250105080000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250105080000 +0100" stop="20250105095000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Huesca - Betis T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento.
+· País: España</desc>
+  </programme>
+  <programme start="20250105095000 +0100" stop="20250105102000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250105102000 +0100" stop="20250105105000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250105105000 +0100" stop="20250105112000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250105112000 +0100" stop="20250105115000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250105115000 +0100" stop="20250105140000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105140000 +0100" stop="20250105150000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250105150000 +0100" stop="20250105152000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250105152000 +0100" stop="20250105173000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Racing - Celta T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105173000 +0100" stop="20250105180000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250105180000 +0100" stop="20250105194500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105194500 +0100" stop="20250105204000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250105204000 +0100" stop="20250105223000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250105223000 +0100" stop="20250105230000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250105230000 +0100" stop="20250106005000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250106005000 +0100" stop="20250106012000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250106012000 +0100" stop="20250106015000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250106015000 +0100" stop="20250106022000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250106022000 +0100" stop="20250106025000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250106025000 +0100" stop="20250106034500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250106034500 +0100" stop="20250106044000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250106044000 +0100" stop="20250106051000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250106051000 +0100" stop="20250106070000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Racing - Celta T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250106070000 +0100" stop="20250106073000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E1</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo a través de los valores del fútbol. En cada episodio descubrimos la pasión que los famosos sienten por su club y vivimos un día de partido con los aficionados más entregados del mundo. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250106073000 +0100" stop="20250106080000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250106080000 +0100" stop="20250106095000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250106095000 +0100" stop="20250106102000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250106102000 +0100" stop="20250106111500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250106111500 +0100" stop="20250106121000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250106121000 +0100" stop="20250106124000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250106124000 +0100" stop="20250106131000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250106131000 +0100" stop="20250106134000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250106134000 +0100" stop="20250106141000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250106141000 +0100" stop="20250106155500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250106155500 +0100" stop="20250106162500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250106162500 +0100" stop="20250106172000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250106172000 +0100" stop="20250106181500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250106181500 +0100" stop="20250106184500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250106184500 +0100" stop="20250106203500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250106203500 +0100" stop="20250106210500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250106210500 +0100" stop="20250106213500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250106213500 +0100" stop="20250106220500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250106220500 +0100" stop="20250106235000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250106235000 +0100" stop="20250107002000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250107002000 +0100" stop="20250107011500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250107011500 +0100" stop="20250107021000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250107021000 +0100" stop="20250107024000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250107024000 +0100" stop="20250107030000 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250107030000 +0100" stop="20250107044500 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20241231071000 +0100" stop="20241231080400 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231080400 +0100" stop="20241231082100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20241231082100 +0100" stop="20241231085000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20241231085000 +0100" stop="20241231092000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20241231092000 +0100" stop="20241231095000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20241231095000 +0100" stop="20241231105000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231105000 +0100" stop="20241231114500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20241231114500 +0100" stop="20241231121500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20241231121500 +0100" stop="20241231140200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 14: Leganés - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El CD Leganés se prepara para recibir al Real Madrid de Kilian Mbappé en un Estadio de Butarque absolutamente abarrotado. El conjunto local buscará su primera victoria ante los merengues en LALIGA EA SPORTS, tras ocho intentos sin éxito. Votos: 138.
+· País: España</desc>
+  </programme>
+  <programme start="20241231140200 +0100" stop="20241231143000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20241231143000 +0100" stop="20241231145900 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20241231145900 +0100" stop="20241231152800 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E1</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20241231152800 +0100" stop="20241231163500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20241231163500 +0100" stop="20241231182500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 15: Barcelona - Las Palmas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· En plenas celebraciones para conmemorar su 125 aniversario, el FC Barcelona recibe a la UD Las Palmas. Los azulgranas buscarán reaccionar tras encadenar dos tropiezos seguidos en LaLiga y ver muy reducida su ventaja en el liderato. Votos: 62.
+· País: España</desc>
+  </programme>
+  <programme start="20241231182500 +0100" stop="20241231191900 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20241231191900 +0100" stop="20241231195000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20241231195000 +0100" stop="20241231214200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 1: Valencia - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El nuevo Barcelona de Hansi Flick empieza el campeonato en un feudo siempre complicado para los azulgrana. El Valencia intentará seguir con las buenas sensaciones que dejó el final de temporada pasada. Votos: 110.
+· País: España</desc>
+  </programme>
+  <programme start="20241231214200 +0100" stop="20241231221200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20241231221200 +0100" stop="20241231223200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20241231223200 +0100" stop="20241231230200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20241231230200 +0100" stop="20250101005500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: At. Madrid - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El Atlético de Madrid ha ganado sus últimos siete partidos oficiales, una racha que, además, le ha permitido reengancharse a la lucha por el título. El equipo de Simeone juega cada vez mejor. Votos: 65.
+· País: España</desc>
+  </programme>
+  <programme start="20250101005500 +0100" stop="20250101012500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250101012500 +0100" stop="20250101015300 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250101015300 +0100" stop="20250101022200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250101022200 +0100" stop="20250101025200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20250101025200 +0100" stop="20250101032000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250101032000 +0100" stop="20250101051100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 10: Barcelona - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona recibe a un Sevilla FC que llega crecido tras su trascendental victoria en el derbi ante el Betis. El equipo de Hansi Flick buscará la que sería su novena victoria en diez jornadas justo antes de visitar el Santiago Bernabéu. Votos: 124.
+· País: España</desc>
+  </programme>
+  <programme start="20250101051100 +0100" stop="20250101055400 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+</desc>
+  </programme>
+  <programme start="20250101055400 +0100" stop="20250101073900 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: Girona - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Tras visitar San Mamés entre semana, el Real Madrid repite como visitante, esta vez en Montilivi. Los de Carlo Ancelotti necesitan los tres puntos para mantener su mano a mano por el liderato con el FC Barcelona. Votos: 116.
+· País: España</desc>
+  </programme>
+  <programme start="20250101073900 +0100" stop="20250101080000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250101080000 +0100" stop="20250101083000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250101083000 +0100" stop="20250101090000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250101090000 +0100" stop="20250101093000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250101093000 +0100" stop="20250101100000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250101100000 +0100" stop="20250101102300 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250101102300 +0100" stop="20250101110000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250101110000 +0100" stop="20250101125000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: Girona - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Tras visitar San Mamés entre semana, el Real Madrid repite como visitante, esta vez en Montilivi. Los de Carlo Ancelotti necesitan los tres puntos para mantener su mano a mano por el liderato con el FC Barcelona. Votos: 116.
+· País: España</desc>
+  </programme>
+  <programme start="20250101125000 +0100" stop="20250101133500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101133500 +0100" stop="20250101142000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101142000 +0100" stop="20250101145000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250101145000 +0100" stop="20250101155700 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250101155700 +0100" stop="20250101175500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· País: España</desc>
+  </programme>
+  <programme start="20250101175500 +0100" stop="20250101184600 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250101184600 +0100" stop="20250101191500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250101191500 +0100" stop="20250101200900 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250101200900 +0100" stop="20250101203900 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250101203900 +0100" stop="20250101222300 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 76.
+· País: España</desc>
+  </programme>
+  <programme start="20250101222300 +0100" stop="20250101230500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101230500 +0100" stop="20250101235000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250101235000 +0100" stop="20250102002000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102002000 +0100" stop="20250102012700 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102012700 +0100" stop="20250102015600 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250102015600 +0100" stop="20250102022400 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250102022400 +0100" stop="20250102031500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102031500 +0100" stop="20250102033400 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250102033400 +0100" stop="20250102040300 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250102040300 +0100" stop="20250102054900 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Las Palmas - Espanyol</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Tras un flojo inicio de temporada, la llegada de Diego Martínez ha permitido a la UD Las Palmas acercarse a la zona tranquila tras ganar 5 de los 8 encuentros en LALIGA EA SPORTS. Votos: 17.
+· País: España</desc>
+  </programme>
+  <programme start="20250102054900 +0100" stop="20250102063900 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102063900 +0100" stop="20250102073200 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250102073200 +0100" stop="20250102080000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250102080000 +0100" stop="20250102084500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250102084500 +0100" stop="20250102093000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250102093000 +0100" stop="20250102100000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102100000 +0100" stop="20250102110600 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102110600 +0100" stop="20250102112500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250102112500 +0100" stop="20250102115400 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250102115400 +0100" stop="20250102124500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102124500 +0100" stop="20250102134500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250102134500 +0100" stop="20250102141600 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250102141600 +0100" stop="20250102160100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 76.
+· País: España</desc>
+  </programme>
+  <programme start="20250102160100 +0100" stop="20250102163100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250102163100 +0100" stop="20250102170000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250102170000 +0100" stop="20250102172000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250102172000 +0100" stop="20250102175000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250102175000 +0100" stop="20250102182000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102182000 +0100" stop="20250102192700 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250102192700 +0100" stop="20250102202100 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250102202100 +0100" stop="20250102211500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250102211500 +0100" stop="20250102214500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250102214500 +0100" stop="20250102234300 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· País: España</desc>
+  </programme>
+  <programme start="20250102234300 +0100" stop="20250103001300 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103001300 +0100" stop="20250103004200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250103004200 +0100" stop="20250103011200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250103011200 +0100" stop="20250103013100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103013100 +0100" stop="20250103020000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250103020000 +0100" stop="20250103023000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250103023000 +0100" stop="20250103030100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250103030100 +0100" stop="20250103033100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Luis de la Fuente</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol. Votos: 4.
+· País: España</desc>
+  </programme>
+  <programme start="20250103033100 +0100" stop="20250103052100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Celta - Real Sociedad</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El RC Celta intentará reengancharse a la lucha por un puesto europeo aprovechando la fortaleza que le otorga el Abanca Balaídos, donde ha ganado 17 de sus 21 puntos. Enfrente tendrá un rival directo como la Real Sociedad. Votos: 14.
+· País: España</desc>
+  </programme>
+  <programme start="20250103052100 +0100" stop="20250103055000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103055000 +0100" stop="20250103062500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250103062500 +0100" stop="20250103065500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Aboubacar Bassinga</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250103065500 +0100" stop="20250103071500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103071500 +0100" stop="20250103080000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+</desc>
+  </programme>
+  <programme start="20250103080000 +0100" stop="20250103094800 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Valencia - Alavés</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El Valencia CF sigue en busca del punto de inflexión que le permita recortar los 6 puntos que ahora le separan de la salvación. Mestalla debe ser vital para conseguir el objetivo, y el primer obstáculo es el Deportivo Alavés. Votos: 21.
+· País: España</desc>
+  </programme>
+  <programme start="20250103094800 +0100" stop="20250103101800 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250103101800 +0100" stop="20250103104700 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250103104700 +0100" stop="20250103111900 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103111900 +0100" stop="20250103121900 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250103121900 +0100" stop="20250103124700 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250103124700 +0100" stop="20250103130700 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103130700 +0100" stop="20250103140200 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250103140200 +0100" stop="20250103143200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250103143200 +0100" stop="20250103162200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· País: España</desc>
+  </programme>
+  <programme start="20250103162200 +0100" stop="20250103165200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250103165200 +0100" stop="20250103184200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: At. Madrid - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· El Atlético de Madrid ha ganado sus últimos siete partidos oficiales, una racha que, además, le ha permitido reengancharse a la lucha por el título. El equipo de Simeone juega cada vez mejor. Votos: 65.
+· País: España</desc>
+  </programme>
+  <programme start="20250103184200 +0100" stop="20250103191200 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250103191200 +0100" stop="20250103193200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250103193200 +0100" stop="20250103200500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250103200500 +0100" stop="20250103204900 +0100" channel="LaLiga TV ES">
+    <title lang="es">Previa LALIGA EA Sports T24/25 · Valencia - Real Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Previa Liga Española. 1ª División.
+</desc>
+  </programme>
+  <programme start="20250103204900 +0100" stop="20250103225500 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250103225500 +0100" stop="20250103233500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Post LALIGA EA SPORTS T24/25 · Valencia - Real Madrid</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Postpartido Liga.
+</desc>
+  </programme>
+  <programme start="20250103233500 +0100" stop="20250104000500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250104000500 +0100" stop="20250104010000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104010000 +0100" stop="20250104024500 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Granada - Getafe T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Escribá y Bordalás frente a frente. El Granada está fuerte, peleando por los puestos de playoff en la segunda categoría y mostrándose sólido en casa. Tras una apurada clasificación ante el Orihuela el Getafe llega presionado por su situación en liga.
+· País: España</desc>
+  </programme>
+  <programme start="20250104024500 +0100" stop="20250104031500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250104031500 +0100" stop="20250104050000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Racing Ferrol - Rayo T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250104050000 +0100" stop="20250104055500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250104055500 +0100" stop="20250104074000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Pontevedra - Mallorca T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250104074000 +0100" stop="20250104080000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250104080000 +0100" stop="20250104085500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250104085500 +0100" stop="20250104095000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104095000 +0100" stop="20250104102000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250104102000 +0100" stop="20250104121000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250104121000 +0100" stop="20250104125000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
+</desc>
+  </programme>
+  <programme start="20250104125000 +0100" stop="20250104132000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250104132000 +0100" stop="20250104135000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250104135000 +0100" stop="20250104145000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250104145000 +0100" stop="20250104152000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250104152000 +0100" stop="20250104173000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250104173000 +0100" stop="20250104180000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250104180000 +0100" stop="20250104185500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104185500 +0100" stop="20250104192500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250104192500 +0100" stop="20250104202400 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250104202400 +0100" stop="20250104205200 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250104205200 +0100" stop="20250104212000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250104212000 +0100" stop="20250104233000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250104233000 +0100" stop="20250105000000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250105000000 +0100" stop="20250105015000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105015000 +0100" stop="20250105022000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250105022000 +0100" stop="20250105041000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250105041000 +0100" stop="20250105044000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250105044000 +0100" stop="20250105063000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250105063000 +0100" stop="20250105070000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250105070000 +0100" stop="20250105080000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
+    <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
+· El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250105080000 +0100" stop="20250105095000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Huesca - Betis T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento.
+· País: España</desc>
+  </programme>
+  <programme start="20250105095000 +0100" stop="20250105102000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250105102000 +0100" stop="20250105105000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250105105000 +0100" stop="20250105112000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250105112000 +0100" stop="20250105115000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250105115000 +0100" stop="20250105140000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105140000 +0100" stop="20250105150000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250105150000 +0100" stop="20250105152000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250105152000 +0100" stop="20250105173000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Racing - Celta T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105173000 +0100" stop="20250105180000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250105180000 +0100" stop="20250105194500 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250105194500 +0100" stop="20250105204000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250105204000 +0100" stop="20250105223000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250105223000 +0100" stop="20250105230000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250105230000 +0100" stop="20250106005000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250106005000 +0100" stop="20250106012000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250106012000 +0100" stop="20250106015000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250106015000 +0100" stop="20250106022000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E3</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250106022000 +0100" stop="20250106025000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250106025000 +0100" stop="20250106034500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250106034500 +0100" stop="20250106044000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250106044000 +0100" stop="20250106051000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+</desc>
+  </programme>
+  <programme start="20250106051000 +0100" stop="20250106070000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Racing - Celta T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250106070000 +0100" stop="20250106073000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E1</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo a través de los valores del fútbol. En cada episodio descubrimos la pasión que los famosos sienten por su club y vivimos un día de partido con los aficionados más entregados del mundo. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250106073000 +0100" stop="20250106080000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E2</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250106080000 +0100" stop="20250106095000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250106095000 +0100" stop="20250106102000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250106102000 +0100" stop="20250106111500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250106111500 +0100" stop="20250106121000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250106121000 +0100" stop="20250106124000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250106124000 +0100" stop="20250106131000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250106131000 +0100" stop="20250106134000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250106134000 +0100" stop="20250106141000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250106141000 +0100" stop="20250106155500 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250106155500 +0100" stop="20250106162500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250106162500 +0100" stop="20250106172000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250106172000 +0100" stop="20250106181500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250106181500 +0100" stop="20250106184500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250106184500 +0100" stop="20250106203500 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 31.
+· País: España</desc>
+  </programme>
+  <programme start="20250106203500 +0100" stop="20250106210500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
+· País: España</desc>
+  </programme>
+  <programme start="20250106210500 +0100" stop="20250106213500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Best XI T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
+· País: España</desc>
+  </programme>
+  <programme start="20250106213500 +0100" stop="20250106220500 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA Power T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Programa que rinde homenaje a todos aquellos que inspiran al mundo.
+· País: España</desc>
+  </programme>
+  <programme start="20250106220500 +0100" stop="20250106235000 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
+  </programme>
+  <programme start="20250106235000 +0100" stop="20250107002000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+</desc>
+  </programme>
+  <programme start="20250107002000 +0100" stop="20250107011500 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
+</desc>
+  </programme>
+  <programme start="20250107011500 +0100" stop="20250107021000 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250107021000 +0100" stop="20250107024000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
+· País: España</desc>
+  </programme>
+  <programme start="20250107024000 +0100" stop="20250107030000 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
+· Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
+· País: España</desc>
+  </programme>
+  <programme start="20250107030000 +0100" stop="20250107044500 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
+· País: España</desc>
   </programme>
 </tv>
