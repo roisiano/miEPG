@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/01/2025 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 02/01/2025 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -5661,128 +5661,134 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250103060000 +0100" stop="20250103130000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103060000 +0100" stop="20250103130100 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250103130000 +0100" stop="20250103145100 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103130100 +0100" stop="20250103144700 +0100" channel="DAZN 1 Espana">
     <title lang="es">Liga de Campeones (F) T24/25 · Jornada 6: Barcelona - Manchester City</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · La competición de clubes más importante del fútbol femenino en la que los 16 mejores equipos del continente disputan una exigente fase de grupos. Votos: 13.
 · País: España
 · Presenta: Andrea Segura, Sandra Riquelme.</desc>
   </programme>
-  <programme start="20250103145100 +0100" stop="20250103150700 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
-· País: España</desc>
-  </programme>
-  <programme start="20250103150700 +0100" stop="20250103170800 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103144700 +0100" stop="20250103164100 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier League T24/25 · Jornada 19: West Ham - Liverpool</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250103170800 +0100" stop="20250103180000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103164100 +0100" stop="20250103175700 +0100" channel="DAZN 1 Espana">
     <title lang="es">La vida en rojo</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *2.0/10
-· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 2.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
+· Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 3.
 </desc>
   </programme>
-  <programme start="20250103180000 +0100" stop="20250103195000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103175700 +0100" stop="20250103195000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Inter - Atalanta T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano. Votos: 4.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250103195000 +0100" stop="20250103220100 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103195000 +0100" stop="20250103215600 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250103220100 +0100" stop="20250103222700 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103215600 +0100" stop="20250103224500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Maverick Viñales: dos vidas</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
 · Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
 · País: España</desc>
   </programme>
-  <programme start="20250103222700 +0100" stop="20250104010200 +0100" channel="DAZN 1 Espana">
+  <programme start="20250103224500 +0100" stop="20250104012100 +0100" channel="DAZN 1 Espana">
     <title lang="es">6 Kings Slam T2024 · Alcaraz - Sinner</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP
 · Arabia Saudí acoge el torneo de exhibición de la 'Riyadh Season'.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250104010200 +0100" stop="20250104060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104012100 +0100" stop="20250104013300 +0100" channel="DAZN 1 Espana">
+    <title lang="es">#Los24del2024</title>
+    <desc lang="es">Deportes/Otros deportes | 2024 | TP
+· Recopilación de momentos que han marcado el año 2024 en el mundo del deporte.
+</desc>
+  </programme>
+  <programme start="20250104013300 +0100" stop="20250104060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250104060000 +0100" stop="20250104130000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104060000 +0100" stop="20250104125600 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250104130000 +0100" stop="20250104132000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104125600 +0100" stop="20250104132000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Unai Emery, maestro de la táctica y rey de Birmingham</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
 · País: España</desc>
   </programme>
-  <programme start="20250104132000 +0100" stop="20250104153000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104132000 +0100" stop="20250104153300 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Tottenham - Newcastle T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104153000 +0100" stop="20250104155000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104153300 +0100" stop="20250104155000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
 · País: España</desc>
   </programme>
-  <programme start="20250104155000 +0100" stop="20250104180000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104155000 +0100" stop="20250104180500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Manchester City - West Ham T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104180000 +0100" stop="20250104182000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104180500 +0100" stop="20250104182000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · David Raya, el guardián gunner</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
 · David Raya es una de las grandes estrellas del Arsenal de Mikel Arteta. El portero de Barcelona repasa su larga trayectoria en la Premier League. Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104182000 +0100" stop="20250104202400 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104182000 +0100" stop="20250104203500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Brighton &amp; Hove Albion - Arsenal T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104202400 +0100" stop="20250104203900 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104203500 +0100" stop="20250104205000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Monchi, un cazatalentos único</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · El programa entrevista a Ramón Rodríguez 'Monchi', el actual director deportivo del Aston Villa. El 'cazalentos' español por excelencia nos cuenta cómo está viviendo su primera experiencia en Inglaterra.
 · País: España</desc>
   </programme>
-  <programme start="20250104203900 +0100" stop="20250104224500 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104205000 +0100" stop="20250104224300 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Semifinal: Juventus - Milan T24/25 · Supercopa de Italia</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Supercopa del país transalpino vuelve a jugarse en Arabia Saudí. Inter, Juventus, Milan y Atalanta son los equipos que competirán por conseguir el primer título de la temporada del fútbol italiano.
 · País: Arabia Saudí</desc>
   </programme>
-  <programme start="20250104224500 +0100" stop="20250105004500 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104224300 +0100" stop="20250105004500 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier League T24/25 · Jornada 20: Southampton - Brentford</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250105004500 +0100" stop="20250105060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105004500 +0100" stop="20250105011400 +0100" channel="DAZN 1 Espana">
+    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Michu, el ídolo de Haaland</title>
+    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP | *6.0/10
+· Erling Haaland, uno de los mejores jugadores del mundo, reconoce que es uno de sus ídolos. Votos: 2.
+· País: España</desc>
+  </programme>
+  <programme start="20250105011400 +0100" stop="20250105060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -6231,19 +6237,19 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250105100000 +0100" stop="20250105125000 +0100" channel="DAZN 2 Espana">
+  <programme start="20250105100000 +0100" stop="20250105132000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250105125000 +0100" stop="20250105150000 +0100" channel="DAZN 2 Espana">
+  <programme start="20250105132000 +0100" stop="20250105153000 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 16: Real Sociedad - Barcelona T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
   </programme>
-  <programme start="20250105150000 +0100" stop="20250105180000 +0100" channel="DAZN 2 Espana">
+  <programme start="20250105153000 +0100" stop="20250105180000 +0100" channel="DAZN 2 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -6459,13 +6465,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250104155000 +0100" stop="20250104180000 +0100" channel="DAZN 3 Espana">
+  <programme start="20250104155000 +0100" stop="20250104180300 +0100" channel="DAZN 3 Espana">
     <title lang="es">DIRECTO Jornada 20: Aston Villa - Leicester T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104180000 +0100" stop="20250104220000 +0100" channel="DAZN 3 Espana">
+  <programme start="20250104180300 +0100" stop="20250104220000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -6489,13 +6495,19 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250105100000 +0100" stop="20250105140000 +0100" channel="DAZN 3 Espana">
+  <programme start="20250105100000 +0100" stop="20250105114500 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250105140000 +0100" stop="20250105180000 +0100" channel="DAZN 3 Espana">
+  <programme start="20250105114500 +0100" stop="20250105135200 +0100" channel="DAZN 3 Espana">
+    <title lang="es">DIRECTO Jornada 9: Levante - VCF Femenino T24/25 · Liga F</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+· País: España</desc>
+  </programme>
+  <programme start="20250105135200 +0100" stop="20250105180000 +0100" channel="DAZN 3 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -6705,13 +6717,13 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250104155000 +0100" stop="20250104180000 +0100" channel="DAZN 4 Espana">
+  <programme start="20250104155000 +0100" stop="20250104180300 +0100" channel="DAZN 4 Espana">
     <title lang="es">DIRECTO Jornada 20: Bournemouth - Everton T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250104180000 +0100" stop="20250104220000 +0100" channel="DAZN 4 Espana">
+  <programme start="20250104180300 +0100" stop="20250104220000 +0100" channel="DAZN 4 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -8066,7 +8078,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250108170000 +0100" stop="20250108174500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -8641,7 +8653,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250108170000 +0100" stop="20250108174500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -26535,90 +26547,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nba-589807901.jpg" />
   </programme>
-  <programme start="20250101070000 +0000" stop="20250101085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250101085000 +0000" stop="20250101092000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250101092000 +0000" stop="20250101111000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250101111000 +0000" stop="20250101114000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 10. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 10. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250101114000 +0000" stop="20250101120500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250101120500 +0000" stop="20250101123000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 1. Episode</title>
-    <desc lang="de">Get Wild: 1. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101123000 +0000" stop="20250101160500 +0000" channel="DAZN 1 DE">
-    <title lang="de">World Darts Championship: 14. Tag - 1. Session</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Florian Hempel.</desc>
-    <date>2025</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250101160500 +0000" stop="20250101163500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250101163500 +0000" stop="20250101165500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 2. Episode</title>
-    <desc lang="de">Get Wild: 2. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101165500 +0000" stop="20250101171500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: 3. Episode</title>
-    <desc lang="de">Get Wild: 3. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101171500 +0000" stop="20250101180500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 1</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 1.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101180500 +0000" stop="20250101183000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250101183000 +0000" stop="20250101190000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250101190000 +0000" stop="20250101223000 +0000" channel="DAZN 1 DE">
-    <title lang="de">World Darts Championship: 14. Tag - 2. Session</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Florian Hempel.</desc>
-    <date>2025</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250101223000 +0000" stop="20250101230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250101230000 +0000" stop="20250102070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20250102070000 +0000" stop="20250102090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
@@ -26748,145 +26676,177 @@
     <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250101070000 +0000" stop="20250101073000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: In der Spur</title>
-    <desc lang="de">Erstmals produziert der VfB Stuttgart eine saisonbegleitende Doku. Ein Trainingslager, das ins Wasser fällt. Neuzugänge, die sich verletzen. Dennoch: Der VfB ist in der Spur. Das Team wächst zusammen, gewinnt souverän in der ersten Pokalrunde. Und alle sind heiß auf die Heimpremiere gegen Bochum. VfB inTeam begleitet die Mannschaft in der ersten Episode durch die Saisonvorbereitung und liefert exklusive Einblicke.</desc>
-    <category lang="de">Dokumentation</category>
+  <programme start="20250103200000 +0000" stop="20250103233000 +0000" channel="DAZN 1 DE">
+    <title lang="de">World Darts Championship: Finale</title>
+    <desc lang="de">Kommentator: Elmar Paulke / Experte: Florian Hempel.</desc>
+    <date>2025</date>
+    <category lang="de">Darts</category>
   </programme>
-  <programme start="20250101073000 +0000" stop="20250101080000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Verantwortung</title>
-    <desc lang="de">Wie kann der VfB den überraschenden Abgang seines Kapitäns kompensieren, wer übernimmt jetzt mehr Verantwortung im Team? Welche Mittel stehen für Transfers zur Verfügung - und wie plant der VfB? Während die Verantwortlichen diese Fragen beantworten müssen, gelingt mit der Vertragsverlängerung von Hiroki Ito ein echter Coup. Neuzugang Deniz Undav schwitzt in der Reha für sein Comeback und erlebt erstmals die Karawane Cannstatt und die fantastische Stimmung in der MHPArena.</desc>
-    <category lang="de">Dokumentation</category>
+  <programme start="20250103233000 +0000" stop="20250104070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
   </programme>
-  <programme start="20250101080000 +0000" stop="20250101083000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Nähe</title>
-    <desc lang="de">Vor dem Spiel gegen den SC Freiburg fragt sich ganz Stuttgart: Wie gut ist der VFB wirklich? Die Antwort liefert das Team auf dem Platz. In der Länderspielpause zeigt der VFB Präsenz auf dem Weindorf, organisiert die Mitgliederversammlung, feiert 130. Geburtstag - und Präsident Claus Vogt stellt sich dem Fan-Podcast.</desc>
-    <category lang="de">Dokumentation</category>
+  <programme start="20250104070000 +0000" stop="20250104090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250101083000 +0000" stop="20250101090000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
-    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101090000 +0000" stop="20250101093000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101093000 +0000" stop="20250101100000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101100000 +0000" stop="20250101103000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
-    <desc lang="de">Der VfB begleitet und beschäftigt viele Generationen - und so auch diese Folge. "VfB inTeam" ist hautnah dabei, wenn die U19 den lang ersehnten Mercedes-Benz JuniorCup gewinnt, die Profimannschaft nach einem emotionalen Jahresausklang in Stuttgart in eine ungewöhnliche Wintervorbereitung startet und VfB-Legende Timo Hildebrand die Türen zu seinem "Fußballkeller" öffnet.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101103000 +0000" stop="20250101111500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
-    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101111500 +0000" stop="20250101120000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101120000 +0000" stop="20250101133500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
-    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101133500 +0000" stop="20250101140000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: 1. Episode</title>
-    <desc lang="de">Get Wild: 1. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101140000 +0000" stop="20250101142000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: 2. Episode</title>
-    <desc lang="de">Get Wild: 2. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101142000 +0000" stop="20250101144500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: 3. Episode</title>
-    <desc lang="de">Get Wild: 3. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101144500 +0000" stop="20250101151500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: In der Spur</title>
-    <desc lang="de">Erstmals produziert der VfB Stuttgart eine saisonbegleitende Doku. Ein Trainingslager, das ins Wasser fällt. Neuzugänge, die sich verletzen. Dennoch: Der VfB ist in der Spur. Das Team wächst zusammen, gewinnt souverän in der ersten Pokalrunde. Und alle sind heiß auf die Heimpremiere gegen Bochum. VfB inTeam begleitet die Mannschaft in der ersten Episode durch die Saisonvorbereitung und liefert exklusive Einblicke.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101151500 +0000" stop="20250101154500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Verantwortung</title>
-    <desc lang="de">Wie kann der VfB den überraschenden Abgang seines Kapitäns kompensieren, wer übernimmt jetzt mehr Verantwortung im Team? Welche Mittel stehen für Transfers zur Verfügung - und wie plant der VfB? Während die Verantwortlichen diese Fragen beantworten müssen, gelingt mit der Vertragsverlängerung von Hiroki Ito ein echter Coup. Neuzugang Deniz Undav schwitzt in der Reha für sein Comeback und erlebt erstmals die Karawane Cannstatt und die fantastische Stimmung in der MHPArena.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101154500 +0000" stop="20250101161500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Nähe</title>
-    <desc lang="de">Vor dem Spiel gegen den SC Freiburg fragt sich ganz Stuttgart: Wie gut ist der VFB wirklich? Die Antwort liefert das Team auf dem Platz. In der Länderspielpause zeigt der VFB Präsenz auf dem Weindorf, organisiert die Mitgliederversammlung, feiert 130. Geburtstag - und Präsident Claus Vogt stellt sich dem Fan-Podcast.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101161500 +0000" stop="20250101164500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
-    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101164500 +0000" stop="20250101171500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101171500 +0000" stop="20250101174500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101174500 +0000" stop="20250101181500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Generation Brustring</title>
-    <desc lang="de">Der VfB begleitet und beschäftigt viele Generationen - und so auch diese Folge. "VfB inTeam" ist hautnah dabei, wenn die U19 den lang ersehnten Mercedes-Benz JuniorCup gewinnt, die Profimannschaft nach einem emotionalen Jahresausklang in Stuttgart in eine ungewöhnliche Wintervorbereitung startet und VfB-Legende Timo Hildebrand die Türen zu seinem "Fußballkeller" öffnet.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101181500 +0000" stop="20250101190000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
-    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101190000 +0000" stop="20250101194500 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Neue Perspektiven</title>
-    <desc lang="de">Wir zeigen euch die neue Folge der Dokureihe "VfB in Team".</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101194500 +0000" stop="20250101212000 +0000" channel="DAZN 2 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale</title>
-    <desc lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Das Saisonfinale.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250101212000 +0000" stop="20250101214500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: 1. Episode</title>
-    <desc lang="de">Get Wild: 1. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101214500 +0000" stop="20250101220500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: 2. Episode</title>
-    <desc lang="de">Get Wild: 2. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101220500 +0000" stop="20250101222500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: 3. Episode</title>
-    <desc lang="de">Get Wild: 3. Episode.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250101222500 +0000" stop="20250101230000 +0000" channel="DAZN 2 DE">
+  <programme start="20250104090000 +0000" stop="20250104091500 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250101230000 +0000" stop="20250102070000 +0000" channel="DAZN 2 DE">
+  <programme start="20250104091500 +0000" stop="20250104110500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: SSC Neapel - FC Venedig</title>
+    <desc lang="de">Serie A: SSC Neapel - FC Venedig.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250104110500 +0000" stop="20250104114000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250104114000 +0000" stop="20250104123500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen</title>
+    <desc lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250104123500 +0000" stop="20250104130500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 1. Episode</title>
+    <desc lang="de">Get Wild: 1. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250104130500 +0000" stop="20250104132500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 2. Episode</title>
+    <desc lang="de">Get Wild: 2. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250104132500 +0000" stop="20250104135500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250104135500 +0000" stop="20250104160500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: FC Venedig - FC Empoli</title>
+    <desc lang="de">Serie A: FC Venedig - FC Empoli.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250104160500 +0000" stop="20250104162500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Get Wild: 3. Episode</title>
+    <desc lang="de">Get Wild: 3. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250104162500 +0000" stop="20250104165500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250104165500 +0000" stop="20250104191000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
+    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250104191000 +0000" stop="20250104194000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250104194000 +0000" stop="20250104215000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Hellas Verona - Udinese Calcio</title>
+    <desc lang="de">Serie A: Hellas Verona - Udinese Calcio.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250104215000 +0000" stop="20250104223500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250104223500 +0000" stop="20250104230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250104230000 +0000" stop="20250105070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250105070000 +0000" stop="20250105085000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250105085000 +0000" stop="20250105091000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105091000 +0000" stop="20250105110000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
+    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105110000 +0000" stop="20250105112500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105112500 +0000" stop="20250105133500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AC Monza - Cagliari Calcio</title>
+    <desc lang="de">Serie A: AC Monza - Cagliari Calcio.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105133500 +0000" stop="20250105135500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105135500 +0000" stop="20250105160500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: US Lecce - CFC Genua 1893</title>
+    <desc lang="de">Serie A: US Lecce - CFC Genua 1893.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105160500 +0000" stop="20250105162000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105162000 +0000" stop="20250105183000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Trophée des Champions: PSG - AS Monaco</title>
+    <desc lang="de">Trophée des Champions: PSG - AS Monaco.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105183000 +0000" stop="20250105191500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Her Element by Laura Wontorra: Episode 3</title>
+    <desc lang="de">Her Element by Laura Wontorra: Episode 3.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250105191500 +0000" stop="20250105194000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105194000 +0000" stop="20250105215000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AS Rom - Lazio Rom</title>
+    <desc lang="de">Serie A: AS Rom - Lazio Rom.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105215000 +0000" stop="20250105224000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen</title>
+    <desc lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen.</desc>
+    <category lang="de">Sportmagazin</category>
   </programme>
   <programme start="20250102070000 +0000" stop="20250102090000 +0000" channel="DAZN 2 DE">
     <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
@@ -27136,6 +27096,74 @@
     <title lang="de">FC Bayern World Squad: Episode 8</title>
     <desc lang="de">In der letzten Folge der diesjährigen World Squad Dokumentation dreht sich alles um das Spiel zwischen der Class of '24 und der U19 des FC Bayern München. Begleiten Sie die Mannschaft beim Abschlusstraining vor dem großen Spiel und sehen Sie die Highlights der Begegnung - wie wird das vierte Aufeinandertreffen der beiden Teams ausgehen?</desc>
     <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250104223500 +0000" stop="20250104230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250104230000 +0000" stop="20250105070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250105070000 +0000" stop="20250105085000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
+    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105085000 +0000" stop="20250105091000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105091000 +0000" stop="20250105100500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Her Element by Laura Wontorra: Episode 1</title>
+    <desc lang="de">Her Element by Laura Wontorra: Episode 1.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250105100500 +0000" stop="20250105105500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Her Element by Laura Wontorra: Episode 2</title>
+    <desc lang="de">Her Element by Laura Wontorra: Episode 2.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250105105500 +0000" stop="20250105130500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Primera División Femenina: Atlético Madrid - Real Madrid</title>
+    <desc lang="de">Primera División Femenina: Atlético Madrid - Real Madrid.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105130500 +0000" stop="20250105133000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Get Wild: 1. Episode</title>
+    <desc lang="de">Get Wild: 1. Episode.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250105133000 +0000" stop="20250105135000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250105135000 +0000" stop="20250105160000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Ligue 1: Angers SCO - Stade Brest</title>
+    <desc lang="de">Ligue 1: Angers SCO - Stade Brest.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250105160000 +0000" stop="20250105164500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Decoded 2023/24: NFL: Special Teams</title>
+    <desc lang="de">In der ersten von insgesamt vier Folgen DECODED NFL beginnt Moderatorin Jennifer Becks ihre Deutschlandreise, die sie in den kommenden Monaten zu interessanten Gesprächspartnern rund um eine der angesagtesten Sportarten der Welt führt. Sie dekodiert dabei mit hochrangigen Experten, Ex-Spielern und Trainern die Offense, Defense und das Coaching der besten Football-Liga der Welt. Los geht es aber in Berlin mit ein paar allgemeinen Facts zur NFL, die DAZN-Experte Roman Motzkus im Gepäck hat.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250105164500 +0000" stop="20250105171500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Decoded 2023/24: NFL: Defense</title>
+    <desc lang="de">Die Suche nach dem perfekten Drive führt Moderatorin Jennifer Becks in der dritten Folge von DAZN DECODED NFL erneut nach München - und zwar ins Fitnessstudio. Denn in dieser Episode geht es um die schweren Jungs in der Defense. David Bada, zurzeit bei den Washington Commanders in der NFL unter Vertrag, erklärt, was eine erfolgreiche Defense ausmacht und dekodiert anhand detaillierter Analysen unterschiedliche Taktiken.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250105171500 +0000" stop="20250105173000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
   </programme>
   <programme start="20250102000000 +0100" stop="20250102000000 +0100" channel="DAZN 1 IT">
     <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
@@ -50727,13 +50755,13 @@
 </desc>
   </programme>
   <programme start="20250102080000 +0100" stop="20250102084500 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20250102084500 +0100" stop="20250102093000 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Barcelona - Sevilla</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -50843,7 +50871,7 @@
   <programme start="20250102214500 +0100" stop="20250102234300 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
   <programme start="20250102234300 +0100" stop="20250103001300 +0100" channel="LaLiga TV 🇪🇸">
@@ -50924,97 +50952,97 @@
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250103071500 +0100" stop="20250103080000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103071500 +0100" stop="20250103080200 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 </desc>
   </programme>
-  <programme start="20250103080000 +0100" stop="20250103094800 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103080200 +0100" stop="20250103095500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Valencia - Alavés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · El Valencia CF sigue en busca del punto de inflexión que le permita recortar los 6 puntos que ahora le separan de la salvación. Mestalla debe ser vital para conseguir el objetivo, y el primer obstáculo es el Deportivo Alavés. Votos: 21.
 · País: España</desc>
   </programme>
-  <programme start="20250103094800 +0100" stop="20250103101800 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103095500 +0100" stop="20250103102400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250103101800 +0100" stop="20250103104700 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103102400 +0100" stop="20250103105200 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250103104700 +0100" stop="20250103111900 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103105200 +0100" stop="20250103112200 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
 · País: España</desc>
   </programme>
-  <programme start="20250103111900 +0100" stop="20250103121900 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103112200 +0100" stop="20250103121900 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 · País: España</desc>
   </programme>
-  <programme start="20250103121900 +0100" stop="20250103124700 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103121900 +0100" stop="20250103124600 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Best XI T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
 · País: España</desc>
   </programme>
-  <programme start="20250103124700 +0100" stop="20250103130700 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103124600 +0100" stop="20250103130500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250103130700 +0100" stop="20250103140200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103130500 +0100" stop="20250103135800 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
   </programme>
-  <programme start="20250103140200 +0100" stop="20250103143200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103135800 +0100" stop="20250103143100 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250103143200 +0100" stop="20250103162200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103143100 +0100" stop="20250103162900 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
-  <programme start="20250103162200 +0100" stop="20250103165200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103162900 +0100" stop="20250103165700 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250103165200 +0100" stop="20250103184200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103165700 +0100" stop="20250103184900 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: At. Madrid - Sevilla</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · El Atlético de Madrid ha ganado sus últimos siete partidos oficiales, una racha que, además, le ha permitido reengancharse a la lucha por el título. El equipo de Simeone juega cada vez mejor. Votos: 65.
 · País: España</desc>
   </programme>
-  <programme start="20250103184200 +0100" stop="20250103191200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103184900 +0100" stop="20250103191700 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250103191200 +0100" stop="20250103193200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103191700 +0100" stop="20250103193400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250103193200 +0100" stop="20250103200500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103193400 +0100" stop="20250103200500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
@@ -51026,13 +51054,13 @@
 · Previa Liga Española. 1ª División.
 </desc>
   </programme>
-  <programme start="20250103204900 +0100" stop="20250103225500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103204900 +0100" stop="20250103225700 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
-  <programme start="20250103225500 +0100" stop="20250103233500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250103225700 +0100" stop="20250103233500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Post LALIGA EA SPORTS T24/25 · Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Postpartido Liga.
@@ -51080,55 +51108,55 @@
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250104074000 +0100" stop="20250104080000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104074000 +0100" stop="20250104080100 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250104080000 +0100" stop="20250104085500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104080100 +0100" stop="20250104085200 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
   </programme>
-  <programme start="20250104085500 +0100" stop="20250104095000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104085200 +0100" stop="20250104094700 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 · País: España</desc>
   </programme>
-  <programme start="20250104095000 +0100" stop="20250104102000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104094700 +0100" stop="20250104101800 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250104102000 +0100" stop="20250104121000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104101800 +0100" stop="20250104120400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
-  <programme start="20250104121000 +0100" stop="20250104125000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104120400 +0100" stop="20250104124500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 </desc>
   </programme>
-  <programme start="20250104125000 +0100" stop="20250104132000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104124500 +0100" stop="20250104131400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250104132000 +0100" stop="20250104135000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104131400 +0100" stop="20250104134400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104135000 +0100" stop="20250104145000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104134400 +0100" stop="20250104145000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
@@ -51140,97 +51168,97 @@
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250104152000 +0100" stop="20250104173000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104152000 +0100" stop="20250104172500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
 · País: España</desc>
   </programme>
-  <programme start="20250104173000 +0100" stop="20250104180000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104172500 +0100" stop="20250104175400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
 </desc>
   </programme>
-  <programme start="20250104180000 +0100" stop="20250104185500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104175400 +0100" stop="20250104184800 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 · País: España</desc>
   </programme>
-  <programme start="20250104185500 +0100" stop="20250104192500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104184800 +0100" stop="20250104191700 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250104192500 +0100" stop="20250104202400 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104191700 +0100" stop="20250104202300 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104202400 +0100" stop="20250104205200 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104202300 +0100" stop="20250104205000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250104205200 +0100" stop="20250104212000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104205000 +0100" stop="20250104212000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250104212000 +0100" stop="20250104233000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104212000 +0100" stop="20250104232500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250104233000 +0100" stop="20250105000000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104232500 +0100" stop="20250104235500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250105000000 +0100" stop="20250105015000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104235500 +0100" stop="20250105014100 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
 · País: España</desc>
   </programme>
-  <programme start="20250105015000 +0100" stop="20250105022000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105014100 +0100" stop="20250105022800 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
 </desc>
   </programme>
-  <programme start="20250105022000 +0100" stop="20250105041000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105022800 +0100" stop="20250105041300 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250105041000 +0100" stop="20250105044000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105041300 +0100" stop="20250105044300 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
 · País: España</desc>
   </programme>
-  <programme start="20250105044000 +0100" stop="20250105063000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105044300 +0100" stop="20250105062600 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
-  <programme start="20250105063000 +0100" stop="20250105070000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105062600 +0100" stop="20250105065500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E3</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250105070000 +0100" stop="20250105080000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105065500 +0100" stop="20250105080000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
@@ -51311,7 +51339,7 @@
   <programme start="20250105204000 +0100" stop="20250105223000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250105223000 +0100" stop="20250105230000 +0100" channel="LaLiga TV 🇪🇸">
@@ -51389,7 +51417,7 @@
   <programme start="20250106080000 +0100" stop="20250106095000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250106095000 +0100" stop="20250106102000 +0100" channel="LaLiga TV 🇪🇸">
@@ -51467,7 +51495,7 @@
   <programme start="20250106184500 +0100" stop="20250106203500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250106203500 +0100" stop="20250106210500 +0100" channel="LaLiga TV 🇪🇸">
@@ -51533,7 +51561,7 @@
   <programme start="20250107044500 +0100" stop="20250107063000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250107063000 +0100" stop="20250107070000 +0100" channel="LaLiga TV 🇪🇸">
@@ -51569,7 +51597,7 @@
   <programme start="20250107095000 +0100" stop="20250107114500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
   <programme start="20250107114500 +0100" stop="20250107121500 +0100" channel="LaLiga TV 🇪🇸">
@@ -51581,7 +51609,7 @@
   <programme start="20250107121500 +0100" stop="20250107140500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250107140500 +0100" stop="20250107143500 +0100" channel="LaLiga TV 🇪🇸">
@@ -51665,7 +51693,7 @@
   <programme start="20250108031000 +0100" stop="20250108050500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
   <programme start="20250108050500 +0100" stop="20250108060000 +0100" channel="LaLiga TV 🇪🇸">
@@ -51717,13 +51745,13 @@
 </desc>
   </programme>
   <programme start="20250102080000 +0100" stop="20250102084500 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
   </programme>
   <programme start="20250102084500 +0100" stop="20250102093000 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Barcelona - Sevilla</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Sevilla - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 5.
 · País: España</desc>
@@ -51833,7 +51861,7 @@
   <programme start="20250102214500 +0100" stop="20250102234300 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
   <programme start="20250102234300 +0100" stop="20250103001300 +0100" channel="LaLiga TV ES">
@@ -51914,97 +51942,97 @@
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250103071500 +0100" stop="20250103080000 +0100" channel="LaLiga TV ES">
+  <programme start="20250103071500 +0100" stop="20250103080200 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 </desc>
   </programme>
-  <programme start="20250103080000 +0100" stop="20250103094800 +0100" channel="LaLiga TV ES">
+  <programme start="20250103080200 +0100" stop="20250103095500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Valencia - Alavés</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · El Valencia CF sigue en busca del punto de inflexión que le permita recortar los 6 puntos que ahora le separan de la salvación. Mestalla debe ser vital para conseguir el objetivo, y el primer obstáculo es el Deportivo Alavés. Votos: 21.
 · País: España</desc>
   </programme>
-  <programme start="20250103094800 +0100" stop="20250103101800 +0100" channel="LaLiga TV ES">
+  <programme start="20250103095500 +0100" stop="20250103102400 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250103101800 +0100" stop="20250103104700 +0100" channel="LaLiga TV ES">
+  <programme start="20250103102400 +0100" stop="20250103105200 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250103104700 +0100" stop="20250103111900 +0100" channel="LaLiga TV ES">
+  <programme start="20250103105200 +0100" stop="20250103112200 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
 · País: España</desc>
   </programme>
-  <programme start="20250103111900 +0100" stop="20250103121900 +0100" channel="LaLiga TV ES">
+  <programme start="20250103112200 +0100" stop="20250103121900 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 · País: España</desc>
   </programme>
-  <programme start="20250103121900 +0100" stop="20250103124700 +0100" channel="LaLiga TV ES">
+  <programme start="20250103121900 +0100" stop="20250103124600 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Best XI T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
 · País: España</desc>
   </programme>
-  <programme start="20250103124700 +0100" stop="20250103130700 +0100" channel="LaLiga TV ES">
+  <programme start="20250103124600 +0100" stop="20250103130500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250103130700 +0100" stop="20250103140200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103130500 +0100" stop="20250103135800 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
   </programme>
-  <programme start="20250103140200 +0100" stop="20250103143200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103135800 +0100" stop="20250103143100 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250103143200 +0100" stop="20250103162200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103143100 +0100" stop="20250103162900 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
-  <programme start="20250103162200 +0100" stop="20250103165200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103162900 +0100" stop="20250103165700 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250103165200 +0100" stop="20250103184200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103165700 +0100" stop="20250103184900 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 16: At. Madrid - Sevilla</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
 · El Atlético de Madrid ha ganado sus últimos siete partidos oficiales, una racha que, además, le ha permitido reengancharse a la lucha por el título. El equipo de Simeone juega cada vez mejor. Votos: 65.
 · País: España</desc>
   </programme>
-  <programme start="20250103184200 +0100" stop="20250103191200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103184900 +0100" stop="20250103191700 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250103191200 +0100" stop="20250103193200 +0100" channel="LaLiga TV ES">
+  <programme start="20250103191700 +0100" stop="20250103193400 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250103193200 +0100" stop="20250103200500 +0100" channel="LaLiga TV ES">
+  <programme start="20250103193400 +0100" stop="20250103200500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
@@ -52016,13 +52044,13 @@
 · Previa Liga Española. 1ª División.
 </desc>
   </programme>
-  <programme start="20250103204900 +0100" stop="20250103225500 +0100" channel="LaLiga TV ES">
+  <programme start="20250103204900 +0100" stop="20250103225700 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
-  <programme start="20250103225500 +0100" stop="20250103233500 +0100" channel="LaLiga TV ES">
+  <programme start="20250103225700 +0100" stop="20250103233500 +0100" channel="LaLiga TV ES">
     <title lang="es">Post LALIGA EA SPORTS T24/25 · Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Postpartido Liga.
@@ -52070,55 +52098,55 @@
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250104074000 +0100" stop="20250104080000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104074000 +0100" stop="20250104080100 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA ZAP Internacional T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga. Votos: 6.
 · País: España</desc>
   </programme>
-  <programme start="20250104080000 +0100" stop="20250104085500 +0100" channel="LaLiga TV ES">
+  <programme start="20250104080100 +0100" stop="20250104085200 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top Partidos 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español. Votos: 4.
 </desc>
   </programme>
-  <programme start="20250104085500 +0100" stop="20250104095000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104085200 +0100" stop="20250104094700 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 · País: España</desc>
   </programme>
-  <programme start="20250104095000 +0100" stop="20250104102000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104094700 +0100" stop="20250104101800 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250104102000 +0100" stop="20250104121000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104101800 +0100" stop="20250104120400 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
-  <programme start="20250104121000 +0100" stop="20250104125000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104120400 +0100" stop="20250104124500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 </desc>
   </programme>
-  <programme start="20250104125000 +0100" stop="20250104132000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104124500 +0100" stop="20250104131400 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250104132000 +0100" stop="20250104135000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104131400 +0100" stop="20250104134400 +0100" channel="LaLiga TV ES">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104135000 +0100" stop="20250104145000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104134400 +0100" stop="20250104145000 +0100" channel="LaLiga TV ES">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
@@ -52130,97 +52158,97 @@
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250104152000 +0100" stop="20250104173000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104152000 +0100" stop="20250104172500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
 · País: España</desc>
   </programme>
-  <programme start="20250104173000 +0100" stop="20250104180000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104172500 +0100" stop="20250104175400 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
 </desc>
   </programme>
-  <programme start="20250104180000 +0100" stop="20250104185500 +0100" channel="LaLiga TV ES">
+  <programme start="20250104175400 +0100" stop="20250104184800 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 · País: España</desc>
   </programme>
-  <programme start="20250104185500 +0100" stop="20250104192500 +0100" channel="LaLiga TV ES">
+  <programme start="20250104184800 +0100" stop="20250104191700 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250104192500 +0100" stop="20250104202400 +0100" channel="LaLiga TV ES">
+  <programme start="20250104191700 +0100" stop="20250104202300 +0100" channel="LaLiga TV ES">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104202400 +0100" stop="20250104205200 +0100" channel="LaLiga TV ES">
+  <programme start="20250104202300 +0100" stop="20250104205000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250104205200 +0100" stop="20250104212000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104205000 +0100" stop="20250104212000 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
 </desc>
   </programme>
-  <programme start="20250104212000 +0100" stop="20250104233000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104212000 +0100" stop="20250104232500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250104233000 +0100" stop="20250105000000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104232500 +0100" stop="20250104235500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Talking Football T24/25 · Leganés</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250105000000 +0100" stop="20250105015000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104235500 +0100" stop="20250105014100 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20).
 · País: España</desc>
   </programme>
-  <programme start="20250105015000 +0100" stop="20250105022000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105014100 +0100" stop="20250105022800 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
 </desc>
   </programme>
-  <programme start="20250105022000 +0100" stop="20250105041000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105022800 +0100" stop="20250105041300 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250105041000 +0100" stop="20250105044000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105041300 +0100" stop="20250105044300 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
 · País: España</desc>
   </programme>
-  <programme start="20250105044000 +0100" stop="20250105063000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105044300 +0100" stop="20250105062600 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
-  <programme start="20250105063000 +0100" stop="20250105070000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105062600 +0100" stop="20250105065500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E3</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250105070000 +0100" stop="20250105080000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105065500 +0100" stop="20250105080000 +0100" channel="LaLiga TV ES">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
@@ -52301,7 +52329,7 @@
   <programme start="20250105204000 +0100" stop="20250105223000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250105223000 +0100" stop="20250105230000 +0100" channel="LaLiga TV ES">
@@ -52379,7 +52407,7 @@
   <programme start="20250106080000 +0100" stop="20250106095000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250106095000 +0100" stop="20250106102000 +0100" channel="LaLiga TV ES">
@@ -52457,7 +52485,7 @@
   <programme start="20250106184500 +0100" stop="20250106203500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250106203500 +0100" stop="20250106210500 +0100" channel="LaLiga TV ES">
@@ -52523,7 +52551,7 @@
   <programme start="20250107044500 +0100" stop="20250107063000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250107063000 +0100" stop="20250107070000 +0100" channel="LaLiga TV ES">
@@ -52559,7 +52587,7 @@
   <programme start="20250107095000 +0100" stop="20250107114500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
   <programme start="20250107114500 +0100" stop="20250107121500 +0100" channel="LaLiga TV ES">
@@ -52571,7 +52599,7 @@
   <programme start="20250107121500 +0100" stop="20250107140500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Jornada 12: Valencia - Real Madrid T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *6.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 41.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 44.
 · País: España</desc>
   </programme>
   <programme start="20250107140500 +0100" stop="20250107143500 +0100" channel="LaLiga TV ES">
@@ -52655,7 +52683,7 @@
   <programme start="20250108031000 +0100" stop="20250108050500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Barcelona - At. Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 194.
+· El FC Barcelona solo han sumado 5 de los últimos 18 puntos posibles y tiene la importante baja de Lamine Yamal. Los Colchoneros buscarán un triunfo doble: situarse líderes en solitario y romper el maleficio de Simeone en Can Barça donde nunca ha vencido. Votos: 195.
 · País: España</desc>
   </programme>
   <programme start="20250108050500 +0100" stop="20250108060000 +0100" channel="LaLiga TV ES">
