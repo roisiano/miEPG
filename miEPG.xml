@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 03/01/2025 17:43" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 03/01/2025 19:01" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -429,6 +429,24 @@
   </channel>
   <channel id="beIN SPORTS 3 HD">
     <display-name>beIN SPORTS 3 HD</display-name>
+  </channel>
+  <channel id="beIN SPORTS 4 HD">
+    <display-name>beIN SPORTS 4 HD</display-name>
+  </channel>
+  <channel id="beIN SPORTS 5 HD">
+    <display-name>beIN SPORTS 5 HD</display-name>
+  </channel>
+  <channel id="beIN SPORTS 6 HD">
+    <display-name>beIN SPORTS 6 HD</display-name>
+  </channel>
+  <channel id="beIN SPORTS 7 HD">
+    <display-name>beIN SPORTS 7 HD</display-name>
+  </channel>
+  <channel id="beIN SPORTS 8 HD">
+    <display-name>beIN SPORTS 8 HD</display-name>
+  </channel>
+  <channel id="beIN SPORTS 9 HD">
+    <display-name>beIN SPORTS 9 HD</display-name>
   </channel>
   <channel id="JOJSport.sk">
     <display-name>JOJSport.sk</display-name>
@@ -52322,6 +52340,931 @@
     <sub-title lang="fr">Best of</sub-title>
     <category lang="fr">Magazine sportif</category>
     <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/1/2/7971218.jpg" />
+  </programme>
+  <programme start="20250102011000 +0000" stop="20250102034500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Basket-ball : NBA</title>
+    <desc lang="fr">Diffusion d&apos;un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basket-ball.</desc>
+    <category lang="fr">Basket-ball</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/10071279.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/8/2/10071280.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/4/10074420.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/4/6755419.jpg" />
+  </programme>
+  <programme start="20250102034500 +0000" stop="20250102080000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102120000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102160000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102200000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250102210000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102210000 +0000" stop="20250103000000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Football américain : NCAA</title>
+    <desc lang="fr">Diffusion d&apos;un match de NCAA, le championnat universitaire de football américain aux Etats-Unis.</desc>
+    <category lang="fr">Football américain</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/8/6308852.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/6/7/8285765.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/6/8276699.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/3/9911356.jpg" />
+  </programme>
+  <programme start="20250103000000 +0000" stop="20250103011000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103011000 +0000" stop="20250103034500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Basket-ball : NBA</title>
+    <desc lang="fr">Diffusion d&apos;un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basket-ball.</desc>
+    <category lang="fr">Basket-ball</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/2/0/9843023.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/2/0/9843024.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/0/9843022.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/4/6755419.jpg" />
+  </programme>
+  <programme start="20250103034500 +0000" stop="20250103080000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103080000 +0000" stop="20250103120000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103160000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103185300 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103185300 +0000" stop="20250103210000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Football : Ligue 2 BKT</title>
+    <desc lang="fr">Retransmission d&apos;une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/7757071.jpg" />
+  </programme>
+  <programme start="20250103210000 +0000" stop="20250104000000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104000000 +0000" stop="20250104011000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104011000 +0000" stop="20250104034500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Basket-ball : NBA</title>
+    <desc lang="fr">Diffusion d&apos;un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basket-ball.</desc>
+    <category lang="fr">Basket-ball</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/0/1/10178103.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/1/1/10178111.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/9/0/10178093.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/4/6755419.jpg" />
+  </programme>
+  <programme start="20250104034500 +0000" stop="20250104080000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104080000 +0000" stop="20250104122500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104122500 +0000" stop="20250104143000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Football : EFL Championship</title>
+    <desc lang="fr">Retransmission d&apos;un match de 2e division du championnat d&apos;Angleterre de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/4/5762414.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/4/5762413.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/5762412.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/5/7656540.jpg" />
+  </programme>
+  <programme start="20250104143000 +0000" stop="20250104145500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104145500 +0000" stop="20250104170000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Football : EFL Championship</title>
+    <desc lang="fr">Retransmission d&apos;un match de 2e division du championnat d&apos;Angleterre de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/4/5762414.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/4/5762413.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/5762412.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/5/7656540.jpg" />
+  </programme>
+  <programme start="20250104170000 +0000" stop="20250104200000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104200000 +0000" stop="20250105000000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105000000 +0000" stop="20250105034500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105034500 +0000" stop="20250105080000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105080000 +0000" stop="20250105120000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105120000 +0000" stop="20250105145500 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105145500 +0000" stop="20250105170000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Football : EFL Championship</title>
+    <desc lang="fr">Retransmission d&apos;un match de 2e division du championnat d&apos;Angleterre de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/1/4/5762414.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/1/4/5762413.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/5762412.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/5/7656540.jpg" />
+  </programme>
+  <programme start="20250105170000 +0000" stop="20250105180000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105180000 +0000" stop="20250106010000 +0000" channel="beIN SPORTS 4 HD">
+    <title lang="fr">Football américain : NFL</title>
+    <desc lang="fr">Diffusion d&apos;un match de la NFL (National Football League).</desc>
+    <category lang="fr">Football américain</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/9/5/6048592.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/5/6048591.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/9/5/6048590.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/9/0/6809091.jpg" />
+  </programme>
+  <programme start="20250102020000 +0000" stop="20250102080000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Tennis : Tournoi WTA d&apos;Auckland</title>
+    <desc lang="fr">Suivez le Tournoi WTA d&apos;Auckland, un tournoi du circuit WTA 250 de tennis.</desc>
+    <category lang="fr">Tennis</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/3/6683396.jpg" />
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102120000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102160000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102200000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250102223000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102223000 +0000" stop="20250103050000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Tennis : Tournoi WTA d&apos;Auckland</title>
+    <desc lang="fr">Suivez le Tournoi WTA d&apos;Auckland, un tournoi du circuit WTA 250 de tennis.</desc>
+    <category lang="fr">Tennis</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/3/6683396.jpg" />
+  </programme>
+  <programme start="20250103050000 +0000" stop="20250103083000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Tennis : Tournoi WTA d&apos;Auckland</title>
+    <desc lang="fr">Suivez le Tournoi WTA d&apos;Auckland, un tournoi du circuit WTA 250 de tennis.</desc>
+    <category lang="fr">Tennis</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/3/6683396.jpg" />
+  </programme>
+  <programme start="20250103083000 +0000" stop="20250103120000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103160000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103185500 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103185500 +0000" stop="20250103210000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Football : Ligue 2 BKT</title>
+    <desc lang="fr">Retransmission d&apos;une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/7757071.jpg" />
+  </programme>
+  <programme start="20250103210000 +0000" stop="20250104000000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104000000 +0000" stop="20250104020000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104020000 +0000" stop="20250104073000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Tennis : Tournoi WTA d&apos;Auckland</title>
+    <desc lang="fr">Suivez le Tournoi WTA d&apos;Auckland, un tournoi du circuit WTA 250 de tennis.</desc>
+    <category lang="fr">Tennis</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/3/6683396.jpg" />
+  </programme>
+  <programme start="20250104073000 +0000" stop="20250104120000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104120000 +0000" stop="20250104163000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104163000 +0000" stop="20250104170000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104170000 +0000" stop="20250104200000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Hockey sur glace : NHL</title>
+    <desc lang="fr">Retransmission d&apos;un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
+    <category lang="fr">Hockey sur glace</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/8176471.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/4/8176474.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/4/8176473.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/1/8917158.jpg" />
+  </programme>
+  <programme start="20250104200000 +0000" stop="20250104233000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104233000 +0000" stop="20250105013000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Basket-ball : NCAA</title>
+    <desc lang="fr">Diffusion d&apos;un match de NCAA, le championnat universitaire américain de Basket-ball.</desc>
+    <category lang="fr">Basket-ball</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/8/5805871.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/8/5805869.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/8/5805870.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/8/7648870.jpg" />
+  </programme>
+  <programme start="20250105013000 +0000" stop="20250105040000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105040000 +0000" stop="20250105073000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Tennis : Tournoi WTA d&apos;Auckland</title>
+    <desc lang="fr">Suivez le Tournoi WTA d&apos;Auckland, un tournoi du circuit WTA 250 de tennis.</desc>
+    <category lang="fr">Tennis</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/9/3/6683396.jpg" />
+  </programme>
+  <programme start="20250105073000 +0000" stop="20250105120000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105120000 +0000" stop="20250105152500 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105152500 +0000" stop="20250105173000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Football : Championnat du Portugal</title>
+    <desc lang="fr">Retransmission d&apos;un match du Championnat du Portugal de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/3/10178321.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/2/3/10178322.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/2/3/10178320.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/5657509.jpg" />
+  </programme>
+  <programme start="20250105173000 +0000" stop="20250105193000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105193000 +0000" stop="20250105234000 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105234000 +0000" stop="20250106021500 +0000" channel="beIN SPORTS 5 HD">
+    <title lang="fr">Basket-ball : NBA</title>
+    <desc lang="fr">Diffusion d&apos;un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basket-ball.</desc>
+    <category lang="fr">Basket-ball</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/9/1/10178195.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/2/10178201.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/8/1/10178186.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/1/4/6755419.jpg" />
+  </programme>
+  <programme start="20250102013000 +0000" stop="20250102014500 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102014500 +0000" stop="20250102051500 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">Football américain : NCAA</title>
+    <desc lang="fr">Diffusion d&apos;un match de NCAA, le championnat universitaire de football américain aux Etats-Unis.</desc>
+    <category lang="fr">Football américain</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/5/8/6308852.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/6/7/8285765.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/9/6/8276699.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/5/3/9911356.jpg" />
+  </programme>
+  <programme start="20250102051500 +0000" stop="20250102080000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102120000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102160000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102200000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250102220000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102220000 +0000" stop="20250103000000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103000000 +0000" stop="20250103040000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">Hockey sur glace : NHL</title>
+    <desc lang="fr">Retransmission d&apos;un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
+    <category lang="fr">Hockey sur glace</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/8176471.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/4/8176474.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/4/8176473.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/1/8917158.jpg" />
+  </programme>
+  <programme start="20250103040000 +0000" stop="20250103080000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103080000 +0000" stop="20250103120000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103160000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103185500 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103185500 +0000" stop="20250103210000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">Football : Ligue 2 BKT</title>
+    <desc lang="fr">Retransmission d&apos;une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/7757071.jpg" />
+  </programme>
+  <programme start="20250103210000 +0000" stop="20250104000000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104000000 +0000" stop="20250104030000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">Hockey sur glace : NHL</title>
+    <desc lang="fr">Retransmission d&apos;un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
+    <category lang="fr">Hockey sur glace</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/4/8176471.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/7/4/8176474.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/4/8176473.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/5/1/8917158.jpg" />
+  </programme>
+  <programme start="20250104030000 +0000" stop="20250104040000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104040000 +0000" stop="20250104080000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104080000 +0000" stop="20250104120000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104120000 +0000" stop="20250104155500 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104155500 +0000" stop="20250104180000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">Football : Süper Lig</title>
+    <desc lang="fr">Retransmission d&apos;un match du championnat de Turquie de football, appelé Süper Lig.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/4/5762405.jpg" />
+  </programme>
+  <programme start="20250104180000 +0000" stop="20250104193000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104193000 +0000" stop="20250105000000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105000000 +0000" stop="20250105040000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105040000 +0000" stop="20250105080000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105080000 +0000" stop="20250105120000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105120000 +0000" stop="20250105155500 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105155500 +0000" stop="20250105180000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">Football : Süper Lig</title>
+    <desc lang="fr">Retransmission d&apos;un match du championnat de Turquie de football, appelé Süper Lig.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/4/5762405.jpg" />
+  </programme>
+  <programme start="20250105180000 +0000" stop="20250105200000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105200000 +0000" stop="20250106010000 +0000" channel="beIN SPORTS 6 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102000000 +0000" stop="20250102040000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102040000 +0000" stop="20250102080000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102120000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102160000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102200000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250103000000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103000000 +0000" stop="20250103040000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103040000 +0000" stop="20250103080000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103080000 +0000" stop="20250103120000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103160000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103185500 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103185500 +0000" stop="20250103210000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">Football : Ligue 2 BKT</title>
+    <desc lang="fr">Retransmission d&apos;une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/7757071.jpg" />
+  </programme>
+  <programme start="20250103210000 +0000" stop="20250104000000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104000000 +0000" stop="20250104040000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104040000 +0000" stop="20250104080000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104080000 +0000" stop="20250104120000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104120000 +0000" stop="20250104163000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104163000 +0000" stop="20250104165500 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104165500 +0000" stop="20250104190000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">Football : Süper Lig</title>
+    <desc lang="fr">Retransmission d&apos;un match du championnat de Turquie de football, appelé Süper Lig.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/0/4/5762405.jpg" />
+  </programme>
+  <programme start="20250104190000 +0000" stop="20250105000000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105000000 +0000" stop="20250105040000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105040000 +0000" stop="20250105080000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105080000 +0000" stop="20250105120000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105120000 +0000" stop="20250105155500 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105155500 +0000" stop="20250105180000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">Football : Coupe de la Confédération de la CAF</title>
+    <sub-title lang="fr">CAF Confederation Cup</sub-title>
+    <desc lang="fr">Diffusion de matchs de la Coupe de la Confédération de la CAF.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/0/6763001.jpg" />
+  </programme>
+  <programme start="20250105180000 +0000" stop="20250105200000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105200000 +0000" stop="20250106000000 +0000" channel="beIN SPORTS 7 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102000000 +0000" stop="20250102040000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102040000 +0000" stop="20250102080000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102120000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102160000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102200000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250103000000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103000000 +0000" stop="20250103040000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103040000 +0000" stop="20250103080000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103080000 +0000" stop="20250103120000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103160000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103185500 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103185500 +0000" stop="20250103210000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">Football : Ligue 2 BKT</title>
+    <desc lang="fr">Retransmission d&apos;une rencontre disputée dans le cadre de la Ligue 2, la deuxième division du championnat de football professionnel en France.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/7757071.jpg" />
+  </programme>
+  <programme start="20250103210000 +0000" stop="20250104000000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104000000 +0000" stop="20250104040000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104040000 +0000" stop="20250104080000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104080000 +0000" stop="20250104120000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104120000 +0000" stop="20250104163000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104163000 +0000" stop="20250104210000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104210000 +0000" stop="20250105000000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105000000 +0000" stop="20250105040000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105040000 +0000" stop="20250105080000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105080000 +0000" stop="20250105120000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105120000 +0000" stop="20250105155500 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105155500 +0000" stop="20250105180000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">Football : Ligue des champions de la CAF</title>
+    <sub-title lang="fr">CAF Champions League</sub-title>
+    <desc lang="fr">Découvrez les plus belles affiches de la prestigieuse Ligue des champions de la CAF.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/8/6066809.jpg" />
+  </programme>
+  <programme start="20250105180000 +0000" stop="20250105200000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105200000 +0000" stop="20250106000000 +0000" channel="beIN SPORTS 8 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102000000 +0000" stop="20250102040000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102040000 +0000" stop="20250102080000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102080000 +0000" stop="20250102120000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102120000 +0000" stop="20250102160000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102160000 +0000" stop="20250102200000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250102200000 +0000" stop="20250103000000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103000000 +0000" stop="20250103040000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103040000 +0000" stop="20250103080000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103080000 +0000" stop="20250103120000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103120000 +0000" stop="20250103160000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103160000 +0000" stop="20250103175500 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103175500 +0000" stop="20250103200000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">Football : Championnat du Portugal</title>
+    <desc lang="fr">Retransmission d&apos;un match du Championnat du Portugal de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/6/3/10178365.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/3/10178366.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/10178362.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/5657509.jpg" />
+  </programme>
+  <programme start="20250103200000 +0000" stop="20250103201000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250103201000 +0000" stop="20250103221500 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">Football : Championnat du Portugal</title>
+    <desc lang="fr">Retransmission d&apos;un match du Championnat du Portugal de football.</desc>
+    <category lang="fr">Football</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/6/3/10178363.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/6/3/10178364.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/6/3/10178361.jpg" />
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/5657509.jpg" />
+  </programme>
+  <programme start="20250103221500 +0000" stop="20250104040000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104040000 +0000" stop="20250104080000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104080000 +0000" stop="20250104150000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104150000 +0000" stop="20250104171500 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104171500 +0000" stop="20250104200000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250104200000 +0000" stop="20250105000000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105000000 +0000" stop="20250105040000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105040000 +0000" stop="20250105080000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105080000 +0000" stop="20250105120000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105120000 +0000" stop="20250105160000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105160000 +0000" stop="20250105183000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
+  </programme>
+  <programme start="20250105183000 +0000" stop="20250106000000 +0000" channel="beIN SPORTS 9 HD">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+    <category lang="fr">Magazine sportif</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/7/7/5763770.jpg" />
   </programme>
   <programme start="20250103230500 +0100" stop="20250104022500 +0100" channel="JOJSport.sk">
     <title lang="cs">IIHF MS juniorov 2025</title>
