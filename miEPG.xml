@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 04/01/2025 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 04/01/2025 19:01" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -1762,7 +1762,7 @@
   <programme start="20250106000000 +0100" stop="20250106020000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
-· La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 13.
+· La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 14.
 · País: R.U.</desc>
   </programme>
   <programme start="20250106020000 +0100" stop="20250106030000 +0100" channel="EUROSPORT 2 ES">
@@ -3744,7 +3744,7 @@
   <programme start="20250106000000 +0100" stop="20250106020000 +0100" channel="EUROSPORT 2">
     <title lang="es">Abierto de Escocia de snooker T24/25 · Final</title>
     <desc lang="es">Deportes/Snooker | 2024 | TP | *6.0/10
-· La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 13.
+· La ciudad de Edimburgo alberga la disputa del Abierto de Escocia del 9 al 15 de diciembre. Gary Wilson es el defensor del título. El snooker es la modalidad del billar más profesional. Su objetivo es anotar más puntos que el contrario en cada "frame". Votos: 14.
 · País: R.U.</desc>
   </programme>
   <programme start="20250106020000 +0100" stop="20250106030000 +0100" channel="EUROSPORT 2">
@@ -5619,17 +5619,11 @@
 · El entrenador español, reconocido por su habilidad táctica y éxito en competiciones europeas como la Europa League, llegó a la Premier League en 2018 para dirigir al Arsenal, alcanzando la final de la Europa League en 2019.
 · País: España</desc>
   </programme>
-  <programme start="20250104132000 +0100" stop="20250104153300 +0100" channel="DAZN 1 Espana">
+  <programme start="20250104132000 +0100" stop="20250104155000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Tottenham - Newcastle T24/25 · Premier League</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *4.0/10
-· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 1.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 2.
 · País: R.U.</desc>
-  </programme>
-  <programme start="20250104153300 +0100" stop="20250104155000 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
-    <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
-· Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
-· País: España</desc>
   </programme>
   <programme start="20250104155000 +0100" stop="20250104180500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Manchester City - West Ham T24/25 · Premier League</title>
@@ -5685,73 +5679,73 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250105114500 +0100" stop="20250105141000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105114500 +0100" stop="20250105135300 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 16: Atlético de Madrid - Real Madrid T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250105141000 +0100" stop="20250105145000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105135300 +0100" stop="20250105145000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Maverick Viñales: dos vidas</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP
 · Un reportaje especial sobre Maverick Viñales. El piloto de Figueres pone en 2024 punto y final a su estadía en Aprilia. A partir de la temporada 2025 competirá a lomos de una KTM.
 · País: España</desc>
   </programme>
-  <programme start="20250105145000 +0100" stop="20250105170000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105145000 +0100" stop="20250105170300 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Fulham - Ipswich Town T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250105170000 +0100" stop="20250105172000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105170300 +0100" stop="20250105172000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Julen Lopetegui, una referencia en los banquillos</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Julen Lopetegui es uno de los entrenadores con mayor caché en los banquillos de la Premier League gracias a su minucioso trabajo, tanto físico como táctico, que le permite sacar el máximo rendimiento de sus jugadores.
 · País: España</desc>
   </programme>
-  <programme start="20250105172000 +0100" stop="20250105193000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105172000 +0100" stop="20250105193500 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Liverpool - Manchester Utd. T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único. Votos: 22.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250105193000 +0100" stop="20250105195000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105193500 +0100" stop="20250105194800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Premier Corner by Guiness 0,0 T2024 · Emery y Monchi, transformando el Aston Villa</title>
     <desc lang="es">Entretenimiento/Entrevista | 2024 | TP
 · Eneko Fernández viaja hasta Birmingham para charlar con Unai Emery y Monchi. Desde su llegada al Aston Villa, el entrenador guipuzcoano y el director deportivo no han hecho más que consolidar al equipo de Birmimgham.
 · País: España</desc>
   </programme>
-  <programme start="20250105195000 +0100" stop="20250105205500 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105194800 +0100" stop="20250105205600 +0100" channel="DAZN 1 Espana">
     <title lang="es">Mundial de motociclismo T2024 · GP de Italia: Race Moto3</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
 · El GP de Italia es la séptima prueba del Mundial de motociclismo. Los pilotos españoles tiene una nueva oportunidad para vencer y afianzarse en las primeras posiciones de las tres categorías. Votos: 1.
 · País: España e Italia</desc>
   </programme>
-  <programme start="20250105205500 +0100" stop="20250105214000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105205600 +0100" stop="20250105213800 +0100" channel="DAZN 1 Espana">
     <title lang="es">Mundial de motociclismo T2024 · GP de Italia: Race Moto2</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *10.0/10
 · El GP de Italia es la séptima prueba del Mundial de motociclismo. Los pilotos españoles tiene una nueva oportunidad para vencer y afianzarse en las primeras posiciones de las tres categorías. Votos: 1.
 · País: España e Italia</desc>
   </programme>
-  <programme start="20250105214000 +0100" stop="20250105224500 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105213800 +0100" stop="20250105224200 +0100" channel="DAZN 1 Espana">
     <title lang="es">Mundial de motociclismo T2024 · GP de Italia: Race MotoGP</title>
     <desc lang="es">Deportes/Motociclismo | 2024 | TP | *6.0/10
 · El GP de Italia es la séptima prueba del Mundial de motociclismo. Los pilotos españoles tiene una nueva oportunidad para vencer y afianzarse en las primeras posiciones de las tres categorías. Votos: 11.
 · País: España e Italia</desc>
   </programme>
-  <programme start="20250105224500 +0100" stop="20250105234000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105224200 +0100" stop="20250105234800 +0100" channel="DAZN 1 Espana">
     <title lang="es">La vida en rojo</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *4.0/10
 · Documental sobre Ducati, la fuerza mayor de MotoGP. Votos: 3.
 </desc>
   </programme>
-  <programme start="20250105234000 +0100" stop="20250106014000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250105234800 +0100" stop="20250106014800 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 20: Manchester City - West Ham T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · Para muchos, la Premier es el torneo más competitivo del mundo. Los equipos ingleses cuentan con una cantidad de talento descomunal y la mística de sus estadios hace de cada partido un evento único.
 · País: R.U.</desc>
   </programme>
-  <programme start="20250106014000 +0100" stop="20250106060000 +0100" channel="DAZN 1 Espana">
+  <programme start="20250106014800 +0100" stop="20250106060000 +0100" channel="DAZN 1 Espana">
     <title lang="es">Disfruta de DAZN en Movistar Plus+</title>
     <desc lang="es">
 · Programa por determinar...
@@ -8071,7 +8065,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250109170000 +0100" stop="20250109174500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -8652,7 +8646,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250109170000 +0100" stop="20250109174500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -26605,82 +26599,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/nba-589807901.jpg" />
   </programme>
-  <programme start="20250103070000 +0000" stop="20250103090000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250103090000 +0000" stop="20250103093000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250103093000 +0000" stop="20250103112000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
-    <desc lang="de">Serie A: FC Cagliari - Inter Mailand.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250103112000 +0000" stop="20250103115000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250103115000 +0000" stop="20250103134500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: SSC Neapel - FC Venedig</title>
-    <desc lang="de">Serie A: SSC Neapel - FC Venedig.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250103134500 +0000" stop="20250103140000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250103140000 +0000" stop="20250103155000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250103155000 +0000" stop="20250103162500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 18. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250103162500 +0000" stop="20250103170000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250103170000 +0000" stop="20250103190000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250103190000 +0000" stop="20250103193000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250103193000 +0000" stop="20250103200000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 18. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250103200000 +0000" stop="20250103233000 +0000" channel="DAZN 1 DE">
-    <title lang="de">World Darts Championship: Finale</title>
-    <desc lang="de">Kommentator: Elmar Paulke / Experte: Florian Hempel.</desc>
-    <date>2025</date>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250103233000 +0000" stop="20250104070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20250104070000 +0000" stop="20250104090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
@@ -26918,95 +26836,85 @@
     <desc lang="de">Wir zeigen euch Folge 14 von NFL: The Franchise.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20250103070000 +0000" stop="20250103090000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A: FC Cagliari - Inter Mailand</title>
-    <desc lang="de">Serie A: FC Cagliari - Inter Mailand.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250103090000 +0000" stop="20250103105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250103105000 +0000" stop="20250103112500 +0000" channel="DAZN 2 DE">
+  <programme start="20250106224000 +0000" stop="20250106230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250103112500 +0000" stop="20250103115500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 18. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
-    <category lang="de">Fußball</category>
+  <programme start="20250106230000 +0000" stop="20250107070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
   </programme>
-  <programme start="20250103115500 +0000" stop="20250103135000 +0000" channel="DAZN 2 DE">
+  <programme start="20250107070000 +0000" stop="20250107085000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250103135000 +0000" stop="20250103140000 +0000" channel="DAZN 2 DE">
+  <programme start="20250107085000 +0000" stop="20250107092000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250103140000 +0000" stop="20250103155500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A: SSC Neapel - FC Venedig</title>
-    <desc lang="de">Serie A: SSC Neapel - FC Venedig.</desc>
+  <programme start="20250107092000 +0000" stop="20250107112000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
+    <desc lang="de">Kommentator: Tom Kirsten.</desc>
     <date>2024</date>
-    <category lang="de">Fußball</category>
+    <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250103155500 +0000" stop="20250103163000 +0000" channel="DAZN 2 DE">
+  <programme start="20250107112000 +0000" stop="20250107115000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250103163000 +0000" stop="20250103172000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 2</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 2.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250103172000 +0000" stop="20250103180500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 3</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 3.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250103180500 +0000" stop="20250103183500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 18. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 18. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250103183500 +0000" stop="20250103185500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250103185500 +0000" stop="20250103210500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Italienischer Super Cup: Juventus Turin - AC Mailand</title>
-    <desc lang="de">Kommentator: Mario Rieker / Experte: Michi Hofmann.</desc>
+  <programme start="20250107115000 +0000" stop="20250107134000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
+    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
     <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250103210500 +0000" stop="20250103211500 +0000" channel="DAZN 2 DE">
+  <programme start="20250107134000 +0000" stop="20250107135500 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250103211500 +0000" stop="20250103220500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Her Element by Laura Wontorra: Episode 4</title>
-    <desc lang="de">Her Element by Laura Wontorra: Episode 4.</desc>
-    <category lang="de">Sportmagazin</category>
+  <programme start="20250107135500 +0000" stop="20250107142500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
+    <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250103220500 +0000" stop="20250103230000 +0000" channel="DAZN 2 DE">
+  <programme start="20250107142500 +0000" stop="20250107145500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
+    <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107145500 +0000" stop="20250107170500 +0000" channel="DAZN 1 DE">
+    <title lang="de">King's Cup: Al-Taawoun - Al-Qadsiah</title>
+    <desc lang="de">King's Cup: Al-Taawoun - Al-Qadsiah.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107170500 +0000" stop="20250107172500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250107172500 +0000" stop="20250107194000 +0000" channel="DAZN 1 DE">
+    <title lang="de">King's Cup: Al Hilal - Al Ittihad</title>
+    <desc lang="de">King's Cup: Al Hilal - Al Ittihad.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107194000 +0000" stop="20250107204000 +0000" channel="DAZN 1 DE">
     <title lang="de">Get Wild: Lange Version</title>
     <desc lang="de">Get Wild: Lange Version.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20250103230000 +0000" stop="20250104070000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
+  <programme start="20250107204000 +0000" stop="20250107211000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
   </programme>
   <programme start="20250104070000 +0000" stop="20250104090000 +0000" channel="DAZN 2 DE">
     <title lang="de">Serie A: SSC Neapel - FC Venedig</title>
@@ -27149,7 +27057,7 @@
   </programme>
   <programme start="20250105173000 +0000" stop="20250106003000 +0000" channel="DAZN 2 DE">
     <title lang="de">NFL Domestic: NFL ENDZN - 18. Spieltag</title>
-    <desc lang="de">NFL Domestic: NFL ENDZN - 18. Spieltag.</desc>
+    <desc lang="de">Moderator: Christoph Stadtler.</desc>
     <date>2025</date>
   </programme>
   <programme start="20250106003000 +0000" stop="20250106070000 +0000" channel="DAZN 2 DE">
@@ -27245,6 +27153,103 @@
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250106211000 +0000" stop="20250106230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: AS Rom - Lazio Rom</title>
+    <desc lang="de">Serie A: AS Rom - Lazio Rom.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250106230000 +0000" stop="20250107070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250107070000 +0000" stop="20250107085000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
+    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107085000 +0000" stop="20250107090000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250107090000 +0000" stop="20250107105000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250107105000 +0000" stop="20250107112000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250107112000 +0000" stop="20250107115000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107115000 +0000" stop="20250107134000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
+    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250107134000 +0000" stop="20250107140000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250107140000 +0000" stop="20250107160000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: AS Rom - Lazio Rom</title>
+    <desc lang="de">Serie A: AS Rom - Lazio Rom.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107160000 +0000" stop="20250107163000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250107163000 +0000" stop="20250107170000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250107170000 +0000" stop="20250107185000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
+    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107185000 +0000" stop="20250107192000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107192000 +0000" stop="20250107195000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
+    <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107195000 +0000" stop="20250107201000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250107201000 +0000" stop="20250107220000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
+    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
+    <date>2024</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250107220000 +0000" stop="20250107223000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien</title>
+    <desc lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien.</desc>
+    <category lang="de">Sportmagazin</category>
   </programme>
   <programme start="20250104000000 +0100" stop="20250104000000 +0100" channel="DAZN 1 IT">
     <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
@@ -54082,7 +54087,7 @@
   <programme start="20250104101400 +0100" stop="20250104120600 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250104120600 +0100" stop="20250104124800 +0100" channel="LaLiga TV 🇪🇸">
@@ -54098,7 +54103,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250104131600 +0100" stop="20250104134600 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -54115,43 +54120,43 @@
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250104152000 +0100" stop="20250104172500 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20250104172500 +0100" stop="20250104175400 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+  <programme start="20250104152000 +0100" stop="20250104155100 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Rafael Pineda y Saúl Ñíguez</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 6.
 </desc>
   </programme>
-  <programme start="20250104175400 +0100" stop="20250104184800 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
-· País: España</desc>
-  </programme>
-  <programme start="20250104184800 +0100" stop="20250104191700 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104155100 +0100" stop="20250104162000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250104191700 +0100" stop="20250104202300 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104162000 +0100" stop="20250104182300 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250104182300 +0100" stop="20250104191900 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104191900 +0100" stop="20250104202500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104202300 +0100" stop="20250104205000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104202500 +0100" stop="20250104205200 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250104205000 +0100" stop="20250104212000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250104205200 +0100" stop="20250104212000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
@@ -54159,8 +54164,8 @@
   </programme>
   <programme start="20250104212000 +0100" stop="20250104231800 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20250104231800 +0100" stop="20250104234800 +0100" channel="LaLiga TV 🇪🇸">
@@ -54175,16 +54180,16 @@
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250105013400 +0100" stop="20250105022100 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+  <programme start="20250105013400 +0100" stop="20250105021600 +0100" channel="LaLiga TV 🇪🇸">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 </desc>
   </programme>
-  <programme start="20250105022100 +0100" stop="20250105040600 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105021600 +0100" stop="20250105040600 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250105040600 +0100" stop="20250105043600 +0100" channel="LaLiga TV 🇪🇸">
@@ -54196,16 +54201,16 @@
   <programme start="20250105043600 +0100" stop="20250105062600 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
-  <programme start="20250105062600 +0100" stop="20250105065500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105062600 +0100" stop="20250105065400 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E3</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250105065500 +0100" stop="20250105080000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250105065400 +0100" stop="20250105080000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
@@ -54214,7 +54219,7 @@
   <programme start="20250105080000 +0100" stop="20250105095000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Huesca - Betis T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento. Votos: 5.
+· El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20250105095000 +0100" stop="20250105102000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54244,7 +54249,7 @@
   <programme start="20250105115000 +0100" stop="20250105140000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250105140000 +0100" stop="20250105150000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54274,7 +54279,7 @@
   <programme start="20250105180000 +0100" stop="20250105194500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250105194500 +0100" stop="20250105204000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54286,7 +54291,7 @@
   <programme start="20250105204000 +0100" stop="20250105223000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250105223000 +0100" stop="20250105230000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54298,7 +54303,7 @@
   <programme start="20250105230000 +0100" stop="20250106005000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250106005000 +0100" stop="20250106012000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54364,7 +54369,7 @@
   <programme start="20250106080000 +0100" stop="20250106095000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250106095000 +0100" stop="20250106102000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54412,7 +54417,7 @@
   <programme start="20250106141000 +0100" stop="20250106155500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250106155500 +0100" stop="20250106162500 +0100" channel="LaLiga TV 🇪🇸">
@@ -54442,7 +54447,7 @@
   <programme start="20250106184500 +0100" stop="20250106203500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250106203500 +0100" stop="20250106210500 +0100" channel="LaLiga TV 🇪🇸">
@@ -54466,7 +54471,7 @@
   <programme start="20250106220500 +0100" stop="20250106235000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250106235000 +0100" stop="20250107002000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54502,13 +54507,13 @@
   <programme start="20250107030000 +0100" stop="20250107044500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250107044500 +0100" stop="20250107063000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250107063000 +0100" stop="20250107070000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54556,7 +54561,7 @@
   <programme start="20250107121700 +0100" stop="20250107140500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250107140500 +0100" stop="20250107143700 +0100" channel="LaLiga TV 🇪🇸">
@@ -54585,8 +54590,8 @@
   </programme>
   <programme start="20250107170100 +0100" stop="20250107185000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20250107185000 +0100" stop="20250107194500 +0100" channel="LaLiga TV 🇪🇸">
@@ -54610,7 +54615,7 @@
   <programme start="20250107211200 +0100" stop="20250107230000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250107230000 +0100" stop="20250107233000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54688,7 +54693,7 @@
   <programme start="20250108102000 +0100" stop="20250108121000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250108121000 +0100" stop="20250108124000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54712,7 +54717,7 @@
   <programme start="20250108143000 +0100" stop="20250108162000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250108162000 +0100" stop="20250108165000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54808,13 +54813,13 @@
   <programme start="20250109022500 +0100" stop="20250109041500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250109041500 +0100" stop="20250109060500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250109060500 +0100" stop="20250109080000 +0100" channel="LaLiga TV 🇪🇸">
@@ -54896,7 +54901,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250109161800 +0100" stop="20250109164800 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -54956,7 +54961,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110004300 +0100" stop="20250110011300 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -55016,7 +55021,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110091800 +0100" stop="20250110094800 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -55108,7 +55113,7 @@
   <programme start="20250104101400 +0100" stop="20250104120600 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250104120600 +0100" stop="20250104124800 +0100" channel="LaLiga TV ES">
@@ -55124,7 +55129,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250104131600 +0100" stop="20250104134600 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -55141,43 +55146,43 @@
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250104152000 +0100" stop="20250104172500 +0100" channel="LaLiga TV ES">
-    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
-· País: España</desc>
-  </programme>
-  <programme start="20250104172500 +0100" stop="20250104175400 +0100" channel="LaLiga TV ES">
-    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+  <programme start="20250104152000 +0100" stop="20250104155100 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Rafael Pineda y Saúl Ñíguez</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 6.
 </desc>
   </programme>
-  <programme start="20250104175400 +0100" stop="20250104184800 +0100" channel="LaLiga TV ES">
-    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
-· País: España</desc>
-  </programme>
-  <programme start="20250104184800 +0100" stop="20250104191700 +0100" channel="LaLiga TV ES">
+  <programme start="20250104155100 +0100" stop="20250104162000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA World T24/25 · Especial Jesús Navas</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 · País: España</desc>
   </programme>
-  <programme start="20250104191700 +0100" stop="20250104202300 +0100" channel="LaLiga TV ES">
+  <programme start="20250104162000 +0100" stop="20250104182300 +0100" channel="LaLiga TV ES">
+    <title lang="es">DIRECTO Dieciseisavos de final: Tenerife - Osasuna T24/25 · Copa del Rey</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· País: España</desc>
+  </programme>
+  <programme start="20250104182300 +0100" stop="20250104191900 +0100" channel="LaLiga TV ES">
+    <title lang="es">Especiales LaLiga T24/25 · Top goles 2024</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
+· País: España</desc>
+  </programme>
+  <programme start="20250104191900 +0100" stop="20250104202500 +0100" channel="LaLiga TV ES">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
 · País: España</desc>
   </programme>
-  <programme start="20250104202300 +0100" stop="20250104205000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104202500 +0100" stop="20250104205200 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Talking Football T24/25 · Betis</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Una conversación con personalidades relacionadas con LaLiga para hablar de fútbol.
 · País: España</desc>
   </programme>
-  <programme start="20250104205000 +0100" stop="20250104212000 +0100" channel="LaLiga TV ES">
+  <programme start="20250104205200 +0100" stop="20250104212000 +0100" channel="LaLiga TV ES">
     <title lang="es">Especiales LaLiga T24/25 · Top paradas 2024</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Reportajes sobre la actualidad de LaLiga Santander del fútbol español.
@@ -55185,8 +55190,8 @@
   </programme>
   <programme start="20250104212000 +0100" stop="20250104231800 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20250104231800 +0100" stop="20250104234800 +0100" channel="LaLiga TV ES">
@@ -55201,16 +55206,16 @@
 · La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250105013400 +0100" stop="20250105022100 +0100" channel="LaLiga TV ES">
-    <title lang="es">LALIGA VS T2 · Míchel y Fernando San Emeterio</title>
-    <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
-· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona. Votos: 2.
+  <programme start="20250105013400 +0100" stop="20250105021600 +0100" channel="LaLiga TV ES">
+    <title lang="es">LALIGA VS T2 · Elma Saiz y Javier Tebas</title>
+    <desc lang="es">Deportes/Fútbol | 2024 | TP
+· Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 </desc>
   </programme>
-  <programme start="20250105022100 +0100" stop="20250105040600 +0100" channel="LaLiga TV ES">
+  <programme start="20250105021600 +0100" stop="20250105040600 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250105040600 +0100" stop="20250105043600 +0100" channel="LaLiga TV ES">
@@ -55222,16 +55227,16 @@
   <programme start="20250105043600 +0100" stop="20250105062600 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
-  <programme start="20250105062600 +0100" stop="20250105065500 +0100" channel="LaLiga TV ES">
+  <programme start="20250105062600 +0100" stop="20250105065400 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E3</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo. Votos: 5.
 · País: España</desc>
   </programme>
-  <programme start="20250105065500 +0100" stop="20250105080000 +0100" channel="LaLiga TV ES">
+  <programme start="20250105065400 +0100" stop="20250105080000 +0100" channel="LaLiga TV ES">
     <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Betis - Sevilla</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · El XXVIII Torneo Internacional LALIGA FC FUTURES, la cita de fútbol sub13 más importante del mundo, celebra su edición navideña del 27 al 29 de diciembre en Maspalomas (Gran Canaria). Votos: 8.
@@ -55240,7 +55245,7 @@
   <programme start="20250105080000 +0100" stop="20250105095000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Huesca - Betis T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento. Votos: 5.
+· El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento. Votos: 8.
 · País: España</desc>
   </programme>
   <programme start="20250105095000 +0100" stop="20250105102000 +0100" channel="LaLiga TV ES">
@@ -55270,7 +55275,7 @@
   <programme start="20250105115000 +0100" stop="20250105140000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250105140000 +0100" stop="20250105150000 +0100" channel="LaLiga TV ES">
@@ -55300,7 +55305,7 @@
   <programme start="20250105180000 +0100" stop="20250105194500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250105194500 +0100" stop="20250105204000 +0100" channel="LaLiga TV ES">
@@ -55312,7 +55317,7 @@
   <programme start="20250105204000 +0100" stop="20250105223000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250105223000 +0100" stop="20250105230000 +0100" channel="LaLiga TV ES">
@@ -55324,7 +55329,7 @@
   <programme start="20250105230000 +0100" stop="20250106005000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250106005000 +0100" stop="20250106012000 +0100" channel="LaLiga TV ES">
@@ -55390,7 +55395,7 @@
   <programme start="20250106080000 +0100" stop="20250106095000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250106095000 +0100" stop="20250106102000 +0100" channel="LaLiga TV ES">
@@ -55438,7 +55443,7 @@
   <programme start="20250106141000 +0100" stop="20250106155500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250106155500 +0100" stop="20250106162500 +0100" channel="LaLiga TV ES">
@@ -55468,7 +55473,7 @@
   <programme start="20250106184500 +0100" stop="20250106203500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250106203500 +0100" stop="20250106210500 +0100" channel="LaLiga TV ES">
@@ -55492,7 +55497,7 @@
   <programme start="20250106220500 +0100" stop="20250106235000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Ourense - Valladolid T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250106235000 +0100" stop="20250107002000 +0100" channel="LaLiga TV ES">
@@ -55528,13 +55533,13 @@
   <programme start="20250107030000 +0100" stop="20250107044500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Almería - Sevilla T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 5.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
 · País: España</desc>
   </programme>
   <programme start="20250107044500 +0100" stop="20250107063000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250107063000 +0100" stop="20250107070000 +0100" channel="LaLiga TV ES">
@@ -55582,7 +55587,7 @@
   <programme start="20250107121700 +0100" stop="20250107140500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250107140500 +0100" stop="20250107143700 +0100" channel="LaLiga TV ES">
@@ -55611,8 +55616,8 @@
   </programme>
   <programme start="20250107170100 +0100" stop="20250107185000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Logroñés - Athletic T24/25 · Copa del Rey</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 6.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 10.
 · País: España</desc>
   </programme>
   <programme start="20250107185000 +0100" stop="20250107194500 +0100" channel="LaLiga TV ES">
@@ -55636,7 +55641,7 @@
   <programme start="20250107211200 +0100" stop="20250107230000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250107230000 +0100" stop="20250107233000 +0100" channel="LaLiga TV ES">
@@ -55714,7 +55719,7 @@
   <programme start="20250108102000 +0100" stop="20250108121000 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250108121000 +0100" stop="20250108124000 +0100" channel="LaLiga TV ES">
@@ -55738,7 +55743,7 @@
   <programme start="20250108143000 +0100" stop="20250108162000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250108162000 +0100" stop="20250108165000 +0100" channel="LaLiga TV ES">
@@ -55834,13 +55839,13 @@
   <programme start="20250109022500 +0100" stop="20250109041500 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Dieciseisavos de final: Barbastro - Barcelona T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 22.
+· La Copa del Rey, el torneo con más historia del fútbol español, repite formato con eliminatorias a partido único. El Barcelona es el equipo con más títulos en su haber (31), seguido por el Athletic (24) y el Real Madrid (20). Votos: 23.
 · País: España</desc>
   </programme>
   <programme start="20250109041500 +0100" stop="20250109060500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 12: Valencia - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *8.0/10
-· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 162.
+· El Real Madrid visita Mestalla con el objetivo de resarcirse de la derrota en ElClásico. Enfrente tendrá a un Valencia CF siempre exigente en su estadio. Votos: 163.
 · País: España</desc>
   </programme>
   <programme start="20250109060500 +0100" stop="20250109080000 +0100" channel="LaLiga TV ES">
@@ -55922,7 +55927,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250109161800 +0100" stop="20250109164800 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -55982,7 +55987,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110004300 +0100" stop="20250110011300 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
@@ -56042,7 +56047,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110091800 +0100" stop="20250110094800 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *8.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 8.
 · País: España</desc>
