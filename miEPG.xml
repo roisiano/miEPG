@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 08/01/2025 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 08/01/2025 19:00" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -481,8 +481,8 @@
   </programme>
   <programme start="20250108083000 +0100" stop="20250108093000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Dakar 2025 T2025 · Etapa 3</title>
-    <desc lang="es">Deportes/Rally | 2025 | TP
-· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
+    <desc lang="es">Deportes/Rally | 2025 | TP | *8.0/10
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250108093000 +0100" stop="20250108101500 +0100" channel="EUROSPORT 1 ES">
@@ -494,7 +494,7 @@
   <programme start="20250108101500 +0100" stop="20250108110000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 13.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 15.
 · País: Francia</desc>
   </programme>
   <programme start="20250108110000 +0100" stop="20250108113000 +0100" channel="EUROSPORT 1 ES">
@@ -590,7 +590,7 @@
   <programme start="20250109004500 +0100" stop="20250109013000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 13.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 15.
 · País: Francia</desc>
   </programme>
   <programme start="20250109013000 +0100" stop="20250109020000 +0100" channel="EUROSPORT 1 ES">
@@ -835,8 +835,8 @@
   </programme>
   <programme start="20250110140500 +0100" stop="20250110154000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250110154000 +0100" stop="20250110164000 +0100" channel="EUROSPORT 1 ES">
@@ -871,8 +871,8 @@
   </programme>
   <programme start="20250110220000 +0100" stop="20250110230000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250110230000 +0100" stop="20250111000000 +0100" channel="EUROSPORT 1 ES">
@@ -907,8 +907,8 @@
   </programme>
   <programme start="20250111070000 +0100" stop="20250111083000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250111083000 +0100" stop="20250111093000 +0100" channel="EUROSPORT 1 ES">
@@ -1598,7 +1598,7 @@
 · País: Australia</desc>
   </programme>
   <programme start="20250110150000 +0100" stop="20250110170000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
+    <title lang="es">Open de Australia T2024 · Masculino: Final (M)</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 43.
 · País: Australia</desc>
@@ -1617,8 +1617,8 @@
   </programme>
   <programme start="20250110190000 +0100" stop="20250110200000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250110200000 +0100" stop="20250110210000 +0100" channel="EUROSPORT 2 ES">
@@ -1665,8 +1665,8 @@
   </programme>
   <programme start="20250111043000 +0100" stop="20250111060000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250111060000 +0100" stop="20250111070000 +0100" channel="EUROSPORT 2 ES">
@@ -1676,7 +1676,7 @@
 · País: Azerbayan</desc>
   </programme>
   <programme start="20250111070000 +0100" stop="20250111090000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
+    <title lang="es">Open de Australia T2024 · Masculino: Final (M)</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 43.
 · País: Australia</desc>
@@ -1689,8 +1689,8 @@
   </programme>
   <programme start="20250111103000 +0100" stop="20250111120000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250111120000 +0100" stop="20250111125000 +0100" channel="EUROSPORT 2 ES">
@@ -2109,8 +2109,8 @@
   </programme>
   <programme start="20250108083000 +0100" stop="20250108093000 +0100" channel="EUROSPORT 1">
     <title lang="es">Dakar 2025 T2025 · Etapa 3</title>
-    <desc lang="es">Deportes/Rally | 2025 | TP
-· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero.
+    <desc lang="es">Deportes/Rally | 2025 | TP | *8.0/10
+· Fiel a su cita, el Dakar inaugura a lo grande el año deportivo. Motos, quads, coches y camiones participan en la 47ª edición, que se desarrolla íntegramente en Arabia Saudita. El rali comienza en Bisha el día 3 y finaliza en Shubaytah el 17 de enero. Votos: 1.
 · País: Arabia Saudí</desc>
   </programme>
   <programme start="20250108093000 +0100" stop="20250108101500 +0100" channel="EUROSPORT 1">
@@ -2122,7 +2122,7 @@
   <programme start="20250108101500 +0100" stop="20250108110000 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 13.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 15.
 · País: Francia</desc>
   </programme>
   <programme start="20250108110000 +0100" stop="20250108113000 +0100" channel="EUROSPORT 1">
@@ -2218,7 +2218,7 @@
   <programme start="20250109004500 +0100" stop="20250109013000 +0100" channel="EUROSPORT 1">
     <title lang="es">Copa del mundo de biatlón T24/25 · Annecy-Le Grand Bornand - 7,5km esprín F</title>
     <desc lang="es">Deportes/Deporte invierno | 2024 | TP | *6.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 13.
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 15.
 · País: Francia</desc>
   </programme>
   <programme start="20250109013000 +0100" stop="20250109020000 +0100" channel="EUROSPORT 1">
@@ -2463,8 +2463,8 @@
   </programme>
   <programme start="20250110140500 +0100" stop="20250110154000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250110154000 +0100" stop="20250110164000 +0100" channel="EUROSPORT 1">
@@ -2499,8 +2499,8 @@
   </programme>
   <programme start="20250110220000 +0100" stop="20250110230000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250110230000 +0100" stop="20250111000000 +0100" channel="EUROSPORT 1">
@@ -2535,8 +2535,8 @@
   </programme>
   <programme start="20250111070000 +0100" stop="20250111083000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250111083000 +0100" stop="20250111093000 +0100" channel="EUROSPORT 1">
@@ -3226,7 +3226,7 @@
 · País: Australia</desc>
   </programme>
   <programme start="20250110150000 +0100" stop="20250110170000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
+    <title lang="es">Open de Australia T2024 · Masculino: Final (M)</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 43.
 · País: Australia</desc>
@@ -3245,8 +3245,8 @@
   </programme>
   <programme start="20250110190000 +0100" stop="20250110200000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250110200000 +0100" stop="20250110210000 +0100" channel="EUROSPORT 2">
@@ -3293,8 +3293,8 @@
   </programme>
   <programme start="20250111043000 +0100" stop="20250111060000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250111060000 +0100" stop="20250111070000 +0100" channel="EUROSPORT 2">
@@ -3304,7 +3304,7 @@
 · País: Azerbayan</desc>
   </programme>
   <programme start="20250111070000 +0100" stop="20250111090000 +0100" channel="EUROSPORT 2">
-    <title lang="es">Open de Australia T2024 · Masculino: Sinner - Medvedev</title>
+    <title lang="es">Open de Australia T2024 · Masculino: Final (M)</title>
     <desc lang="es">Deportes/Tenis | 2024 | TP | *6.0/10
 · El orden mundial del tenis parece haber cambiado en Australia. Jannik Sinner y Daniil Medvedev disputan una final inédita. El italiano, representante de la nueva hornada, se deshizo en semis del mismísimo Djokovic. El ruso llega tras una gran remontada. Votos: 43.
 · País: Australia</desc>
@@ -3317,8 +3317,8 @@
   </programme>
   <programme start="20250111103000 +0100" stop="20250111120000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Oberhof - 10km esprín M T24/25 · Copa del mundo de biatlón</title>
-    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *4.0/10
-· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 6.
+    <desc lang="es">Deportes/Deporte invierno | 2025 | TP | *6.0/10
+· La competición de la regularidad del deporte que combina esquí de fondo y tiro. Los biatletas avanzan con el rifle a la espalda y deben detenerse en unos puntos concretos para disparar. Votos: 8.
 · País: Alemania</desc>
   </programme>
   <programme start="20250111120000 +0100" stop="20250111125000 +0100" channel="EUROSPORT 2">
@@ -8159,7 +8159,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250111205800 +0100" stop="20250111224900 +0100" channel="DAZN 1 Espana">
-    <title lang="es">Liga F T24/25 · Jornada 16: Real Sociedad - FC Barcelona</title>
+    <title lang="es">Liga F T24/25 · Jornada 16: Real Sociedad - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 6.
 · País: España</desc>
@@ -8214,7 +8214,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250112155000 +0100" stop="20250112180300 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 14: Real Madrid - Granada T24/25 · Liga F</title>
+    <title lang="es">DIRECTO Jornada 14: Real Madrid - Granada CF T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
@@ -8294,7 +8294,7 @@
 · Productora: Whisper Films.</desc>
   </programme>
   <programme start="20250113150400 +0100" stop="20250113165500 +0100" channel="DAZN 1 Espana">
-    <title lang="es">DIRECTO Jornada 14: Real Madrid - Granada T24/25 · Liga F</title>
+    <title lang="es">DIRECTO Jornada 14: Real Madrid - Granada CF T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
@@ -8893,7 +8893,7 @@
 </desc>
   </programme>
   <programme start="20250112115000 +0100" stop="20250112140000 +0100" channel="DAZN 3 Espana">
-    <title lang="es">DIRECTO Jornada 14: VCF Femenino - Real Sociedad T24/25 · Liga F</title>
+    <title lang="es">DIRECTO Jornada 14: Valencia - Real Sociedad T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
@@ -9308,8 +9308,8 @@
   </programme>
   <programme start="20250109004000 +0100" stop="20250109010000 +0100" channel="DAZN F1">
     <title lang="es">Código F1 T2024 · Mónaco</title>
-    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *8.0/10
-· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 3.
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *6.0/10
+· Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición. Votos: 5.
 </desc>
   </programme>
   <programme start="20250109010000 +0100" stop="20250109020500 +0100" channel="DAZN F1">
@@ -9925,7 +9925,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250108170000 +0100" stop="20250108174500 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -10083,7 +10083,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110131500 +0100" stop="20250110140000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -10286,7 +10286,7 @@
   <programme start="20250112133000 +0100" stop="20250112163000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
 · País: España</desc>
   </programme>
   <programme start="20250112163000 +0100" stop="20250112170000 +0100" channel="DAZN LaLiga ES">
@@ -10326,7 +10326,7 @@
   <programme start="20250112200000 +0100" stop="20250112220000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
 · País: España</desc>
   </programme>
   <programme start="20250112220000 +0100" stop="20250112221500 +0100" channel="DAZN LaLiga ES">
@@ -10422,9 +10422,9 @@
 · País: España</desc>
   </programme>
   <programme start="20250113200000 +0100" stop="20250113203000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Una despedida de leyenda</title>
+    <title lang="es">Super 8 T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Disfruta del último 'Super8' del año con Javi Valle y Sergio Quirante en el que repasamos los momentos más destacados de la jornada 18. Uno de ellos, fue sin duda la despedida de Navas en un Bernabéu que le rindió un homenaje a la altura de su leyenda.
+· Disfruta de una nueva temporada de Super8, el programa en el que repasamos con Sergio Quirante y Javi Valle las mejores imágenes y curiosidades de cada jornada de LALIGA EA SPORTS.
 · País: España</desc>
   </programme>
   <programme start="20250113203000 +0100" stop="20250113211500 +0100" channel="DAZN LaLiga ES">
@@ -10454,8 +10454,8 @@
 · País: España</desc>
   </programme>
   <programme start="20250113230000 +0100" stop="20250113233000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">Super 8 T24/25 · Jornada 20</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+    <title lang="es">Super 8 T24/25 · Jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Disfruta de una nueva temporada de Super8, el programa en el que repasamos con Sergio Quirante y Javi Valle las mejores imágenes y curiosidades de cada jornada de LALIGA EA SPORTS.
 · País: España</desc>
   </programme>
@@ -10483,17 +10483,72 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250114060000 +0100" stop="20250114180000 +0100" channel="DAZN LaLiga ES">
+  <programme start="20250114060000 +0100" stop="20250114120000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DAZN LALIGA</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250114180000 +0100" stop="20250115000000 +0100" channel="DAZN LaLiga ES">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20250114120000 +0100" stop="20250114140000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+· País: España</desc>
+  </programme>
+  <programme start="20250114140000 +0100" stop="20250114151500 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">El Post de DAZN T24/25 · Análisis de la jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La jornada de LaLiga no termina con el pitido final del último partido. Gracias a todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.
+· País: España
+· Presenta: Sandra Díaz, Alberto Edjogo.</desc>
+  </programme>
+  <programme start="20250114151500 +0100" stop="20250114171500 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">DIRECTO Jornada 19: Valladolid - Betis T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· País: España</desc>
+  </programme>
+  <programme start="20250114171500 +0100" stop="20250114180000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Mbappé: El último galáctico</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· El fichaje de Mbappé se hace realidad, tras años de especulaciones, en el día de hoy. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250114180000 +0100" stop="20250114183000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Super 8 T24/25 · Jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Disfruta de una nueva temporada de Super8, el programa en el que repasamos con Sergio Quirante y Javi Valle las mejores imágenes y curiosidades de cada jornada de LALIGA EA SPORTS.
+· País: España</desc>
+  </programme>
+  <programme start="20250114183000 +0100" stop="20250114190000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">LALIGA World T24/25 E23</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 </desc>
+  </programme>
+  <programme start="20250114190000 +0100" stop="20250114210000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">DIRECTO Jornada 19: Rayo - Celta T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250114210000 +0100" stop="20250114220000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Erasmus FC T24/25 E11</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250114220000 +0100" stop="20250115000000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">DIRECTO Jornada 19: Sevilla - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250115000000 +0100" stop="20250115010000 +0100" channel="DAZN LaLiga ES">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
   </programme>
   <programme start="20250108120000 +0100" stop="20250108140000 +0100" channel="DAZN LaLiga">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 18: Leganés - Villarreal</title>
@@ -10520,7 +10575,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250108170000 +0100" stop="20250108174500 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -10678,7 +10733,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110131500 +0100" stop="20250110140000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -10881,7 +10936,7 @@
   <programme start="20250112133000 +0100" stop="20250112163000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
 · País: España</desc>
   </programme>
   <programme start="20250112163000 +0100" stop="20250112170000 +0100" channel="DAZN LaLiga">
@@ -10921,7 +10976,7 @@
   <programme start="20250112200000 +0100" stop="20250112220000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
 · País: España</desc>
   </programme>
   <programme start="20250112220000 +0100" stop="20250112221500 +0100" channel="DAZN LaLiga">
@@ -11017,9 +11072,9 @@
 · País: España</desc>
   </programme>
   <programme start="20250113200000 +0100" stop="20250113203000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Una despedida de leyenda</title>
+    <title lang="es">Super 8 T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
-· Disfruta del último 'Super8' del año con Javi Valle y Sergio Quirante en el que repasamos los momentos más destacados de la jornada 18. Uno de ellos, fue sin duda la despedida de Navas en un Bernabéu que le rindió un homenaje a la altura de su leyenda.
+· Disfruta de una nueva temporada de Super8, el programa en el que repasamos con Sergio Quirante y Javi Valle las mejores imágenes y curiosidades de cada jornada de LALIGA EA SPORTS.
 · País: España</desc>
   </programme>
   <programme start="20250113203000 +0100" stop="20250113211500 +0100" channel="DAZN LaLiga">
@@ -11049,8 +11104,8 @@
 · País: España</desc>
   </programme>
   <programme start="20250113230000 +0100" stop="20250113233000 +0100" channel="DAZN LaLiga">
-    <title lang="es">Super 8 T24/25 · Jornada 20</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+    <title lang="es">Super 8 T24/25 · Jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Disfruta de una nueva temporada de Super8, el programa en el que repasamos con Sergio Quirante y Javi Valle las mejores imágenes y curiosidades de cada jornada de LALIGA EA SPORTS.
 · País: España</desc>
   </programme>
@@ -11078,17 +11133,72 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250114060000 +0100" stop="20250114180000 +0100" channel="DAZN LaLiga">
+  <programme start="20250114060000 +0100" stop="20250114120000 +0100" channel="DAZN LaLiga">
     <title lang="es">DAZN LALIGA</title>
     <desc lang="es">
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250114180000 +0100" stop="20250115000000 +0100" channel="DAZN LaLiga">
-    <title lang="es">DAZN LALIGA</title>
-    <desc lang="es">
-· Programa por determinar...
+  <programme start="20250114120000 +0100" stop="20250114140000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+· País: España</desc>
+  </programme>
+  <programme start="20250114140000 +0100" stop="20250114151500 +0100" channel="DAZN LaLiga">
+    <title lang="es">El Post de DAZN T24/25 · Análisis de la jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La jornada de LaLiga no termina con el pitido final del último partido. Gracias a todo el equipo de comentaristas de DAZN, este es el programa perfecto para enterarte de todo lo que ha sucedido en cada partido.
+· País: España
+· Presenta: Sandra Díaz, Alberto Edjogo.</desc>
+  </programme>
+  <programme start="20250114151500 +0100" stop="20250114171500 +0100" channel="DAZN LaLiga">
+    <title lang="es">DIRECTO Jornada 19: Valladolid - Betis T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite.
+· País: España</desc>
+  </programme>
+  <programme start="20250114171500 +0100" stop="20250114180000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Mbappé: El último galáctico</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP | *10.0/10
+· El fichaje de Mbappé se hace realidad, tras años de especulaciones, en el día de hoy. Votos: 1.
+· País: España</desc>
+  </programme>
+  <programme start="20250114180000 +0100" stop="20250114183000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Super 8 T24/25 · Jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2024 | TP
+· Disfruta de una nueva temporada de Super8, el programa en el que repasamos con Sergio Quirante y Javi Valle las mejores imágenes y curiosidades de cada jornada de LALIGA EA SPORTS.
+· País: España</desc>
+  </programme>
+  <programme start="20250114183000 +0100" stop="20250114190000 +0100" channel="DAZN LaLiga">
+    <title lang="es">LALIGA World T24/25 E23</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 </desc>
+  </programme>
+  <programme start="20250114190000 +0100" stop="20250114210000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DIRECTO Jornada 19: Rayo - Celta T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250114210000 +0100" stop="20250114220000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Erasmus FC T24/25 E11</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *6.0/10
+· Programa con el mejor análisis del fútbol europeo de la mano de David Fer y Nacho González. Votos: 10.
+· País: España</desc>
+  </programme>
+  <programme start="20250114220000 +0100" stop="20250115000000 +0100" channel="DAZN LaLiga">
+    <title lang="es">DIRECTO Jornada 19: Sevilla - Valencia T24/25 · LALIGA EA SPORTS</title>
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 8.
+· País: España</desc>
+  </programme>
+  <programme start="20250115000000 +0100" stop="20250115010000 +0100" channel="DAZN LaLiga">
+    <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 19</title>
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP
+· Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
+· País: España</desc>
   </programme>
   <programme start="20250108000000 +0100" stop="20250108010000 +0100" channel="Fox Sports">
     <title lang="es">Central Fox</title>
@@ -30661,87 +30771,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/n/carrousel/ncaa-college-basketball-594757091.jpg" />
   </programme>
-  <programme start="20250107070000 +0000" stop="20250107085000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
-    <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250107085000 +0000" stop="20250107092000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250107092000 +0000" stop="20250107112000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
-    <desc lang="de">Kommentator: Tom Kirsten.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250107112000 +0000" stop="20250107115000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250107115000 +0000" stop="20250107134000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
-    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107134000 +0000" stop="20250107135500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250107135500 +0000" stop="20250107142500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107142500 +0000" stop="20250107145500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107145500 +0000" stop="20250107170500 +0000" channel="DAZN 1 DE">
-    <title lang="de">King's Cup: Al-Taawoun - Al-Qadsiah</title>
-    <desc lang="de">King's Cup: Al-Taawoun - Al-Qadsiah.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107170500 +0000" stop="20250107172500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250107172500 +0000" stop="20250107194000 +0000" channel="DAZN 1 DE">
-    <title lang="de">King's Cup: Al Hilal - Al Ittihad</title>
-    <desc lang="de">King's Cup: Al Hilal - Al Ittihad.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107194000 +0000" stop="20250107204000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Get Wild: Lange Version</title>
-    <desc lang="de">Get Wild: Lange Version.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250107204000 +0000" stop="20250107211000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250107211000 +0000" stop="20250107230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
-    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20250108070000 +0000" stop="20250108090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
@@ -30765,8 +30794,9 @@
     <category lang="de">Sport (allgemein)</category>
   </programme>
   <programme start="20250108115000 +0000" stop="20250108134000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Fußball: TBC - TBC</title>
-    <desc lang="de">Wir zeigen euch ein Topspiel aus den europäischen Fußballligen.</desc>
+    <title lang="de">Serie A: AS Rom - Lazio Rom</title>
+    <desc lang="de">Serie A: AS Rom - Lazio Rom.</desc>
+    <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
   <programme start="20250108134000 +0000" stop="20250108140000 +0000" channel="DAZN 1 DE">
@@ -30774,47 +30804,52 @@
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250108140000 +0000" stop="20250108160000 +0000" channel="DAZN 1 DE">
+  <programme start="20250108140000 +0000" stop="20250108155500 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250108160000 +0000" stop="20250108163000 +0000" channel="DAZN 1 DE">
+  <programme start="20250108155500 +0000" stop="20250108162500 +0000" channel="DAZN 1 DE">
     <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
     <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <programme start="20250108163000 +0000" stop="20250108170000 +0000" channel="DAZN 1 DE">
+  <programme start="20250108162500 +0000" stop="20250108165500 +0000" channel="DAZN 1 DE">
     <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
     <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <programme start="20250108170000 +0000" stop="20250108185000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250108185000 +0000" stop="20250108191500 +0000" channel="DAZN 1 DE">
+  <programme start="20250108165500 +0000" stop="20250108172000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250108191500 +0000" stop="20250108201000 +0000" channel="DAZN 1 DE">
+  <programme start="20250108172000 +0000" stop="20250108181500 +0000" channel="DAZN 1 DE">
     <title lang="de">Her Element by Laura Wontorra: Episode 1</title>
     <desc lang="de">Her Element by Laura Wontorra: Episode 1.</desc>
     <category lang="de">Sportmagazin</category>
   </programme>
-  <programme start="20250108201000 +0000" stop="20250108204000 +0000" channel="DAZN 1 DE">
+  <programme start="20250108181500 +0000" stop="20250108184000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
     <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250108204000 +0000" stop="20250108211000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
+  <programme start="20250108184000 +0000" stop="20250108185500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250108185500 +0000" stop="20250108205500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Primera División Femenina: Real Madrid - UD Levante</title>
+    <desc lang="de">Primera División Femenina: Real Madrid - UD Levante.</desc>
+    <date>2025</date>
     <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250108205500 +0000" stop="20250108211000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
   </programme>
   <programme start="20250108211000 +0000" stop="20250108230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: AS Rom - Lazio Rom</title>
@@ -30898,101 +30933,198 @@
     <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250107070000 +0000" stop="20250107085000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107085000 +0000" stop="20250107090000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+  <programme start="20250109220000 +0000" stop="20250109230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: FightZone</title>
+    <desc lang="de">FightZone - Bei "Thursday Fight Night" erwarten euch aktuelle und spannende Clips aus der Weltspitze des Kampfsports.</desc>
     <category lang="de">Sport (allgemein)</category>
+    <rating system="FSK">
+      <value>ab 18 Jahren</value>
+    </rating>
   </programme>
-  <programme start="20250107090000 +0000" stop="20250107105000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
-    <desc lang="de">Kommentator: Flo Hauser.</desc>
-    <date>2024</date>
-    <category lang="de">Bundesliga</category>
+  <programme start="20250109230000 +0000" stop="20250110070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
   </programme>
-  <programme start="20250107105000 +0000" stop="20250107112000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250107112000 +0000" stop="20250107115000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107115000 +0000" stop="20250107134000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110070000 +0000" stop="20250110090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Bundesliga: VFL Wolfsburg - Borussia Dortmund</title>
     <desc lang="de">Kommentator: Patrick Gerspacher.</desc>
     <date>2024</date>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250107134000 +0000" stop="20250107140000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110090000 +0000" stop="20250110093000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250107140000 +0000" stop="20250107160000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110093000 +0000" stop="20250110112000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
+    <desc lang="de">Kommentator: Tom Kirsten.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250110112000 +0000" stop="20250110115000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250110115000 +0000" stop="20250110134000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: AS Rom - Lazio Rom</title>
     <desc lang="de">Serie A: AS Rom - Lazio Rom.</desc>
     <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250107160000 +0000" stop="20250107163000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 15. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 15. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250107163000 +0000" stop="20250107170000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110134000 +0000" stop="20250110140000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250107170000 +0000" stop="20250107185000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A: AC Florenz - SSC Neapel</title>
-    <desc lang="de">Serie A: AC Florenz - SSC Neapel.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
+  <programme start="20250110140000 +0000" stop="20250110155500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Bayern München - RB Leipzig</title>
+    <desc lang="de">Kommentator: Flo Hauser.</desc>
+    <date>2024</date>
+    <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250107185000 +0000" stop="20250107192000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110155500 +0000" stop="20250110164000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
+    <desc lang="de">In dieser Folge zeigt "VfB inTeam" die VfB-Familie in all ihren Facetten und ist hautnah dabei, wenn Mitarbeiter ihre Jungs in Freiburg anfeuern, der erste offizielle VfB-Fanclub aus Köln in die Familie aufgenommen wird und Profis, Präsidium und Vorstand in der Stuttgarter Vesperkirche Hand anlegen. Außerdem: Neuzugang Jamie Leweling blickt auf seine erste Zeit beim VfB zurück und spricht über das kathartische Gefühl, sein erstes VfB-Tor zu schießen.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250110164000 +0000" stop="20250110170000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250110170000 +0000" stop="20250110173000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
     <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250107192000 +0000" stop="20250107195000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110173000 +0000" stop="20250110180000 +0000" channel="DAZN 1 DE">
     <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
     <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250107195000 +0000" stop="20250107201000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110180000 +0000" stop="20250110183000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Warm Up: Bundesliga Highlights</title>
+    <desc lang="de">Mit diesem Warm Up seid ihr bestens vorbereitet auf den heutigen Spieltag.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250110183000 +0000" stop="20250110214500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: Borussia Dortmund - Bayer 04 Leverkusen</title>
+    <desc lang="de">Kommentator: Marcel Seufert.</desc>
+    <date>2025</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250110214500 +0000" stop="20250110223000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Her Element by Laura Wontorra: Episode 3</title>
+    <desc lang="de">Her Element by Laura Wontorra: Episode 3.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250110223000 +0000" stop="20250110230000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250107201000 +0000" stop="20250107220000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Primera División: FC Barcelona - Atlético Madrid</title>
-    <desc lang="de">Kommentator: Jan Platte / Experte: Michi Hofmann.</desc>
-    <date>2024</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250107220000 +0000" stop="20250107223000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien</title>
-    <desc lang="de">Club Profile: Viertelfinale Darts WM 2024: Österreich - Kroatien.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250107223000 +0000" stop="20250107230000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale)</title>
-    <desc lang="de">Club Profile: World Cup of Darts 2024: Österreich - Belgien (Halbfinale).</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250107230000 +0000" stop="20250108070000 +0000" channel="DAZN 2 DE">
+  <programme start="20250110230000 +0000" stop="20250111070000 +0000" channel="DAZN 1 DE">
     <title lang="de">Sendepause</title>
     <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
     <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250111070000 +0000" stop="20250111090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: Borussia Dortmund - Bayer 04 Leverkusen</title>
+    <desc lang="de">Kommentator: Marcel Seufert.</desc>
+    <date>2025</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250111090000 +0000" stop="20250111091500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111091500 +0000" stop="20250111111000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Lazio Rom - Como 1907</title>
+    <desc lang="de">Serie A: Lazio Rom - Como 1907.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111111000 +0000" stop="20250111114000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
+    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250111114000 +0000" stop="20250111121000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
+    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250111121000 +0000" stop="20250111123500 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
+    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250111123500 +0000" stop="20250111131500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111131500 +0000" stop="20250111133500 +0000" channel="DAZN 1 DE">
+    <title lang="de">FC Bayern World Squad: Episode 5</title>
+    <desc lang="de">In Episode 5 setzt der FC Bayern World Squad seine Reise durch die USA fort und reist nach Washington zu einem Spiel bei D.C. United. Die Jungs nutzen die freie Zeit in Amerikas Hauptstadt für Sightseeing: Folgen Sie dem Team auf ihrer Entdeckungstour vom Lincoln Memorial über das Weiße Haus bis zum Washington Monument.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250111133500 +0000" stop="20250111135500 +0000" channel="DAZN 1 DE">
+    <title lang="de">FC Bayern World Squad: Episode 6</title>
+    <desc lang="de">Die sechste Folge der diesjährigen World Squad-Saison beginnt im Herzen von New York, im kultigen Rockefeller Center, bevor das Team nach München zurückkehrt. Doch nicht jeder Spieler kann Teil der Class of '24 bleiben. Wer hat die Coaches nicht überzeugt und wird nach Hause fahren?</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250111135500 +0000" stop="20250111161000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Udinese Calcio - Atalanta Bergamo</title>
+    <desc lang="de">Serie A: Udinese Calcio - Atalanta Bergamo.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111161000 +0000" stop="20250111163000 +0000" channel="DAZN 1 DE">
+    <title lang="de">FC Bayern World Squad: Episode 7</title>
+    <desc lang="de">Nach einer ereignisreichen ersten Halbzeit erfahren Sie nun in Folge 7, wie das Spiel des FC Bayern Weltkaders gegen die U18 Tirol XI ausgegangen ist. Die Spieler bekommen derweil besonderen Besuch beim Training: Audi kommt mit einer Gruppe fußballbegeisterter Kinder an der Säbener Straße vorbei und zeigt den großen und kleinen Spielern in einem gemeinsamen 5 gegen 5-Spiel ihr Können.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250111163000 +0000" stop="20250111165500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111165500 +0000" stop="20250111190500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: FC Turin - Juventus Turin</title>
+    <desc lang="de">Serie A: FC Turin - Juventus Turin.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111190500 +0000" stop="20250111191500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111191500 +0000" stop="20250111194000 +0000" channel="DAZN 1 DE">
+    <title lang="de">FC Bayern World Squad: Episode 8</title>
+    <desc lang="de">In der letzten Folge der diesjährigen World Squad Dokumentation dreht sich alles um das Spiel zwischen der Class of '24 und der U19 des FC Bayern München. Begleiten Sie die Mannschaft beim Abschlusstraining vor dem großen Spiel und sehen Sie die Highlights der Begegnung - wie wird das vierte Aufeinandertreffen der beiden Teams ausgehen?</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250111194000 +0000" stop="20250111215000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: AC Mailand - Cagliari Calcio</title>
+    <desc lang="de">Serie A: AC Mailand - Cagliari Calcio.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111215000 +0000" stop="20250111221500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111221500 +0000" stop="20250111224500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 16. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 16. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
   </programme>
   <programme start="20250108070000 +0000" stop="20250108085000 +0000" channel="DAZN 2 DE">
     <title lang="de">Bundesliga: VFL Bochum - 1. FC Heidenheim</title>
@@ -31236,7 +31368,7 @@
   </programme>
   <programme start="20250110164500 +0000" stop="20250110185500 +0000" channel="DAZN 2 DE">
     <title lang="de">Saudi League: Al Ahli - Al Shabab</title>
-    <desc lang="de">Saudi League: Al Ahli - Al Shabab.</desc>
+    <desc lang="de">Kommentator: Michael Seyberth.</desc>
     <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
@@ -31260,6 +31392,69 @@
     <title lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen</title>
     <desc lang="de">Portrait of Holger Gehrke: Football veteran on new pitches: Fußball-Urgestein auf neuen Plätzen.</desc>
     <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250110224500 +0000" stop="20250110230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250110230000 +0000" stop="20250111070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250111070000 +0000" stop="20250111090000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: Lazio Rom - Como 1907</title>
+    <desc lang="de">Serie A: Lazio Rom - Como 1907.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111090000 +0000" stop="20250111103500 +0000" channel="DAZN 2 DE">
+    <title lang="de">WÖLFINNEN: DIE JAGD NACH DEM TRIPLE</title>
+    <desc lang="de">Champions League, Bundesliga und DFB-Pokal - das Triple! Für die Frauen des VfL Wolfsburg ist es das selbsterklärte Saisonziel für die Spielzeit 2022/23. Die Erwartungen an und innerhalb des erfolgreichsten deutschen Teams des vergangenen Jahrzehnts könnten kaum höher sein. DAZN begleitet die Wölfinnen in der heißen Endphase der Saison, ist ganz nah dran und geht auf die Suche nach dem Erfolgsgeheimnis dieses besonderen Teams. Neben den Kapitäninnen Svenja Huth und Alexandra Popp sowie Trainer Tommy Stroot, steht u.a. auch die junge Lena Oberdorf im Fokus der Dokumentation, die sowohl die mitreißende Spannung im Kampf um Titel erzählt, als auch die so unterschiedlichen Emotionen ihrer...</desc>
+    <category lang="de">Dokumentation</category>
+  </programme>
+  <programme start="20250111103500 +0000" stop="20250111110000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
+    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
+    <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111120000 +0000" stop="20250111125500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Get Wild: Lange Version</title>
+    <desc lang="de">Get Wild: Lange Version.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250111125500 +0000" stop="20250111151000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Primera División: Deportivo Alavés - FC Girona</title>
+    <desc lang="de">Primera División: Deportivo Alavés - FC Girona.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111151000 +0000" stop="20250111155000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250111155000 +0000" stop="20250111180000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Ligue 1: Stade Brest - Olympique Lyon</title>
+    <desc lang="de">Ligue 1: Stade Brest - Olympique Lyon.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250111180000 +0000" stop="20250111213000 +0000" channel="DAZN 2 DE">
+    <title lang="de">NFL Domestic: Wildcard Round: TBC - TBC</title>
+    <desc lang="de">NFL Domestic: Wildcard Round: TBC - TBC.</desc>
+    <date>2025</date>
   </programme>
   <programme start="20250108000000 +0100" stop="20250108000000 +0100" channel="DAZN 1 IT">
     <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
@@ -52253,7 +52448,7 @@
   <programme start="20250110203000 +0100" stop="20250110223000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250110223000 +0100" stop="20250110230000 +0100" channel="LaLiga TV Hypermotion">
@@ -52265,7 +52460,7 @@
   <programme start="20250110230000 +0100" stop="20250111010000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250111010000 +0100" stop="20250111013000 +0100" channel="LaLiga TV Hypermotion">
@@ -52325,7 +52520,7 @@
   <programme start="20250111113000 +0100" stop="20250111133000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250111133000 +0100" stop="20250111140000 +0100" channel="LaLiga TV Hypermotion">
@@ -52361,7 +52556,7 @@
   <programme start="20250111183000 +0100" stop="20250111203000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Málaga - Deportivo T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 15.
+· El Málaga busca su tercera victoria consecutiva, que le acerque al playoff. El Deportivo, está tres puntos por encima del descenso, aunque con un partido menos. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250111203000 +0100" stop="20250111210000 +0100" channel="LaLiga TV Hypermotion">
@@ -52372,8 +52567,8 @@
   </programme>
   <programme start="20250111210000 +0100" stop="20250111230000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Real Oviedo - Sporting T24/25 · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250111230000 +0100" stop="20250112005000 +0100" channel="LaLiga TV Hypermotion">
@@ -52415,7 +52610,7 @@
   <programme start="20250112090000 +0100" stop="20250112110000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Málaga - Deportivo T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 15.
+· El Málaga busca su tercera victoria consecutiva, que le acerque al playoff. El Deportivo, está tres puntos por encima del descenso, aunque con un partido menos. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112110000 +0100" stop="20250112113000 +0100" channel="LaLiga TV Hypermotion">
@@ -52426,8 +52621,8 @@
   </programme>
   <programme start="20250112113000 +0100" stop="20250112133000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">DIRECTO Jornada 22: Real Oviedo - Sporting T24/25 · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250112133000 +0100" stop="20250112140000 +0100" channel="LaLiga TV Hypermotion">
@@ -52691,7 +52886,7 @@
   <programme start="20250110203000 +0100" stop="20250110223000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250110223000 +0100" stop="20250110230000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -52703,7 +52898,7 @@
   <programme start="20250110230000 +0100" stop="20250111010000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250111010000 +0100" stop="20250111013000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -52763,7 +52958,7 @@
   <programme start="20250111113000 +0100" stop="20250111133000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250111133000 +0100" stop="20250111140000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -52799,7 +52994,7 @@
   <programme start="20250111183000 +0100" stop="20250111203000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Málaga - Deportivo T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 15.
+· El Málaga busca su tercera victoria consecutiva, que le acerque al playoff. El Deportivo, está tres puntos por encima del descenso, aunque con un partido menos. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250111203000 +0100" stop="20250111210000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -52810,8 +53005,8 @@
   </programme>
   <programme start="20250111210000 +0100" stop="20250111230000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Real Oviedo - Sporting T24/25 · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250111230000 +0100" stop="20250112005000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -52853,7 +53048,7 @@
   <programme start="20250112090000 +0100" stop="20250112110000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Málaga - Deportivo T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 15.
+· El Málaga busca su tercera victoria consecutiva, que le acerque al playoff. El Deportivo, está tres puntos por encima del descenso, aunque con un partido menos. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112110000 +0100" stop="20250112113000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -52864,8 +53059,8 @@
   </programme>
   <programme start="20250112113000 +0100" stop="20250112133000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">DIRECTO Jornada 22: Real Oviedo - Sporting T24/25 · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250112133000 +0100" stop="20250112140000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -53129,7 +53324,7 @@
   <programme start="20250110203000 +0100" stop="20250110223000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250110223000 +0100" stop="20250110230000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -53141,7 +53336,7 @@
   <programme start="20250110230000 +0100" stop="20250111010000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250111010000 +0100" stop="20250111013000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -53201,7 +53396,7 @@
   <programme start="20250111113000 +0100" stop="20250111133000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Granada - Burgos T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 20.
+· El Granada busca volver a entrar en playoff, para eso debe ganar al Burgos, y esperar un tropiezo de los equipos que tienen por delante. El Burgos, lleva cuaro partidos sin perder, y está cinco puntos por encima del descenso. Votos: 20.
 · País: España</desc>
   </programme>
   <programme start="20250111133000 +0100" stop="20250111140000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -53237,7 +53432,7 @@
   <programme start="20250111183000 +0100" stop="20250111203000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Málaga - Deportivo T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 15.
+· El Málaga busca su tercera victoria consecutiva, que le acerque al playoff. El Deportivo, está tres puntos por encima del descenso, aunque con un partido menos. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250111203000 +0100" stop="20250111210000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -53248,8 +53443,8 @@
   </programme>
   <programme start="20250111210000 +0100" stop="20250111230000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Real Oviedo - Sporting T24/25 · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250111230000 +0100" stop="20250112005000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -53291,7 +53486,7 @@
   <programme start="20250112090000 +0100" stop="20250112110000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Málaga - Deportivo T24/25 · LALIGA HYPERMOTION</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 15.
+· El Málaga busca su tercera victoria consecutiva, que le acerque al playoff. El Deportivo, está tres puntos por encima del descenso, aunque con un partido menos. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112110000 +0100" stop="20250112113000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -53302,8 +53497,8 @@
   </programme>
   <programme start="20250112113000 +0100" stop="20250112133000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">DIRECTO Jornada 22: Real Oviedo - Sporting T24/25 · LALIGA HYPERMOTION</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· La Segunda cuenta este año con un cartel de equipos históricos sin parangón. Muchos aspiran a las dos plazas que dan pasaporte directo a LaLiga. La tercera, la pelean los cuatro conjuntos que disputan las eliminatorias de ascenso. Votos: 12.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 14.
 · País: España</desc>
   </programme>
   <programme start="20250112133000 +0100" stop="20250112140000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -59248,7 +59443,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250109150000 +0100" stop="20250109153700 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -59308,7 +59503,7 @@
 </desc>
   </programme>
   <programme start="20250109232500 +0100" stop="20250110000200 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -59368,7 +59563,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110080000 +0100" stop="20250110083700 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -59500,7 +59695,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110211300 +0100" stop="20250110215000 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -59626,7 +59821,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250111104400 +0100" stop="20250111112100 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -60614,7 +60809,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250109150000 +0100" stop="20250109153700 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -60674,7 +60869,7 @@
 </desc>
   </programme>
   <programme start="20250109232500 +0100" stop="20250110000200 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -60734,7 +60929,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110080000 +0100" stop="20250110083700 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -60866,7 +61061,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250110211300 +0100" stop="20250110215000 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
@@ -60992,7 +61187,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250111104400 +0100" stop="20250111112100 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Betis - Real Madrid</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Semifinales: Real Madrid - Betis</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 11.
 · País: España</desc>
