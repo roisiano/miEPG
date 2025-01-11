@@ -31,9 +31,9 @@ jobs:
       run: |
         gunzip TV.xml.gz
 
-    - name: Modify the first line of the file
+    - name: Modify the first two lines of the file
       run: |
-        sed -i '1s/.*/<?xml version="1.0" encoding="UTF-8"?>/' TV.xml
+        sed -i '1,2c <?xml version="1.0" encoding="UTF-8" ?>\n<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">' TV.xml
 
     - name: Save the formatted file as TDTchannels.xml
       run: |
@@ -46,4 +46,5 @@ jobs:
         git add TDTchannels.xml
         git commit -m "Update EPG file" --allow-empty
         git push origin main --force
+
 
