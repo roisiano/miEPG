@@ -1,0 +1,38 @@
+name: Update EPG File TDTchannels.xml
+
+on:
+  schedule:
+    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
+    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Remove existing TDTchannels.xml
+      run: |
+        rm -f ./TDTchannels.xml
+        git rm --ignore-unmatch TDTchannels.xml
+
+    - name: Download the new EPG file
+      run: |
+        wget https://www.tdtchannels.com/epg/TV.xml.gz
+    - name: Decompress the new EPG file 
+      run: |
+        gunzip TV.xml.gz
+    - name: Save the formatted file as TDTchannels.xml
+      run: |
+        mv TV.xml ./TDTchannels.xml
+    - name: Commit and force-push the changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "GitHub Actions"
+        git add TDTchannels.xml
+        git commit -m "Update EPG file" --allow-empty
+        git push origin main --force
