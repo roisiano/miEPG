@@ -2,9 +2,12 @@ name: Update EPG File TDTchannels.xml
 
 on:
   schedule:
+    - cron: '45 2 * * *'  # Ejecuta a las 2:45 AM cada día.
     - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 8 * * *'  # Ejecuta a las 8:45 AM cada día.
     - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
     - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+    - cron: '45 21 * * *' # Ejecuta a las 9:45 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
@@ -23,12 +26,19 @@ jobs:
     - name: Download the new EPG file
       run: |
         wget https://www.tdtchannels.com/epg/TV.xml.gz
+
     - name: Decompress the new EPG file 
       run: |
         gunzip TV.xml.gz
+
+    - name: Modify the first line of the file
+      run: |
+        sed -i '1s/.*/<?xml version="1.0" encoding="UTF-8"?>/' TV.xml
+
     - name: Save the formatted file as TDTchannels.xml
       run: |
         mv TV.xml ./TDTchannels.xml
+
     - name: Commit and force-push the changes
       run: |
         git config --global user.email "your-email@example.com"
@@ -36,3 +46,4 @@ jobs:
         git add TDTchannels.xml
         git commit -m "Update EPG file" --allow-empty
         git push origin main --force
+
