@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 12/01/2025 13:57" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 12/01/2025 19:01" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -494,37 +494,37 @@
   <channel id="Setanta Sport 1">
     <display-name>Setanta Sport 1</display-name>
   </channel>
-  <programme start="20250112063000 +0100" stop="20250112083000 +0100" channel="EUROSPORT 1 ES">
-    <title lang="es">DIRECTO Femenino: Badosa - Wang T2025 · Open de Australia</title>
+  <programme start="20250112080000 +0100" stop="20250112083100 +0100" channel="EUROSPORT 1 ES">
+    <title lang="es">Open de Australia T2025 · Femenino: Badosa - Wang</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *8.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 4.
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 5.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112083000 +0100" stop="20250112090000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20250112083100 +0100" stop="20250112091400 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Australian Open Courtside T2025 · 12/01/2025</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *10.0/10
 · El Open de Australia es siempre la primera gran cita de la temporada tenística. El Grand Slam oceánico reúne en las antípodas a los mejores jugadores del planeta. Este espacio acerca la actualidad del abierto desde el Melbourne Park. Votos: 1.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112090000 +0100" stop="20250112110000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20250112091400 +0100" stop="20250112104700 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Femenino: Sabalenka - Stephens T2025 · Open de Australia</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 3.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112110000 +0100" stop="20250112140000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20250112104700 +0100" stop="20250112131800 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Masculino: Pouille - Zverev T2025 · Open de Australia</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 4.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112140000 +0100" stop="20250112143000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20250112131800 +0100" stop="20250112140000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Pasando bolas T2025 · Open de Australia - Día 1</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Un programa que analiza cada una de las jornadas de los Grand Slams que emite Eurosport.
 · País: España</desc>
   </programme>
-  <programme start="20250112143000 +0100" stop="20250112173000 +0100" channel="EUROSPORT 1 ES">
+  <programme start="20250112140000 +0100" stop="20250112173000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Primera ronda T24/25 · Masters de snooker</title>
     <desc lang="es">Deportes/Snooker | 2025 | TP
 · El Masters de snooker forma parte de la Triple Corona de este deporte junto al UK Championship y al Mundial. Es, por tanto, una cita imprescindible que este año cumple su 51ª edición. El Alexandra Palace de Londres es el escenario.
@@ -532,8 +532,8 @@
   </programme>
   <programme start="20250112173000 +0100" stop="20250112183000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250112183000 +0100" stop="20250112190000 +0100" channel="EUROSPORT 1 ES">
@@ -574,20 +574,20 @@
   </programme>
   <programme start="20250113043000 +0100" stop="20250113063000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Masculino: Sinner - Jarry T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113063000 +0100" stop="20250113083000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Femenino: Joint - Pegula T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113083000 +0100" stop="20250113090000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">Australian Open Courtside T2025 · 13/01/2025</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El Open de Australia es siempre la primera gran cita de la temporada tenística. El Grand Slam oceánico reúne en las antípodas a los mejores jugadores del planeta. Este espacio acerca la actualidad del abierto desde el Melbourne Park.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *10.0/10
+· El Open de Australia es siempre la primera gran cita de la temporada tenística. El Grand Slam oceánico reúne en las antípodas a los mejores jugadores del planeta. Este espacio acerca la actualidad del abierto desde el Melbourne Park. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113090000 +0100" stop="20250113110000 +0100" channel="EUROSPORT 1 ES">
@@ -598,8 +598,8 @@
   </programme>
   <programme start="20250113110000 +0100" stop="20250113140000 +0100" channel="EUROSPORT 1 ES">
     <title lang="es">DIRECTO Femenino: Osaka - Garcia T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113140000 +0100" stop="20250113143000 +0100" channel="EUROSPORT 1 ES">
@@ -1010,13 +1010,43 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250112090000 +0100" stop="20250112120000 +0100" channel="EUROSPORT 2 ES">
-    <title lang="es">DIRECTO Masculino: Lehecka - Tu T2025 · Open de Australia</title>
+  <programme start="20250112064000 +0100" stop="20250112073900 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">DIRECTO Masculino: Nishikori - Monteiro T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112073900 +0100" stop="20250112082500 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Open de Australia T2025 · Masculino: Virtanen - Fils</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
 · El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112120000 +0100" stop="20250112140000 +0100" channel="EUROSPORT 2 ES">
+  <programme start="20250112082500 +0100" stop="20250112094500 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">Open de Australia T2025 · Femenino: Badosa - Wang</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *8.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 5.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112094500 +0100" stop="20250112101200 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">DIRECTO Femenino: Kartal - Bouzas T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112101200 +0100" stop="20250112110800 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">DIRECTO Masculino: Martínez - Darderi T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112110800 +0100" stop="20250112114900 +0100" channel="EUROSPORT 2 ES">
+    <title lang="es">DIRECTO Femenino: Bucsa - Paquet T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112114900 +0100" stop="20250112140000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Femenino: Blinkova - Saville T2025 · Open de Australia</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
 · El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 3.
@@ -1024,8 +1054,8 @@
   </programme>
   <programme start="20250112140000 +0100" stop="20250112143000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250112143000 +0100" stop="20250112154000 +0100" channel="EUROSPORT 2 ES">
@@ -1042,8 +1072,8 @@
   </programme>
   <programme start="20250112163000 +0100" stop="20250112173000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250112173000 +0100" stop="20250112180000 +0100" channel="EUROSPORT 2 ES">
@@ -1090,8 +1120,8 @@
   </programme>
   <programme start="20250113003000 +0100" stop="20250113010000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250113010000 +0100" stop="20250113013000 +0100" channel="EUROSPORT 2 ES">
@@ -1108,8 +1138,8 @@
   </programme>
   <programme start="20250113043000 +0100" stop="20250113063000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Masculino: Thompson - Koepfer T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113063000 +0100" stop="20250113090000 +0100" channel="EUROSPORT 2 ES">
@@ -1628,37 +1658,37 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250112063000 +0100" stop="20250112083000 +0100" channel="EUROSPORT 1">
-    <title lang="es">DIRECTO Femenino: Badosa - Wang T2025 · Open de Australia</title>
+  <programme start="20250112080000 +0100" stop="20250112083100 +0100" channel="EUROSPORT 1">
+    <title lang="es">Open de Australia T2025 · Femenino: Badosa - Wang</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *8.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 4.
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 5.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112083000 +0100" stop="20250112090000 +0100" channel="EUROSPORT 1">
+  <programme start="20250112083100 +0100" stop="20250112091400 +0100" channel="EUROSPORT 1">
     <title lang="es">Australian Open Courtside T2025 · 12/01/2025</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP | *10.0/10
 · El Open de Australia es siempre la primera gran cita de la temporada tenística. El Grand Slam oceánico reúne en las antípodas a los mejores jugadores del planeta. Este espacio acerca la actualidad del abierto desde el Melbourne Park. Votos: 1.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112090000 +0100" stop="20250112110000 +0100" channel="EUROSPORT 1">
+  <programme start="20250112091400 +0100" stop="20250112104700 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Femenino: Sabalenka - Stephens T2025 · Open de Australia</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 3.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112110000 +0100" stop="20250112140000 +0100" channel="EUROSPORT 1">
+  <programme start="20250112104700 +0100" stop="20250112131800 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Masculino: Pouille - Zverev T2025 · Open de Australia</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 4.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112140000 +0100" stop="20250112143000 +0100" channel="EUROSPORT 1">
+  <programme start="20250112131800 +0100" stop="20250112140000 +0100" channel="EUROSPORT 1">
     <title lang="es">Pasando bolas T2025 · Open de Australia - Día 1</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Un programa que analiza cada una de las jornadas de los Grand Slams que emite Eurosport.
 · País: España</desc>
   </programme>
-  <programme start="20250112143000 +0100" stop="20250112173000 +0100" channel="EUROSPORT 1">
+  <programme start="20250112140000 +0100" stop="20250112173000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Primera ronda T24/25 · Masters de snooker</title>
     <desc lang="es">Deportes/Snooker | 2025 | TP
 · El Masters de snooker forma parte de la Triple Corona de este deporte junto al UK Championship y al Mundial. Es, por tanto, una cita imprescindible que este año cumple su 51ª edición. El Alexandra Palace de Londres es el escenario.
@@ -1666,8 +1696,8 @@
   </programme>
   <programme start="20250112173000 +0100" stop="20250112183000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250112183000 +0100" stop="20250112190000 +0100" channel="EUROSPORT 1">
@@ -1708,20 +1738,20 @@
   </programme>
   <programme start="20250113043000 +0100" stop="20250113063000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Masculino: Sinner - Jarry T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113063000 +0100" stop="20250113083000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Femenino: Joint - Pegula T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113083000 +0100" stop="20250113090000 +0100" channel="EUROSPORT 1">
     <title lang="es">Australian Open Courtside T2025 · 13/01/2025</title>
-    <desc lang="es">Deportes/Programa deportes | 2025 | TP
-· El Open de Australia es siempre la primera gran cita de la temporada tenística. El Grand Slam oceánico reúne en las antípodas a los mejores jugadores del planeta. Este espacio acerca la actualidad del abierto desde el Melbourne Park.
+    <desc lang="es">Deportes/Programa deportes | 2025 | TP | *10.0/10
+· El Open de Australia es siempre la primera gran cita de la temporada tenística. El Grand Slam oceánico reúne en las antípodas a los mejores jugadores del planeta. Este espacio acerca la actualidad del abierto desde el Melbourne Park. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113090000 +0100" stop="20250113110000 +0100" channel="EUROSPORT 1">
@@ -1732,8 +1762,8 @@
   </programme>
   <programme start="20250113110000 +0100" stop="20250113140000 +0100" channel="EUROSPORT 1">
     <title lang="es">DIRECTO Femenino: Osaka - Garcia T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113140000 +0100" stop="20250113143000 +0100" channel="EUROSPORT 1">
@@ -2144,13 +2174,43 @@
 · Programa por determinar...
 </desc>
   </programme>
-  <programme start="20250112090000 +0100" stop="20250112120000 +0100" channel="EUROSPORT 2">
-    <title lang="es">DIRECTO Masculino: Lehecka - Tu T2025 · Open de Australia</title>
+  <programme start="20250112064000 +0100" stop="20250112073900 +0100" channel="EUROSPORT 2">
+    <title lang="es">DIRECTO Masculino: Nishikori - Monteiro T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112073900 +0100" stop="20250112082500 +0100" channel="EUROSPORT 2">
+    <title lang="es">Open de Australia T2025 · Masculino: Virtanen - Fils</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
 · El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
 · País: Australia</desc>
   </programme>
-  <programme start="20250112120000 +0100" stop="20250112140000 +0100" channel="EUROSPORT 2">
+  <programme start="20250112082500 +0100" stop="20250112094500 +0100" channel="EUROSPORT 2">
+    <title lang="es">Open de Australia T2025 · Femenino: Badosa - Wang</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *8.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 5.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112094500 +0100" stop="20250112101200 +0100" channel="EUROSPORT 2">
+    <title lang="es">DIRECTO Femenino: Kartal - Bouzas T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 2.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112101200 +0100" stop="20250112110800 +0100" channel="EUROSPORT 2">
+    <title lang="es">DIRECTO Masculino: Martínez - Darderi T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112110800 +0100" stop="20250112114900 +0100" channel="EUROSPORT 2">
+    <title lang="es">DIRECTO Femenino: Bucsa - Paquet T2025 · Open de Australia</title>
+    <desc lang="es">Deportes/Tenis | 2025 | TP
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+· País: Australia</desc>
+  </programme>
+  <programme start="20250112114900 +0100" stop="20250112140000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Femenino: Blinkova - Saville T2025 · Open de Australia</title>
     <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
 · El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 3.
@@ -2158,8 +2218,8 @@
   </programme>
   <programme start="20250112140000 +0100" stop="20250112143000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250112143000 +0100" stop="20250112154000 +0100" channel="EUROSPORT 2">
@@ -2176,8 +2236,8 @@
   </programme>
   <programme start="20250112163000 +0100" stop="20250112173000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250112173000 +0100" stop="20250112180000 +0100" channel="EUROSPORT 2">
@@ -2224,8 +2284,8 @@
   </programme>
   <programme start="20250113003000 +0100" stop="20250113010000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Adelboden - Eslalon gigante M - 2ª manga T24/25 · Copa del mundo de esquí alpino</title>
-    <desc lang="es">Deportes/Esquí alpino | 2025 | TP
-· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones.
+    <desc lang="es">Deportes/Esquí alpino | 2025 | TP | *2.0/10
+· Del 26 de octubre al 27 de marzo se celebra la Copa del mundo de esquí alpino. La competición premia a los más regulares y recorre las mejores estaciones invernales del planeta. Marco Odermatt y su compatriota Lara Gut-Behrami son los actuales campeones. Votos: 3.
 · País: Suiza</desc>
   </programme>
   <programme start="20250113010000 +0100" stop="20250113013000 +0100" channel="EUROSPORT 2">
@@ -2242,8 +2302,8 @@
   </programme>
   <programme start="20250113043000 +0100" stop="20250113063000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Masculino: Thompson - Koepfer T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *10.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
 · País: Australia</desc>
   </programme>
   <programme start="20250113063000 +0100" stop="20250113090000 +0100" channel="EUROSPORT 2">
@@ -5755,8 +5815,8 @@
   </programme>
   <programme start="20250112115000 +0100" stop="20250112135700 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 14: Atlético de Madrid - Levante UD T24/25 · Liga F</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *10.0/10
+· La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara. Votos: 1.
 · País: España</desc>
   </programme>
   <programme start="20250112135700 +0100" stop="20250112150200 +0100" channel="DAZN 1 Espana">
@@ -7507,7 +7567,7 @@
   <programme start="20250115151500 +0100" stop="20250115171500 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
     <desc lang="es">Deportes/Motor | 2023 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 25.
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 27.
 </desc>
   </programme>
   <programme start="20250115171500 +0100" stop="20250115193000 +0100" channel="DAZN F1">
@@ -7872,8 +7932,8 @@
   </programme>
   <programme start="20250112133000 +0100" stop="20250112163000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112163000 +0100" stop="20250112170000 +0100" channel="DAZN LaLiga ES">
@@ -7912,8 +7972,8 @@
   </programme>
   <programme start="20250112200000 +0100" stop="20250112220000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112220000 +0100" stop="20250112221500 +0100" channel="DAZN LaLiga ES">
@@ -8078,8 +8138,8 @@
   </programme>
   <programme start="20250114120000 +0100" stop="20250114140000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250114140000 +0100" stop="20250114151500 +0100" channel="DAZN LaLiga ES">
@@ -8169,8 +8229,8 @@
   </programme>
   <programme start="20250115150000 +0100" stop="20250115170000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250115170000 +0100" stop="20250115174500 +0100" channel="DAZN LaLiga ES">
@@ -8278,8 +8338,8 @@
   </programme>
   <programme start="20250116190000 +0100" stop="20250116210000 +0100" channel="DAZN LaLiga ES">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250116210000 +0100" stop="20250116213000 +0100" channel="DAZN LaLiga ES">
@@ -8548,8 +8608,8 @@
   </programme>
   <programme start="20250112133000 +0100" stop="20250112163000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112163000 +0100" stop="20250112170000 +0100" channel="DAZN LaLiga">
@@ -8588,8 +8648,8 @@
   </programme>
   <programme start="20250112200000 +0100" stop="20250112220000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250112220000 +0100" stop="20250112221500 +0100" channel="DAZN LaLiga">
@@ -8754,8 +8814,8 @@
   </programme>
   <programme start="20250114120000 +0100" stop="20250114140000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250114140000 +0100" stop="20250114151500 +0100" channel="DAZN LaLiga">
@@ -8845,8 +8905,8 @@
   </programme>
   <programme start="20250115150000 +0100" stop="20250115170000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250115170000 +0100" stop="20250115174500 +0100" channel="DAZN LaLiga">
@@ -8954,8 +9014,8 @@
   </programme>
   <programme start="20250116190000 +0100" stop="20250116210000 +0100" channel="DAZN LaLiga">
     <title lang="es">DIRECTO Jornada 19: Las Palmas - Getafe T24/25 · LALIGA EA SPORTS</title>
-    <desc lang="es">Deportes/Fútbol | 2025 | TP
-· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe.
+    <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
+· Tras el severo correctivo cosechado en la Copa del Rey, el conjunto insular quiere volver a la senda de la victoria recibiendo al siempre correoso Getafe. Votos: 15.
 · País: España</desc>
   </programme>
   <programme start="20250116210000 +0100" stop="20250116213000 +0100" channel="DAZN LaLiga">
@@ -28473,111 +28533,6 @@
     <category lang="nl">Rechtstreeks Verslag/verslag</category>
     <icon src="https://tvgidsassets.nl/v349/upload/t/carrousel/toto-knvb-beker-go-ahead-eagles-fc-twente-591728511.jpg" />
   </programme>
-  <programme start="20250111070000 +0000" stop="20250111090000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga: Borussia Dortmund - Bayer 04 Leverkusen</title>
-    <desc lang="de">Kommentator: Marcel Seufert.</desc>
-    <date>2025</date>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250111090000 +0000" stop="20250111091500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250111091500 +0000" stop="20250111111000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Lazio Rom - Como 1907</title>
-    <desc lang="de">Serie A: Lazio Rom - Como 1907.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250111111000 +0000" stop="20250111114000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Momentum</title>
-    <desc lang="de">Drei Siege in Folge und ein Mann ist in aller Munde: Serhou Guirassy. VFB inTeam begleitet die VFB-Legneden rund ums Darmstadt-Spiel, ist mit der Mannschaft auf dem Wasen und zeigt, dass der aktuelle Erfolg des VFB das Ergebnis von Teamwork ist.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250111114000 +0000" stop="20250111121000 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250111121000 +0000" stop="20250111123500 +0000" channel="DAZN 1 DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-    <desc lang="de">Nach dem Rückschlag in Heidenheim zeigt der VFB eine starke Reaktion und feiert vier Siege am Stück. In VFB inTeam sprechen die Offensivspieler Chris Führich und Deniz Undav abseits des Platzes über ihre Werdegänge und die aktuelle Serie des VFB. Teil des Erfolgs: Der passende Matchplan. VFB inTeam ermöglicht exklusive Einblicke in die Arbeit der Videoanalysten um Marcus Frengin - inklusive Taktikbesprechung in der Halbzeit des Pokalspiels.</desc>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250111123500 +0000" stop="20250111131500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250111131500 +0000" stop="20250111133500 +0000" channel="DAZN 1 DE">
-    <title lang="de">FC Bayern World Squad: Episode 5</title>
-    <desc lang="de">In Episode 5 setzt der FC Bayern World Squad seine Reise durch die USA fort und reist nach Washington zu einem Spiel bei D.C. United. Die Jungs nutzen die freie Zeit in Amerikas Hauptstadt für Sightseeing: Folgen Sie dem Team auf ihrer Entdeckungstour vom Lincoln Memorial über das Weiße Haus bis zum Washington Monument.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250111133500 +0000" stop="20250111135500 +0000" channel="DAZN 1 DE">
-    <title lang="de">FC Bayern World Squad: Episode 6</title>
-    <desc lang="de">Die sechste Folge der diesjährigen World Squad-Saison beginnt im Herzen von New York, im kultigen Rockefeller Center, bevor das Team nach München zurückkehrt. Doch nicht jeder Spieler kann Teil der Class of '24 bleiben. Wer hat die Coaches nicht überzeugt und wird nach Hause fahren?</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250111135500 +0000" stop="20250111161000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: Udinese Calcio - Atalanta Bergamo</title>
-    <desc lang="de">Serie A: Udinese Calcio - Atalanta Bergamo.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250111161000 +0000" stop="20250111163000 +0000" channel="DAZN 1 DE">
-    <title lang="de">FC Bayern World Squad: Episode 7</title>
-    <desc lang="de">Nach einer ereignisreichen ersten Halbzeit erfahren Sie nun in Folge 7, wie das Spiel des FC Bayern Weltkaders gegen die U18 Tirol XI ausgegangen ist. Die Spieler bekommen derweil besonderen Besuch beim Training: Audi kommt mit einer Gruppe fußballbegeisterter Kinder an der Säbener Straße vorbei und zeigt den großen und kleinen Spielern in einem gemeinsamen 5 gegen 5-Spiel ihr Können.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250111163000 +0000" stop="20250111165500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250111165500 +0000" stop="20250111190500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: FC Turin - Juventus Turin</title>
-    <desc lang="de">Serie A: FC Turin - Juventus Turin.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250111190500 +0000" stop="20250111191500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250111191500 +0000" stop="20250111194000 +0000" channel="DAZN 1 DE">
-    <title lang="de">FC Bayern World Squad: Episode 8</title>
-    <desc lang="de">In der letzten Folge der diesjährigen World Squad Dokumentation dreht sich alles um das Spiel zwischen der Class of '24 und der U19 des FC Bayern München. Begleiten Sie die Mannschaft beim Abschlusstraining vor dem großen Spiel und sehen Sie die Highlights der Begegnung - wie wird das vierte Aufeinandertreffen der beiden Teams ausgehen?</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250111194000 +0000" stop="20250111215000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Serie A: AC Mailand - Cagliari Calcio</title>
-    <desc lang="de">Serie A: AC Mailand - Cagliari Calcio.</desc>
-    <date>2025</date>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250111215000 +0000" stop="20250111221500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250111221500 +0000" stop="20250111224500 +0000" channel="DAZN 1 DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 16. Spieltag</title>
-    <desc lang="de">Bundesliga Gameweek Highlights: 16. Spieltag.</desc>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250111224500 +0000" stop="20250111230000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250111230000 +0000" stop="20250112070000 +0000" channel="DAZN 1 DE">
-    <title lang="de">Sendepause</title>
-    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
-    <category lang="de">Sendepause</category>
-  </programme>
   <programme start="20250112070000 +0000" stop="20250112090000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: AC Mailand - Cagliari Calcio</title>
     <desc lang="de">Serie A: AC Mailand - Cagliari Calcio.</desc>
@@ -28811,63 +28766,91 @@
     <desc lang="de">Ligue 1 Highlightshow 2024/25: 17. Spieltag.</desc>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250111070000 +0000" stop="20250111090000 +0000" channel="DAZN 2 DE">
+  <programme start="20250114224500 +0000" stop="20250114230000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250114230000 +0000" stop="20250115070000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250115070000 +0000" stop="20250115090000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Augsburg - VFB Stuttgart</title>
+    <desc lang="de">Kommentator: Uli Hebel.</desc>
+    <date>2025</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250115090000 +0000" stop="20250115093000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115093000 +0000" stop="20250115113000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: FC Turin - Juventus Turin</title>
+    <desc lang="de">Serie A: FC Turin - Juventus Turin.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250115113000 +0000" stop="20250115120000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115120000 +0000" stop="20250115135000 +0000" channel="DAZN 1 DE">
     <title lang="de">Serie A: Lazio Rom - Como 1907</title>
     <desc lang="de">Serie A: Lazio Rom - Como 1907.</desc>
     <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250111090000 +0000" stop="20250111103500 +0000" channel="DAZN 2 DE">
-    <title lang="de">WÖLFINNEN: DIE JAGD NACH DEM TRIPLE</title>
-    <desc lang="de">Champions League, Bundesliga und DFB-Pokal - das Triple! Für die Frauen des VfL Wolfsburg ist es das selbsterklärte Saisonziel für die Spielzeit 2022/23. Die Erwartungen an und innerhalb des erfolgreichsten deutschen Teams des vergangenen Jahrzehnts könnten kaum höher sein. DAZN begleitet die Wölfinnen in der heißen Endphase der Saison, ist ganz nah dran und geht auf die Suche nach dem Erfolgsgeheimnis dieses besonderen Teams. Neben den Kapitäninnen Svenja Huth und Alexandra Popp sowie Trainer Tommy Stroot, steht u.a. auch die junge Lena Oberdorf im Fokus der Dokumentation, die sowohl die mitreißende Spannung im Kampf um Titel erzählt, als auch die so unterschiedlichen Emotionen ihrer...</desc>
+  <programme start="20250115135000 +0000" stop="20250115140000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115140000 +0000" stop="20250115155500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: FC Augsburg - VFB Stuttgart</title>
+    <desc lang="de">Kommentator: Uli Hebel.</desc>
+    <date>2025</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250115155500 +0000" stop="20250115163000 +0000" channel="DAZN 1 DE">
+    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
+    <desc lang="de">Ob in der Kneipe, in der Kurve oder auf der Tribüne: Die Fans des VFB sind immer dabei. In der fünften Folge bereitet "VFB inTeam" VFBler zu den Spielen aus unterschiedlichen Perspektiven. So ist das Kamerateam bei der Choreo zum 130. Geburtstag des VFB hautnah in der Cannstatter Kurve dabei. Und Sportdirektor Fabian Wohlgemuth ermöglicht einen Einblick in seine tägliche Arbeit, unter anderem bei einer Scoutingsitzung im Clubzentrum.</desc>
     <category lang="de">Dokumentation</category>
   </programme>
-  <programme start="20250111103500 +0000" stop="20250111110000 +0000" channel="DAZN 2 DE">
+  <programme start="20250115163000 +0000" stop="20250115170000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250111110000 +0000" stop="20250111113000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 19. Spieltag</title>
-    <desc lang="de">Serie A Highlightshow 2024/25: 19. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250111113000 +0000" stop="20250111120000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag</title>
-    <desc lang="de">Ligue 1 Highlightshow 2024/25: 16. Spieltag.</desc>
-    <category lang="de">Fußball</category>
-  </programme>
-  <programme start="20250111120000 +0000" stop="20250111125500 +0000" channel="DAZN 2 DE">
-    <title lang="de">Get Wild: Lange Version</title>
-    <desc lang="de">Get Wild: Lange Version.</desc>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250111125500 +0000" stop="20250111151000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Primera División: Deportivo Alavés - FC Girona</title>
-    <desc lang="de">Primera División: Deportivo Alavés - FC Girona.</desc>
+  <programme start="20250115170000 +0000" stop="20250115185000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga: RB Leipzig - SV Werder Bremen</title>
+    <desc lang="de">Kommentator: Jan Platte.</desc>
     <date>2025</date>
-    <category lang="de">Fußball</category>
+    <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250111151000 +0000" stop="20250111155000 +0000" channel="DAZN 2 DE">
+  <programme start="20250115185000 +0000" stop="20250115192000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 17. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 17. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250115192000 +0000" stop="20250115194000 +0000" channel="DAZN 1 DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250111155000 +0000" stop="20250111180000 +0000" channel="DAZN 2 DE">
-    <title lang="de">Ligue 1: Stade Brest - Olympique Lyon</title>
-    <desc lang="de">Ligue 1: Stade Brest - Olympique Lyon.</desc>
+  <programme start="20250115194000 +0000" stop="20250115215000 +0000" channel="DAZN 1 DE">
+    <title lang="de">Serie A: Inter Mailand - FC Bologna</title>
+    <desc lang="de">Serie A: Inter Mailand - FC Bologna.</desc>
     <date>2025</date>
     <category lang="de">Fußball</category>
   </programme>
-  <programme start="20250111180000 +0000" stop="20250111213000 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Domestic: Wildcard Round: TBC - TBC</title>
-    <desc lang="de">NFL Domestic: Wildcard Round: TBC - TBC.</desc>
-    <date>2025</date>
-  </programme>
-  <programme start="20250111213000 +0000" stop="20250112013500 +0000" channel="DAZN 2 DE">
-    <title lang="de">NFL Domestic: Wildcard Round: TBC - TBC</title>
-    <desc lang="de">NFL Domestic: Wildcard Round: TBC - TBC.</desc>
-    <date>2025</date>
+  <programme start="20250115215000 +0000" stop="20250115222500 +0000" channel="DAZN 1 DE">
+    <title lang="de">Bundesliga Gameweek Highlights: 17. Spieltag</title>
+    <desc lang="de">Bundesliga Gameweek Highlights: 17. Spieltag.</desc>
+    <category lang="de">Bundesliga</category>
   </programme>
   <programme start="20250112013500 +0000" stop="20250112070000 +0000" channel="DAZN 2 DE">
     <title lang="de">Sendepause</title>
@@ -29121,6 +29104,88 @@
     <title lang="de">Bundesliga Gameweek Highlights: 16. Spieltag</title>
     <desc lang="de">Bundesliga Gameweek Highlights: 16. Spieltag.</desc>
     <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250114211000 +0000" stop="20250114230000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: AC Mailand - Cagliari Calcio</title>
+    <desc lang="de">Serie A: AC Mailand - Cagliari Calcio.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250114230000 +0000" stop="20250115070000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Sendepause</title>
+    <desc lang="de">Liebe DAZN Fans, wir sind bald für euch zurück mit hochklassigem Sport aus aller Welt.</desc>
+    <category lang="de">Sendepause</category>
+  </programme>
+  <programme start="20250115070000 +0000" stop="20250115090000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: Lazio Rom - Como 1907</title>
+    <desc lang="de">Serie A: Lazio Rom - Como 1907.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250115090000 +0000" stop="20250115105000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: Borussia Dortmund - Bayer 04 Leverkusen</title>
+    <desc lang="de">Kommentator: Marcel Seufert.</desc>
+    <date>2025</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250115105000 +0000" stop="20250115113000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115113000 +0000" stop="20250115120000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Ligue 1 Highlightshow 2024/25: 17. Spieltag</title>
+    <desc lang="de">Ligue 1 Highlightshow 2024/25: 17. Spieltag.</desc>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250115120000 +0000" stop="20250115135000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Bundesliga: FC Augsburg - VFB Stuttgart</title>
+    <desc lang="de">Kommentator: Uli Hebel.</desc>
+    <date>2025</date>
+    <category lang="de">Bundesliga</category>
+  </programme>
+  <programme start="20250115135000 +0000" stop="20250115140000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115140000 +0000" stop="20250115155500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Serie A: AC Mailand - Cagliari Calcio</title>
+    <desc lang="de">Serie A: AC Mailand - Cagliari Calcio.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250115155500 +0000" stop="20250115163000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Decoded 2023/24: NFL: Offense</title>
+    <desc lang="de">Die zweite Folge DECODED NFL führt Moderatorin Jennifer Becks nach München, wo sie den ehemaligen Quarterback Wanja Müller im Kino trifft. In dieser Episode geht es um die Offense, um den perfekten Drive. Anhand des aktuellen Super Bowl Siegers Kansas City Chiefs, die über eine der besten O-Lines der Welt verfügen, analysieren Becks und Müller das Spiel von ganz hinten bis ganz nach vorne - wo am Ende bestenfalls ein Touchdown steht.</desc>
+    <category lang="de">Sportmagazin</category>
+  </programme>
+  <programme start="20250115163000 +0000" stop="20250115165500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115165500 +0000" stop="20250115190500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Coppa Italia Women: Lazio Rom - Juventus Turin</title>
+    <desc lang="de">Coppa Italia Women: Lazio Rom - Juventus Turin.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250115190500 +0000" stop="20250115194000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <desc lang="de">Highlights - Bei "Best of DAZN" erwarten euch sowohl ausgewählte Highlights aus den europäischen Topligen, als auch internationaler Spitzensport.</desc>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250115194000 +0000" stop="20250115215000 +0000" channel="DAZN 2 DE">
+    <title lang="de">Coppa Italia Women: SSC Neapel - AS Rom</title>
+    <desc lang="de">Coppa Italia Women: SSC Neapel - AS Rom.</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+  </programme>
+  <programme start="20250115215000 +0000" stop="20250115222500 +0000" channel="DAZN 2 DE">
+    <title lang="de">Ligue 1 Highlightshow 2024/25: 17. Spieltag</title>
+    <desc lang="de">Ligue 1 Highlightshow 2024/25: 17. Spieltag.</desc>
+    <category lang="de">Fußball</category>
   </programme>
   <programme start="20250112000000 +0100" stop="20250112000000 +0100" channel="DAZN 1 IT">
     <title lang="it">Le trasmissioni inizieranno alle ore 8</title>
@@ -50411,7 +50476,7 @@
   <programme start="20250112113000 +0100" stop="20250112133000 +0100" channel="LaLiga TV Hypermotion">
     <title lang="es">LALIGA HYPERMOTION T24/25 · Jornada 22: Real Oviedo - Sporting</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 32.
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 33.
 · País: España</desc>
   </programme>
   <programme start="20250112133000 +0100" stop="20250112140000 +0100" channel="LaLiga TV Hypermotion">
@@ -50909,7 +50974,7 @@
   <programme start="20250112113000 +0100" stop="20250112133000 +0100" channel="LALIGA TV HYPERMOTION">
     <title lang="es">LALIGA HYPERMOTION T24/25 · Jornada 22: Real Oviedo - Sporting</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 32.
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 33.
 · País: España</desc>
   </programme>
   <programme start="20250112133000 +0100" stop="20250112140000 +0100" channel="LALIGA TV HYPERMOTION">
@@ -51407,7 +51472,7 @@
   <programme start="20250112113000 +0100" stop="20250112133000 +0100" channel="LaLiga TV HYPERMOTION ES">
     <title lang="es">LALIGA HYPERMOTION T24/25 · Jornada 22: Real Oviedo - Sporting</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 32.
+· Derbi asturiano para empezar el año.El Oviedo es sexto, está en playoff, ahí es donde quiere entrar el Sporting. Los de Rubén Albés, llevan cuatro partidos sin ganar, con tres derrotas y un empate. Votos: 33.
 · País: España</desc>
   </programme>
   <programme start="20250112133000 +0100" stop="20250112140000 +0100" channel="LaLiga TV HYPERMOTION ES">
@@ -57667,7 +57732,7 @@
     <category lang="cs">Sport</category>
   </programme>
   <programme start="20250112061800 +0100" stop="20250112065100 +0100" channel="LaLiga TV 🇪🇸">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 17.
 · País: España</desc>
@@ -57753,7 +57818,7 @@
   <programme start="20250112191000 +0100" stop="20250112205500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 80.
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 82.
 · País: España</desc>
   </programme>
   <programme start="20250112205500 +0100" stop="20250112213000 +0100" channel="LaLiga TV 🇪🇸">
@@ -58504,7 +58569,7 @@
   <programme start="20250115032000 +0100" stop="20250115050500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 80.
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 82.
 · País: España</desc>
   </programme>
   <programme start="20250115050500 +0100" stop="20250115054000 +0100" channel="LaLiga TV 🇪🇸">
@@ -58859,7 +58924,7 @@
   <programme start="20250117080000 +0100" stop="20250117095000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 80.
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 82.
 · País: España</desc>
   </programme>
   <programme start="20250117095000 +0100" stop="20250117102000 +0100" channel="LaLiga TV 🇪🇸">
@@ -59187,7 +59252,7 @@
 · País: España</desc>
   </programme>
   <programme start="20250112061800 +0100" stop="20250112065100 +0100" channel="LaLiga TV ES">
-    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Real Madrid - Barcelona</title>
+    <title lang="es">Torneo Internacional LaLiga FC Futures T2024 · Finales: Barcelona - Real Madrid</title>
     <desc lang="es">Deportes/Fútbol 7 | 2024 | TP | *6.0/10
 · LaLiga EA SPORTS FC FUTURUS celebra su XXVIII Torneo Internacional de Navidad de Fútbol 7. A la Ciudad Deportiva de Maspalomas (Gran Canaria) acuden alevines del Real Madrid, FC Barcelona, Atlético de Madrid, Real Betis, Girona y PSG, entre otros. Votos: 17.
 · País: España</desc>
@@ -59273,7 +59338,7 @@
   <programme start="20250112191000 +0100" stop="20250112205500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 80.
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 82.
 · País: España</desc>
   </programme>
   <programme start="20250112205500 +0100" stop="20250112213000 +0100" channel="LaLiga TV ES">
@@ -60024,7 +60089,7 @@
   <programme start="20250115032000 +0100" stop="20250115050500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 80.
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 82.
 · País: España</desc>
   </programme>
   <programme start="20250115050500 +0100" stop="20250115054000 +0100" channel="LaLiga TV ES">
@@ -60379,7 +60444,7 @@
   <programme start="20250117080000 +0100" stop="20250117095000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA EA SPORTS T24/25 · Jornada 19: Mallorca - Barcelona</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
-· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 80.
+· LaLiga premia el trabajo y la constancia de los equipos. Los 20 mejores clubes del fútbol español disputan el torneo de la regularidad en busca del título, de un puesto continental o de la permanencia en la élite. Votos: 82.
 · País: España</desc>
   </programme>
   <programme start="20250117095000 +0100" stop="20250117102000 +0100" channel="LaLiga TV ES">
