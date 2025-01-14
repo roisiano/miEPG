@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 14/01/2025 13:58" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 14/01/2025 19:01" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="EUROSPORT 1 ES">
     <display-name>EUROSPORT 1 ES</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -923,8 +923,8 @@
   </programme>
   <programme start="20250114110000 +0100" stop="20250114140000 +0100" channel="EUROSPORT 2 ES">
     <title lang="es">DIRECTO Masculino: Rublev - Fonseca T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP | *2.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *6.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 13.
 · País: Australia</desc>
   </programme>
   <programme start="20250114140000 +0100" stop="20250114153000 +0100" channel="EUROSPORT 2 ES">
@@ -1823,8 +1823,8 @@
   </programme>
   <programme start="20250114110000 +0100" stop="20250114140000 +0100" channel="EUROSPORT 2">
     <title lang="es">DIRECTO Masculino: Rublev - Fonseca T2025 · Open de Australia</title>
-    <desc lang="es">Deportes/Tenis | 2025 | TP | *2.0/10
-· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 1.
+    <desc lang="es">Deportes/Tenis | 2025 | TP | *6.0/10
+· El Open de Australia abre el telón anual del mejor tenis. Del 12 al 26 de enero, las mejores raquetas del planeta disputan el Grand Slam oceánico. Jannik Sinner y Aryna Sabalenka defienden sus coronas. Votos: 13.
 · País: Australia</desc>
   </programme>
   <programme start="20250114140000 +0100" stop="20250114153000 +0100" channel="EUROSPORT 2">
@@ -5273,7 +5273,7 @@
   <programme start="20250115140000 +0100" stop="20250115161000 +0100" channel="DAZN 1 Espana">
     <title lang="es">DIRECTO Jornada 21: Nottingham Forest - Liverpool T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Liverpool lidera la Premier con mano firme pero el Forest está a sólo seis puntos con un partido más. Los de Nuno han sumado 18 puntos consecutivos y los de Slot han cedido tres empates en las últimas seis jornadas y perdieron la ida de la C.Liga. Votos: 13.
+· El Liverpool lidera la Premier con mano firme pero el Forest está a sólo seis puntos con un partido más. Los de Nuno han sumado 18 puntos consecutivos y los de Slot han cedido tres empates en las últimas seis jornadas y perdieron la ida de la C.Liga. Votos: 14.
 · País: R.U.</desc>
   </programme>
   <programme start="20250115161000 +0100" stop="20250115162500 +0100" channel="DAZN 1 Espana">
@@ -5702,7 +5702,7 @@
   <programme start="20250114205000 +0100" stop="20250114233700 +0100" channel="DAZN 2 Espana">
     <title lang="es">DIRECTO Jornada 21: Nottingham Forest - Liverpool T24/25 · Premier League</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *6.0/10
-· El Liverpool lidera la Premier con mano firme pero el Forest está a sólo seis puntos con un partido más. Los de Nuno han sumado 18 puntos consecutivos y los de Slot han cedido tres empates en las últimas seis jornadas y perdieron la ida de la C.Liga. Votos: 13.
+· El Liverpool lidera la Premier con mano firme pero el Forest está a sólo seis puntos con un partido más. Los de Nuno han sumado 18 puntos consecutivos y los de Slot han cedido tres empates en las últimas seis jornadas y perdieron la ida de la C.Liga. Votos: 14.
 · País: R.U.</desc>
   </programme>
   <programme start="20250114233700 +0100" stop="20250115020000 +0100" channel="DAZN 2 Espana">
@@ -5904,7 +5904,7 @@
 </desc>
   </programme>
   <programme start="20250119115000 +0100" stop="20250119140000 +0100" channel="DAZN 2 Espana">
-    <title lang="es">DIRECTO Jornada 15: Real Sociedad - RCD Espanyol T24/25 · Liga F</title>
+    <title lang="es">DIRECTO Jornada 15: Real Sociedad - Espanyol T24/25 · Liga F</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP
 · La Liga F es la máxima categoría del fútbol femenino. Dieciséis equipos toman parte esta temporada, entre los que el Barcelona, defensor del título, es el rival a batir. Real Madrid, Atlético de Madrid o Levante intentarán plantar cara.
 · País: España</desc>
@@ -6626,7 +6626,7 @@
   <programme start="20250115060000 +0100" stop="20250115081500 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1 T2023 · GP de Hungría: Carrera</title>
     <desc lang="es">Deportes/Motor | 2023 | TP | *6.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 42.
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 44.
 </desc>
   </programme>
   <programme start="20250115081500 +0100" stop="20250115103000 +0100" channel="DAZN F1">
@@ -6686,7 +6686,7 @@
   <programme start="20250115212000 +0100" stop="20250115223000 +0100" channel="DAZN F1">
     <title lang="es">Campeonato de Fórmula 3 de la FIA T2024 · F3 Austria: Carrera</title>
     <desc lang="es">Deportes/Motor | 2024 | *6.0/10
-· La F3 Series es un campeonato de automovilismo de velocidad por debajo de la F2. Votos: 13.
+· La F3 Series es un campeonato de automovilismo de velocidad por debajo de la F2. Votos: 15.
 </desc>
   </programme>
   <programme start="20250115223000 +0100" stop="20250116003000 +0100" channel="DAZN F1">
@@ -7004,7 +7004,7 @@
   <programme start="20250119005000 +0100" stop="20250119024500 +0100" channel="DAZN F1">
     <title lang="es">Mundial de Fórmula 1 T2023 · GP de Arabia Saudi: Carrera</title>
     <desc lang="es">Deportes/Motor | 2023 | TP | *8.0/10
-· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 62.
+· Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca. Votos: 64.
 </desc>
   </programme>
   <programme start="20250119024500 +0100" stop="20250119044500 +0100" channel="DAZN F1">
@@ -45235,14 +45235,6 @@
     <country lang="sv">SWE</country>
     <episode-num system="onscreen">E19</episode-num>
   </programme>
-<programme start="20250112190000 +0000" stop="20250113070000 +0000" channel="Super Sport 1AL">
-<title>Sport News</title>
-<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
-</programme>
-<programme start="20250113070000 +0000" stop="20250113190000 +0000" channel="Super Sport 1AL">
-<title>Sport News</title>
-<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
-</programme>
 <programme start="20250113190000 +0000" stop="20250114070000 +0000" channel="Super Sport 1AL">
 <title>Sport News</title>
 <desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
@@ -45259,59 +45251,25 @@
 <title>Brentford-Man City</title>
 <desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 21-te nga stadiumi ”Gtech Community Stadium” ne Brentford. Komenti: Sokol Xhihani.</desc>
 </programme>
-<programme start="20250112230000 +0000" stop="20250113010000 +0000" channel="Super Sport 2AL">
-<title>Basaksehir-Galatasaray</title>
-<desc>Super Lig, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Basaksehir Fatih Terim Stadyumu” ne Stamboll. Komenti: Egi Duro.</desc>
+<programme start="20250115070000 +0000" stop="20250115190000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
-<programme start="20250113010000 +0000" stop="20250113030000 +0000" channel="Super Sport 2AL">
-<title>Atl Madrid-Osasuna La Liga</title>
-<desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Riyadh Air Metropolitano” ne Madrid. Komenti: Elvis Rexha.</desc>
+<programme start="20250115190000 +0000" stop="20250115193000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
-<programme start="20250113030000 +0000" stop="20250113054500 +0000" channel="Super Sport 2AL">
-<title>Arsenal-Man Utd</title>
-<desc>FA Cup, sezoni 2024-2025. Sfide e vlefshme per raundin e 3-te te ketij kompeticioni, nga stadiumi ”Emirates Stadium” ne Londer. Komenti: Sokol Xhihani.</desc>
+<programme start="20250115193000 +0000" stop="20250115213000 +0000" channel="Super Sport 1AL">
+<title>Bayern-Hoffenheim</title>
+<desc>Bundesliga 1, sezoni 2024-2025. Sfide e vlefshme per javen e 17-te nga stadiumi ”Allianz Arena” ne Munchen. Komenti: Elvis Rexha.</desc>
 </programme>
-<programme start="20250113054500 +0000" stop="20250113070000 +0000" channel="Super Sport 2AL">
-<title>Apotheosis, Milan Kampion Europe 1994</title>
-<desc>Apoteoza kujton rrugen drejt lavdise permes heronjve qe e ben ate te ndodhe ne vitin 1994. Nga tekniku Fabio Capello tek kapiteni Baresi e me rradhe Savicevic, Massaro, Desai, Tassotti, Maldini, Costacurta, Albertini, Donadoni, F. Galli dhe portieri S. Rossi.</desc>
+<programme start="20250115213000 +0000" stop="20250116070000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
-<programme start="20250113070000 +0000" stop="20250113090000 +0000" channel="Super Sport 2AL">
-<title>Leipzig-Werder</title>
-<desc>Bundesliga 1, sezoni 2024-2025. Sfide e vlefshme per javen e 16-te nga stadiumi ”Red Bull Arena” ne Leipzig. Komenti: Blendi Resnja.</desc>
-</programme>
-<programme start="20250113090000 +0000" stop="20250113110000 +0000" channel="Super Sport 2AL">
-<title>Man City-Salford</title>
-<desc>FA Cup, sezoni 2024-2025. Sfide e vlefshme per raundin e 3-te te ketij kompeticioni, nga stadiumi ”Etihad Stadium” ne Manchester. Komenti: Elvis Rexha.</desc>
-</programme>
-<programme start="20250113110000 +0000" stop="20250113130000 +0000" channel="Super Sport 2AL">
-<title>Atl Madrid-Osasuna La Liga</title>
-<desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Riyadh Air Metropolitano” ne Madrid. Komenti: Elvis Rexha.</desc>
-</programme>
-<programme start="20250113130000 +0000" stop="20250113160000 +0000" channel="Super Sport 2AL">
-<title>Arsenal-Man Utd</title>
-<desc>FA Cup, sezoni 2024-2025. Sfide e vlefshme per raundin e 3-te te ketij kompeticioni, nga stadiumi ”Emirates Stadium” ne Londer. Komenti: Sokol Xhihani.</desc>
-</programme>
-<programme start="20250113160000 +0000" stop="20250113170000 +0000" channel="Super Sport 2AL">
-<title>Real M, Legjenda e Bardhe</title>
-<desc>Real Madrid eshte nje klub me histori fantastike qe ka prodhuar nje ekip fitues ne cdo epoke. Asnje klub tjeter nuk e ka pasur kete nivel suksesi si kampionet e perjetshem.</desc>
-</programme>
-<programme start="20250113170000 +0000" stop="20250113190000 +0000" channel="Super Sport 2AL">
-<title>Konyaspor-Fenerbahce</title>
-<desc>Super Lig, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Buyuksehir Stadyumu” ne Konya. Komenti: Gjergji Xharo.</desc>
-</programme>
-<programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="Super Sport 2AL">
-<title>Kapitenët e Kupës së Botës</title>
-<desc>Mesi kujton Maradonën, Tiago Silva kujton betejën me tuberkulozin dhe Tajler Adams përpiqet të ndryshojë mendimin e njerëzve mbi futbollin në Amerikë.</desc>
-<episode-num system="xmltv_ns">.0.</episode-num>
-</programme>
-<programme start="20250113200000 +0000" stop="20250113220000 +0000" channel="Super Sport 2AL">
-<title>Sociedad-Villarreal Live La Liga</title>
-<desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Reale Arena” ne San Sebastian. Komenti: Elvis Rexha.</desc>
-</programme>
-<programme start="20250113220000 +0000" stop="20250113230000 +0000" channel="Super Sport 2AL">
-<title>Kapitenët e Kupës së Botës</title>
-<desc>Maja Joshida përpiqet të shkruajë historinë për Japoninë, ndërkohë që Maroku e realizon këtë.</desc>
-<episode-num system="xmltv_ns">.2.</episode-num>
+<programme start="20250116070000 +0000" stop="20250116190000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Lajmet më të fundit nga vendi dhe bota, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.</desc>
 </programme>
 <programme start="20250113230000 +0000" stop="20250114010000 +0000" channel="Super Sport 2AL">
 <title>Konyaspor-Fenerbahce</title>
@@ -45322,7 +45280,7 @@
 <desc>La Liga, sezoni 2024-2025. Sfide e vlefshme per javen e 19-te nga stadiumi ”Reale Arena” ne San Sebastian. Komenti: Elvis Rexha.</desc>
 </programme>
 <programme start="20250114030000 +0000" stop="20250114050000 +0000" channel="Super Sport 2AL">
-<title>Legjenda e bardhe</title>
+<title>Real M, Legjenda e Bardhe</title>
 <desc>Real Madrid eshte nje klub me histori fantastike qe ka prodhuar nje ekip fitues ne cdo epoke. Asnje klub tjeter nuk e ka pasur kete nivel suksesi si kampionet e perjetshem. Episodi 1-2.</desc>
 </programme>
 <programme start="20250114050000 +0000" stop="20250114070000 +0000" channel="Super Sport 2AL">
@@ -45401,13 +45359,91 @@
 <title>Highlights La Liga</title>
 <desc>Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne kampionatin spanjoll. La Liga, sezoni 2024-2025.</desc>
 </programme>
-<programme start="20250112214500 +0000" stop="20250113070000 +0000" channel="Super Sport 3AL">
-<title>Premier League Channel</title>
-<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
+<programme start="20250115034500 +0000" stop="20250115054500 +0000" channel="Super Sport 2AL">
+<title>Chelsea-Bournemouth</title>
+<desc>Premier League, sezoni 2024-2025. Sfide e vlefshme per javen e 21-te nga stadiumi ”Stamford Bridge” ne Londer. Komenti: Glenti Nallbani.</desc>
 </programme>
-<programme start="20250113070000 +0000" stop="20250113190000 +0000" channel="Super Sport 3AL">
-<title>Premier League Channel</title>
-<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
+<programme start="20250115054500 +0000" stop="20250115070000 +0000" channel="Super Sport 2AL">
+<title>Highlights Super Lig</title>
+<desc>Permbledhje e golave dhe momenteve me te mira te javes se 10-te, ne kampionatin turk. Super Lig, sezoni 2024-2025.</desc>
+</programme>
+<programme start="20250115070000 +0000" stop="20250115080000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115080000 +0000" stop="20250115090000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115090000 +0000" stop="20250115100000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115100000 +0000" stop="20250115110000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115110000 +0000" stop="20250115120000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115120000 +0000" stop="20250115130000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115130000 +0000" stop="20250115140000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115140000 +0000" stop="20250115150000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115150000 +0000" stop="20250115160000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115160000 +0000" stop="20250115170000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115170000 +0000" stop="20250115180000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115180000 +0000" stop="20250115190000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115190000 +0000" stop="20250115200000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115200000 +0000" stop="20250115210000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115210000 +0000" stop="20250115220000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115220000 +0000" stop="20250115230000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250115230000 +0000" stop="20250116000000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116000000 +0000" stop="20250116010000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116010000 +0000" stop="20250116020000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116020000 +0000" stop="20250116030000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116030000 +0000" stop="20250116040000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116040000 +0000" stop="20250116050000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116050000 +0000" stop="20250116060000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116060000 +0000" stop="20250116070000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116070000 +0000" stop="20250116080000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
+</programme>
+<programme start="20250116080000 +0000" stop="20250116090000 +0000" channel="Super Sport 2AL">
+<title>Unknown show</title>
 </programme>
 <programme start="20250114070000 +0000" stop="20250114190000 +0000" channel="Super Sport 3AL">
 <title>Premier League Channel</title>
@@ -45425,57 +45461,17 @@
 <title>Premier League Channel</title>
 <desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
-<programme start="20250112220000 +0000" stop="20250113000000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20250115070000 +0000" stop="20250115190000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
-<programme start="20250113000000 +0000" stop="20250113020000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20250115190000 +0000" stop="20250116070000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
-<programme start="20250113020000 +0000" stop="20250113040000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113040000 +0000" stop="20250113060000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113060000 +0000" stop="20250113080000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113080000 +0000" stop="20250113100000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113100000 +0000" stop="20250113120000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113120000 +0000" stop="20250113140000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113140000 +0000" stop="20250113160000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113160000 +0000" stop="20250113180000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113180000 +0000" stop="20250113200000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113200000 +0000" stop="20250113220000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20250113220000 +0000" stop="20250114000000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20250116070000 +0000" stop="20250116190000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Cdo dite programe te larmishme ne lidhje me kampionatin me te bukur ne bote, Premier League. Intervista, analiza, dokumentare dhe ndeshje historike te ketij kampionati.</desc>
 </programme>
 <programme start="20250114000000 +0000" stop="20250114020000 +0000" channel="Super Sport 4AL">
 <title>SuperSport 4 - Program Sportiv</title>
@@ -45533,13 +45529,65 @@
 <title>SuperSport 4 - Program Sportiv</title>
 <desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20250112190000 +0000" stop="20250113070000 +0000" channel="Super Sport 5AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20250115040000 +0000" stop="20250115060000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20250113070000 +0000" stop="20250113190000 +0000" channel="Super Sport 5AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20250115060000 +0000" stop="20250115080000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115100000 +0000" stop="20250115120000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115120000 +0000" stop="20250115140000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115140000 +0000" stop="20250115160000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115160000 +0000" stop="20250115180000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115180000 +0000" stop="20250115200000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115200000 +0000" stop="20250115220000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250115220000 +0000" stop="20250116000000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250116000000 +0000" stop="20250116020000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250116020000 +0000" stop="20250116040000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250116040000 +0000" stop="20250116060000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250116060000 +0000" stop="20250116080000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20250116080000 +0000" stop="20250116100000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
 <programme start="20250114070000 +0000" stop="20250114174500 +0000" channel="Super Sport 5AL">
 <title>Info</title>
@@ -45547,7 +45595,7 @@
 </programme>
 <programme start="20250114174500 +0000" stop="20250114194500 +0000" channel="Super Sport 5AL">
 <title>AZ Alkmaar-Ajax</title>
-<desc>KNVB Becker, sezoni 2024-2025. Sfide e vlefshme per fazen e 1/8-ve te kompeticionit nga stadiumi ”AFAS Stadion” ne Alkmaar. Komenti: Alban Aga.</desc>
+<desc>KNVB Cup - Shikoni ndeshjen e futbollit në të cilën AZ Alkmaar përballon Ajax.</desc>
 </programme>
 <programme start="20250114194500 +0000" stop="20250114201000 +0000" channel="Super Sport 5AL">
 <title>Info</title>
@@ -45561,57 +45609,17 @@
 <title>Info</title>
 <desc>Informacion rreth programit te Supersport.</desc>
 </programme>
-<programme start="20250112220000 +0000" stop="20250113000000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
+<programme start="20250115070000 +0000" stop="20250115190000 +0000" channel="Super Sport 5AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
 </programme>
-<programme start="20250113000000 +0000" stop="20250113020000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
+<programme start="20250115190000 +0000" stop="20250116070000 +0000" channel="Super Sport 5AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
 </programme>
-<programme start="20250113020000 +0000" stop="20250113040000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113040000 +0000" stop="20250113060000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113060000 +0000" stop="20250113080000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113080000 +0000" stop="20250113100000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113100000 +0000" stop="20250113120000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113120000 +0000" stop="20250113140000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113140000 +0000" stop="20250113160000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113160000 +0000" stop="20250113180000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113180000 +0000" stop="20250113200000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113200000 +0000" stop="20250113220000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
-</programme>
-<programme start="20250113220000 +0000" stop="20250114000000 +0000" channel="Super Sport 6AL">
-<title>SuperSport 6 - Program Sportiv</title>
-<desc>SuperSport 6 - Program Sportiv</desc>
+<programme start="20250116070000 +0000" stop="20250116190000 +0000" channel="Super Sport 5AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
 </programme>
 <programme start="20250114000000 +0000" stop="20250114020000 +0000" channel="Super Sport 6AL">
 <title>SuperSport 6 - Program Sportiv</title>
@@ -45669,13 +45677,65 @@
 <title>SuperSport 6 - Program Sportiv</title>
 <desc>SuperSport 6 - Program Sportiv</desc>
 </programme>
-<programme start="20250112190000 +0000" stop="20250113070000 +0000" channel="Super Sport 7AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20250115040000 +0000" stop="20250115060000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
 </programme>
-<programme start="20250113070000 +0000" stop="20250113190000 +0000" channel="Super Sport 7AL">
-<title>Info</title>
-<desc>Informacion rreth programit te Supersport.</desc>
+<programme start="20250115060000 +0000" stop="20250115080000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115080000 +0000" stop="20250115100000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115100000 +0000" stop="20250115120000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115120000 +0000" stop="20250115140000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115140000 +0000" stop="20250115160000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115160000 +0000" stop="20250115180000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115180000 +0000" stop="20250115200000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115200000 +0000" stop="20250115220000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250115220000 +0000" stop="20250116000000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250116000000 +0000" stop="20250116020000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250116020000 +0000" stop="20250116040000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250116040000 +0000" stop="20250116060000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250116060000 +0000" stop="20250116080000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
+</programme>
+<programme start="20250116080000 +0000" stop="20250116100000 +0000" channel="Super Sport 6AL">
+<title>SuperSport 6 - Program Sportiv</title>
+<desc>SuperSport 6 - Program Sportiv</desc>
 </programme>
 <programme start="20250113190000 +0000" stop="20250114070000 +0000" channel="Super Sport 7AL">
 <title>Info</title>
@@ -45694,6 +45754,18 @@
 <desc>Coupe de France - Shikoni ndeshjen e futbollit në të cilën Reims përballon Monaco.</desc>
 </programme>
 <programme start="20250114214500 +0000" stop="20250115070000 +0000" channel="Super Sport 7AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
+</programme>
+<programme start="20250115070000 +0000" stop="20250115190000 +0000" channel="Super Sport 7AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
+</programme>
+<programme start="20250115190000 +0000" stop="20250116070000 +0000" channel="Super Sport 7AL">
+<title>Info</title>
+<desc>Informacion rreth programit te Supersport.</desc>
+</programme>
+<programme start="20250116070000 +0000" stop="20250116190000 +0000" channel="Super Sport 7AL">
 <title>Info</title>
 <desc>Informacion rreth programit te Supersport.</desc>
 </programme>
@@ -56532,56 +56604,56 @@
 · El RCD Espanyol y su técnico, Manolo González, afrontan un partido clave: en puestos de descenso y ante un rival directo por la permanencia, los ‘Periquitos’ están obligados a ganar tras cuatro jornadas sin lograrlo. Votos: 10.
 · País: España</desc>
   </programme>
-  <programme start="20250115095000 +0100" stop="20250115102500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115095000 +0100" stop="20250115102000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
 · País: España</desc>
   </programme>
-  <programme start="20250115102500 +0100" stop="20250115105500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115102000 +0100" stop="20250115105000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Best XI T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
 · País: España</desc>
   </programme>
-  <programme start="20250115105500 +0100" stop="20250115112500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115105000 +0100" stop="20250115111200 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA ZAP Internacional T24/25 E5</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
 </desc>
   </programme>
-  <programme start="20250115112500 +0100" stop="20250115122500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115111200 +0100" stop="20250115121100 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DeportePlus+ con Juanma Castaño T24/25 · Post Final Supercopa</title>
     <desc lang="es">Deportes/Programa deportes | TP | *2.0/10
 · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño. Votos: 1.
 · País: España
 · Presenta: Juanma Castaño.</desc>
   </programme>
-  <programme start="20250115122500 +0100" stop="20250115125500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115121100 +0100" stop="20250115123900 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA World T24/25 E23</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 </desc>
   </programme>
-  <programme start="20250115125500 +0100" stop="20250115135000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115123900 +0100" stop="20250115134100 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
 · País: España</desc>
   </programme>
-  <programme start="20250115135000 +0100" stop="20250115144500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115134100 +0100" stop="20250115144300 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 22</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
 · País: España</desc>
   </programme>
-  <programme start="20250115144500 +0100" stop="20250115162500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115144300 +0100" stop="20250115162600 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Copa del Rey T24/25 · Dieciseisavos de final: Huesca - Betis</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250115162500 +0100" stop="20250115164500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115162600 +0100" stop="20250115164500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA ZAP Internacional T24/25 E5</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
@@ -56605,13 +56677,13 @@
 · Liderar su grupo de 2ªRFEF ya es un logro pero sumar eso a estar en octavos de final de Copa es casi un milagro. Los gallegos se enfrentan a un Getafe en crecimiento que viene de ganar fuera en liga y que ha recuperado a Mayoral. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250115213000 +0100" stop="20250115220000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115213000 +0100" stop="20250115220100 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Crónicas de LALIGA T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
 · País: España</desc>
   </programme>
-  <programme start="20250115220000 +0100" stop="20250115223500 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250115220100 +0100" stop="20250115223500 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
@@ -56665,13 +56737,13 @@
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 </desc>
   </programme>
-  <programme start="20250116044500 +0100" stop="20250116063000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250116044500 +0100" stop="20250116062900 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">DIRECTO Octavos de final: Pontevedra - Getafe T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Liderar su grupo de 2ªRFEF ya es un logro pero sumar eso a estar en octavos de final de Copa es casi un milagro. Los gallegos se enfrentan a un Getafe en crecimiento que viene de ganar fuera en liga y que ha recuperado a Mayoral. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250116063000 +0100" stop="20250116070000 +0100" channel="LaLiga TV 🇪🇸">
+  <programme start="20250116062900 +0100" stop="20250116070000 +0100" channel="LaLiga TV 🇪🇸">
     <title lang="es">Crónicas de LALIGA T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
@@ -58273,56 +58345,56 @@
 · El RCD Espanyol y su técnico, Manolo González, afrontan un partido clave: en puestos de descenso y ante un rival directo por la permanencia, los ‘Periquitos’ están obligados a ganar tras cuatro jornadas sin lograrlo. Votos: 10.
 · País: España</desc>
   </programme>
-  <programme start="20250115095000 +0100" stop="20250115102500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115095000 +0100" stop="20250115102000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
 · País: España</desc>
   </programme>
-  <programme start="20250115102500 +0100" stop="20250115105500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115102000 +0100" stop="20250115105000 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Best XI T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
 · País: España</desc>
   </programme>
-  <programme start="20250115105500 +0100" stop="20250115112500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115105000 +0100" stop="20250115111200 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA ZAP Internacional T24/25 E5</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
 </desc>
   </programme>
-  <programme start="20250115112500 +0100" stop="20250115122500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115111200 +0100" stop="20250115121100 +0100" channel="LaLiga TV ES">
     <title lang="es">DeportePlus+ con Juanma Castaño T24/25 · Post Final Supercopa</title>
     <desc lang="es">Deportes/Programa deportes | TP | *2.0/10
 · Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño. Votos: 1.
 · País: España
 · Presenta: Juanma Castaño.</desc>
   </programme>
-  <programme start="20250115122500 +0100" stop="20250115125500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115121100 +0100" stop="20250115123900 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA World T24/25 E23</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 </desc>
   </programme>
-  <programme start="20250115125500 +0100" stop="20250115135000 +0100" channel="LaLiga TV ES">
+  <programme start="20250115123900 +0100" stop="20250115134100 +0100" channel="LaLiga TV ES">
     <title lang="es">Programa LALIGA EA Sports T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Un compendio que resume lo mejor de la Primera División del fútbol español. Los goles y las imágenes más espectaculares de LaLiga centran la atención del programa.
 · País: España</desc>
   </programme>
-  <programme start="20250115135000 +0100" stop="20250115144500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115134100 +0100" stop="20250115144300 +0100" channel="LaLiga TV ES">
     <title lang="es">Programa LALIGA HyperMotion T24/25 · Jornada 22</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Cada semana, los 22 equipos de la Segunda División pelean en una de las categorías más igualadas del fútbol mundial. Este espacio repasa los encuentros que se disputan cada jornada.
 · País: España</desc>
   </programme>
-  <programme start="20250115144500 +0100" stop="20250115162500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115144300 +0100" stop="20250115162600 +0100" channel="LaLiga TV ES">
     <title lang="es">Copa del Rey T24/25 · Dieciseisavos de final: Huesca - Betis</title>
     <desc lang="es">Deportes/Fútbol | 2025 | TP | *8.0/10
 · El Huesca vive su mejor momento de la temporada. En plena lucha por consolidarse en puestos de playoff en liga y no pierde en casa desde septiembre. El Betis va recuperando efectivos y con eso ha mejorado su rendimiento. Votos: 13.
 · País: España</desc>
   </programme>
-  <programme start="20250115162500 +0100" stop="20250115164500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115162600 +0100" stop="20250115164500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA ZAP Internacional T24/25 E5</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Las mejores imágenes, la más curiosas, espectaculares o divertidas. Un repaso visual a todo lo que ocurre en los estadios de LaLiga.
@@ -58346,13 +58418,13 @@
 · Liderar su grupo de 2ªRFEF ya es un logro pero sumar eso a estar en octavos de final de Copa es casi un milagro. Los gallegos se enfrentan a un Getafe en crecimiento que viene de ganar fuera en liga y que ha recuperado a Mayoral. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250115213000 +0100" stop="20250115220000 +0100" channel="LaLiga TV ES">
+  <programme start="20250115213000 +0100" stop="20250115220100 +0100" channel="LaLiga TV ES">
     <title lang="es">Crónicas de LALIGA T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
 · País: España</desc>
   </programme>
-  <programme start="20250115220000 +0100" stop="20250115223500 +0100" channel="LaLiga TV ES">
+  <programme start="20250115220100 +0100" stop="20250115223500 +0100" channel="LaLiga TV ES">
     <title lang="es">LALIGA Power T24/25 E4</title>
     <desc lang="es">Deportes/Programa deportes | 2024 | TP
 · Programa que rinde homenaje a todos aquellos que inspiran al mundo.
@@ -58406,13 +58478,13 @@
 · La Liga cuenta con una nómina deslumbrante de estrellas. Este espacio repasa toda la actualidad de la competición, con resúmenes de los partidos, imágenes espectaculares, curiosidades y declaraciones de los protagonistas del campeonato.
 </desc>
   </programme>
-  <programme start="20250116044500 +0100" stop="20250116063000 +0100" channel="LaLiga TV ES">
+  <programme start="20250116044500 +0100" stop="20250116062900 +0100" channel="LaLiga TV ES">
     <title lang="es">DIRECTO Octavos de final: Pontevedra - Getafe T24/25 · Copa del Rey</title>
     <desc lang="es">Deportes/Fútbol | 2024 | TP | *10.0/10
 · Liderar su grupo de 2ªRFEF ya es un logro pero sumar eso a estar en octavos de final de Copa es casi un milagro. Los gallegos se enfrentan a un Getafe en crecimiento que viene de ganar fuera en liga y que ha recuperado a Mayoral. Votos: 1.
 · País: España</desc>
   </programme>
-  <programme start="20250116063000 +0100" stop="20250116070000 +0100" channel="LaLiga TV ES">
+  <programme start="20250116062900 +0100" stop="20250116070000 +0100" channel="LaLiga TV ES">
     <title lang="es">Crónicas de LALIGA T24/25 · Jornada 19</title>
     <desc lang="es">Deportes/Programa deportes | 2025 | TP
 · Este espacio repasa con detenimiento todo lo que acontece sobre el césped de los estadios.
@@ -59741,65 +59813,6 @@
 · Descubre semana a semana al once ideal de cada una de las jornadas de LaLiga EA Sports. Los jugadores más destacados en cada una de las posiciones del campo recibirán el reconocimiento de este programa.
 · País: España</desc>
   </programme>
-<programme start="20250112220000 +0000" stop="20250113000000 +0000" channel="Setanta Sport 1">
-<title>LaLiga</title>
-<sub-title>Sevilla _ Valencia</sub-title>
-<desc>La Liga is the mens top professional football division of the Spanish football league system. Nine teams have become champions, Real Madrid has got the title 33 times and FC Barcelona 26 times. La Liga is one of the most popular professional sports leagues in the world and the top league in Europe over the last five years.</desc>
-</programme>
-<programme start="20250113000000 +0000" stop="20250113020000 +0000" channel="Setanta Sport 1">
-<title>Ligue 1 McDonalds</title>
-<sub-title>Rennes _ Marseille</sub-title>
-<desc>Ligue 1 is the highest professional football competition in France. With the likes of Paris Saint Germain having massive world-wide appeal to numerous markets, the viewing figures for the league have soared in recent times. With the likes of Neymar, Ronaldinho, Mbappe and Weah having all plied their trade in the division, the league has become a safe haven for nurturing exceptional world talent.</desc>
-</programme>
-<programme start="20250113020000 +0000" stop="20250113040000 +0000" channel="Setanta Sport 1">
-<title>Lega Basket Serie A</title>
-<sub-title>Trapani _ Sassari</sub-title>
-<desc>The premier basketball league in Italy featuring top-tier professional teams and players.</desc>
-</programme>
-<programme start="20250113040000 +0000" stop="20250113060000 +0000" channel="Setanta Sport 1">
-<title>LaLiga</title>
-<sub-title>Espanyol _ Leganes</sub-title>
-<desc>La Liga is the mens top professional football division of the Spanish football league system. Nine teams have become champions, Real Madrid has got the title 33 times and FC Barcelona 26 times. La Liga is one of the most popular professional sports leagues in the world and the top league in Europe over the last five years.</desc>
-</programme>
-<programme start="20250113060000 +0000" stop="20250113090000 +0000" channel="Setanta Sport 1">
-<title>Tennis</title>
-<sub-title>Final</sub-title>
-</programme>
-<programme start="20250113090000 +0000" stop="20250113110000 +0000" channel="Setanta Sport 1">
-<title>Ligue 1 McDonalds</title>
-<sub-title>PSG _ Saint Etienne</sub-title>
-<desc>Ligue 1 is the highest professional football competition in France. With the likes of Paris Saint Germain having massive world-wide appeal to numerous markets, the viewing figures for the league have soared in recent times. With the likes of Neymar, Ronaldinho, Mbappe and Weah having all plied their trade in the division, the league has become a safe haven for nurturing exceptional world talent.</desc>
-</programme>
-<programme start="20250113110000 +0000" stop="20250113130000 +0000" channel="Setanta Sport 1">
-<title>Calcio</title>
-<sub-title>Napoli _ Hellas Verona</sub-title>
-<desc>Stefano Piolis AC Milan side visit the Artemio Franchi for this Serie A match with Cesare Prandellis Fiorentina.</desc>
-</programme>
-<programme start="20250113130000 +0000" stop="20250113150000 +0000" channel="Setanta Sport 1">
-<title>Calcio</title>
-<sub-title>Venezia _ Inter</sub-title>
-<desc>Stefano Piolis AC Milan side visit the Artemio Franchi for this Serie A match with Cesare Prandellis Fiorentina.</desc>
-</programme>
-<programme start="20250113150000 +0000" stop="20250113170000 +0000" channel="Setanta Sport 1">
-<title>1. Bundesliga</title>
-<sub-title>Borussia Monchengladbach _ Bayern Munich</sub-title>
-<desc>Football in the German top-flight, has become something of showpiece in recent years and it is for that reason that we have taken the opportunity to bring you all the best moments and action, from the last few rounds of Bundesliga action. Football: Bundesliga is the best place to enjoy all the game-defining moments, as if you were amongst the passionate supporters across the whole of Germany.</desc>
-</programme>
-<programme start="20250113170000 +0000" stop="20250113190000 +0000" channel="Setanta Sport 1">
-<title>The Emirates FA Cup</title>
-<sub-title>Arsenal _ Manchester United</sub-title>
-<desc>This tournament is one of best in England, in regards to competitiveness. As one of the oldest, the Football Association provides a competition that potentially matches unlikely sides from the lower tiers of English football, with the giants of the Premier League. The final is always held at the Wembley in London and has become one of the most watched spectacles, in recent memory.</desc>
-</programme>
-<programme start="20250113190000 +0000" stop="20250113200000 +0000" channel="Setanta Sport 1">
-<title>LaLiga</title>
-<sub-title>Best Of 2023/24</sub-title>
-<desc>La Liga is the mens top professional football division of the Spanish football league system. Nine teams have become champions, Real Madrid has got the title 33 times and FC Barcelona 26 times. La Liga is one of the most popular professional sports leagues in the world and the top league in Europe over the last five years.</desc>
-</programme>
-<programme start="20250113200000 +0000" stop="20250113220000 +0000" channel="Setanta Sport 1">
-<title>LaLiga</title>
-<sub-title>Real Sociedad _ Villareal</sub-title>
-<desc>La Liga is the mens top professional football division of the Spanish football league system. Nine teams have become champions, Real Madrid has got the title 33 times and FC Barcelona 26 times. La Liga is one of the most popular professional sports leagues in the world and the top league in Europe over the last five years.</desc>
-</programme>
 <programme start="20250113220000 +0000" stop="20250114010000 +0000" channel="Setanta Sport 1">
 <title>Tennis</title>
 <sub-title>Final</sub-title>
@@ -59851,6 +59864,11 @@
 <programme start="20250114173000 +0000" stop="20250114194500 +0000" channel="Setanta Sport 1">
 <title>Calcio</title>
 <sub-title>Como _ Milan</sub-title>
+<desc>Stefano Piolis AC Milan side visit the Artemio Franchi for this Serie A match with Cesare Prandellis Fiorentina.</desc>
+</programme>
+<programme start="20250114194500 +0000" stop="20250114220000 +0000" channel="Setanta Sport 1">
+<title>Calcio</title>
+<sub-title>Atalanta _ Juventus</sub-title>
 <desc>Stefano Piolis AC Milan side visit the Artemio Franchi for this Serie A match with Cesare Prandellis Fiorentina.</desc>
 </programme>
 </tv>
