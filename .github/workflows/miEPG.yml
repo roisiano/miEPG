@@ -5,9 +5,11 @@ on:
     - cron: '55 5 * * *'  # Ejecuta a las 5:55 AM cada día.
     - cron: '55 13 * * *' # Ejecuta a la 1:55 PM cada día.
     - cron: '55 18 * * *' # Ejecuta a las 6:55 PM cada día.
-  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+  workflow_dispatch:  # Permite ejecutar manualmente el flujo de trabajo.
+
 permissions:
-   contents: write
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,12 +31,16 @@ jobs:
         git config user.email "actions@github.com"
 
     - name: Hacer pull de los cambios remotos
-      run: git pull origin main
-        
-    - name: Subir archivos 
+      run: git pull --ff-only origin main
+
+    - name: Subir archivos si hay cambios
       run: |
         git add .
-        git commit -m "Nuevo miEPG.xml"
-        git push
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "Nuevo miEPG.xml"
+          git push
+        else
+          echo "No hay cambios para subir."
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
