@@ -1,0 +1,45 @@
+name: Update EPG File CRO2.xml
+
+on:
+  schedule:
+    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
+    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Remove existing CRO2.xml
+      run: |
+        rm -f ./CRO2.xml
+        git rm --ignore-unmatch CRO2.xml
+
+    - name: Download the new EPG file
+      run: |
+        wget https://www.open-epg.com/files/croatia4.xml.gz
+    - name: Decompress the new EPG file 
+      run: |
+        gunzip croatia4.xml.gz
+    - name: Format the EPG file
+      run: |
+        sed -i 's/<title/\n<title/g' croatia4.xml
+        sed -i 's/<sub/\n<sub/g' croatia4.xml
+        sed -i 's/<desc/\n<desc/g' croatia4.xml
+        sed -i 's/<episode/\n<episode/g' croatia4.xml
+        sed -i 's/<\/programme>/\n<\/programme>/g' croatia4.xml
+    - name: Save the formatted file as CRO2.xml
+      run: |
+        mv croatia4.xml ./CRO2.xml
+    - name: Commit and force-push the changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "GitHub Actions"
+        git add CRO2.xml
+        git commit -m "Update EPG file" --allow-empty
+        git push origin main --force
