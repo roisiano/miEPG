@@ -393,6 +393,9 @@
 	<channel id="La8CYL.TV">
 		<display-name>La8CYL.TV</display-name>
 	</channel>
+	<channel id="La8CYL_Burgos.TV">
+		<display-name>La8CYL_Burgos.TV</display-name>
+	</channel>
 	<channel id="Betis.TV">
 		<display-name>Betis.TV</display-name>
 	</channel>
@@ -50134,6 +50137,312 @@
 		<title>CyLTV Noticias</title>
 		<desc>El repaso a la actualidad de la jornada en CyLTV.</desc>
 		<icon src="https://programacion-tv.elpais.com/imagenes/programas/3524872.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250202230000 +0000" stop="20250202232000 +0000">
+		<title>Especial Madrid Fusión</title>
+		<desc>Retransmisión de una de las ferias gastronómicas más importantes del mundo y que se celebra en Madrid.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250202232000 +0000" stop="20250203000000 +0000">
+		<title>El Diagnóstico</title>
+		<desc>Espacio de salud con un formato divulgativo y de servicio público, con rigor y aportaciones profesionales de los ámbitos más diversos. El programa realizará un verdadero diagnóstico desde el punto de vista de la salud.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/086/346/el-diagnostico-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203000000 +0000" stop="20250203055000 +0000">
+		<title>Espacios comerciales</title>
+		<desc>Espacio destinado a la promoción de productos de venta telefónica.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/001/106/espacios-comerciales-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203055000 +0000" stop="20250203072500 +0000">
+		<title>Con la música a todas partes</title>
+		<desc>Espacio que radiografía originales maneras de hacer y sentir la música en Castilla y León.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/004/436/con-la-musica-a-todas-partes-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203072500 +0000" stop="20250203081500 +0000">
+		<title>Piedra sobre Piedra</title>
+		<desc>Sergio G. Saseta mostrará el arte, las tradiciones, la cultura y la historia pero, sobre todo, los edificios religiosos más singulares de toda la geografía de la Comunidad de Castilla y León.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/107/519/piedra-sobre-piedra-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203081500 +0000" stop="20250203090500 +0000">
+		<title>Espacio abierto</title>
+		<desc>Programa de debate y análisis de la actualidad política, social y económica desde la perspectiva de Castilla y León, presentado por la directora de los Servicios Informativos de CyLTV, Marisa Vázquez. Es un foro de encuentro y opinión de voces autorizadas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/195/espacio-abierto-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203090500 +0000" stop="20250203093500 +0000">
+		<title>Agro en acción</title>
+		<desc>Programa sobre maquinaria agrícola que muestra desde los últimos vehículos lanzados al mercado a innovaciones dentro del sector. El espacio aúna motor y tecnología, informa sobre ferias y ofrece secciones dedicadas a mostrar la maquinaria antigua.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/044/076/agro-en-accion-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203093500 +0000" stop="20250203102300 +0000">
+		<title>Uepa! Un escenario para amar</title>
+		<desc>Lule es una chica joven que a raíz de la muerte de sus padres, debe hacerse cargo de la familia. Para poder seguir manteniendo la economía familiar y que su hermana pueda seguir estudiando en un prestigioso internado exclusivo, decide comenzar a trabajar como bailarina en el bar "El Pink". Sin embargo, ante ojos de su hermana y de las personas más allegadas, simulará que es una prestigiosa psicóloga.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/capitulos/000/241/156/uepa-un-escenario-para-amar-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203102300 +0000" stop="20250203123000 +0000">
+		<title>8 Magazine Resumen de la semana</title>
+		<desc>Programa resumen de actualidad y entretenimiento.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203123000 +0000" stop="20250203130000 +0000">
+		<title>Paseos por Burgos</title>
+		<desc>Programa que invita a conocer distintos rincones de la provincia de Burgos, con entrevistas a sus gentes y reportajes a pie de calle. El espacio muestra la geografía, las tradiciones, la cultura y la sociedad de la provincia burgalesa.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/002/932/paseos-por-burgos-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203130000 +0000" stop="20250203133000 +0000">
+		<title>Noticias 8 Burgos 1ª Edición</title>
+		<desc>Primera edición de los servicios informativos de La 8 Burgos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203133000 +0000" stop="20250203141000 +0000">
+		<title>CyLTV Noticias (I)</title>
+		<desc>Edición del mediodía del informativo que se hace eco de las noticias más destacadas del día en la Comunidad de Castilla y León y en el resto de España y el mundo. Antonio Renedo y María Núñez son los encargados de conducir esta edición.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/007/193/cyltv-noticias-i-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203141000 +0000" stop="20250203142500 +0000">
+		<title>El tiempo</title>
+		<desc>Espacio que ofrece la información meteorológica más detallada de Castilla y León. El programa muestra también los datos registrados durante el día en la península y las previsiones para las siguientes horas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/190/el-tiempo-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203142500 +0000" stop="20250203143000 +0000">
+		<title>El campo al día</title>
+		<desc>Cristina Carro y Gonzalo Castro conducen este espacio informativo de actualidad rural. El programa ofrece la última hora del ámbito agrícola y ganadero.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/098/788/el-campo-al-dia-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203143000 +0000" stop="20250203150000 +0000">
+		<title>Noticias 8 Burgos 1ª Edición</title>
+		<desc>Primera edición de los servicios informativos de La 8 Burgos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203150000 +0000" stop="20250203153000 +0000">
+		<title>Minisapiens</title>
+		<desc>Programa infantil de preguntas y respuestas.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203153000 +0000" stop="20250203170500 +0000">
+		<title>No sólo Fútbol</title>
+		<desc>Espacio que ofrece toda la información deportiva de la jornada, con retransmisiones en directo de los principales acontecimientos de diferentes especialidades. Además, se emitirán reportajes de actualidad en los que se incluirán noticias de interés para los burgaleses.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/012/768/no-solo-futbol-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203170500 +0000" stop="20250203174000 +0000">
+		<title>CyLTV Noticias (I)</title>
+		<desc>Edición del mediodía del informativo que se hace eco de las noticias más destacadas del día en la Comunidad de Castilla y León y en el resto de España y el mundo. Antonio Renedo y María Núñez son los encargados de conducir esta edición.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/007/193/cyltv-noticias-i-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203174000 +0000" stop="20250203174500 +0000">
+		<title>El tiempo</title>
+		<desc>Espacio que ofrece la información meteorológica más detallada de Castilla y León. El programa muestra también los datos registrados durante el día en la península y las previsiones para las siguientes horas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/190/el-tiempo-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203174500 +0000" stop="20250203183500 +0000">
+		<title>El arcón</title>
+		<desc>Programa de Televisión Castilla y León que incluye noticias, reportajes y entrevistas sobre agroalimentación, vino y turismo de la región. El espacio, presentado por uno de los más reconocidos periodistas del sector, Javier Pérez Andrés, tiene numerosos premios.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/001/077/el-arcon-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203183500 +0000" stop="20250203190000 +0000">
+		<title>El Diagnóstico</title>
+		<desc>Espacio de salud con un formato divulgativo y de servicio público, con rigor y aportaciones profesionales de los ámbitos más diversos. El programa realizará un verdadero diagnóstico desde el punto de vista de la salud.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/086/346/el-diagnostico-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203190000 +0000" stop="20250203194000 +0000">
+		<title>CyLTV Noticias (II)</title>
+		<desc>Edición vespertina del informativo de Castilla y León que recoge las noticias más destacadas que han tenido lugar a lo largo de la jornada. Inma Mansilla es la encargada de conducir esta edición.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/006/422/cyltv-noticias-ii-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203194000 +0000" stop="20250203200000 +0000">
+		<title>El tiempo</title>
+		<desc>Espacio que ofrece la información meteorológica más detallada de Castilla y León. El programa muestra también los datos registrados durante el día en la península y las previsiones para las siguientes horas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/190/el-tiempo-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203200000 +0000" stop="20250203203500 +0000">
+		<title>Noticias 8 Burgos 2ª Edición</title>
+		<desc>Segunda edición del informativo de La 8 Burgos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203203500 +0000" stop="20250203210000 +0000">
+		<title>Minisapiens</title>
+		<desc>Programa infantil de preguntas y respuestas.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203210000 +0000" stop="20250203223000 +0000">
+		<title>No sólo Fútbol</title>
+		<desc>Espacio que ofrece toda la información deportiva de la jornada, con retransmisiones en directo de los principales acontecimientos de diferentes especialidades. Además, se emitirán reportajes de actualidad en los que se incluirán noticias de interés para los burgaleses.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/012/768/no-solo-futbol-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203223000 +0000" stop="20250203230000 +0000">
+		<title>Noticias 8 Burgos. Último Análisis</title>
+		<desc>Último informativo de la jornada de la mano de Rafa Rioja.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203230000 +0000" stop="20250203230500 +0000">
+		<title>Noticias 8 Burgos. Último Análisis</title>
+		<desc>Último informativo de la jornada de la mano de Rafa Rioja.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203230500 +0000" stop="20250203232000 +0000">
+		<title>Magazine local</title>
+		<desc>Espacios informativos y de entretenimiento sobre las noticias, acontecimientos y curiosidades de cada ciudad y provincia de Castilla y León.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250203232000 +0000" stop="20250204060000 +0000">
+		<title>Espacios comerciales</title>
+		<desc>Espacio destinado a la promoción de productos de venta telefónica.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/001/106/espacios-comerciales-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204060000 +0000" stop="20250204071000 +0000">
+		<title>Cuestión de prioridades</title>
+		<desc>El periodista José Luis Martín conduce este espacio de análisis de la actualidad más reciente. El programa incluye entrevistas y la presencia de diferentes expertos en la materia a tratar.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/083/657/cuestion-de-prioridades-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204071000 +0000" stop="20250204080500 +0000">
+		<title>Naturaleza viva</title>
+		<desc>Programa dedicado al mundo de las plantas y arbustos, capitaneado por Roberto Arias.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204080500 +0000" stop="20250204093000 +0000">
+		<title>El programa de Cristina</title>
+		<desc>Música, cine, viajes, gastronomía, moda, decoración, salud, estilo de vida... Los temas que interesan y preocupan a los ciudadanos son los protagonistas de este magacín en directo. Un programa renovado, entretenido, práctico y que no deja de sorprender.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/112/107/el-programa-de-cristina-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204093000 +0000" stop="20250204102300 +0000">
+		<title>Conan, el aventurero</title>
+		<desc>Conan, en compañía de sus fieles guerreros Otli, Bayu y Zzeban, luchará para liberar su reino, Cimeria, de las manos de una temible hechicera. En su camino se encontrará con la bella y fiera reina de los bandidos, Karella, eterna compañera y enemiga. Serie fantástica para toda la familia ambientada en un mundo de brujería y criaturas amenazadoras, que adapta para la pequeña pantalla el famoso personaje literario de Conan creado por Robert E. Howa.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/capitulos/000/202/769/conan-el-aventurero-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204102300 +0000" stop="20250204105300 +0000">
+		<title>Noticias 8 Burgos. Último Análisis</title>
+		<desc>Último informativo de la jornada de la mano de Rafa Rioja.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204105300 +0000" stop="20250204113000 +0000">
+		<title>Paseos por Burgos</title>
+		<desc>Programa que invita a conocer distintos rincones de la provincia de Burgos, con entrevistas a sus gentes y reportajes a pie de calle. El espacio muestra la geografía, las tradiciones, la cultura y la sociedad de la provincia burgalesa.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/002/932/paseos-por-burgos-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204113000 +0000" stop="20250204130000 +0000">
+		<title>No sólo Fútbol</title>
+		<desc>Espacio que ofrece toda la información deportiva de la jornada, con retransmisiones en directo de los principales acontecimientos de diferentes especialidades. Además, se emitirán reportajes de actualidad en los que se incluirán noticias de interés para los burgaleses.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/012/768/no-solo-futbol-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204130000 +0000" stop="20250204133000 +0000">
+		<title>Noticias 8 Burgos 1ª Edición</title>
+		<desc>Primera edición de los servicios informativos de La 8 Burgos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204133000 +0000" stop="20250204141000 +0000">
+		<title>CyLTV Noticias (I)</title>
+		<desc>Edición del mediodía del informativo que se hace eco de las noticias más destacadas del día en la Comunidad de Castilla y León y en el resto de España y el mundo. Antonio Renedo y María Núñez son los encargados de conducir esta edición.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/007/193/cyltv-noticias-i-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204141000 +0000" stop="20250204142500 +0000">
+		<title>El tiempo</title>
+		<desc>Espacio que ofrece la información meteorológica más detallada de Castilla y León. El programa muestra también los datos registrados durante el día en la península y las previsiones para las siguientes horas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/190/el-tiempo-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204142500 +0000" stop="20250204143000 +0000">
+		<title>El campo al día</title>
+		<desc>Cristina Carro y Gonzalo Castro conducen este espacio informativo de actualidad rural. El programa ofrece la última hora del ámbito agrícola y ganadero.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/098/788/el-campo-al-dia-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204143000 +0000" stop="20250204150000 +0000">
+		<title>Noticias 8 Burgos 1ª Edición</title>
+		<desc>Primera edición de los servicios informativos de La 8 Burgos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204150000 +0000" stop="20250204170500 +0000">
+		<title>8 Magazine Burgos</title>
+		<desc>Programa de actualidad y entretenimiento de la mano de Sandra Martínez. Conexiones en directo, última hora, entrevistas, reportajes, moda, decoración, deporte y viajes son algunos de los temas que cada tarde ofrece este este espacio diario.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/002/935/8-magazine-burgos-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204170500 +0000" stop="20250204174000 +0000">
+		<title>CyLTV Noticias (I)</title>
+		<desc>Edición del mediodía del informativo que se hace eco de las noticias más destacadas del día en la Comunidad de Castilla y León y en el resto de España y el mundo. Antonio Renedo y María Núñez son los encargados de conducir esta edición.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/007/193/cyltv-noticias-i-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204174000 +0000" stop="20250204175000 +0000">
+		<title>El tiempo</title>
+		<desc>Espacio que ofrece la información meteorológica más detallada de Castilla y León. El programa muestra también los datos registrados durante el día en la península y las previsiones para las siguientes horas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/190/el-tiempo-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204175000 +0000" stop="20250204181500 +0000">
+		<title>Parques naturales</title>
+		<desc>Espacio que pone en valor el patrimonio natural de Castilla y León. Con Sergio G. Saseta.</desc>
+		<icon src="https:https://s1.abcstatics.com/media/programas/000/086/497/parques-naturales-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204181500 +0000" stop="20250204190000 +0000">
+		<title>Uepa! Un escenario para amar</title>
+		<desc>Lule es una chica joven que a raíz de la muerte de sus padres, debe hacerse cargo de la familia. Para poder seguir manteniendo la economía familiar y que su hermana pueda seguir estudiando en un prestigioso internado exclusivo, decide comenzar a trabajar como bailarina en el bar "El Pink". Sin embargo, ante ojos de su hermana y de las personas más allegadas, simulará que es una prestigiosa psicóloga.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/capitulos/000/241/156/uepa-un-escenario-para-amar-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204190000 +0000" stop="20250204194000 +0000">
+		<title>CyLTV Noticias (II)</title>
+		<desc>Edición vespertina del informativo de Castilla y León que recoge las noticias más destacadas que han tenido lugar a lo largo de la jornada. Inma Mansilla es la encargada de conducir esta edición.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/006/422/cyltv-noticias-ii-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204194000 +0000" stop="20250204200000 +0000">
+		<title>El tiempo</title>
+		<desc>Espacio que ofrece la información meteorológica más detallada de Castilla y León. El programa muestra también los datos registrados durante el día en la península y las previsiones para las siguientes horas.</desc>
+		<icon src="https:https://s2.abcstatics.com/media/programas/000/007/190/el-tiempo-1.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204200000 +0000" stop="20250204203000 +0000">
+		<title>Noticias 8 Burgos 2ª Edición</title>
+		<desc>Segunda edición del informativo de La 8 Burgos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="La8CYL_Burgos.TV" start="20250204203000 +0000" stop="20250204223000 +0000">
+		<title>8 Magazine Burgos</title>
+		<desc>Programa de actualidad y entretenimiento de la mano de Sandra Martínez. Conexiones en directo, última hora, entrevistas, reportajes, moda, decoración, deporte y viajes son algunos de los temas que cada tarde ofrece este este espacio diario.</desc>
+		<icon src="https:https://s3.abcstatics.com/media/programas/000/002/935/8-magazine-burgos-1.jpg"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Betis.TV" start="20250203030000 +0000" stop="20250203030000 +0000">
