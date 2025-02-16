@@ -411,6 +411,9 @@
 	<channel id="BOM.TV">
 		<display-name>BOM.TV</display-name>
 	</channel>
+	<channel id="TVE_INTER.TV">
+		<display-name>TVE_INTER.TV</display-name>
+	</channel>
 	<programme channel="La1.TV" start="20250215230500 +0000" stop="20250216011500 +0000">
 		<title>Come, reza, ama</title>
 		<desc>En plena encrucijada tras su divorcio, Liz Gilbert decide tomarse un largo año sabático y escapar de su confortable rutina, arriesgándolo todo para cambiar su vida por completo. En sus maravillosos y exóticos viajes, experimenta el simple placer de comer en Italia, el poder de la oración en la India y, finalmente, de forma inesperada, la paz interior y el equilibrio del amor en Bali.  Basada en las memorias de Elizabeth Gilbert, "Come, reza, ama" es un drama romántico dirigido y coescrito (junto a Jennifer Salt) por Ryan Murphy y protagonizado por Julia Roberts, a la que acompañan James Franco y el español Javier Bardem.   Todo un éxito de ventas a escala mundial, el libro homónimo de Gilbert -descrito por la autora como "una búsqueda de todo"- ha sido traducido a más de 40 idiomas.</desc>
@@ -49374,6 +49377,372 @@ Hoy, los santuarios japoneses, una cena benéfica y unas tazas con amor, entre l
 	<programme channel="BOM.TV" start="20250217223900 +0000" stop="20250218001100 +0000">
 		<title>La máscara del ninja</title>
 		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250215231000 +0000" stop="20250215233500 +0000">
+		<title>Version Española</title>
+		<desc>Cayetana Guillén Cuervo presenta la película de Versión española y un coloquio sobre la misma.</desc>
+		<icon src="https://img2.rtve.es/v/6141759?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250215233500 +0000" stop="20250216003000 +0000">
+		<title>Dias De Cine</title>
+		<desc>Centenario de Amparo Rivelles ATTACK OF THE TITAN, LA TUTORÍA, VERMIGLIO, CAPITÁN AMÉRICA BRAVE NEW WORLD y BRIDGET JONES: LOCA POR ÉL.</desc>
+		<icon src="https://img2.rtve.es/v/16451417?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216003000 +0000" stop="20250216010000 +0000">
+		<title>Atencion Obras</title>
+		<desc>Magazine cultural sobre las más diversas manifestaciones artísticas conducido por Cayetana Guillén Cuervo.</desc>
+		<icon src="https://img2.rtve.es/v/16451244?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216010000 +0000" stop="20250216012500 +0000">
+		<title>Repor</title>
+		<desc>Programa de reportajes que aborda contenidos sociales, de denuncia o retratos y situacones de la vida cotidiana.</desc>
+		<icon src="https://img2.rtve.es/p/1706?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216012500 +0000" stop="20250216021500 +0000">
+		<title>Tendido Cero</title>
+		<desc>Feria madrileña de Valdemorillo. Festejos en México, León y Huamantla. Premio Nacional de Tauromaquia.</desc>
+		<icon src="https://img2.rtve.es/p/1728?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216021500 +0000" stop="20250216050000 +0000">
+		<title>Noticias 24 H</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216050000 +0000" stop="20250216060000 +0000">
+		<title>Noticias 24 H</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216060000 +0000" stop="20250216061500 +0000">
+		<title>Buenas Noticias Tv</title>
+		<desc>Programa de culto evangélico.</desc>
+		<icon src="https://img2.rtve.es/p/1549?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216061500 +0000" stop="20250216063000 +0000">
+		<title>Shalom</title>
+		<desc>Programa para la difusión de la cultura y religión hebreas.</desc>
+		<icon src="https://img2.rtve.es/p/1712?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216063000 +0000" stop="20250216064500 +0000">
+		<title>Medina En Tve</title>
+		<desc>Programa para la difusión de la religión y cultura islámicas.</desc>
+		<icon src="https://img2.rtve.es/p/95430?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216064500 +0000" stop="20250216071000 +0000">
+		<title>Últimas Preguntas</title>
+		<desc>Programa de difusión de la fe católica con reportajes y entrevistas en plató.</desc>
+		<icon src="https://img2.rtve.es/p/1739?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216071000 +0000" stop="20250216071500 +0000">
+		<title>Testimonio</title>
+		<desc>Reportajes testimonio de la fe católica.</desc>
+		<icon src="https://img2.rtve.es/p/1730?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216071500 +0000" stop="20250216074000 +0000">
+		<title>Pueblo De Dios</title>
+		<desc>Documentales y reportajes sobre la vocación misionera de la Iglesia.</desc>
+		<icon src="https://img2.rtve.es/p/1702?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216074000 +0000" stop="20250216075500 +0000">
+		<title>Zoom Tendencias</title>
+		<desc>ZOOM TENDENCIAS  viaja cada semana por diferentes rincones de España, mostrándonos innovadoras propuestas gastronómicas y hoteleras.</desc>
+		<icon src="https://img2.rtve.es/v/16395484?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216075500 +0000" stop="20250216082000 +0000">
+		<title>El Escarabajo Verde</title>
+		<desc>Reportaje sobre la riqueza de la Reserva de Interés Pesquero Cabo de Palos-Islas Hormigas.</desc>
+		<icon src="https://img2.rtve.es/v/16304030?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216082000 +0000" stop="20250216085500 +0000">
+		<title>Lugares Con Encanto De Canarias</title>
+		<desc>En este documental visitaremos Los Realejos, La Gomera y Fuerteventura, conoceremos parte de su historia, las zonas mas turísticas y emblemáticas.</desc>
+		<icon src="https://img2.rtve.es/v/6955764?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216085500 +0000" stop="20250216092500 +0000">
+		<title>Un Pais Para Leerlo (Último Capítulo)</title>
+		<desc>Un país para leerlo viaja esta semana a Alcalá de Guadaíra para charlar con autores como Lara Moreno o Irene Reyes-Noguerol.</desc>
+		<icon src="https://img2.rtve.es/v/16451359?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216092500 +0000" stop="20250216095500 +0000">
+		<title>De Seda Y Hierro</title>
+		<desc>Abordaremos la esclerosis múltiple y la diabetes como enfermedades invisibles y silenciosas.</desc>
+		<icon src="https://img2.rtve.es/v/7009578?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216095500 +0000" stop="20250216103000 +0000">
+		<title>Saber Vivir</title>
+		<desc>Programa divulgativo en el que se abordan hábitos saludables para prevenir enfermedades.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216103000 +0000" stop="20250216112500 +0000">
+		<title>Un Pais Magico</title>
+		<desc>Burgos es hoy nuestra ciudad mágica.</desc>
+		<icon src="https://img2.rtve.es/v/5031078?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216112500 +0000" stop="20250216115500 +0000">
+		<title>Beatus Ille</title>
+		<desc>Beatus Ille se adentra en Ascaso, una pequeña aldea del Pirineo aragonés, para conocer la muestra de cine más pequeña del mundo.</desc>
+		<icon src="https://img2.rtve.es/v/16372590?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216115500 +0000" stop="20250216122000 +0000">
+		<title>Flash Moda</title>
+		<desc>Programa divulgativo sobre el mundo de la moda.</desc>
+		<icon src="https://img2.rtve.es/p/56811?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216122000 +0000" stop="20250216125500 +0000">
+		<title>Cifras Y Letras</title>
+		<desc>En este programa de `Cifras y Letras', Miguel y Arturo se enfrentaron por llegar a la final y hacerse con el bote del programa.</desc>
+		<icon src="https://img2.rtve.es/v/16106961?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216125500 +0000" stop="20250216140000 +0000">
+		<title>D Corazon</title>
+		<desc>Magazine en directo, en donde hacemos un repaso a toda la actualidad social de nuestro país.</desc>
+		<icon src="https://img2.rtve.es/p/1568?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216140000 +0000" stop="20250216145500 +0000">
+		<title>Telediario 1</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216145500 +0000" stop="20250216150000 +0000">
+		<title>Deportes 1</title>
+		<desc>Actualidad deportiva diaria nacional e internacional.</desc>
+		<icon src="https://img2.rtve.es/p/1000976?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216150000 +0000" stop="20250216154500 +0000">
+		<title>Saber Y Ganar Fin De Semana</title>
+		<desc>Programa concurso.</desc>
+		<icon src="https://img2.rtve.es/p/1710?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216154500 +0000" stop="20250216164000 +0000">
+		<title>Españoles En El Mundo</title>
+		<desc>Los españoles que están viviendo en diversos lugares del mundo nos enseñan su entorno y como se desarrolla su día a día.</desc>
+		<icon src="https://img2.rtve.es/v/6131048?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216164000 +0000" stop="20250216174000 +0000">
+		<title>Españoles En El Mundo</title>
+		<desc>Los españoles que están viviendo en diversos lugares del mundo nos enseñan su entorno y como se desarrolla su día a día.</desc>
+		<icon src="https://img2.rtve.es/p/30610?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216174000 +0000" stop="20250216175500 +0000">
+		<title>Cine De Barrio</title>
+		<desc>Emitimos "A 45 revoluciones por minuto", una película musical dirigida por Pedro Lazaga en 1969 y protagonizada por Juan Pardo.</desc>
+		<icon src="https://img2.rtve.es/p/1559?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216175500 +0000" stop="20250216193000 +0000">
+		<title>A 45 Revoluciones Por Minuto</title>
+		<desc>Juan Pardo, un joven campesino viaja a Madrid para realizar su anhelado sueño de ser una gran estrella de la música "pop".</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216193000 +0000" stop="20250216200000 +0000">
+		<title>Aqui La Tierra</title>
+		<desc>Magacine de naturaleza e información meteorológica.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216200000 +0000" stop="20250216205500 +0000">
+		<title>Telediario 2</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216205500 +0000" stop="20250216210000 +0000">
+		<title>Deportes 2</title>
+		<desc>Actualidad deportiva diaria nacional e internacional.</desc>
+		<icon src="https://img2.rtve.es/p/1000976?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216210000 +0000" stop="20250216221000 +0000">
+		<title>La Ruta Morancos (Estreno)</title>
+		<desc>Los Morancos ponen rumbo a Santiago en una ruta para agradecer al público el cariño recibido a lo largo de su carrera y para que César pierda peso.</desc>
+		<icon src="https://img2.rtve.es/v/16243203?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216221000 +0000" stop="20250216230700 +0000">
+		<title>Comando Actualidad</title>
+		<desc>Algunos de los edificios y paisajes catalogados como los más feos de España.</desc>
+		<icon src="https://img2.rtve.es/v/16441485?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250216230700 +0000" stop="20250217000000 +0000">
+		<title>Comando Actualidad</title>
+		<desc>La producción de alimentos básicos como el aceite de oliva, la leche, la carne de pollo o de ternera está en peligro.</desc>
+		<icon src="https://img2.rtve.es/v/6755484?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217000000 +0000" stop="20250217010000 +0000">
+		<title>Imprescindibles</title>
+		<desc>Documental biogfráfico sobre la actriz Blanca Portillo y su proceso creativo.</desc>
+		<icon src="https://img2.rtve.es/v/7011640?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217010000 +0000" stop="20250217013000 +0000">
+		<title>Plano General</title>
+		<desc>"El flamenco es cultura y lo más grande.</desc>
+		<icon src="https://img2.rtve.es/v/16431660?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217013000 +0000" stop="20250217022000 +0000">
+		<title>La Vuelta A La España Digital</title>
+		<desc>Carlota Bruna rdescubre cómo la tecnología ayuda a prevenir incendios, impulsar la reforestación y fomentar la movilidad sostenible.</desc>
+		<icon src="https://img2.rtve.es/v/16403981?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217022000 +0000" stop="20250217024500 +0000">
+		<title>Metropolis</title>
+		<desc>Capítulo dedicado a la obra de la videoartista leonesa Lisi Prada (Villalibre de la Jurisdicción, León, 1956) partiendo de la muestra antológica ".</desc>
+		<icon src="https://img2.rtve.es/v/16444648?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217024500 +0000" stop="20250217030000 +0000">
+		<title>Zoom Net</title>
+		<desc>Redifusiones de 15' del programa "Zoom Net", programa dedicado a la innovación y tendencias tecnológicas.</desc>
+		<icon src="https://img2.rtve.es/p/1747?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217030000 +0000" stop="20250217043000 +0000">
+		<title>Noticias 24 H</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217043000 +0000" stop="20250217053000 +0000">
+		<title>La Aventura Del Saber</title>
+		<desc>Descubrimos el proceso creativo de María Pagés y explicamos qué es el sharenting. También, conocemos  un proyecto para preservar el roque de campanas.</desc>
+		<icon src="https://img2.rtve.es/p/1637?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217053000 +0000" stop="20250217065000 +0000">
+		<title>Telediario Matinal</title>
+		<desc>Espacio de información diaria con noticias nacionales e internacionales.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217065000 +0000" stop="20250217094000 +0000">
+		<title>La Hora De La 1</title>
+		<desc>"La hora de la 1" es un programa magacine, en el que se aborda la actualidad política y social.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217094000 +0000" stop="20250217131000 +0000">
+		<title>Mañaneros</title>
+		<desc>Mañaneros es el nuevo magacine de TVE, un programa matinal de entretenimiento que recoge, con rigor y en tiempo real, la actualidad.</desc>
+		<icon src="https://img2.rtve.es/p/175650?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217131000 +0000" stop="20250217140000 +0000">
+		<title>Extra  Mañaneros</title>
+		<desc>Extra Mañaneros es el nuevo magacine de TVE, un programa matinal de entretenimiento que recoge, con rigor y en tiempo real, la actualidad.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217140000 +0000" stop="20250217144000 +0000">
+		<title>Telediario 1</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217144000 +0000" stop="20250217144500 +0000">
+		<title>Deportes 1</title>
+		<desc>Actualidad deportiva diaria nacional e internacional.</desc>
+		<icon src="https://img2.rtve.es/p/1000976?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217144500 +0000" stop="20250217153000 +0000">
+		<title>Saber Y Ganar</title>
+		<desc>Programa concurso.</desc>
+		<icon src="https://img2.rtve.es/p/1710?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217153000 +0000" stop="20250217163000 +0000">
+		<title>Salón De Té La Moderna</title>
+		<desc>don Fermín le preguntará a Maruja si tiene alguna prueba con respecto a esa supuesta conexión entre Emiliano y Lázara.</desc>
+		<icon src="https://img2.rtve.es/v/16427453?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217163000 +0000" stop="20250217173000 +0000">
+		<title>La Promesa</title>
+		<desc>Curro se marcha en busca de la Ramona para que responda a todas las preguntas sobre el pasado de sus padres.</desc>
+		<icon src="https://img2.rtve.es/v/16445123?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217173000 +0000" stop="20250217182500 +0000">
+		<title>Valle Salvaje</title>
+		<desc>El parto de Luisa da comienzo y Adriana e Isabel ejercerán de parteras junto a alguien totalmente inesperado.</desc>
+		<icon src="https://img2.rtve.es/v/16446737?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217182500 +0000" stop="20250217193000 +0000">
+		<title>El Cazador</title>
+		<desc>El Cazador, un formato en el que cuatro concursantes anónimos unen sus conocimientos para ganar al cazador, un auténtico profesional de los concursos.</desc>
+		<icon src="https://img2.rtve.es/v/16444409?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217193000 +0000" stop="20250217200000 +0000">
+		<title>Aqui La Tierra</title>
+		<desc>Magacine de naturaleza e información meteorológica.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217200000 +0000" stop="20250217203500 +0000">
+		<title>Telediario 2</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217203500 +0000" stop="20250217204000 +0000">
+		<title>Deportes 2</title>
+		<desc>Actualidad deportiva diaria nacional e internacional.</desc>
+		<icon src="https://img2.rtve.es/p/1000976?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217204000 +0000" stop="20250217215000 +0000">
+		<title>La Revuelta</title>
+		<desc>Un grupo de grandes cómicos y cómicas acompañan a David Broncano, que entrevista a gente famosa en un teatro del centro de Madrid Acces de lunes a jue.</desc>
+		<icon src="https://img2.rtve.es/p/1000646?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217215000 +0000" stop="20250217224500 +0000">
+		<title>España El Siglo Xx  En Color</title>
+		<desc>Los años 60 empiezan con una España que cambia de piel. La llegada del turismo permite un desarrollo económico sin precedentes.</desc>
+		<icon src="https://img2.rtve.es/v/6762533?w=100"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVE_INTER.TV" start="20250217224500 +0000" stop="20250217235500 +0000">
+		<title>Documental</title>
+		<desc>Otto Skorzeny, el soldado de acción favorito de Hitler considerado en su momento ¿El hombre más peligroso de Europa?</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
