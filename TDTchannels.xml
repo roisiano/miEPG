@@ -20508,12 +20508,6 @@
 		<icon src="https://www.movistarplus.es/recorte/n/caratula5/METB1P3484277"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="ETB1.TV" start="20250316045500 +0000" stop="20250316045500 +0000">
-		<title>Mihiluze</title>
-		<desc>Presentado por Kike Amonarriz y Ilaski Serrano, ''Mihiluze'' es un concurso que tiene como objetivo dar con los tres concursantes más parlanchines, divertidos y salseros. El espacio es un compendio de pruebas divertidas y teorías interesantes sobre los vascos.</desc>
-		<icon src="https://www.movistarplus.es/recorte/n/caratula5/METB1P3484277"/>
-		<category>Desconocido</category>
-	</programme>
 	<programme channel="ETB1.TV" start="20250316045500 +0000" stop="20250316051500 +0000">
 		<title>Mihiluze</title>
 		<desc>Presentado por Kike Amonarriz y Ilaski Serrano, ''Mihiluze'' es un concurso que tiene como objetivo dar con los tres concursantes más parlanchines, divertidos y salseros. El espacio es un compendio de pruebas divertidas y teorías interesantes sobre los vascos.</desc>
@@ -38724,40 +38718,46 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b1c335d5b6fb4e70b40e9a8587275a4f/Images/843a38b7947b43f695635d1cc8a07069"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250315230934 +0000" stop="20250315234638 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250315230934 +0000" stop="20250315234652 +0000">
 		<title>Al Dia-Comarques de Girona</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/Al Dia_1713350283028"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250315234638 +0000" stop="20250316004928 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250315234652 +0000" stop="20250316004942 +0000">
 		<title>El Magazín: Resum setmanal</title>
 		<desc>None</desc>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Magazin Generic_1733912219291"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316004928 +0000" stop="20250316012324 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316004942 +0000" stop="20250316012338 +0000">
 		<title>+ Xarxa + Sostenibilitat</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b212ac31897147bba809a4caff390bf1"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316012324 +0000" stop="20250316015625 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316012338 +0000" stop="20250316015639 +0000">
 		<title>Torna-la a Tocar Sam</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316015625 +0000" stop="20250316022552 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316015639 +0000" stop="20250316022606 +0000">
 		<title>Líders: Esilenda Camps</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b1c335d5b6fb4e70b40e9a8587275a4f/Images/843a38b7947b43f695635d1cc8a07069"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316022552 +0000" stop="20250316042523 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316022606 +0000" stop="20250316034053 +0000">
 		<title>Comarca Informatiu</title>
 		<desc>None</desc>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Info dimarts 12 migdia_1725982249753"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316034053 +0000" stop="20250316042523 +0000">
+		<title>Al Dia-Comarques de Girona</title>
+		<desc>None</desc>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/Al Dia_1713350283028"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316042523 +0000" stop="20250316045956 +0000">
@@ -38892,13 +38892,13 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/b26b948e03564f57a96156188c6c8667"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316220536 +0000" stop="20250316224559 +0000">
-		<title>Al Dia: Comarques de Girona</title>
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316220536 +0000" stop="20250316224154 +0000">
+		<title>Al Dia-Comarques de Girona</title>
 		<desc>None</desc>
-		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Al Dia_1735650668309"/>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/Al Dia_1713350283028"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316224559 +0000" stop="20250316233608 +0000">
+	<programme channel="Xarxa_Televisio_Ripolles.TV" start="20250316224154 +0000" stop="20250316233203 +0000">
 		<title>El Magazín: Resum setmanal</title>
 		<desc>None</desc>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/Magazin Generic_1733912219291"/>
@@ -38922,160 +38922,178 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315013000 +0000" stop="20250315020000 +0000">
-		<title>REELS CANAL TE.</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315014500 +0000" stop="20250315021000 +0000">
+		<title>Territori Groupie: Ouineta</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315020000 +0000" stop="20250315023000 +0000">
-		<title>QUI CUINA AVUI</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315021000 +0000" stop="20250315024000 +0000">
+		<title>Oh My Goig!: la sèrie</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/83e214637bc741edab6bf6bada0f2459"/>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/OMG XAL_1711023383557"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315023000 +0000" stop="20250315030000 +0000">
-		<title>AL DIA. TERRITORI SÉNIA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315024000 +0000" stop="20250315031000 +0000">
+		<title>Lògic: Masculinitat en crisi</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315030000 +0000" stop="20250315033000 +0000">
-		<title>CONNECTA 10 COMARQUES</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315031000 +0000" stop="20250315035500 +0000">
+		<title>Ciutadà Novell: Hospital Vall d'Hebron</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315033000 +0000" stop="20250315050000 +0000">
-		<title>L'EBRE AL DIA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315035500 +0000" stop="20250315042000 +0000">
+		<title>Slow: Observant - Tap Jam a la glorieta del Parc de la Ciutadella</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/L-Ebre-Al-Dia---CARRUSSEL-LAXARXA-1064x609px_1709923536257"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315050000 +0000" stop="20250315053000 +0000">
-		<title>L'EBRE AL DIA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315042000 +0000" stop="20250315044500 +0000">
+		<title>Retrats: Pau Llonch</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/L-Ebre-Al-Dia---CARRUSSEL-LAXARXA-1064x609px_1709923536257"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315053000 +0000" stop="20250315060000 +0000">
-		<title>AL DIA. TERRITORI SÉNIA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315044500 +0000" stop="20250315054500 +0000">
+		<title>La porteria</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/701bc533981e4cdbbfa96174758a1f48"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315060000 +0000" stop="20250315070000 +0000">
-		<title>LA FINESTRA.</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315054500 +0000" stop="20250315062000 +0000">
+		<title>L'hora del Podcast: Cinema a Granel</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/holamibeteve XAL_1712150206014"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315070000 +0000" stop="20250315080000 +0000">
-		<title>LA FINESTRA.</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315063000 +0000" stop="20250315070000 +0000">
+		<title>Cròniques de Barcelona: La burgesia daurada. Més enllà del luxe</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315080000 +0000" stop="20250315100000 +0000">
-		<title>L'EBRE AL DIA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315070000 +0000" stop="20250315072500 +0000">
+		<title>Catakrac:</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/L-Ebre-Al-Dia---CARRUSSEL-LAXARXA-1064x609px_1709923536257"/>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/catakrac XAL_1711029555117"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315100000 +0000" stop="20250315103000 +0000">
-		<title>180º</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315072500 +0000" stop="20250315073900 +0000">
+		<title>Catakrac - dibuixos: Lmn's Aventures en el Micromón</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/f8b5d2f9747844fc83da0ca17a1c31a9"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315103000 +0000" stop="20250315110000 +0000">
-		<title>AL DIA. TERRITORI SÉNIA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315073900 +0000" stop="20250315075300 +0000">
+		<title>Catakrac - dibuixos: Lmn's Aventures en el Micromón</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315110000 +0000" stop="20250315113000 +0000">
-		<title>CONNECTA 10 COMARQUES</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315075300 +0000" stop="20250315081800 +0000">
+		<title>Catakrac - dibuixos: Heidi</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315113000 +0000" stop="20250315120000 +0000">
-		<title>QUI CUINA AVUI</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315081800 +0000" stop="20250315084300 +0000">
+		<title>Catakrac - dibuixos: Heidi</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/83e214637bc741edab6bf6bada0f2459"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315120000 +0000" stop="20250315130000 +0000">
-		<title>LA CALAIXERA</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315084300 +0000" stop="20250315085400 +0000">
+		<title>Catakrac - dibuixos: Pumpkin reports</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315130000 +0000" stop="20250315140000 +0000">
-		<title>LA FINESTRA.</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315085400 +0000" stop="20250315090500 +0000">
+		<title>Catakrac - dibuixos: Pumpkin reports</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/0e84c21407b841e9b8ab7f32149b635c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315140000 +0000" stop="20250315145700 +0000">
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315090500 +0000" stop="20250315093000 +0000">
+		<title>Quina animalada (XAL): Glamur animal</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315093000 +0000" stop="20250315100000 +0000">
+		<title>+Bàsquet (XAL): Cistelles contra el càncer</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315100000 +0000" stop="20250315110000 +0000">
+		<title>L'orsai</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/49a2d3df7fa24720b2e163c443b4df1b"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315110000 +0000" stop="20250315130000 +0000">
+		<title>Habitació 910</title>
+		<desc>None</desc>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/habitacio XAL2_1711023491803"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315130000 +0000" stop="20250315133000 +0000">
+		<title>betevé notícies migdia</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315133000 +0000" stop="20250315135500 +0000">
+		<title>Catakrac:</title>
+		<desc>None</desc>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/catakrac XAL_1711029555117"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315135500 +0000" stop="20250315140000 +0000">
+		<title>Doc's: 25 anys a la Poblesequina</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315140000 +0000" stop="20250315144000 +0000">
 		<title>The weekly mag</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0c58f80f156844c090c240faf9945de8/Images/8ce4b8cba2444d0fa4b1a0c987801082"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315145700 +0000" stop="20250315150000 +0000">
-		<title>Emissió en proves. Notícies de www.cugat.cat</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315144000 +0000" stop="20250315150000 +0000">
+		<title>betevé 30 anys : Càpsules betevé 30 anys</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315150000 +0000" stop="20250315192700 +0000">
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315150000 +0000" stop="20250315190000 +0000">
 		<title>En Joc. Dissabte</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315192700 +0000" stop="20250315193000 +0000">
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315190000 +0000" stop="20250315195700 +0000">
+		<title>betevé notícies vespre</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315195700 +0000" stop="20250315200000 +0000">
 		<title>Emissió en proves. Notícies de www.cugat.cat</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315193000 +0000" stop="20250315195700 +0000">
-		<title>Notícies en Xarxa</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315200000 +0000" stop="20250315213000 +0000">
+		<title>Primera sessió: Castillos de cartón</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/48d610b4eb0d42f4ae7d0b41ec5f8849"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315195700 +0000" stop="20250315203000 +0000">
-		<title>Emissió en proves. Notícies de www.cugat.cat</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315203000 +0000" stop="20250315205700 +0000">
-		<title>Teló de fons</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/cd243867a38e4874b651eacc856f4e61"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315205700 +0000" stop="20250315210000 +0000">
-		<title>Emissió en proves. Notícies de www.cugat.cat</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315210000 +0000" stop="20250315212700 +0000">
-		<title>Concerts Privats</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/32d18abd7c914cf3ad12ea12660b1e12"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315212700 +0000" stop="20250315213000 +0000">
-		<title>Emissió en proves. Notícies de www.cugat.cat</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6de6686091b641a38a8d8d8a7b02bc04/Images/9c540f47d0fa4e169fd150021b9e4a12"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Cugat_Media.TV" start="20250315213000 +0000" stop="20250315213038 +0000">
@@ -39084,100 +39102,16 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/cd243867a38e4874b651eacc856f4e61"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315213000 +0000" stop="20250315223000 +0000">
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315213000 +0000" stop="20250315230000 +0000">
 		<title>Festival Jazz Terrassa: Júlia Plans Sextet</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315223000 +0000" stop="20250315233000 +0000">
-		<title>Línia Blava - Entrevista política</title>
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250315230000 +0000" stop="20250316100000 +0000">
+		<title>Emissió en proves. Notícies de www.cugat.cat</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/LÃ\u008DNIA BLAVA_1710175998457"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250315233000 +0000" stop="20250316000000 +0000">
-		<title>+ Xarxa + Sostenibilitat</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b212ac31897147bba809a4caff390bf1"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316000000 +0000" stop="20250316003000 +0000">
-		<title>Impuls</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316003000 +0000" stop="20250316010000 +0000">
-		<title>Aventurístic</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/fa91faf0d06844a98d3a9b849235ced1"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316010000 +0000" stop="20250316013000 +0000">
-		<title>Caminant per Catalunya</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d7cb7cccdf3949aaa141036aab7eef48/Images/1d451e78755a4bc2b4c6419bb87ca6b9"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316013000 +0000" stop="20250316020000 +0000">
-		<title>Va passar aquí. Catalunya</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c6903b72cf6a404783bb3d440d6cd9d5/Images/e437a5beafab41659227f1cdecbab625"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316020000 +0000" stop="20250316060000 +0000">
-		<title>Redifusió</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/46e3e01cdf304d81b887a20e5f54b919"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316060000 +0000" stop="20250316063000 +0000">
-		<title>Concerts Privats</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/32d18abd7c914cf3ad12ea12660b1e12"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316063000 +0000" stop="20250316070000 +0000">
-		<title>+ Xarxa + Sostenibilitat</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b212ac31897147bba809a4caff390bf1"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316070000 +0000" stop="20250316073000 +0000">
-		<title>Impuls</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316073000 +0000" stop="20250316080000 +0000">
-		<title>Aventurístic</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/fa91faf0d06844a98d3a9b849235ced1"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316080000 +0000" stop="20250316083000 +0000">
-		<title>Som-hi!!!!</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/46e3e01cdf304d81b887a20e5f54b919"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316083000 +0000" stop="20250316090000 +0000">
-		<title>Som-hi!!!!</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/46e3e01cdf304d81b887a20e5f54b919"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316090000 +0000" stop="20250316093000 +0000">
-		<title>SPi+Tv</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316093000 +0000" stop="20250316100000 +0000">
-		<title>Torna-la a tocar, Sam</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/760615686ed04829ab6226c08f237449"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Cugat_Media.TV" start="20250316100000 +0000" stop="20250316110000 +0000">
@@ -39186,13 +39120,13 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316110000 +0000" stop="20250316112500 +0000">
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250316110000 +0000" stop="20250316112000 +0000">
 		<title>Missa de Montserrat</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Cugat_Media.TV" start="20250316112500 +0000" stop="20250316122500 +0000">
+	<programme channel="Xarxa_Cugat_Media.TV" start="20250316112000 +0000" stop="20250316122500 +0000">
 		<title>En joc - Futbol</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b374a1840d3749858d8f1fb5432737ee"/>
@@ -39205,9 +39139,9 @@
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Cugat_Media.TV" start="20250316140000 +0000" stop="20250316150000 +0000">
-		<title>Línia Blava - Entrevista política</title>
+		<title>The Weekly Mag</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/LÃ\u008DNIA BLAVA_1710175998457"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0c58f80f156844c090c240faf9945de8/Images/8ce4b8cba2444d0fa4b1a0c987801082"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Cugat_Media.TV" start="20250316150000 +0000" stop="20250316155700 +0000">
@@ -39229,9 +39163,9 @@
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Cugat_Media.TV" start="20250316200000 +0000" stop="20250316203000 +0000">
-		<title>LiteraCura't: Pòdcast de píndoles literàries</title>
+		<title>Quina Animalada (R)</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/46e3e01cdf304d81b887a20e5f54b919"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/462072c1092c4b57ac43c5395ad0165e"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Cugat_Media.TV" start="20250316203000 +0000" stop="20250316205700 +0000">
@@ -40602,26 +40536,44 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/9937900e76e2440981ad340a23390af6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315145800 +0000" stop="20250315162810 +0000">
+	<programme channel="Xarxa_VOTV.TV" start="20250315145800 +0000" stop="20250315163045 +0000">
 		<title>Copa de la Reina d'Handbol: primera semifinal</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/9937900e76e2440981ad340a23390af6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315162810 +0000" stop="20250315171523 +0000">
+	<programme channel="Xarxa_VOTV.TV" start="20250315163126 +0000" stop="20250315170300 +0000">
 		<title>Anem de cap (R)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/bdedc0028d3a44faa124e471afe06f2c"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315171523 +0000" stop="20250315184856 +0000">
+	<programme channel="Xarxa_VOTV.TV" start="20250315170300 +0000" stop="20250315184729 +0000">
 		<title>Copa de la Reina d'Handbol: segona semifinal</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/9937900e76e2440981ad340a23390af6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315184856 +0000" stop="20250315203002 +0000">
-		<title>Busquem respostes (R): Rafael Alcalde</title>
+	<programme channel="Xarxa_VOTV.TV" start="20250315184729 +0000" stop="20250315191526 +0000">
+		<title>Va passar aquí. Catalunya (R)</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c6903b72cf6a404783bb3d440d6cd9d5/Images/e437a5beafab41659227f1cdecbab625"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250315191526 +0000" stop="20250315193002 +0000">
+		<title>Efecte Mosaic</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/056710b6cd7d499a9c458923aeb77543"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250315193002 +0000" stop="20250315195943 +0000">
+		<title>NEX cap de setmana</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/90a7d5e3ff6d4c2b8d64a42d0796cfa1"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250315195943 +0000" stop="20250315203002 +0000">
+		<title>Busquem respostes (R): Rosa Tajadura</title>
 		<desc>None</desc>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/CLARA - BUSQUEM_1727868988726"/>
 		<category>Desconocido</category>
@@ -40632,34 +40584,52 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/cd243867a38e4874b651eacc856f4e61"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315210002 +0000" stop="20250315213002 +0000">
+	<programme channel="Xarxa_VOTV.TV" start="20250315210002 +0000" stop="20250315213628 +0000">
 		<title>Concerts Privats</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/32d18abd7c914cf3ad12ea12660b1e12"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315213002 +0000" stop="20250315220233 +0000">
-		<title>Anem de cap (R)</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/bdedc0028d3a44faa124e471afe06f2c"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315220233 +0000" stop="20250315230816 +0000">
+	<programme channel="Xarxa_VOTV.TV" start="20250315213628 +0000" stop="20250315223025 +0000">
 		<title>Infovallès - La setmana (R)</title>
 		<desc>None</desc>
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FRAME_VOTV_gemma_Setmana_1727725011190"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250315230816 +0000" stop="20250316020212 +0000">
-		<title>Premis Enderrock 2025 (R)</title>
+	<programme channel="Xarxa_VOTV.TV" start="20250315223025 +0000" stop="20250315225957 +0000">
+		<title>Anem de cap (R)</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/bdedc0028d3a44faa124e471afe06f2c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250315225957 +0000" stop="20250315232709 +0000">
+		<title>Torna-la a tocar, Sam (R)</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250315232709 +0000" stop="20250315235655 +0000">
+		<title>44è Festiva de Jazz de Terrassa</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/9937900e76e2440981ad340a23390af6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_VOTV.TV" start="20250316020212 +0000" stop="20250316065755 +0000">
-		<title>Torna-la a tocar, Sam (R)</title>
+	<programme channel="Xarxa_VOTV.TV" start="20250315235655 +0000" stop="20250316002452 +0000">
+		<title>[Re]poblem (R)</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/eb2b197c656845fb9ad98bf872d5f1ba/Images/b26b948e03564f57a96156188c6c8667"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250316002452 +0000" stop="20250316005359 +0000">
+		<title>SPi+Tv (R)</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_VOTV.TV" start="20250316013610 +0000" stop="20250316020518 +0000">
+		<title>SPi+Tv (R)</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/a3c554b02d164a0e952b7b85bec4e9df"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_TV_Bergueda.TV" start="20250315001757 +0000" stop="20250315004549 +0000">
@@ -42432,127 +42402,133 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250315212856 +0000" stop="20250315215929 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250315212856 +0000" stop="20250315215952 +0000">
 		<title>Al Dia Comarques de Girona - Edició cap de setmana</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250315215929 +0000" stop="20250316010000 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250315215952 +0000" stop="20250316011825 +0000">
 		<title>Espectacle Reial</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316010000 +0000" stop="20250316023043 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316011825 +0000" stop="20250316024908 +0000">
 		<title>44è Festival de Jazz Terrassa: Júlia Plans Sextet</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316023043 +0000" stop="20250316030124 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316024908 +0000" stop="20250316031949 +0000">
 		<title>Paisatges encreuats - Cubeta de Mora</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316030124 +0000" stop="20250316032519 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316031949 +0000" stop="20250316034344 +0000">
 		<title>MAC Exprés</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316032519 +0000" stop="20250316035258 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316034344 +0000" stop="20250316041123 +0000">
 		<title>Impuls(89)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316035258 +0000" stop="20250316042245 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316041123 +0000" stop="20250316044110 +0000">
 		<title>Moving 25: Ruta entre Llívia, Puigcerdà i Urtx</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316042245 +0000" stop="20250316043843 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316044110 +0000" stop="20250316045708 +0000">
 		<title>La Finestra  - Els tres tombs</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316043843 +0000" stop="20250316045228 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316045708 +0000" stop="20250316051053 +0000">
 		<title>La Finestra  - Cinema amb Òmnium Garrotxa</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316045228 +0000" stop="20250316050712 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316051053 +0000" stop="20250316052537 +0000">
 		<title>La Finestra  - Exposició 'Imatges sense drets'</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316050712 +0000" stop="20250316050916 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316052537 +0000" stop="20250316055242 +0000">
 		<title>Videocats</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316050916 +0000" stop="20250316063014 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316055242 +0000" stop="20250316060241 +0000">
+		<title>Gastromòbil 127 - Bao de pollastre</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316060241 +0000" stop="20250316063004 +0000">
 		<title>Excel·lent - Garraf</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316063014 +0000" stop="20250316065837 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316063004 +0000" stop="20250316065827 +0000">
 		<title>Impuls(89)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316065837 +0000" stop="20250316080000 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316065827 +0000" stop="20250316075601 +0000">
 		<title>The Weekly Mag(275)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316080000 +0000" stop="20250316083454 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316075601 +0000" stop="20250316083056 +0000">
 		<title>Les Notícies - resum cap de setmana</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316083454 +0000" stop="20250316090713 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316083056 +0000" stop="20250316090338 +0000">
 		<title>Al Dia Comarques de Girona - Edició cap de setmana</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316090713 +0000" stop="20250316092931 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316090338 +0000" stop="20250316092556 +0000">
 		<title>La Finestra  - Llibre 'Les papallones de tinta'</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316092931 +0000" stop="20250316094302 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316092556 +0000" stop="20250316093926 +0000">
 		<title>La Finestra  - Teatre amb 'Si no hi hagués demà'</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316094302 +0000" stop="20250316100605 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316093926 +0000" stop="20250316100230 +0000">
 		<title>La Finestra  - Alimentació saludable amb el projecte Connectem</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316100605 +0000" stop="20250316103515 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316100230 +0000" stop="20250316103140 +0000">
 		<title>Aventurístic (120)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316103515 +0000" stop="20250316110002 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316103140 +0000" stop="20250316110002 +0000">
 		<title>Va passar aquí. Catalunya - 24</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
@@ -42564,13 +42540,13 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316122502 +0000" stop="20250316145258 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316122502 +0000" stop="20250316145259 +0000">
 		<title>En joc - Futbol: FC L'Escala - Atlètic Lleida (3a RFEF)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b374a1840d3749858d8f1fb5432737ee"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Olot_TV.TV" start="20250316145258 +0000" stop="20250316160002 +0000">
+	<programme channel="Xarxa_Olot_TV.TV" start="20250316145259 +0000" stop="20250316160002 +0000">
 		<title>Les Notícies - resum cap de setmana</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
@@ -43110,10 +43086,16 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c6903b72cf6a404783bb3d440d6cd9d5/Images/e437a5beafab41659227f1cdecbab625"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315000000 +0000" stop="20250315003000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315000000 +0000" stop="20250315000153 +0000">
 		<title>Redacció Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/Redaccio1_1715274215369"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315000153 +0000" stop="20250315003000 +0000">
+		<title>Impuls</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315003000 +0000" stop="20250315003022 +0000">
@@ -43122,88 +43104,148 @@
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/cnb_1715274751721"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315003000 +0000" stop="20250315010000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315003000 +0000" stop="20250315003147 +0000">
 		<title>Club Natació Banyoles</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/cnb_1715274751721"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315010000 +0000" stop="20250315013000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315003147 +0000" stop="20250315010000 +0000">
+		<title>Torna-la a tocar, Sam</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315010000 +0000" stop="20250315010154 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315013000 +0000" stop="20250315030000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315010154 +0000" stop="20250315013000 +0000">
+		<title>Vallès Visió Notícies</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VALLÃ\u0088S VISIÃ\u0093 NOTÃ\u008DCIES_1733384127741"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315013000 +0000" stop="20250315023157 +0000">
 		<title>Òrbita Nit</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/OrbitaNit_1715274603110"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315030000 +0000" stop="20250315060000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315023157 +0000" stop="20250315030000 +0000">
+		<title>Impuls</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315030000 +0000" stop="20250315053208 +0000">
 		<title>MusicBox BanyolesTV</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315060000 +0000" stop="20250315070000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315053208 +0000" stop="20250315060000 +0000">
+		<title>Fem-la Petar</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FEM-LA PETAR_1732624693479"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315060000 +0000" stop="20250315063227 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315070000 +0000" stop="20250315073000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315063227 +0000" stop="20250315070000 +0000">
+		<title>Caminant per Catalunya</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d7cb7cccdf3949aaa141036aab7eef48/Images/1d451e78755a4bc2b4c6419bb87ca6b9"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315070000 +0000" stop="20250315070213 +0000">
 		<title>Temps d'Església</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315073000 +0000" stop="20250315090000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315070213 +0000" stop="20250315073000 +0000">
+		<title>Aventurístic</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/fa91faf0d06844a98d3a9b849235ced1"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315073000 +0000" stop="20250315083035 +0000">
 		<title>Òrbita Nit</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/OrbitaNit_1715274603110"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315090000 +0000" stop="20250315100000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315083035 +0000" stop="20250315090000 +0000">
+		<title>Visions</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VISIONS_1732624650092"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315090000 +0000" stop="20250315093029 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315100000 +0000" stop="20250315110000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315093029 +0000" stop="20250315100000 +0000">
+		<title>Impuls</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315100000 +0000" stop="20250315103022 +0000">
 		<title>La Tribu</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/TRIBU_1715274429683"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315110000 +0000" stop="20250315113000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315103022 +0000" stop="20250315110000 +0000">
+		<title>Torna-la a tocar, Sam</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315110000 +0000" stop="20250315110008 +0000">
 		<title>Club Natació Banyoles</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/cnb_1715274751721"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315113000 +0000" stop="20250315120000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315110008 +0000" stop="20250315113000 +0000">
+		<title>Vallès Visió Notícies</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VALLÃ\u0088S VISIÃ\u0093 NOTÃ\u008DCIES_1733384127741"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315113000 +0000" stop="20250315113004 +0000">
 		<title>L'entrevista - Resum Setmanal</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315120000 +0000" stop="20250315130000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315113004 +0000" stop="20250315120000 +0000">
+		<title>Orsai</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/628c0a15d3224e6c933b3623f856d2ac"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315120000 +0000" stop="20250315123042 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315130000 +0000" stop="20250315133000 +0000">
-		<title>Banyoles Comerç i Turisme</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315123042 +0000" stop="20250315140000 +0000">
+		<title>Vallès Visió Notícies</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/ABCT_1715274620664"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315133000 +0000" stop="20250315140000 +0000">
-		<title>Club Natació Banyoles</title>
-		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/cnb_1715274751721"/>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VALLÃ\u0088S VISIÃ\u0093 NOTÃ\u008DCIES_1733384127741"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315140000 +0000" stop="20250315140002 +0000">
@@ -43248,10 +43290,16 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/48d610b4eb0d42f4ae7d0b41ec5f8849"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315193000 +0000" stop="20250315200000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315193000 +0000" stop="20250315193019 +0000">
 		<title>Notícies en Xarxa</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/48d610b4eb0d42f4ae7d0b41ec5f8849"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315193019 +0000" stop="20250315200000 +0000">
+		<title>Visions</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VISIONS_1732624650092"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315200000 +0000" stop="20250315210000 +0000">
@@ -43272,142 +43320,142 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315220000 +0000" stop="20250315230000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315220000 +0000" stop="20250315223400 +0000">
 		<title>L'Hora de la Vall del Terri</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/vallterri_1715274796870"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315230000 +0000" stop="20250315233000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315223400 +0000" stop="20250315230000 +0000">
+		<title>Líders - Arnau Paris</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315230000 +0000" stop="20250315230038 +0000">
 		<title>Banyoles Comerç i Turisme</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/ABCT_1715274620664"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315233000 +0000" stop="20250316003000 +0000">
-		<title>L'entrevista - Resum Setmanal</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315230038 +0000" stop="20250315235841 +0000">
+		<title>Misteris (155)</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316003000 +0000" stop="20250316010000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250315235841 +0000" stop="20250316003000 +0000">
+		<title>Vull Una Resposta 504</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316003000 +0000" stop="20250316012141 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316010000 +0000" stop="20250316013000 +0000">
-		<title>44è Festival de Jazz Terrassa: Júlia Plans Sextet</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316012141 +0000" stop="20250316013000 +0000">
+		<title>La Clau de la Nostra Història (310)</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316013000 +0000" stop="20250316023043 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316013000 +0000" stop="20250316025618 +0000">
 		<title>Òrbita Nit</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/OrbitaNit_1715274603110"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316023043 +0000" stop="20250316030000 +0000">
-		<title>Paisatges encreuats - Cubeta de Mora</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316025618 +0000" stop="20250316030000 +0000">
+		<title>Òrbita Nit 146</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316030000 +0000" stop="20250316050916 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316030000 +0000" stop="20250316043005 +0000">
 		<title>MusicBox BanyolesTV</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316050916 +0000" stop="20250316060000 +0000">
-		<title>Excel·lent - Garraf</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316043005 +0000" stop="20250316060000 +0000">
+		<title>Caminant per Catalunya (607) Castell de Sant Miquel</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316060000 +0000" stop="20250316065837 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316060000 +0000" stop="20250316070000 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316065837 +0000" stop="20250316080000 +0000">
-		<title>The Weekly Mag(275)</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316070000 +0000" stop="20250316073408 +0000">
+		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316080000 +0000" stop="20250316083454 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316073408 +0000" stop="20250316080000 +0000">
+		<title>Va Passar Aquí. Catalunya - 24</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316080000 +0000" stop="20250316090000 +0000">
 		<title>La Tribu</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/TRIBU_1715274429683"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316083454 +0000" stop="20250316090000 +0000">
-		<title>Al Dia Comarques de Girona - Edició cap de setmana</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316090000 +0000" stop="20250316092931 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316090000 +0000" stop="20250316093000 +0000">
 		<title>L'entrevista - Resum Setmanal</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316092931 +0000" stop="20250316093000 +0000">
-		<title>La Finestra  - Teatre amb 'Si no hi hagués demà'</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316093000 +0000" stop="20250316094302 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316093000 +0000" stop="20250316093411 +0000">
 		<title>Temps d'Església</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316094302 +0000" stop="20250316100000 +0000">
-		<title>La Finestra  - Alimentació saludable amb el projecte Connectem</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316093411 +0000" stop="20250316100000 +0000">
+		<title>Vull Una Resposta 504</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316100000 +0000" stop="20250316110002 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316100000 +0000" stop="20250316110000 +0000">
 		<title>Missa de Montserrat</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316110002 +0000" stop="20250316120000 +0000">
-		<title>Missa de Montserrat</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316110000 +0000" stop="20250316120000 +0000">
+		<title>Missa de Montserrat - 16 de març de 2025</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/69d0a28592244255ad700b24ae5fa4df"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/828ec1277f6e4cf8b538d8d705958280"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316120000 +0000" stop="20250316122502 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316120000 +0000" stop="20250316122500 +0000">
 		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316122502 +0000" stop="20250316143000 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316122500 +0000" stop="20250316150000 +0000">
 		<title>En joc - Futbol: FC L'Escala - Atlètic Lleida (3a RFEF)</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/b374a1840d3749858d8f1fb5432737ee"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316143000 +0000" stop="20250316145258 +0000">
-		<title>Banyoles Comerç i Turisme</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316150000 +0000" stop="20250316160000 +0000">
+		<title>L'Hora de la Vall del Terri</title>
 		<desc>None</desc>
-		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/ABCT_1715274620664"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316145258 +0000" stop="20250316160000 +0000">
-		<title>Les Notícies - resum cap de setmana</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/vallterri_1715274796870"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316160000 +0000" stop="20250316160002 +0000">
@@ -43416,46 +43464,40 @@
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316160002 +0000" stop="20250316170000 +0000">
-		<title>En joc - Hoquei patins OK Lliga Masculina: Barça - Senergy Renovables Sant Just</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316160000 +0000" stop="20250316170000 +0000">
+		<title>Resum Setmanal - Pla de l'Estany</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/ef388830f4934266823624c3c2878290"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316170000 +0000" stop="20250316180002 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316170000 +0000" stop="20250316193000 +0000">
 		<title>En Joc</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1b4532c0c8414d72a2b3dc4e473464d3"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316180002 +0000" stop="20250316203000 +0000">
-		<title>En joc - Futbol 2a RFEF: UE Sant Andreu - Elx Il·licità</title>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316193000 +0000" stop="20250316200000 +0000">
+		<title>Notícies en Xarxa</title>
 		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/48d610b4eb0d42f4ae7d0b41ec5f8849"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316203000 +0000" stop="20250316210213 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316200000 +0000" stop="20250316203000 +0000">
+		<title>Club Natació Banyoles</title>
+		<desc>None</desc>
+		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/cnb_1715274751721"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316203000 +0000" stop="20250316213000 +0000">
 		<title>ConnectiCAT</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/033146909f2d430ba437003e4cc6adc1"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316210213 +0000" stop="20250316213000 +0000">
-		<title>Les Notícies - resum cap de setmana</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316213000 +0000" stop="20250316222910 +0000">
+	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316213000 +0000" stop="20250316223000 +0000">
 		<title>L'Hora de la Vall del Terri</title>
 		<desc>None</desc>
 		<icon src="https://prod-xalott-images.s3.eu-central-1.amazonaws.com/vallterri_1715274796870"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316222910 +0000" stop="20250316223000 +0000">
-		<title>[Re]poblem - Vida Cooperativa</title>
-		<desc>None</desc>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/04238719aa644a419ec8ca17cd9153b6"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Banyoles_TV.TV" start="20250316223000 +0000" stop="20250316233000 +0000">
@@ -44322,10 +44364,178 @@
 		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VISIONS_1732624650092"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="Xarxa_Valles_Visio.TV" start="20250315203000 +0000" stop="20250315230000 +0000">
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250315203000 +0000" stop="20250315230009 +0000">
 		<title>No title</title>
 		<desc>None</desc>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/628c0a15d3224e6c933b3623f856d2ac"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250315230009 +0000" stop="20250315233010 +0000">
+		<title>Torna-la a tocar, Sam</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250315233010 +0000" stop="20250316000010 +0000">
+		<title>Fem-la Petar</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FEM-LA PETAR_1732624693479"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316000010 +0000" stop="20250316003010 +0000">
+		<title>Aventurístic</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/fa91faf0d06844a98d3a9b849235ced1"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316003010 +0000" stop="20250316010008 +0000">
+		<title>Caminant per Catalunya</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d7cb7cccdf3949aaa141036aab7eef48/Images/1d451e78755a4bc2b4c6419bb87ca6b9"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316010008 +0000" stop="20250316020007 +0000">
+		<title>Visions</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VISIONS_1732624650092"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316020007 +0000" stop="20250316023004 +0000">
+		<title>Impuls</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316023004 +0000" stop="20250316030005 +0000">
+		<title>Torna-la a tocar, Sam</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316030005 +0000" stop="20250316043007 +0000">
+		<title>Resum setmanal informatiu</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/628c0a15d3224e6c933b3623f856d2ac"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316043007 +0000" stop="20250316053006 +0000">
+		<title>Visions</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VISIONS_1732624650092"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316053006 +0000" stop="20250316060002 +0000">
+		<title>Impuls</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316060002 +0000" stop="20250316063002 +0000">
+		<title>Fem-la Petar</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FEM-LA PETAR_1732624693479"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316063002 +0000" stop="20250316080004 +0000">
+		<title>Resum setmanal informatiu</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/628c0a15d3224e6c933b3623f856d2ac"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316080004 +0000" stop="20250316083002 +0000">
+		<title>Caminant per Catalunya</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d7cb7cccdf3949aaa141036aab7eef48/Images/1d451e78755a4bc2b4c6419bb87ca6b9"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316083002 +0000" stop="20250316085958 +0000">
+		<title>Aventurístic</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/fa91faf0d06844a98d3a9b849235ced1"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316085958 +0000" stop="20250316092959 +0000">
+		<title>Torna-la a tocar, Sam</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316092959 +0000" stop="20250316095447 +0000">
+		<title>Carnaval del Baix Vallès 2025</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/628c0a15d3224e6c933b3623f856d2ac"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316095447 +0000" stop="20250316105446 +0000">
+		<title>Visions</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/VISIONS_1732624650092"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316105446 +0000" stop="20250316112500 +0000">
+		<title>Impuls</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/482eed6262854d0ba4d9c84d6ba2c8ff"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316112500 +0000" stop="20250316135948 +0000">
+		<title>En Joc</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1b4532c0c8414d72a2b3dc4e473464d3"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316135948 +0000" stop="20250316142946 +0000">
+		<title>Caminant per Catalunya</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/d7cb7cccdf3949aaa141036aab7eef48/Images/1d451e78755a4bc2b4c6419bb87ca6b9"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316142946 +0000" stop="20250316150000 +0000">
+		<title>Aventurístic</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/fa91faf0d06844a98d3a9b849235ced1"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316150000 +0000" stop="20250316193004 +0000">
+		<title>En Joc</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1b4532c0c8414d72a2b3dc4e473464d3"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316193004 +0000" stop="20250316200003 +0000">
+		<title>Fem-la Petar</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FEM-LA PETAR_1732624693479"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316200003 +0000" stop="20250316203009 +0000">
+		<title>Torna-la a tocar, Sam</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/1a36176566fe4405a0b231f32510236c"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316203009 +0000" stop="20250316210008 +0000">
+		<title>Teló de fons</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/cd243867a38e4874b651eacc856f4e61"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316210008 +0000" stop="20250316213005 +0000">
+		<title>La Jornada de Diumenge</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/628c0a15d3224e6c933b3623f856d2ac"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316213005 +0000" stop="20250316223003 +0000">
+		<title>Connecticat</title>
+		<desc>None</desc>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net/Tenant_1/Asset/25418640a37a44d8803000b25873ab5a/Images/033146909f2d430ba437003e4cc6adc1"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Xarxa_Valles_Visio.TV" start="20250316223003 +0000" stop="20250316230002 +0000">
+		<title>Fem-la Petar</title>
+		<desc>None</desc>
+		<icon src="https://d1ct4xqmptmdqh.cloudfront.net/FEM-LA PETAR_1732624693479"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Canal_Terrassa.TV" start="20250315003141 +0000" stop="20250315023144 +0000">
@@ -50206,385 +50416,386 @@ Hoy, los detalles del Chef Marinero; las mantillas en Chiclana, o una cita con e
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315182600 +0000" stop="20250315185800 +0000">
-		<title>CARNAVAL DE CHICLANA 2025</title>
-		<desc>Programa especial con motivo de la celebración del pregón del Carnaval de Chiclana.</desc>
+	<programme channel="TuyaLaJanda.TV" start="20250315184800 +0000" stop="20250315193200 +0000">
+		<title>MÁS DE CERCA</title>
+		<desc>Programa 1121- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
+Hoy, los detalles del Chef Marinero; las mantillas en Chiclana, o una cita con el teatro mínimo.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315190000 +0000" stop="20250315193100 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315193700 +0000" stop="20250315195800 +0000">
+		<title>MÁS DE CERCA</title>
+		<desc>Programa 1121 - Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
+Hoy, los detalles del Chef Marinero; las mantillas en Chiclana, o una cita con el teatro mínimo.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TuyaLaJanda.TV" start="20250315200000 +0000" stop="20250315202800 +0000">
+		<title>TUYA NOTICIAS</title>
+		<desc>Edición viernes, 14 de marzo.  
+La actualidad de la Comarca de la Janda Litoral y Chiclana contada por Stilita Mosteiro.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TuyaLaJanda.TV" start="20250315203100 +0000" stop="20250315210600 +0000">
+		<title>ESPECIAL CARNAVAL 2025</title>
+		<desc>Programa especial dedicado a las cabalgatas del humor de Conil y Barbate, con Pepe Garrido y Rocío F Villarejo.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TuyaLaJanda.TV" start="20250315211700 +0000" stop="20250315214700 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1116- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, aprende a hacer un jardín eterno; la situación en la Breña; los cambios del Carnaval y una campaña para fomentar la donación de médula.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315193400 +0000" stop="20250315200500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315215000 +0000" stop="20250315222100 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1116- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, aprende a hacer un jardín eterno; la situación en la Breña; los cambios del Carnaval y una campaña para fomentar la donación de médula.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315200900 +0000" stop="20250315201400 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315222500 +0000" stop="20250315223000 +0000">
 		<title>LAS AVENTURAS DE SUPERMAR</title>
 		<desc>SERIE ANIMADA DE LA OPP72. Ep. 05. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315201500 +0000" stop="20250315204200 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315223100 +0000" stop="20250315225900 +0000">
 		<title>TUYA NOTICIAS</title>
 		<desc>Edición jueves, 6 de marzo.  
 La actualidad de la Comarca de la Janda Litoral y Chiclana contada por Stilita Mosteiro.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315204500 +0000" stop="20250315205500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315230100 +0000" stop="20250315231100 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CONIL: Presentación de una nueva edición del concurso gastronómico organizado por la OPP72, Chef Marinero.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315205500 +0000" stop="20250315210100 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315231100 +0000" stop="20250315231700 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CONIL: Visita a las obras del carril Maestro Puente Tablas.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315210400 +0000" stop="20250315212300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315232000 +0000" stop="20250315233900 +0000">
 		<title>COMPROMETIDOS CON LA DIABETES BUENAVISTA 2022</title>
 		<desc>ESPECIAL: Conocemos cómo viven esta experiencia los niños y niñas con diabetes que participan de este campamento.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315212500 +0000" stop="20250315215500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250315234100 +0000" stop="20250316001100 +0000">
 		<title>A TU SALUD</title>
 		<desc>Programa 07 - La Dra. Covadonga nos da los mejores consejos para cuidar de nuestra salud. En cada programa, un especialista en un área médica.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315215800 +0000" stop="20250315222900 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316001400 +0000" stop="20250316004500 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1116- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, aprende a hacer un jardín eterno; la situación en la Breña; los cambios del Carnaval y una campaña para fomentar la donación de médula.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315223200 +0000" stop="20250315230300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316004800 +0000" stop="20250316011900 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1116- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, aprende a hacer un jardín eterno; la situación en la Breña; los cambios del Carnaval y una campaña para fomentar la donación de médula.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315230600 +0000" stop="20250315233500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316012200 +0000" stop="20250316015100 +0000">
 		<title>TÚ MANDAS</title>
 		<desc>Programa 586: Cada día, participa con Raquel Ramírez en el programa donde tú mandas. Encuestas, concursos, fotos... Todo cabe en el programa más divertido.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315233700 +0000" stop="20250315234200 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316015400 +0000" stop="20250316015900 +0000">
 		<title>LAS AVENTURAS DE SUPERMAR</title>
 		<desc>SERIE ANIMADA DE LA OPP72. Ep. 03. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250315234400 +0000" stop="20250316001500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316020000 +0000" stop="20250316023100 +0000">
 		<title>COMO LA VIDA (T2)</title>
 		<desc>Programa 08 - Temporada 2 - Un programa de testimonios anónimos, historias de lucha y superación. 
 Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316002600 +0000" stop="20250316005500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316024200 +0000" stop="20250316031100 +0000">
 		<title>TÚ MANDAS</title>
 		<desc>Programa 586: Cada día, participa con Raquel Ramírez en el programa donde tú mandas. Encuestas, concursos, fotos... Todo cabe en el programa más divertido.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316005900 +0000" stop="20250316012600 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316031500 +0000" stop="20250316034300 +0000">
 		<title>TUYA NOTICIAS</title>
 		<desc>Edición jueves, 6 de marzo.  
 La actualidad de la Comarca de la Janda Litoral y Chiclana contada por Stilita Mosteiro.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316012900 +0000" stop="20250316013500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316034500 +0000" stop="20250316035200 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CONIL: Visita a las obras del carril Maestro Puente Tablas.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316013900 +0000" stop="20250316020600 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316035500 +0000" stop="20250316042300 +0000">
 		<title>PURO OLIVA: EL DOCUMENTAL</title>
 		<desc>Documental - Con motivo del aniversario de su alternativa, Tuya TV trasladaba la vida de Emilio Oliva a la pequeña pantalla. Una biografía contada por su protagonista.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316020900 +0000" stop="20250316024100 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316042500 +0000" stop="20250316045800 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316024500 +0000" stop="20250316031200 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316050200 +0000" stop="20250316052800 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316031500 +0000" stop="20250316034400 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316053200 +0000" stop="20250316060000 +0000">
 		<title>TÚ MANDAS</title>
 		<desc>Programa 586: Cada día, participa con Raquel Ramírez en el programa donde tú mandas. Encuestas, concursos, fotos... Todo cabe en el programa más divertido.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316034800 +0000" stop="20250316042000 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316060400 +0000" stop="20250316063600 +0000">
 		<title>CARNAVAL DE CHICLANA 2025</title>
 		<desc>Programa especial con motivo de la celebración del pregón del Carnaval de Chiclana.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316042200 +0000" stop="20250316045500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316063800 +0000" stop="20250316071100 +0000">
 		<title>CARNAVAL DE CHICLANA 2025</title>
 		<desc>Programa especial con motivo de la celebración del pregón del Carnaval de Chiclana.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316045700 +0000" stop="20250316052900 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316071300 +0000" stop="20250316074500 +0000">
 		<title>CARNAVAL DE CHICLANA 2025</title>
 		<desc>Programa especial con motivo de la celebración del pregón del Carnaval de Chiclana.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316053100 +0000" stop="20250316060300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316074800 +0000" stop="20250316081900 +0000">
 		<title>CARNAVAL DE CHICLANA 2025</title>
 		<desc>Programa especial con motivo de la celebración del pregón del Carnaval de Chiclana.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316060500 +0000" stop="20250316063700 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316082100 +0000" stop="20250316085300 +0000">
 		<title>COMO LA VIDA (T2)</title>
 		<desc>Programa 09 - Temporada 2 - Un programa de testimonios anónimos, historias de lucha y superación. 
 Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316064200 +0000" stop="20250316071400 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316085800 +0000" stop="20250316093100 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316071700 +0000" stop="20250316074400 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316093300 +0000" stop="20250316100000 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316074700 +0000" stop="20250316081500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316100400 +0000" stop="20250316103100 +0000">
 		<title>TUYA NOTICIAS</title>
 		<desc>Edición viernes, 6 de marzo.  
 La actualidad de la Comarca de la Janda Litoral y Chiclana contada por Stilita Mosteiro.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316081900 +0000" stop="20250316082300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316103500 +0000" stop="20250316103900 +0000">
 		<title>LAS AVENTURAS DE SUPERMAR</title>
 		<desc>SERIE ANIMADA DE LA OPP72. Ep. 04. Supermar es un héroe defensor de la mar y la pesca artesanal que ayuda a los más pequeños a conocer mejor el sector pesquero.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316082600 +0000" stop="20250316085500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316104200 +0000" stop="20250316111100 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316090100 +0000" stop="20250316093100 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316111700 +0000" stop="20250316114700 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316093600 +0000" stop="20250316095900 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316115200 +0000" stop="20250316121500 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316100400 +0000" stop="20250316103000 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316122000 +0000" stop="20250316124600 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316103400 +0000" stop="20250316105800 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316125000 +0000" stop="20250316131500 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316110600 +0000" stop="20250316113200 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316132200 +0000" stop="20250316134800 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316113800 +0000" stop="20250316121000 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316135400 +0000" stop="20250316142600 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316121500 +0000" stop="20250316124700 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316143100 +0000" stop="20250316150400 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316125000 +0000" stop="20250316131700 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316150700 +0000" stop="20250316153300 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316132100 +0000" stop="20250316135000 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316153700 +0000" stop="20250316160600 +0000">
 		<title>TÚ MANDAS</title>
 		<desc>Programa 586: Cada día, participa con Raquel Ramírez en el programa donde tú mandas. Encuestas, concursos, fotos... Todo cabe en el programa más divertido.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316135600 +0000" stop="20250316142300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316161200 +0000" stop="20250316164000 +0000">
 		<title>TUYA NOTICIAS</title>
 		<desc>Edición viernes, 6 de marzo.  
 La actualidad de la Comarca de la Janda Litoral y Chiclana contada por Stilita Mosteiro.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316142800 +0000" stop="20250316143300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316164400 +0000" stop="20250316165000 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CHICLANA: Presentación de la pieza invitada del mes en el museo municipal.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316143400 +0000" stop="20250316143800 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316165000 +0000" stop="20250316165500 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CHICLANA: Presentación de las jornadas de juegos de mesa organizadas por MecaTolRex.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316144100 +0000" stop="20250316151000 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316165800 +0000" stop="20250316172700 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316151300 +0000" stop="20250316154300 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316172900 +0000" stop="20250316175900 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316154600 +0000" stop="20250316160900 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316180200 +0000" stop="20250316182500 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316161200 +0000" stop="20250316163800 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316182800 +0000" stop="20250316185400 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316164000 +0000" stop="20250316170500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316185700 +0000" stop="20250316192100 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316170800 +0000" stop="20250316173400 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316192400 +0000" stop="20250316195000 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316173800 +0000" stop="20250316181100 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316195400 +0000" stop="20250316202700 +0000">
 		<title>ESPECIAL CONCURSO DE AGRUPACIONES DE CARNAVAL DE VEJER 2025</title>
 		<desc>Programa especial con motivo del concurso de agrupaciones del carnaval de Vejer.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316181400 +0000" stop="20250316184700 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316203000 +0000" stop="20250316210300 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316185000 +0000" stop="20250316191600 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316210600 +0000" stop="20250316213300 +0000">
 		<title>MÁS DE CERCA</title>
 		<desc>Programa 1117- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
 Hoy, No Ni Ná y Zahira Montalvo; la importancia de la nutrición para diabéticos; el 8M; y evitar las excusas para hacer ejercicio.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316192000 +0000" stop="20250316194900 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316213700 +0000" stop="20250316220600 +0000">
 		<title>TÚ MANDAS</title>
 		<desc>Programa 586: Cada día, participa con Raquel Ramírez en el programa donde tú mandas. Encuestas, concursos, fotos... Todo cabe en el programa más divertido.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316195400 +0000" stop="20250316202100 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316221000 +0000" stop="20250316223800 +0000">
 		<title>TUYA NOTICIAS</title>
 		<desc>Edición viernes, 6 de marzo.  
 La actualidad de la Comarca de la Janda Litoral y Chiclana contada por Stilita Mosteiro.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316202400 +0000" stop="20250316203000 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316224100 +0000" stop="20250316224600 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CHICLANA: Presentación de la pieza invitada del mes en el museo municipal.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316203000 +0000" stop="20250316203500 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316224600 +0000" stop="20250316225100 +0000">
 		<title>#SINCORTES</title>
 		<desc>#CHICLANA: Presentación de las jornadas de juegos de mesa organizadas por MecaTolRex.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316203800 +0000" stop="20250316211200 +0000">
+	<programme channel="TuyaLaJanda.TV" start="20250316225400 +0000" stop="20250316232800 +0000">
 		<title>COMO LA VIDA (T2)</title>
 		<desc>Programa 03 - Temporada 2 - Un programa de testimonios anónimos, historias de lucha y superación. 
 Cada semana, dos casos diferentes que inspiran a la audiencia.</desc>
-		<icon src="None"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316211500 +0000" stop="20250316214800 +0000">
-		<title>MÁS DE CERCA</title>
-		<desc>Programa 1112- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
-Hoy, un libro histórico; jardines eternos de la mano del Gurú de la Belleza; la visita de Fran Ocaña, y un premio por el 8M en Vejer.</desc>
-		<icon src="None"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316215200 +0000" stop="20250316222200 +0000">
-		<title>MÁS DE CERCA</title>
-		<desc>Programa 1112- Guillermo Ortiz y su equipo te trae cada día entrevistas y reportajes de interés. 
-Hoy, un libro histórico; jardines eternos de la mano del Gurú de la Belleza; la visita de Fran Ocaña, y un premio por el 8M en Vejer.</desc>
-		<icon src="None"/>
-		<category>Desconocido</category>
-	</programme>
-	<programme channel="TuyaLaJanda.TV" start="20250316223800 +0000" stop="20250316231400 +0000">
-		<title>CABALGATA DEL HUMOR DE CHICLANA</title>
-		<desc>Programa especial con motivo de la cabalgata del humor de Chiclana.</desc>
 		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
