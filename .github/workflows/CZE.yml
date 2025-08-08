@@ -1,0 +1,45 @@
+name: Update EPG File CZE.xml
+
+on:
+  schedule:
+    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
+    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Remove existing CZE.xml
+      run: |
+        rm -f ./CZE.xml
+        git rm --ignore-unmatch CZE.xml
+
+    - name: Download the new EPG file
+      run: |
+        wget https://www.open-epg.com/files/czech3.xml.gz
+    - name: Decompress the new EPG file 
+      run: |
+        gunzip czech3.xml.gz
+    - name: Format the EPG file
+      run: |
+        sed -i 's/<title/\n<title/g' czech3.xml
+        sed -i 's/<sub/\n<sub/g' czech3.xml
+        sed -i 's/<desc/\n<desc/g' czech3.xml
+        sed -i 's/<episode/\n<episode/g' czech3.xml
+        sed -i 's/<\/programme>/\n<\/programme>/g' czech3.xml
+    - name: Save the formatted file as CZE.xml
+      run: |
+        mv czech3.xml ./CZE.xml
+    - name: Commit and force-push the changes
+      run: |
+        git config --global user.email "your-email@example.com"
+        git config --global user.name "GitHub Actions"
+        git add CZE.xml
+        git commit -m "Update EPG file" --allow-empty
+        git push origin main --force
