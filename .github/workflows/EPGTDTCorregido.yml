@@ -1,0 +1,29 @@
+name: EPG TDT corregido
+
+on:
+  workflow_dispatch:
+
+jobs:
+  epg_tdt_corregido:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Crear directorio de trabajo
+      run: mkdir "EPG-corregido"
+
+    - name: Descargar archivo EPG TDT
+      run: curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
+
+    - name: Descomprimir archivo
+      run: gunzip "EPG-corregido/TV.xml.gz"
+
+    - name: Modificar segunda línea con fecha actual
+      run: |
+        FECHA=$(date +'%Y-%m-%d')
+        sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
+
+    - name: Subir archivo como artefacto
+      uses: actions/upload-artifact@v3
+      with:
+        name: EPG-TDT-corregido
+        path: EPG-corregido/TV.xml
