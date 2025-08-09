@@ -25,7 +25,14 @@ jobs:
         gunzip "EPG-corregido/TV.xml.gz"
         FECHA_HORA=$(date '+%Y-%m-%d %H:%M')
         sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA_HORA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
-        gzip -c "EPG-corregido/TV.xml" > "EPG-corregido.xml.gz"
+
+    - name: Corregir errores XML
+      run: |
+        # Reemplaza & por &amp; si no está ya escapado
+        sed -i 's/&\([^a][^m][^p];\)/\&amp;\1/g' "EPG-corregido/TV.xml"
+
+    - name: Comprimir archivo corregido
+      run: gzip -c "EPG-corregido/TV.xml" > "EPG-corregido.xml.gz"
 
     - name: Configurar identidad de Git
       run: |
@@ -42,5 +49,6 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
