@@ -1,29 +1,45 @@
 name: EPG TDT corregido
 
 on:
+  schedule:
+    - cron: '55 6 * * *'  # Ejecuta a las 6:55 AM cada día.
+    - cron: '55 14 * * *' # Ejecuta a las 2:55 PM cada día.
+    - cron: '55 19 * * *' # Ejecuta a las 7:55 PM cada día.
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   epg_tdt_corregido:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Crear directorio de trabajo
-      run: mkdir "EPG-corregido"
+    - name: Checkout del repositorio
+      uses: actions/checkout@v3
 
-    - name: Descargar archivo EPG TDT
-      run: curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
-
-    - name: Descomprimir archivo
-      run: gunzip "EPG-corregido/TV.xml.gz"
-
-    - name: Modificar segunda línea con fecha actual
+    - name: Descargar y procesar EPG
       run: |
-        FECHA=$(date +'%Y-%m-%d')
-        sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
+        mkdir "EPG-corregido"
+        curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
+        gunzip "EPG-corregido/TV.xml.gz"
+        FECHA_HORA=$(date '+%Y-%m-%d %H:%M')
+        sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA_HORA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
+        mv "EPG-corregido/TV.xml" "EPG-corregido.xml"
 
-    - name: Subir archivo como artefacto
-      uses: actions/upload-artifact@v4
-      with:
-        name: EPG-TDT-corregido
-        path: EPG-corregido/TV.xml
+    - name: Configurar identidad de Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+
+    - name: Hacer pull de los cambios remotos
+      run: git pull origin main
+
+    - name: Subir archivo corregido
+      run: |
+        git add EPG-corregido.xml
+        git commit -m "Actualización automática de EPG-corregido.xml ($FECHA_HORA)"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
