@@ -23,7 +23,7 @@ jobs:
         sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
 
     - name: Subir archivo como artefacto
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: EPG-TDT-corregido
         path: EPG-corregido/TV.xml
