@@ -18,37 +18,23 @@ jobs:
     - name: Checkout del repositorio
       uses: actions/checkout@v3
 
-    - name: Descargar y procesar EPG
+    - name: Descargar EPG original
       run: |
         mkdir "EPG-corregido"
         curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
         gunzip "EPG-corregido/TV.xml.gz"
-        FECHA_HORA=$(date '+%Y-%m-%d %H:%M')
-        sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA_HORA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
 
-    - name: Limpiar XML como texto plano
+    - name: Corregir etiqueta malformada >br<
       run: |
         python3 <<EOF
-        import re
-
         with open("EPG-corregido/TV.xml", "r", encoding="utf-8") as f:
-            lines = f.readlines()
+            content = f.read()
 
-        cleaned_lines = []
-        for line in lines:
-            # Escapar & no escapados
-            line = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', line)
-            # Eliminar atributos con '=' dentro del valor
-            if re.search(r'="[^"]*=[^"]*"', line):
-                continue
-            # Corregir etiquetas mal formadas como >br<
-            line = line.replace('>br<', '<br/>')
-            # Opcional: eliminar etiquetas no válidas (muy conservador)
-            line = re.sub(r'<[^>]*[^a-zA-Z0-9/][^>]*>', '', line)
-            cleaned_lines.append(line)
+        # Reemplazar >br< por <br/>
+        content = content.replace(">br<", "<br/>")
 
         with open("EPG-corregido/TV.xml", "w", encoding="utf-8") as f:
-            f.writelines(cleaned_lines)
+            f.write(content)
         EOF
 
     - name: Comprimir archivo corregido
@@ -65,10 +51,11 @@ jobs:
     - name: Subir archivo corregido
       run: |
         git add EPG-corregido.xml.gz
-        git commit -m "Actualización automática de EPG-corregido.xml.gz ($FECHA_HORA)"
+        git commit -m "Corrección puntual de etiqueta >br< en EPG-corregido.xml.gz"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
