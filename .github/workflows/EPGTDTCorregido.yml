@@ -2,9 +2,9 @@ name: EPG TDT corregido
 
 on:
   schedule:
-    - cron: '55 6 * * *'
-    - cron: '55 14 * * *'
-    - cron: '55 19 * * *'
+    - cron: '55 6 * * *'   # 6:55 AM
+    - cron: '55 14 * * *'  # 2:55 PM
+    - cron: '55 19 * * *'  # 7:55 PM
   workflow_dispatch:
 
 permissions:
@@ -41,6 +41,10 @@ jobs:
             # Eliminar atributos con '=' dentro del valor
             if re.search(r'="[^"]*=[^"]*"', line):
                 continue
+            # Corregir etiquetas mal formadas como >br<
+            line = line.replace('>br<', '<br/>')
+            # Opcional: eliminar etiquetas no válidas (muy conservador)
+            line = re.sub(r'<[^>]*[^a-zA-Z0-9/][^>]*>', '', line)
             cleaned_lines.append(line)
 
         with open("EPG-corregido/TV.xml", "w", encoding="utf-8") as f:
