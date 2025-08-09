@@ -25,7 +25,7 @@ jobs:
         gunzip "EPG-corregido/TV.xml.gz"
         FECHA_HORA=$(date '+%Y-%m-%d %H:%M')
         sed -i "2c\<tv generator-info-name=\"EPG TDT corregido - $FECHA_HORA\" generator-info-url=\"https://github.com/davidmuma/miEPG\">" "EPG-corregido/TV.xml"
-        mv "EPG-corregido/TV.xml" "EPG-corregido.xml"
+        gzip -c "EPG-corregido/TV.xml" > "EPG-corregido.xml.gz"
 
     - name: Configurar identidad de Git
       run: |
@@ -37,9 +37,10 @@ jobs:
 
     - name: Subir archivo corregido
       run: |
-        git add EPG-corregido.xml
-        git commit -m "Actualización automática de EPG-corregido.xml ($FECHA_HORA)"
+        git add EPG-corregido.xml.gz
+        git commit -m "Actualización automática de EPG-corregido.xml.gz ($FECHA_HORA)"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
