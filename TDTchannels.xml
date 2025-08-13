@@ -363,6 +363,9 @@
 	<channel id="Alacanti.TV">
 		<display-name>Alacanti.TV</display-name>
 	</channel>
+	<channel id="TVR.TV">
+		<display-name>TVR.TV</display-name>
+	</channel>
 	<programme channel="La1.TV" start="20250812050000 +0000" stop="20250812063000 +0000">
 		<title>Telediario Matinal</title>
 		<desc>Sirun Demirjian y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
@@ -52107,6 +52110,330 @@ Stilita Mosteiro te resume la actualidad diaria de la Comarca de la Janda Litora
 		<title>Informativo RD</title>
 		<desc>None</desc>
 		<icon src="https://graph.facebook.com/alacantitv/picture?width=200&height=200"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812040000 +0000" stop="20250812060000 +0000">
+		<title>Sin información</title>
+		<desc>None</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812060000 +0000" stop="20250812063000 +0000">
+		<title>Mundo natural</title>
+		<desc>Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812063000 +0000" stop="20250812070000 +0000">
+		<title>De un vistazo</title>
+		<desc>Espacio que realiza un breve resumen de las noticias más destacadas del día anterior.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812070000 +0000" stop="20250812080000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812080000 +0000" stop="20250812083000 +0000">
+		<title>El gusto es mío</title>
+		<desc>Sin descripción.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/102551.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812083000 +0000" stop="20250812091500 +0000">
+		<title>Dibujos animados</title>
+		<desc>Incluye Ripley's, Nanook.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812091500 +0000" stop="20250812093000 +0000">
+		<title>Gravedad zero</title>
+		<desc>Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812093000 +0000" stop="20250812103000 +0000">
+		<title>Vaughan</title>
+		<desc>Cursos de inglés a medida.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/51820.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812103000 +0000" stop="20250812110000 +0000">
+		<title>El gusto es mío</title>
+		<desc>Sin descripción.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/102551.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812110000 +0000" stop="20250812120000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812120000 +0000" stop="20250812123000 +0000">
+		<title>Cocina familiar</title>
+		<desc>Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/103571.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812123000 +0000" stop="20250812130000 +0000">
+		<title>Informativos TVR: I edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/87797.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812130000 +0000" stop="20250812140000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812140000 +0000" stop="20250812143000 +0000">
+		<title>Mundo natural</title>
+		<desc>Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812143000 +0000" stop="20250812150000 +0000">
+		<title>Informativos TVR: I edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/87797.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812150000 +0000" stop="20250812154500 +0000">
+		<title>Pacific blue</title>
+		<desc>Una patrulla de ciclistas del departamento de policía tienen la misión de vigilar las playas de Santa Mónica.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812154500 +0000" stop="20250812163000 +0000">
+		<title>Entre tu amor y mi amor</title>
+		<desc>Una joven que llega a la ciudad en busca de una mejor vida, se enamora del hijo de quien estafó y asesinó a sus padres.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/146028.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812163000 +0000" stop="20250812173000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812173000 +0000" stop="20250812180000 +0000">
+		<title>Gravedad zero</title>
+		<desc>Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812180000 +0000" stop="20250812183000 +0000">
+		<title>Cocina familiar</title>
+		<desc>Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/103571.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812183000 +0000" stop="20250812190000 +0000">
+		<title>Informativos TVR: II edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812190000 +0000" stop="20250812200000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812200000 +0000" stop="20250812203000 +0000">
+		<title>La cocina de Ventura y Gabi</title>
+		<desc>Espacio gastronómico.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812203000 +0000" stop="20250812210000 +0000">
+		<title>Informativos TVR: II edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812210000 +0000" stop="20250812220000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812220000 +0000" stop="20250812223000 +0000">
+		<title>Gravedad zero</title>
+		<desc>Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250812223000 +0000" stop="20250813000000 +0000">
+		<title>Toni Rovira y tú</title>
+		<desc>Magacín de entrevistas y espectáculos.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813000000 +0000" stop="20250813060000 +0000">
+		<title>Redifusiones</title>
+		<desc>Sin descripción.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/35993.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813060000 +0000" stop="20250813063000 +0000">
+		<title>Mundo natural</title>
+		<desc>Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813063000 +0000" stop="20250813070000 +0000">
+		<title>De un vistazo</title>
+		<desc>Espacio que realiza un breve resumen de las noticias más destacadas del día anterior.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813070000 +0000" stop="20250813080000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813080000 +0000" stop="20250813083000 +0000">
+		<title>El gusto es mío</title>
+		<desc>Sin descripción.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/102551.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813083000 +0000" stop="20250813091500 +0000">
+		<title>Dibujos animados</title>
+		<desc>Incluye Ripley's, Nanook.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813091500 +0000" stop="20250813093000 +0000">
+		<title>Gravedad zero</title>
+		<desc>Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813093000 +0000" stop="20250813103000 +0000">
+		<title>Vaughan</title>
+		<desc>Cursos de inglés a medida.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/51820.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813103000 +0000" stop="20250813110000 +0000">
+		<title>El gusto es mío</title>
+		<desc>Sin descripción.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/102551.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813110000 +0000" stop="20250813120000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813120000 +0000" stop="20250813123000 +0000">
+		<title>Cocina familiar</title>
+		<desc>Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/103571.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813123000 +0000" stop="20250813130000 +0000">
+		<title>Informativos TVR: I edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/87797.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813130000 +0000" stop="20250813140000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813140000 +0000" stop="20250813143000 +0000">
+		<title>Mundo natural</title>
+		<desc>Programa dedicado a la cura de la salud y el bienestar donde se habla de la sinergía que la alimentación, la suplementación y la actividad física conforman para la consecución de una vida saludable.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813143000 +0000" stop="20250813150000 +0000">
+		<title>Informativos TVR: I edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/87797.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813150000 +0000" stop="20250813154500 +0000">
+		<title>Pacific blue</title>
+		<desc>Una patrulla de ciclistas del departamento de policía tienen la misión de vigilar las playas de Santa Mónica.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813154500 +0000" stop="20250813163000 +0000">
+		<title>Entre tu amor y mi amor</title>
+		<desc>Una joven que llega a la ciudad en busca de una mejor vida, se enamora del hijo de quien estafó y asesinó a sus padres.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/146028.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813163000 +0000" stop="20250813173000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813173000 +0000" stop="20250813180000 +0000">
+		<title>Gravedad zero</title>
+		<desc>Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813180000 +0000" stop="20250813183000 +0000">
+		<title>Cocina familiar</title>
+		<desc>Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.</desc>
+		<icon src="https://www.lavanguardia.com/television/programacion-tv/images/media/103571.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813183000 +0000" stop="20250813190000 +0000">
+		<title>Informativos TVR: II edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813190000 +0000" stop="20250813200000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813200000 +0000" stop="20250813203000 +0000">
+		<title>La cocina de Ventura y Gabi</title>
+		<desc>Espacio gastronómico.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813203000 +0000" stop="20250813210000 +0000">
+		<title>Informativos TVR: II edición</title>
+		<desc>Espacio dedicado a la información de actualidad.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813210000 +0000" stop="20250813220000 +0000">
+		<title>Aquí La Rioja. Edición verano</title>
+		<desc>Programa de actualidad con entrevistas, conexiones en directo y reportajes enfocados a la temporada veraniega.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813220000 +0000" stop="20250813223000 +0000">
+		<title>Gravedad zero</title>
+		<desc>Espacio en el que se muestran las mejores historias relacionadas con el ocio y la aventura de todo el mundo, pero sobre todo de Argentina.</desc>
+		<icon src="None"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="TVR.TV" start="20250813223000 +0000" stop="20250814000000 +0000">
+		<title>Toni Rovira y tú</title>
+		<desc>Magacín de entrevistas y espectáculos.</desc>
+		<icon src="None"/>
 		<category>Desconocido</category>
 	</programme>
 </tv>
