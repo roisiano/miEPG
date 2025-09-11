@@ -369,6 +369,9 @@
 	<channel id="InterAlmeria.TV">
 		<display-name>InterAlmeria.TV</display-name>
 	</channel>
+	<channel id="HuelvaTV.TV">
+		<display-name>HuelvaTV.TV</display-name>
+	</channel>
 	<programme channel="La1.TV" start="20250910055000 +0000" stop="20250910083500 +0000">
 		<title>La hora de La 1: La hora de la actualidad</title>
 		<desc>Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
@@ -52254,6 +52257,174 @@ Los temas tratados buscan el referente de la actualidad y cuentan con la colabor
 		<title>La Entrevista (R)</title>
 		<desc>None</desc>
 		<icon src="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250909220000 +0000" stop="20250910063000 +0000">
+		<title>FELICES SUEÑOS</title>
+		<desc>www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/GALAS-OK.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910063000 +0000" stop="20250910070000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910070000 +0000" stop="20250910100000 +0000">
+		<title>REDIFUSIÓN: ESPECIAL MAGNA - TRASLADO VIRGEN DE LA SALUD</title>
+		<desc>Revive el primer traslado previo de la procesión magna mariana junto a la Virgen de la Salud.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/TRAMO-CERO24.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910100000 +0000" stop="20250910110000 +0000">
+		<title>LAS CARAS DE HUELVA</title>
+		<desc>Diego Lopa nos invita a un recorrido fotográfico por la Huelva del ayer.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/lascaras.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910110000 +0000" stop="20250910113000 +0000">
+		<title>HUELVATUBE</title>
+		<desc>Si deseas ver tu video y quieres mostrarnos tus dotes de cameraman en la televisón de tu ciudad, este es tu programa.  www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/huelvatube.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910113000 +0000" stop="20250910120000 +0000">
+		<title>REALIDAD AUMENTADA</title>
+		<desc>Todos los miércoles hacemos zoom en Huelva para conocerla mejor. Con tiempo y detalle, te acercamos a diferentes facetas de la ciudad y sus gentes.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/realidad_aumentada.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910120000 +0000" stop="20250910123000 +0000">
+		<title>CUADERNO AGRARIO</title>
+		<desc>Repasamos la actualidad del sector agroalimentario andaluz www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/CUADERNOAGRARIO.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910123000 +0000" stop="20250910130000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910130000 +0000" stop="20250910173000 +0000">
+		<title>REDIFUSIÓN: ESPECIAL: BAJADA DE LA CINTA</title>
+		<desc>Revive la bajada de nuestra patrona, la Virgen de la Cinta desde su santuario del Conquero.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/TRAMO-CERO24.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910173000 +0000" stop="20250910190000 +0000">
+		<title>REDIFUSIÓN: TRASLADO VIRGEN DE LA CINTA</title>
+		<desc>Revive el traslado extraordinario de la Virgen de la Cinta hasta la parroquia de San Pedro; con motivo de los actos previos a la procesión magna mariana.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/TRAMO-CERO24.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910190000 +0000" stop="20250910193000 +0000">
+		<title>HUELVATUBE</title>
+		<desc>Si deseas ver tu video y quieres mostrarnos tus dotes de cameraman en la televisón de tu ciudad, este es tu programa.  www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/huelvatube.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910193000 +0000" stop="20250910200000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910200000 +0000" stop="20250910213000 +0000">
+		<title>LA PRÓRROGA</title>
+		<desc>La actualidad deportiva de la mano de Nardy Lafuente. Fútbol, baloncesto, bádminton y todo el deporte onubense. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/laprorroga2.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910213000 +0000" stop="20250910220000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250910220000 +0000" stop="20250911063000 +0000">
+		<title>FELICES SUEÑOS</title>
+		<desc>www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/GALAS-OK.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911063000 +0000" stop="20250911070000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911070000 +0000" stop="20250911080000 +0000">
+		<title>LAS CARAS DE HUELVA</title>
+		<desc>Diego Lopa nos invita a un recorrido fotográfico por la Huelva del ayer.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/lascaras.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911080000 +0000" stop="20250911123000 +0000">
+		<title>REDIFUSIÓN: BAJADA DE LA CINTA</title>
+		<desc>Revive el reencuentro de la Virgen de la Cinta con los onubenses.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/TRAMO-CERO24.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911123000 +0000" stop="20250911130000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911130000 +0000" stop="20250911143000 +0000">
+		<title>LA PRÓRROGA</title>
+		<desc>La actualidad deportiva de la mano de Nardy Lafuente. Fútbol, baloncesto, bádminton y todo el deporte onubense. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/laprorroga2.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911143000 +0000" stop="20250911150000 +0000">
+		<title>HUELVATUBE</title>
+		<desc>Si deseas ver tu video y quieres mostrarnos tus dotes de cameraman en la televisón de tu ciudad, este es tu programa.  www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/huelvatube.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911150000 +0000" stop="20250911153000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911153000 +0000" stop="20250911160000 +0000">
+		<title>REALIDAD AUMENTADA</title>
+		<desc>Todos los miércoles hacemos zoom en Huelva para conocerla mejor. Con tiempo y detalle, te acercamos a diferentes facetas de la ciudad y sus gentes.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/realidad_aumentada.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911160000 +0000" stop="20250911170000 +0000">
+		<title>LAS CARAS DE HUELVA</title>
+		<desc>Diego Lopa nos invita a un recorrido fotográfico por la Huelva del ayer.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/lascaras.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911170000 +0000" stop="20250911173000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911173000 +0000" stop="20250911190000 +0000">
+		<title>REDIFUSIÓN: TRASLADO DE LA CINTA</title>
+		<desc>Revive el traslado de la patrona desde La Merced hasta San Pedro.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/TRAMO-CERO24.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911190000 +0000" stop="20250911193000 +0000">
+		<title>SERVICIOS INFORMATIVOS HUELVA</title>
+		<desc>Toda la actualidad de la ciudad al instante de la mano de Pilar Osso y Kiko Ruiz. www.huelvatv.com.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/Noticias.jpg"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="HuelvaTV.TV" start="20250911193000 +0000" stop="20250911200000 +0000">
+		<title>EL ANTETRAMO</title>
+		<desc>Recordamos los mejores momentos de la Semana Santa antes del incio del programa Tramo Cero.</desc>
+		<icon src="http://huelvatv.com/IMAGENES%20PROGRAMAS/antetramo.jpg"/>
 		<category>Desconocido</category>
 	</programme>
 </tv>
