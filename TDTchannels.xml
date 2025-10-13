@@ -198,6 +198,9 @@
 	<channel id="Mitele_Series.TV">
 		<display-name>Mitele_Series.TV</display-name>
 	</channel>
+	<channel id="Mitele_Eventos.TV">
+		<display-name>Mitele_Eventos.TV</display-name>
+	</channel>
 	<channel id="Xarxa_Televisio_BDN.TV">
 		<display-name>Xarxa_Televisio_BDN.TV</display-name>
 	</channel>
@@ -28720,6 +28723,66 @@
 		<title>Hospital Central</title>
 		<desc>Sus protagonistas han salvado más de 300 vidas y han emocionado a los telespectadores resolviendo complejos casos clínicos mientras hacían frente a los vaivenes de sus vidas personales.</desc>
 		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/MS_1760481300000~1760487000000_M030033500015100/image_keyframe_poster/584/329?r=1760481300000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251012060000 +0000" stop="20251012132000 +0000">
+		<title>Hoy a las 15.30h, partido de la NFL en directo</title>
+		<desc>Próximamente en este canal.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760248800000~1760275200000_M340171600000000/image_keyframe_poster/584/329?r=1760248800000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251012132000 +0000" stop="20251012173000 +0000">
+		<title>NFL: Denver Broncos – New York Jets</title>
+		<desc>Retransmisión en directo de la NFL, la principal liga profesional de fútbol americano de Estados Unidos, considerada la más alta de este deporte a nivel mundial.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760275200000~1760290200000_M340171800000000/image_keyframe_poster/584/329?r=1760275200000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251012173000 +0000" stop="20251012190500 +0000">
+		<title>Esta noche a las 21.10h, Conexión Honduras Extra</title>
+		<desc>Próximamente en este canal.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760290200000~1760295900000_M340171600000000/image_keyframe_poster/584/329?r=1760290200000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251012190500 +0000" stop="20251012194500 +0000">
+		<title>SV: Conexión Honduras Extra</title>
+		<desc>La primera media hora de 'Supervivientes: Conexión Honduras', en exclusiva en Mediaset infinity.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760295900000~1760298300000_M340170800000000/image_keyframe_poster/584/329?r=1760295900000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251012194500 +0000" stop="20251013060000 +0000">
+		<title>Lunes a las 21h, Gala 'Uno de GH20'</title>
+		<desc>Próximamente en este canal.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760298300000~1760335200000_M340171600000000/image_keyframe_poster/584/329?r=1760298300000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251013060000 +0000" stop="20251013095500 +0000">
+		<title>Hoy a las 12h, 'ElDe$market'</title>
+		<desc>Próximamente en este canal.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760335200000~1760349360000_M340171600000000/image_keyframe_poster/584/329?r=1760335200000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251013095500 +0000" stop="20251013105500 +0000">
+		<title>ElDe$market</title>
+		<desc>None</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760349300000~1760352900000_M340171700000000/image_keyframe_poster/584/329?r=1760349300000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251013105500 +0000" stop="20251013185000 +0000">
+		<title>Esta noche a las 21h, Gala 'Uno de GH20'</title>
+		<desc>Próximamente en este canal.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760352900000~1760381400000_M340171600000000/image_keyframe_poster/584/329?r=1760352900000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251013185000 +0000" stop="20251013204000 +0000">
+		<title>Uno de GH20</title>
+		<desc>Presentada por Nagore Robles, gala de 'Uno de GH20' con las decisivas nominaciones y expulsiones de cara a encontrar un participante de la próxima edición de 'Gran Hermano'.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760381400000~1760388000000_M340171300000000/image_keyframe_poster/584/329?r=1760381400000%201x"/>
+		<category>Desconocido</category>
+	</programme>
+	<programme channel="Mitele_Eventos.TV" start="20251013204000 +0000" stop="20251015185000 +0000">
+		<title>Miércoles a las 21h, Gala 'Uno de GH20'</title>
+		<desc>Próximamente en este canal.</desc>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/EV_1760388000000~1760554200000_M340171600000000/image_keyframe_poster/584/329?r=1760388000000%201x"/>
 		<category>Desconocido</category>
 	</programme>
 	<programme channel="Xarxa_Televisio_BDN.TV" start="20251012000000 +0000" stop="20251012010000 +0000">
