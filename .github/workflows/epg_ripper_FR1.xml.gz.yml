@@ -23,7 +23,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add mm.color.xml.gz
+          git add epg_ripper_FR1.xml.gz
           git commit -m "Actualización automática de epg_ripper_FR1.xml.gz" || echo "Sin cambios que confirmar"
 
       - name: Subir a tu repositorio
