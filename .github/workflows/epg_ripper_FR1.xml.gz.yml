@@ -1,0 +1,30 @@
+name: Descargar y subir EPG
+
+on:
+  schedule:
+    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
+    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+
+jobs:
+  sync-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar tu repositorio
+        uses: actions/checkout@v3
+
+      - name: Descargar archivo EPG
+        run: |
+          curl -L -o mm.epg_ripper_FR1.xml.gz https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
+
+      - name: Confirmar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mm.color.xml.gz
+          git commit -m "Actualización automática de epg_ripper_FR1.xml.gz" || echo "Sin cambios que confirmar"
+
+      - name: Subir a tu repositorio
+        run: git push
