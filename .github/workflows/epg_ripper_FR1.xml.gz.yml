@@ -17,7 +17,7 @@ jobs:
 
       - name: Descargar archivo EPG
         run: |
-          curl -L -o mm.epg_ripper_FR1.xml.gz https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
+          curl -L -o epg_ripper_FR1.xml.gz https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
 
       - name: Confirmar cambios
         run: |
