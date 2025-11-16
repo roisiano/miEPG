@@ -2,10 +2,10 @@ name: Update EPG File lithuania3.xml
 
 on:
   schedule:
-    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
-    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
-    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
-  workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
+    - cron: '45 5 * * *'   # Ejecuta a las 5:45 AM cada día.
+    - cron: '45 13 * * *'  # Ejecuta a la 1:45 PM cada día.
+    - cron: '45 18 * * *'  # Ejecuta a las 6:45 PM cada día.
+  workflow_dispatch:        # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
   update_epg:
@@ -13,19 +13,19 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Remove existing lithuania3.xml
       run: |
-        rm -f ./lithuania3.xml
+        rm -f lithuania3.xml
         git rm --ignore-unmatch lithuania3.xml
 
     - name: Download the new EPG file
-      run: |
-        wget https://www.open-epg.com/files/lithuania3.xml.gz
-    - name: Decompress the new EPG file 
-      run: |
-        gunzip lithuania3.xml.gz
+      run: wget https://www.open-epg.com/files/lithuania3.xml.gz
+
+    - name: Decompress the new EPG file
+      run: gunzip lithuania3.xml.gz
+
     - name: Format the EPG file
       run: |
         sed -i 's/<title/\n<title/g' lithuania3.xml
@@ -33,13 +33,12 @@ jobs:
         sed -i 's/<desc/\n<desc/g' lithuania3.xml
         sed -i 's/<episode/\n<episode/g' lithuania3.xml
         sed -i 's/<\/programme>/\n<\/programme>/g' lithuania3.xml
-    - name: Save the formatted file as lithuania3.xml
-      run: |
-        mv lithuania3.xml ./lithuania3.xml
-    - name: Commit and force-push the changes
+
+    - name: Commit and push the changes
       run: |
         git config --global user.email "your-email@example.com"
         git config --global user.name "GitHub Actions"
         git add lithuania3.xml
-        git commit -m "Update EPG file" --allow-empty
-        git push origin main --force
+        git commit -m "Update EPG file" || echo "No changes to commit"
+        git push origin main --force-with-lease
+
