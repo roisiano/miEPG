@@ -23,9 +23,11 @@ jobs:
     - name: Download the new EPG file
       run: |
         wget https://www.open-epg.com/files/denmark2.xml.gz
+
     - name: Decompress the new EPG file 
       run: |
         gunzip denmark2.xml.gz
+
     - name: Format the EPG file
       run: |
         sed -i 's/<title/\n<title/g' denmark2.xml
@@ -33,9 +35,17 @@ jobs:
         sed -i 's/<desc/\n<desc/g' denmark2.xml
         sed -i 's/<episode/\n<episode/g' denmark2.xml
         sed -i 's/<\/programme>/\n<\/programme>/g' denmark2.xml
+
+    # 🔄 Nueva etapa: renombrar canales problemáticos
+    - name: Rename specific channels
+      run: |
+        sed -i 's/TV 2 Sport Denmark (DK,DA).dk/TV 2 Sport Denmark.dk/g' denmark2.xml
+        sed -i 's/TV 2 Sport X Denmark (DK,DA).dk/TV 2 Sport X Denmark.dk/g' denmark2.xml
+
     - name: Save the formatted file as DEN.xml
       run: |
         mv denmark2.xml ./DEN.xml
+
     - name: Commit and force-push the changes
       run: |
         git config --global user.email "your-email@example.com"
@@ -43,3 +53,4 @@ jobs:
         git add DEN.xml
         git commit -m "Update EPG file" --allow-empty
         git push origin main --force
+
