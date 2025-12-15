@@ -14,16 +14,19 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        fetch-depth: 0   # Trae todo el historial para poder hacer pull/rebase
 
     - name: Download the EPG file
       run: |
         wget https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz
+
     - name: Decompress the EPG file
       run: |
         gunzip epg_ripper_NO1.xml.gz
+
     - name: Perform replacements in the EPG file
       run: |
-        # Reemplazar los nombres de canales con las nuevas secuencias
         sed -i 's/TV.2.Sport.1.Norway.(NO,NO).no/NO - TV2 Sport1/' epg_ripper_NO1.xml
         sed -i 's/TV.2.Sport.2.Norway.(NO,NO).no/NO - TV2 Sport2/' epg_ripper_NO1.xml
         sed -i 's/Viasport.1.Norway.(NO,NO).no/NO - V Sport 1/' epg_ripper_NO1.xml
@@ -38,14 +41,18 @@ jobs:
         sed -i 's/TV 2 Sport Premium (NO,NO)/NO - TV2 Sport Premium/' epg_ripper_NO1.xml
         sed -i 's/TV3.Norway.(NO,NO).no/NO - TV3/' epg_ripper_NO1.xml
         sed -i 's/TV3+.Norway.(NO,NO).no/NO - TV3+/' epg_ripper_NO1.xml
+
     - name: Move the file to the repository
       run: |
         mv epg_ripper_NO1.xml ./NOR.xml
+
     - name: Commit and push the changes
       run: |
         git config --global user.email "your-email@example.com"
         git config --global user.name "GitHub Actions"
         git add NOR.xml
-        git commit -m "Update EPG with name changes"
+        git commit -m "Update EPG with name changes" || echo "No changes to commit"
+        git pull --rebase origin main
         git push origin main
+
 
