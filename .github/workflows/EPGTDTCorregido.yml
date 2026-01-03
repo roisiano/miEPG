@@ -24,7 +24,7 @@ jobs:
         curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
         gunzip "EPG-corregido/TV.xml.gz"
 
-    - name: Correcciones XMLTV automáticas (seguras)
+    - name: Correcciones XMLTV automáticas (seguras y completas)
       run: |
         python3 <<EOF
         import re
@@ -46,7 +46,8 @@ jobs:
         # 4. Escapar & ilegales en TODO el XML
         xml = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', xml)
 
-        # 5. Escapar < ilegales que NO sean etiquetas XML
+        # 5. Escapar < ilegales que NO sean etiquetas XML válidas
+        #    (evita casos como "<un extraordinario")
         xml = re.sub(r'<(?!(\/|!|\?|[A-Za-z]))', '&lt;', xml)
 
         # 6. Corregir SOLO el texto entre etiquetas
@@ -87,7 +88,6 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 
 
