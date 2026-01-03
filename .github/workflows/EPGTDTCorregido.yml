@@ -24,7 +24,7 @@ jobs:
         curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
         gunzip "EPG-corregido/TV.xml.gz"
 
-    - name: Correcciones XMLTV automáticas
+    - name: Correcciones XMLTV automáticas (seguras)
       run: |
         python3 <<EOF
         import re
@@ -33,29 +33,27 @@ jobs:
         with open(path, "r", encoding="utf-8") as f:
             xml = f.read()
 
-        # 1. Eliminar BOM si existe
+        # 1. Eliminar BOM
         xml = xml.lstrip("\ufeff")
 
         # 2. Reemplazar etiqueta malformada >br<
         xml = xml.replace(">br<", "<br/>")
 
-        # 3. Reemplazar & ilegales (que no sean &amp;)
-        xml = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;)", "&amp;", xml)
-
-        # 4. Escapar < ilegales dentro de texto
-        xml = re.sub(r"(?<!<)<(?=[^/!?])", "&lt;", xml)
-
-        # 5. Escapar > ilegales dentro de texto
-        xml = re.sub(r"(?<!>)>(?=[^<])", "&gt;", xml)
-
-        # 6. Eliminar espacios no separables (C2 A0)
+        # 3. Eliminar espacios no separables y zero-width
         xml = xml.replace("\u00A0", " ")
-
-        # 7. Eliminar zero-width spaces (E2 80 8B)
         xml = xml.replace("\u200B", "")
 
-        # 8. Normalizar saltos de línea
-        xml = xml.replace("\r\n", "\n").replace("\r", "\n")
+        # 4. Corregir SOLO el texto entre etiquetas, sin tocar etiquetas
+        def fix_text(match):
+            text = match.group(1)
+            # Escapar entidades ilegales
+            text = text.replace("&", "&amp;")
+            text = text.replace("<", "&lt;")
+            text = text.replace(">", "&gt;")
+            return f">{text}<"
+
+        # Reemplaza únicamente el contenido entre >...<
+        xml = re.sub(r">(.*?)<", fix_text, xml, flags=re.DOTALL)
 
         with open(path, "w", encoding="utf-8") as f:
             f.write(xml)
@@ -85,6 +83,7 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
