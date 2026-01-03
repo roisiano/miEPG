@@ -2,9 +2,9 @@ name: EPG TDT corregido
 
 on:
   schedule:
-    - cron: '55 6 * * *'   # 6:55 AM
-    - cron: '55 14 * * *'  # 2:55 PM
-    - cron: '55 19 * * *'  # 7:55 PM
+    - cron: '55 6 * * *'
+    - cron: '55 14 * * *'
+    - cron: '55 19 * * *'
   workflow_dispatch:
 
 permissions:
@@ -24,18 +24,48 @@ jobs:
         curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
         gunzip "EPG-corregido/TV.xml.gz"
 
-    - name: Corregir etiqueta malformada >br<
+    - name: Correcciones XMLTV automáticas
       run: |
         python3 <<EOF
-        with open("EPG-corregido/TV.xml", "r", encoding="utf-8") as f:
-            content = f.read()
+        import re
 
-        # Reemplazar >br< por <br/>
-        content = content.replace(">br<", "<br/>")
+        path = "EPG-corregido/TV.xml"
+        with open(path, "r", encoding="utf-8") as f:
+            xml = f.read()
 
-        with open("EPG-corregido/TV.xml", "w", encoding="utf-8") as f:
-            f.write(content)
+        # 1. Eliminar BOM si existe
+        xml = xml.lstrip("\ufeff")
+
+        # 2. Reemplazar etiqueta malformada >br<
+        xml = xml.replace(">br<", "<br/>")
+
+        # 3. Reemplazar & ilegales (que no sean &amp;)
+        xml = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;)", "&amp;", xml)
+
+        # 4. Escapar < ilegales dentro de texto
+        xml = re.sub(r"(?<!<)<(?=[^/!?])", "&lt;", xml)
+
+        # 5. Escapar > ilegales dentro de texto
+        xml = re.sub(r"(?<!>)>(?=[^<])", "&gt;", xml)
+
+        # 6. Eliminar espacios no separables (C2 A0)
+        xml = xml.replace("\u00A0", " ")
+
+        # 7. Eliminar zero-width spaces (E2 80 8B)
+        xml = xml.replace("\u200B", "")
+
+        # 8. Normalizar saltos de línea
+        xml = xml.replace("\r\n", "\n").replace("\r", "\n")
+
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(xml)
         EOF
+
+    - name: Validar XML con xmllint
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libxml2-utils
+        xmllint --noout EPG-corregido/TV.xml
 
     - name: Comprimir archivo corregido
       run: gzip -c "EPG-corregido/TV.xml" > "EPG-corregido.xml.gz"
@@ -51,7 +81,7 @@ jobs:
     - name: Subir archivo corregido
       run: |
         git add EPG-corregido.xml.gz
-        git commit -m "Corrección puntual de etiqueta >br< en EPG-corregido.xml.gz"
+        git diff --cached --quiet || git commit -m "Correcciones automáticas XMLTV"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
