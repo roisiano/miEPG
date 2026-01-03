@@ -43,16 +43,18 @@ jobs:
         xml = xml.replace("\u00A0", " ")
         xml = xml.replace("\u200B", "")
 
-        # 4. Corregir SOLO el texto entre etiquetas, sin tocar etiquetas
+        # 4. Escapar & ilegales en TODO el XML (texto y atributos)
+        #    pero sin tocar entidades válidas (&amp; &lt; &gt; &quot; &apos;)
+        xml = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', xml)
+
+        # 5. Corregir SOLO el texto entre etiquetas
         def fix_text(match):
             text = match.group(1)
-            # Escapar entidades ilegales
             text = text.replace("&", "&amp;")
             text = text.replace("<", "&lt;")
             text = text.replace(">", "&gt;")
             return f">{text}<"
 
-        # Reemplaza únicamente el contenido entre >...<
         xml = re.sub(r">(.*?)<", fix_text, xml, flags=re.DOTALL)
 
         with open(path, "w", encoding="utf-8") as f:
@@ -83,6 +85,7 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
