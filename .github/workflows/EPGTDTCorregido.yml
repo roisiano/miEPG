@@ -24,7 +24,7 @@ jobs:
         curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
         gunzip "EPG-corregido/TV.xml.gz"
 
-    - name: Correcciones XMLTV automáticas (solo dentro de <title> y <desc>)
+    - name: Correcciones XMLTV automáticas (atributos + title/desc + borrar icon)
       run: |
         python3 <<EOF
         import re
@@ -43,23 +43,26 @@ jobs:
         xml = xml.replace("\u00A0", " ")
         xml = xml.replace("\u200B", "")
 
-        # --- FUNCIÓN DE LIMPIEZA SOLO PARA TEXTO ENTRE ETIQUETAS ---
+        # 4. ELIMINAR TODAS LAS ETIQUETAS <icon ...>
+        xml = re.sub(r"<icon[^>]*>", "", xml)
+
+        # 5. Escapar & ilegales en TODO el XML (incluye atributos)
+        xml = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', xml)
+
+        # 6. Limpiar SOLO <title>...</title>
         def clean_text(text):
-            # Escapar entidades ilegales
             text = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', text)
-            # Escapar < y >
             text = text.replace("<", "&lt;")
             text = text.replace(">", "&gt;")
             return text
 
-        # --- LIMPIAR SOLO <title>...</title> ---
         def fix_title(match):
             inner = clean_text(match.group(1))
             return f"<title>{inner}</title>"
 
         xml = re.sub(r"<title>(.*?)</title>", fix_title, xml, flags=re.DOTALL)
 
-        # --- LIMPIAR SOLO <desc>...</desc> ---
+        # 7. Limpiar SOLO <desc>...</desc>
         def fix_desc(match):
             inner = clean_text(match.group(1))
             return f"<desc>{inner}</desc>"
@@ -90,7 +93,7 @@ jobs:
     - name: Subir archivo corregido
       run: |
         git add EPG-corregido.xml.gz
-        git diff --cached --quiet || git commit -m "Correcciones automáticas XMLTV (title/desc)"
+        git diff --cached --quiet || git commit -m "Correcciones automáticas XMLTV (sin icon src)"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
