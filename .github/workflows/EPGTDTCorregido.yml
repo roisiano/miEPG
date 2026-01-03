@@ -24,7 +24,7 @@ jobs:
         curl -L https://www.tdtchannels.com/epg/TV.xml.gz -o "EPG-corregido/TV.xml.gz"
         gunzip "EPG-corregido/TV.xml.gz"
 
-    - name: Correcciones XMLTV automáticas (atributos + title/desc + borrar icon)
+    - name: Correcciones XMLTV automáticas (atributos + title/desc + borrar icon + limpiar líneas)
       run: |
         python3 <<EOF
         import re
@@ -49,25 +49,29 @@ jobs:
         # 5. Escapar & ilegales en TODO el XML (incluye atributos)
         xml = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', xml)
 
-        # 6. Limpiar SOLO <title>...</title>
+        # --- FUNCIÓN DE LIMPIEZA SOLO PARA TEXTO ENTRE ETIQUETAS ---
         def clean_text(text):
             text = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', text)
             text = text.replace("<", "&lt;")
             text = text.replace(">", "&gt;")
             return text
 
+        # --- LIMPIAR SOLO <title>...</title> ---
         def fix_title(match):
             inner = clean_text(match.group(1))
             return f"<title>{inner}</title>"
 
         xml = re.sub(r"<title>(.*?)</title>", fix_title, xml, flags=re.DOTALL)
 
-        # 7. Limpiar SOLO <desc>...</desc>
+        # --- LIMPIAR SOLO <desc>...</desc> ---
         def fix_desc(match):
             inner = clean_text(match.group(1))
             return f"<desc>{inner}</desc>"
 
         xml = re.sub(r"<desc>(.*?)</desc>", fix_desc, xml, flags=re.DOTALL)
+
+        # 6. ELIMINAR LÍNEAS EN BLANCO
+        xml = "\n".join([line for line in xml.splitlines() if line.strip()])
 
         with open(path, "w", encoding="utf-8") as f:
             f.write(xml)
@@ -93,10 +97,11 @@ jobs:
     - name: Subir archivo corregido
       run: |
         git add EPG-corregido.xml.gz
-        git diff --cached --quiet || git commit -m "Correcciones automáticas XMLTV (sin icon src)"
+        git diff --cached --quiet || git commit -m "Correcciones automáticas XMLTV (sin icon, limpio, sin líneas en blanco)"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
