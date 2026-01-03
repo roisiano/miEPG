@@ -43,11 +43,13 @@ jobs:
         xml = xml.replace("\u00A0", " ")
         xml = xml.replace("\u200B", "")
 
-        # 4. Escapar & ilegales en TODO el XML (texto y atributos)
-        #    pero sin tocar entidades válidas (&amp; &lt; &gt; &quot; &apos;)
+        # 4. Escapar & ilegales en TODO el XML
         xml = re.sub(r'&(?!amp;|lt;|gt;|quot;|apos;)', '&amp;', xml)
 
-        # 5. Corregir SOLO el texto entre etiquetas
+        # 5. Escapar < ilegales que NO sean etiquetas XML
+        xml = re.sub(r'<(?!(\/|!|\?|[A-Za-z]))', '&lt;', xml)
+
+        # 6. Corregir SOLO el texto entre etiquetas
         def fix_text(match):
             text = match.group(1)
             text = text.replace("&", "&amp;")
