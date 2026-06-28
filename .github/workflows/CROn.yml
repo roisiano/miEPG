@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write
-  workflows: write
 
 jobs:
   update_epg:
@@ -51,4 +50,3 @@ jobs:
         git add CROn.xml
         git commit -m "Update EPG file" --allow-empty
         git push origin main --force
-
