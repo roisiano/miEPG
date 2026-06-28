@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 28/06/2026 20:23" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 28/06/2026 21:52" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Eurosport 1 (MAX)">
     <display-name>Eurosport 1 (MAX)</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -644,6 +644,51 @@
   </channel>
   <channel id="Arena Sport 10 Croatia">
     <display-name>Arena Sport 10 Croatia</display-name>
+  </channel>
+  <channel id="SPORT KLUB 1 Croatia">
+    <display-name>SPORT KLUB 1 Croatia</display-name>
+<channel id="SK1HD.hr"><display-name>SK 1 HD.hr</display-name><icon src="https://images.open-epg.com/10294433.png"/></channel>
+<channel id="SK2HR.hr"><display-name>SK 2 HR.hr</display-name><icon src="https://images.open-epg.com/10294437.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 2 Croatia">
+    <display-name>SPORT KLUB 2 Croatia</display-name>
+<channel id="SK2HR.hr"><display-name>SK 2 HR.hr</display-name><icon src="https://images.open-epg.com/10294437.png"/></channel>
+<channel id="SK3HR.hr"><display-name>SK 3 HR.hr</display-name><icon src="https://images.open-epg.com/10294438.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 3 Croatia">
+    <display-name>SPORT KLUB 3 Croatia</display-name>
+<channel id="SK3HR.hr"><display-name>SK 3 HR.hr</display-name><icon src="https://images.open-epg.com/10294438.png"/></channel>
+<channel id="SK4HR.hr"><display-name>SK 4 HR.hr</display-name><icon src="https://images.open-epg.com/10294439.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 4 Croatia">
+    <display-name>SPORT KLUB 4 Croatia</display-name>
+<channel id="SK4HR.hr"><display-name>SK 4 HR.hr</display-name><icon src="https://images.open-epg.com/10294439.png"/></channel>
+<channel id="SK5HR.hr"><display-name>SK 5 HR.hr</display-name><icon src="https://images.open-epg.com/10294440.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 5 Croatia">
+    <display-name>SPORT KLUB 5 Croatia</display-name>
+<channel id="SK5HR.hr"><display-name>SK 5 HR.hr</display-name><icon src="https://images.open-epg.com/10294440.png"/></channel>
+<channel id="SK6HR.hr"><display-name>SK 6 HR.hr</display-name><icon src="https://images.open-epg.com/10294441.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 6 Croatia">
+    <display-name>SPORT KLUB 6 Croatia</display-name>
+<channel id="SK6HR.hr"><display-name>SK 6 HR.hr</display-name><icon src="https://images.open-epg.com/10294441.png"/></channel>
+<channel id="SK7HDHR.hr"><display-name>SK 7 HD HR.hr</display-name><icon src="https://images.open-epg.com/10115461.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 7 Croatia">
+    <display-name>SPORT KLUB 7 Croatia</display-name>
+<channel id="SK7HDHR.hr"><display-name>SK 7 HD HR.hr</display-name><icon src="https://images.open-epg.com/10115461.png"/></channel>
+<channel id="SK8HDHR.hr"><display-name>SK 8 HD HR.hr</display-name><icon src="https://images.open-epg.com/13338314.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 8 Croatia">
+    <display-name>SPORT KLUB 8 Croatia</display-name>
+<channel id="SK8HDHR.hr"><display-name>SK 8 HD HR.hr</display-name><icon src="https://images.open-epg.com/13338314.png"/></channel>
+<channel id="SK9HDHR.hr"><display-name>SK 9 HD HR.hr</display-name><icon src="https://images.open-epg.com/13338315.png"/></channel>
+  </channel>
+  <channel id="SPORT KLUB 9 Croatia">
+    <display-name>SPORT KLUB 9 Croatia</display-name>
+<channel id="SK9HDHR.hr"><display-name>SK 9 HD HR.hr</display-name><icon src="https://images.open-epg.com/13338315.png"/></channel>
+<channel id="SKEsports.hr"><display-name>SK Esports.hr</display-name><icon src="https://images.open-epg.com/10294445.png"/></channel>
   </channel>
   <channel id="Super Sport 1AL">
     <display-name>Super Sport 1AL</display-name>
@@ -93776,6 +93821,1534 @@
 <programme start="20260626020000 +0000" stop="20260626060000 +0000" channel="Arena Sport 10 Croatia">
 <title>Najava programa</title>
 <desc>Pogledajte što vas sve očekuje u našem programu.</desc>
+</programme>
+<programme start="20260627233000 +0000" stop="20260628010000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>ATP 250 Mallorca - FINALE: Quinn - Davidovich-Fokina</title>
+<desc>ATP 250 Mallorca - FINALE: Quinn - Davidovich-Fokina</desc>
+</programme>
+<programme start="20260628010000 +0000" stop="20260628023000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Odbojka - Liga nacija (M): USA - Japan</title>
+<desc>Odbojka - Liga nacija (M): USA - Japan</desc>
+</programme>
+<programme start="20260628023000 +0000" stop="20260628040000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>WTA 500 Bad Homburg - FINALE: Muchova - Osaka</title>
+<desc>WTA 500 Bad Homburg - FINALE: Muchova - Osaka</desc>
+</programme>
+<programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 2</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 2</desc>
+</programme>
+<programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 3</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 3</desc>
+</programme>
+<programme start="20260628060000 +0000" stop="20260628064000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Velikani hrvatskog sporta: Marko Mlinarić</title>
+<desc>Velikani hrvatskog sporta: Marko Mlinarić</desc>
+</programme>
+<programme start="20260628064000 +0000" stop="20260628072000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Moto GP Rookies Cup: Assen - 2. UTRKA</title>
+<desc>UŽIVO: Moto GP Rookies Cup: Assen - 2. UTRKA</desc>
+</programme>
+<programme start="20260628072000 +0000" stop="20260628074000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>SK Moments</title>
+<desc>SK Moments</desc>
+</programme>
+<programme start="20260628074000 +0000" stop="20260628081000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Moto GP Assen: Moto GP - Warm Up</title>
+<desc>UŽIVO: Moto GP Assen: Moto GP - Warm Up</desc>
+</programme>
+<programme start="20260628081000 +0000" stop="20260628090000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: JutroSK</title>
+<desc>UŽIVO: JutroSK</desc>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628101500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Moto GP Assen: Moto 3 - UTRKA</title>
+<desc>UŽIVO: Moto GP Assen: Moto 3 - UTRKA</desc>
+</programme>
+<programme start="20260628101500 +0000" stop="20260628120000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Moto GP Assen: Moto 2 - UTRKA</title>
+<desc>UŽIVO: Moto GP Assen: Moto 2 - UTRKA</desc>
+</programme>
+<programme start="20260628120000 +0000" stop="20260628131500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Moto GP Assen: Moto GP - UTRKA</title>
+<desc>UŽIVO: Moto GP Assen: Moto GP - UTRKA</desc>
+</programme>
+<programme start="20260628131500 +0000" stop="20260628133000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Zlatni momenti YU sporta</title>
+<desc>Zlatni momenti YU sporta</desc>
+</programme>
+<programme start="20260628133000 +0000" stop="20260628140000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Harley Davidson Bagger Cup: Assen - 2. UTRKA</title>
+<desc>UŽIVO: Harley Davidson Bagger Cup: Assen - 2. UTRKA</desc>
+</programme>
+<programme start="20260628140000 +0000" stop="20260628143000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Velikani hrvatskog sporta: Vilson Džoni</title>
+<desc>Velikani hrvatskog sporta: Vilson Džoni</desc>
+</programme>
+<programme start="20260628143000 +0000" stop="20260628160000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Canada - Brazil</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Canada - Brazil</desc>
+</programme>
+<programme start="20260628160000 +0000" stop="20260628163000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>NBA Action (36)</title>
+<desc>NBA Action (36)</desc>
+</programme>
+<programme start="20260628163000 +0000" stop="20260628165500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon - Najava</title>
+<desc>Grand Slam Wimbledon - Najava</desc>
+</programme>
+<programme start="20260628165500 +0000" stop="20260628183000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 5</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 5</desc>
+</programme>
+<programme start="20260628183000 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Slovenia - Italy</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Slovenia - Italy</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628225000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Wimbledon 2025 - FINALE (M): Sinner - Alcaraz</title>
+<desc>Wimbledon 2025 - FINALE (M): Sinner - Alcaraz</desc>
+</programme>
+<programme start="20260628225000 +0000" stop="20260629002000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Odbojka - Liga nacija (M): Iran - Cuba</title>
+<desc>Odbojka - Liga nacija (M): Iran - Cuba</desc>
+</programme>
+<programme start="20260629002000 +0000" stop="20260629004500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon - Najava</title>
+<desc>Grand Slam Wimbledon - Najava</desc>
+</programme>
+<programme start="20260629004500 +0000" stop="20260629030000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Cage Warriors 208: O2 London</title>
+<desc>Cage Warriors 208: O2 London</desc>
+</programme>
+<programme start="20260629030000 +0000" stop="20260629043000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Odbojka - Liga nacija (M): Serbia - USA</title>
+<desc>Odbojka - Liga nacija (M): Serbia - USA</desc>
+</programme>
+<programme start="20260629043000 +0000" stop="20260629045500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Ekstremni svijet sporta (25)</title>
+<desc>Ekstremni svijet sporta (25)</desc>
+</programme>
+<programme start="20260629045500 +0000" stop="20260629063000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Odbojka - Liga nacija (M): Poland - Argentina</title>
+<desc>Odbojka - Liga nacija (M): Poland - Argentina</desc>
+</programme>
+<programme start="20260629063000 +0000" stop="20260629080000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>ATP 250 Eastbourne - FINALE</title>
+<desc>ATP 250 Eastbourne - FINALE</desc>
+</programme>
+<programme start="20260629080000 +0000" stop="20260629083000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>NBA Action (36)</title>
+<desc>NBA Action (36)</desc>
+</programme>
+<programme start="20260629083000 +0000" stop="20260629090000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon - Najava</title>
+<desc>Grand Slam Wimbledon - Najava</desc>
+</programme>
+<programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: JutroSK</title>
+<desc>UŽIVO: JutroSK</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629120000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Bencic - Stojsavljevic</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Bencic - Stojsavljevic</desc>
+</programme>
+<programme start="20260629120000 +0000" stop="20260629150000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Ružić - Raducanu</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Ružić - Raducanu</desc>
+</programme>
+<programme start="20260629150000 +0000" stop="20260629173000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Čilić - Medvedev</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Čilić - Medvedev</desc>
+</programme>
+<programme start="20260629173000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Linette - Andreeva</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Linette - Andreeva</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629211500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Moto GP Assen: Moto GP - UTRKA</title>
+<desc>Moto GP Assen: Moto GP - UTRKA</desc>
+</programme>
+<programme start="20260629211500 +0000" stop="20260629224500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon: Sinner - Kecmanović</title>
+<desc>Grand Slam Wimbledon: Sinner - Kecmanović</desc>
+</programme>
+<programme start="20260629224500 +0000" stop="20260629234000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Wimbledon - Pregled 1. DANA</title>
+<desc>Wimbledon - Pregled 1. DANA</desc>
+</programme>
+<programme start="20260629234000 +0000" stop="20260630010000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon: Sabalenka - Kostović</title>
+<desc>Grand Slam Wimbledon: Sabalenka - Kostović</desc>
+</programme>
+<programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon: Wu - Djoković</title>
+<desc>Grand Slam Wimbledon: Wu - Djoković</desc>
+</programme>
+<programme start="20260630020000 +0000" stop="20260630040000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon: Walton - Prižmić</title>
+<desc>Grand Slam Wimbledon: Walton - Prižmić</desc>
+</programme>
+<programme start="20260630040000 +0000" stop="20260630063000 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Grand Slam Wimbledon: Zheng - Norrie</title>
+<desc>Grand Slam Wimbledon: Zheng - Norrie</desc>
+</programme>
+<programme start="20260630063000 +0000" stop="20260630080500 +0000" channel="SPORT KLUB 1 Croatia">
+<title>Basket 3x3 Pro Tour: Hvar</title>
+<desc>Basket 3x3 Pro Tour: Hvar</desc>
+</programme>
+<programme start="20260627234500 +0000" stop="20260628011500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Odbojka - Liga nacija (M): Turkiye - Argentina</title>
+<desc>Odbojka - Liga nacija (M): Turkiye - Argentina</desc>
+</programme>
+<programme start="20260628011500 +0000" stop="20260628041500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Basket 3x3 Pro Tour: Hvar</title>
+<desc>Basket 3x3 Pro Tour: Hvar</desc>
+</programme>
+<programme start="20260628041500 +0000" stop="20260628054500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Odbojka - Liga nacija (M): Slovenia - Brazil</title>
+<desc>Odbojka - Liga nacija (M): Slovenia - Brazil</desc>
+</programme>
+<programme start="20260628054500 +0000" stop="20260628070000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>WTA 500 Bad Homburg - (parovi) FINALE: Sutjiadi/Zvonareva - Perez/Schuurs</title>
+<desc>WTA 500 Bad Homburg - (parovi) FINALE: Sutjiadi/Zvonareva - Perez/Schuurs</desc>
+</programme>
+<programme start="20260628070000 +0000" stop="20260628083000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>ATP 250 Mallorca - FINALE: Quinn - Davidovich-Fokina</title>
+<desc>ATP 250 Mallorca - FINALE: Quinn - Davidovich-Fokina</desc>
+</programme>
+<programme start="20260628083000 +0000" stop="20260628100000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Košarka - prijateljska: Slovenia - Italy</title>
+<desc>Košarka - prijateljska: Slovenia - Italy</desc>
+</programme>
+<programme start="20260628100000 +0000" stop="20260628113000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>WTA 500 Bad Homburg - FINALE: Muchova - Osaka</title>
+<desc>WTA 500 Bad Homburg - FINALE: Muchova - Osaka</desc>
+</programme>
+<programme start="20260628113000 +0000" stop="20260628130000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Iran - Cuba</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Iran - Cuba</desc>
+</programme>
+<programme start="20260628130000 +0000" stop="20260628150000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Wimbledon 2024 - FINALE (Ž): Krejcikova - Paolini</title>
+<desc>Wimbledon 2024 - FINALE (Ž): Krejcikova - Paolini</desc>
+</programme>
+<programme start="20260628150000 +0000" stop="20260628163000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Odbojka (M) - Liga nacija: France - Japan</title>
+<desc>UŽIVO: Odbojka (M) - Liga nacija: France - Japan</desc>
+</programme>
+<programme start="20260628163000 +0000" stop="20260628164500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Legende Eurolige</title>
+<desc>Legende Eurolige</desc>
+</programme>
+<programme start="20260628164500 +0000" stop="20260628180000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Moto GP Assen: Moto GP - UTRKA</title>
+<desc>Moto GP Assen: Moto GP - UTRKA</desc>
+</programme>
+<programme start="20260628180000 +0000" stop="20260628183000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Grand Slam Wimbledon - Najava</title>
+<desc>Grand Slam Wimbledon - Najava</desc>
+</programme>
+<programme start="20260628183000 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Serbia - USA</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Serbia - USA</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628202500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>The Greatest of All Time (06)</title>
+<desc>The Greatest of All Time (06)</desc>
+</programme>
+<programme start="20260628202500 +0000" stop="20260628212500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Moto GP Assen: Moto 3 - UTRKA</title>
+<desc>Moto GP Assen: Moto 3 - UTRKA</desc>
+</programme>
+<programme start="20260628212500 +0000" stop="20260628223000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Moto GP Assen: Moto 2 - UTRKA</title>
+<desc>Moto GP Assen: Moto 2 - UTRKA</desc>
+</programme>
+<programme start="20260628223000 +0000" stop="20260628233000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 4</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 4</desc>
+</programme>
+<programme start="20260628233000 +0000" stop="20260629010000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 5</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 5</desc>
+</programme>
+<programme start="20260629010000 +0000" stop="20260629023000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Odbojka - Liga nacija (M): Poland - Argentina</title>
+<desc>Odbojka - Liga nacija (M): Poland - Argentina</desc>
+</programme>
+<programme start="20260629023000 +0000" stop="20260629041500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Španjolska košarka Playoffs - FINALE (G4): Barcelona - Valencia</title>
+<desc>Španjolska košarka Playoffs - FINALE (G4): Barcelona - Valencia</desc>
+</programme>
+<programme start="20260629041500 +0000" stop="20260629070500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Wimbledon 2025 - FINALE (M): Sinner - Alcaraz</title>
+<desc>Wimbledon 2025 - FINALE (M): Sinner - Alcaraz</desc>
+</programme>
+<programme start="20260629070500 +0000" stop="20260629073000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Grand Slam Wimbledon - Najava</title>
+<desc>Grand Slam Wimbledon - Najava</desc>
+</programme>
+<programme start="20260629073000 +0000" stop="20260629075500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>The Greatest of All Time (09)</title>
+<desc>The Greatest of All Time (09)</desc>
+</programme>
+<programme start="20260629075500 +0000" stop="20260629093000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Odbojka - Liga nacija (M): Slovenia - Italy</title>
+<desc>Odbojka - Liga nacija (M): Slovenia - Italy</desc>
+</programme>
+<programme start="20260629093000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>NBA On Fire (35)</title>
+<desc>NBA On Fire (35)</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629123000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Cristian - Jovic</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Cristian - Jovic</desc>
+</programme>
+<programme start="20260629123000 +0000" stop="20260629143000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Sinner - Kecmanović</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Sinner - Kecmanović</desc>
+</programme>
+<programme start="20260629143000 +0000" stop="20260629160000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Sabalenka - Kostović</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Sabalenka - Kostović</desc>
+</programme>
+<programme start="20260629160000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Wu - Djoković</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Wu - Djoković</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629203000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Ekstremni svijet sporta (25)</title>
+<desc>Ekstremni svijet sporta (25)</desc>
+</programme>
+<programme start="20260629203000 +0000" stop="20260629220000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Košarka - prijateljska: Slovenia - Italy</title>
+<desc>Košarka - prijateljska: Slovenia - Italy</desc>
+</programme>
+<programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Grand Slam Wimbledon: Ružić - Raducanu</title>
+<desc>Grand Slam Wimbledon: Ružić - Raducanu</desc>
+</programme>
+<programme start="20260629230000 +0000" stop="20260630001500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Grand Slam Wimbledon: Linette - Andreeva</title>
+<desc>Grand Slam Wimbledon: Linette - Andreeva</desc>
+</programme>
+<programme start="20260630001500 +0000" stop="20260630013500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Grand Slam Wimbledon: Korpatsch - Gauff</title>
+<desc>Grand Slam Wimbledon: Korpatsch - Gauff</desc>
+</programme>
+<programme start="20260630013500 +0000" stop="20260630020000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>NBA Action (36)</title>
+<desc>NBA Action (36)</desc>
+</programme>
+<programme start="20260630020000 +0000" stop="20260630041500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Cage Warriors 208: O2 London</title>
+<desc>Cage Warriors 208: O2 London</desc>
+</programme>
+<programme start="20260630041500 +0000" stop="20260630055000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Odbojka - Liga nacija (M): Canada - Brazil</title>
+<desc>Odbojka - Liga nacija (M): Canada - Brazil</desc>
+</programme>
+<programme start="20260630055000 +0000" stop="20260630061500 +0000" channel="SPORT KLUB 2 Croatia">
+<title>The Greatest of All Time (10)</title>
+<desc>The Greatest of All Time (10)</desc>
+</programme>
+<programme start="20260630061500 +0000" stop="20260630073000 +0000" channel="SPORT KLUB 2 Croatia">
+<title>Grand Slam Wimbledon: Bencic - Stojsavljevic</title>
+<desc>Grand Slam Wimbledon: Bencic - Stojsavljevic</desc>
+</programme>
+<programme start="20260627234500 +0000" stop="20260628002000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Harley Davidson Bagger Cup: Assen - 1. UTRKA</title>
+<desc>Harley Davidson Bagger Cup: Assen - 1. UTRKA</desc>
+</programme>
+<programme start="20260628002000 +0000" stop="20260628010500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Moto GP Rookies Cup: Assen - 1. UTRKA</title>
+<desc>Moto GP Rookies Cup: Assen - 1. UTRKA</desc>
+</programme>
+<programme start="20260628010500 +0000" stop="20260628013000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>NBA Action (36)</title>
+<desc>NBA Action (36)</desc>
+</programme>
+<programme start="20260628013000 +0000" stop="20260628031000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Španjolska košarka Playoffs - FINALE (G4): Barcelona - Valencia</title>
+<desc>Španjolska košarka Playoffs - FINALE (G4): Barcelona - Valencia</desc>
+</programme>
+<programme start="20260628031000 +0000" stop="20260628044500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Odbojka - Liga nacija (M): France - Serbia</title>
+<desc>Odbojka - Liga nacija (M): France - Serbia</desc>
+</programme>
+<programme start="20260628044500 +0000" stop="20260628063000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Nogomet - arhiva EP (1984): Francuska - Jugoslavija</title>
+<desc>Nogomet - arhiva EP (1984): Francuska - Jugoslavija</desc>
+</programme>
+<programme start="20260628063000 +0000" stop="20260628073000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: WRC: Acropolis Rally Greece - TV etapa 4</title>
+<desc>UŽIVO: WRC: Acropolis Rally Greece - TV etapa 4</desc>
+</programme>
+<programme start="20260628073000 +0000" stop="20260628090000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Odbojka - Liga nacija (M): USA - Japan</title>
+<desc>Odbojka - Liga nacija (M): USA - Japan</desc>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628092500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Flashpoint</title>
+<desc>Flashpoint</desc>
+</programme>
+<programme start="20260628092500 +0000" stop="20260628110000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Odbojka - Liga nacija (M): Poland - Germany</title>
+<desc>Odbojka - Liga nacija (M): Poland - Germany</desc>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628123000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: WRC: Acropolis Rally Greece - TV etapa 5</title>
+<desc>UŽIVO: WRC: Acropolis Rally Greece - TV etapa 5</desc>
+</programme>
+<programme start="20260628123000 +0000" stop="20260628141000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Nogomet - Arhiva EP (2000): SR Jugoslavija - Španjolska</title>
+<desc>Nogomet - Arhiva EP (2000): SR Jugoslavija - Španjolska</desc>
+</programme>
+<programme start="20260628141000 +0000" stop="20260628143000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Zlatni golovi YU sporta</title>
+<desc>Zlatni golovi YU sporta</desc>
+</programme>
+<programme start="20260628143000 +0000" stop="20260628160000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Belgium - Turkiye</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Belgium - Turkiye</desc>
+</programme>
+<programme start="20260628160000 +0000" stop="20260628162500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Flashpoint</title>
+<desc>Flashpoint</desc>
+</programme>
+<programme start="20260628162500 +0000" stop="20260628180000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Košarka - prijateljska: Slovenia - Italy</title>
+<desc>Košarka - prijateljska: Slovenia - Italy</desc>
+</programme>
+<programme start="20260628180000 +0000" stop="20260628193000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Poland - Argentina</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Poland - Argentina</desc>
+</programme>
+<programme start="20260628193000 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Harley Davidson Bagger Cup: Assen - 2. UTRKA</title>
+<desc>Harley Davidson Bagger Cup: Assen - 2. UTRKA</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628221500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Cage Warriors 208: O2 London</title>
+<desc>Cage Warriors 208: O2 London</desc>
+</programme>
+<programme start="20260628221500 +0000" stop="20260629011500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Basket 3x3 Pro Tour: Hvar</title>
+<desc>Basket 3x3 Pro Tour: Hvar</desc>
+</programme>
+<programme start="20260629011500 +0000" stop="20260629015500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Moto GP Rookies Cup: Assen - 2. UTRKA</title>
+<desc>Moto GP Rookies Cup: Assen - 2. UTRKA</desc>
+</programme>
+<programme start="20260629015500 +0000" stop="20260629044000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Boks: Grand Prix Zagreb</title>
+<desc>Boks: Grand Prix Zagreb</desc>
+</programme>
+<programme start="20260629044000 +0000" stop="20260629062500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Nogomet - arhiva EP (1988): SSSR - Nizozemska</title>
+<desc>Nogomet - arhiva EP (1988): SSSR - Nizozemska</desc>
+</programme>
+<programme start="20260629062500 +0000" stop="20260629065000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Flashpoint (20)</title>
+<desc>Flashpoint (20)</desc>
+</programme>
+<programme start="20260629065000 +0000" stop="20260629074500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Moto GP Assen: Moto 3 - UTRKA</title>
+<desc>Moto GP Assen: Moto 3 - UTRKA</desc>
+</programme>
+<programme start="20260629074500 +0000" stop="20260629084500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Moto GP Assen: Moto 2 - UTRKA</title>
+<desc>Moto GP Assen: Moto 2 - UTRKA</desc>
+</programme>
+<programme start="20260629084500 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Moto GP Assen: Moto GP - UTRKA</title>
+<desc>Moto GP Assen: Moto GP - UTRKA</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629120000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Tormo - Kasintseva</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Tormo - Kasintseva</desc>
+</programme>
+<programme start="20260629120000 +0000" stop="20260629150000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Wang - Cocciaretto</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Wang - Cocciaretto</desc>
+</programme>
+<programme start="20260629150000 +0000" stop="20260629173000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Walton - Prizmić</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Walton - Prizmić</desc>
+</programme>
+<programme start="20260629173000 +0000" stop="20260629193000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Jong - Hijikata</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Jong - Hijikata</desc>
+</programme>
+<programme start="20260629193000 +0000" stop="20260629210500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Odbojka - Liga nacija (M): Iran - Cuba</title>
+<desc>Odbojka - Liga nacija (M): Iran - Cuba</desc>
+</programme>
+<programme start="20260629210500 +0000" stop="20260629213000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>NBA Action (35)</title>
+<desc>NBA Action (35)</desc>
+</programme>
+<programme start="20260629213000 +0000" stop="20260629223000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 4</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 4</desc>
+</programme>
+<programme start="20260629223000 +0000" stop="20260630000000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 5</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 5</desc>
+</programme>
+<programme start="20260630000000 +0000" stop="20260630013000 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Odbojka - Liga nacija (M): Serbia - USA</title>
+<desc>Odbojka - Liga nacija (M): Serbia - USA</desc>
+</programme>
+<programme start="20260630013000 +0000" stop="20260630044500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>NASCAR: Sonoma Road Course</title>
+<desc>NASCAR: Sonoma Road Course</desc>
+</programme>
+<programme start="20260630044500 +0000" stop="20260630051500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>TV Automagazin</title>
+<desc>TV Automagazin</desc>
+</programme>
+<programme start="20260630051500 +0000" stop="20260630072500 +0000" channel="SPORT KLUB 3 Croatia">
+<title>Cage Warriors 208: O2 London</title>
+<desc>Cage Warriors 208: O2 London</desc>
+</programme>
+<programme start="20260627221000 +0000" stop="20260628004500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Basket 3x3 Pro Tour: Hvar</title>
+<desc>Basket 3x3 Pro Tour: Hvar</desc>
+</programme>
+<programme start="20260628004500 +0000" stop="20260628023000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>ATP 250 Eastbourne - FINALE: Bergs - Humbert</title>
+<desc>ATP 250 Eastbourne - FINALE: Bergs - Humbert</desc>
+</programme>
+<programme start="20260628023000 +0000" stop="20260628041500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Izraelska košarka Playoffs - FINALE (G4): Hapoel Tel Aviv - Maccabi</title>
+<desc>Izraelska košarka Playoffs - FINALE (G4): Hapoel Tel Aviv - Maccabi</desc>
+</programme>
+<programme start="20260628041500 +0000" stop="20260628064500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>NBA Draft - 2. KRUG</title>
+<desc>NBA Draft - 2. KRUG</desc>
+</programme>
+<programme start="20260628064500 +0000" stop="20260628082500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Odbojka - Liga nacija (M): Bulgaria - Canada</title>
+<desc>Odbojka - Liga nacija (M): Bulgaria - Canada</desc>
+</programme>
+<programme start="20260628082500 +0000" stop="20260628100500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>WTA 250 Eastbourne - FINALE: Maria - Keys</title>
+<desc>WTA 250 Eastbourne - FINALE: Maria - Keys</desc>
+</programme>
+<programme start="20260628100500 +0000" stop="20260628110000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>ATP 500 Halle - Pregled</title>
+<desc>ATP 500 Halle - Pregled</desc>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628130000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): China - Germany</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): China - Germany</desc>
+</programme>
+<programme start="20260628130000 +0000" stop="20260628144500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Francuska košarka Playoffs - FINALE (G5): Paris - Monaco</title>
+<desc>Francuska košarka Playoffs - FINALE (G5): Paris - Monaco</desc>
+</programme>
+<programme start="20260628144500 +0000" stop="20260628161500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Jedrenje - Sail GP: Halifax (Canada) - 2. DAN</title>
+<desc>Jedrenje - Sail GP: Halifax (Canada) - 2. DAN</desc>
+</programme>
+<programme start="20260628161500 +0000" stop="20260628193000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>NASCAR: San Diego (ulična utrka)</title>
+<desc>NASCAR: San Diego (ulična utrka)</desc>
+</programme>
+<programme start="20260628193000 +0000" stop="20260628224500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>UŽIVO: NASCAR: Sonoma Road Course</title>
+<desc>UŽIVO: NASCAR: Sonoma Road Course</desc>
+</programme>
+<programme start="20260628224500 +0000" stop="20260629003000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>ATP 250 Mallorca - FINALE: Quinn - Davidovich-Fokina</title>
+<desc>ATP 250 Mallorca - FINALE: Quinn - Davidovich-Fokina</desc>
+</programme>
+<programme start="20260629003000 +0000" stop="20260629021500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Odbojka - Liga nacija (M): Canada - Brazil</title>
+<desc>Odbojka - Liga nacija (M): Canada - Brazil</desc>
+</programme>
+<programme start="20260629021500 +0000" stop="20260629024500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>F1 - GP Confidential (09)</title>
+<desc>F1 - GP Confidential (09)</desc>
+</programme>
+<programme start="20260629024500 +0000" stop="20260629040000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>WTA 250 Eastbourne - (parovi) FINALE: Dabrowski/Stefani - Maleckova/Skoch</title>
+<desc>WTA 250 Eastbourne - (parovi) FINALE: Dabrowski/Stefani - Maleckova/Skoch</desc>
+</programme>
+<programme start="20260629040000 +0000" stop="20260629061500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Cage Warriors 208: O2 London</title>
+<desc>Cage Warriors 208: O2 London</desc>
+</programme>
+<programme start="20260629061500 +0000" stop="20260629064500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>F1 - GP Confidential (09)</title>
+<desc>F1 - GP Confidential (09)</desc>
+</programme>
+<programme start="20260629064500 +0000" stop="20260629072500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Mali nogomet: Senj - za 3. mjesto veterani</title>
+<desc>Mali nogomet: Senj - za 3. mjesto veterani</desc>
+</programme>
+<programme start="20260629072500 +0000" stop="20260629080500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Mali nogomet: Senj - za 3. mjesto</title>
+<desc>Mali nogomet: Senj - za 3. mjesto</desc>
+</programme>
+<programme start="20260629080500 +0000" stop="20260629090000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Mali nogomet: Senj - FINALE veterana</title>
+<desc>Mali nogomet: Senj - FINALE veterana</desc>
+</programme>
+<programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Mali nogomet: Senj - FINALE</title>
+<desc>Mali nogomet: Senj - FINALE</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629113000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Pegula - Vidmanova</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Pegula - Vidmanova</desc>
+</programme>
+<programme start="20260629113000 +0000" stop="20260629133000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Zheng - Norrie</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Zheng - Norrie</desc>
+</programme>
+<programme start="20260629133000 +0000" stop="20260629153000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Auger-Aliassime - Shevchenko</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Auger-Aliassime - Shevchenko</desc>
+</programme>
+<programme start="20260629153000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Korpatsch - Gauff</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Korpatsch - Gauff</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629203000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>NBA On Fire (35)</title>
+<desc>NBA On Fire (35)</desc>
+</programme>
+<programme start="20260629203000 +0000" stop="20260629221000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Odbojka - Liga nacija (M): Bulgaria - Ukraine</title>
+<desc>Odbojka - Liga nacija (M): Bulgaria - Ukraine</desc>
+</programme>
+<programme start="20260629221000 +0000" stop="20260630000000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Španjolska košarka Playoffs - FINALE (G4): Barcelona - Valencia</title>
+<desc>Španjolska košarka Playoffs - FINALE (G4): Barcelona - Valencia</desc>
+</programme>
+<programme start="20260630000000 +0000" stop="20260630013000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Košarka - prijateljska: Slovenia - Italy</title>
+<desc>Košarka - prijateljska: Slovenia - Italy</desc>
+</programme>
+<programme start="20260630013000 +0000" stop="20260630023000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Grand Slam Wimbledon: Pegula - Vidmanova</title>
+<desc>Grand Slam Wimbledon: Pegula - Vidmanova</desc>
+</programme>
+<programme start="20260630023000 +0000" stop="20260630031500 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Grand Slam Wimbledon: Medjedović - Ofner</title>
+<desc>Grand Slam Wimbledon: Medjedović - Ofner</desc>
+</programme>
+<programme start="20260630031500 +0000" stop="20260630043000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>Grand Slam Wimbledon: Rublev - Safiullin</title>
+<desc>Grand Slam Wimbledon: Rublev - Safiullin</desc>
+</programme>
+<programme start="20260630043000 +0000" stop="20260630053000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 1</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 1</desc>
+</programme>
+<programme start="20260630053000 +0000" stop="20260630063000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 2</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 2</desc>
+</programme>
+<programme start="20260630063000 +0000" stop="20260630073000 +0000" channel="SPORT KLUB 4 Croatia">
+<title>WRC: Acropolis Rally Greece - TV etapa 3</title>
+<desc>WRC: Acropolis Rally Greece - TV etapa 3</desc>
+</programme>
+<programme start="20260627225500 +0000" stop="20260628003500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Auto-utrke GT Masters: Lausitzring - 2. UTRKA</title>
+<desc>Auto-utrke GT Masters: Lausitzring - 2. UTRKA</desc>
+</programme>
+<programme start="20260628003500 +0000" stop="20260628030000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>NBA Draft - 1. KRUG</title>
+<desc>NBA Draft - 1. KRUG</desc>
+</programme>
+<programme start="20260628030000 +0000" stop="20260628044000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (Ž): Germany - Brazil</title>
+<desc>Odbojka - Liga nacija (Ž): Germany - Brazil</desc>
+</programme>
+<programme start="20260628044000 +0000" stop="20260628065500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Cage Warriors 207: Manchester</title>
+<desc>Cage Warriors 207: Manchester</desc>
+</programme>
+<programme start="20260628065500 +0000" stop="20260628103000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>NCAA Atletika: FINALE (M) - 1. DAN</title>
+<desc>NCAA Atletika: FINALE (M) - 1. DAN</desc>
+</programme>
+<programme start="20260628103000 +0000" stop="20260628110000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Euroleague Rivalries: Greece</title>
+<desc>Euroleague Rivalries: Greece</desc>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628130000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>UŽIVO: Odbojka - Liga nacija (M): Bulgaria - Ukraine</title>
+<desc>UŽIVO: Odbojka - Liga nacija (M): Bulgaria - Ukraine</desc>
+</programme>
+<programme start="20260628130000 +0000" stop="20260628170500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>NCAA Atletika: FINALE (Ž) - 1. DAN</title>
+<desc>NCAA Atletika: FINALE (Ž) - 1. DAN</desc>
+</programme>
+<programme start="20260628170500 +0000" stop="20260628174000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 1</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 1</desc>
+</programme>
+<programme start="20260628174000 +0000" stop="20260628181500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 2</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 2</desc>
+</programme>
+<programme start="20260628181500 +0000" stop="20260628185000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 3</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 3</desc>
+</programme>
+<programme start="20260628185000 +0000" stop="20260628192500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 4</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - 1/4 Finale 4</desc>
+</programme>
+<programme start="20260628192500 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - 1/2 Finale A</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - 1/2 Finale A</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628203500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - 1/2 Finale B</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - 1/2 Finale B</desc>
+</programme>
+<programme start="20260628203500 +0000" stop="20260628211000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet (Pula) - revijalna utakmica</title>
+<desc>Mali nogomet (Pula) - revijalna utakmica</desc>
+</programme>
+<programme start="20260628211000 +0000" stop="20260628214500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - za 3. mjesto</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - za 3. mjesto</desc>
+</programme>
+<programme start="20260628214500 +0000" stop="20260628224500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Mali nogomet: Turnir Dane Moravac (Pula) - FINALE</title>
+<desc>Mali nogomet: Turnir Dane Moravac (Pula) - FINALE</desc>
+</programme>
+<programme start="20260628224500 +0000" stop="20260629002000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (Ž): Thailand - Netherlands</title>
+<desc>Odbojka - Liga nacija (Ž): Thailand - Netherlands</desc>
+</programme>
+<programme start="20260629002000 +0000" stop="20260629025000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>NBA Draft - 2. KRUG</title>
+<desc>NBA Draft - 2. KRUG</desc>
+</programme>
+<programme start="20260629025000 +0000" stop="20260629043000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (Ž): Turkiye - China</title>
+<desc>Odbojka - Liga nacija (Ž): Turkiye - China</desc>
+</programme>
+<programme start="20260629043000 +0000" stop="20260629055500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): China - Turkiye</title>
+<desc>Odbojka - Liga nacija (M): China - Turkiye</desc>
+</programme>
+<programme start="20260629055500 +0000" stop="20260629081500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): Bulgaria - Italy</title>
+<desc>Odbojka - Liga nacija (M): Bulgaria - Italy</desc>
+</programme>
+<programme start="20260629081500 +0000" stop="20260629095000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): Cuba - USA</title>
+<desc>Odbojka - Liga nacija (M): Cuba - USA</desc>
+</programme>
+<programme start="20260629095000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>SK Mix</title>
+<desc>SK Mix</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629120000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Vukic - Brooksby</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Vukic - Brooksby</desc>
+</programme>
+<programme start="20260629120000 +0000" stop="20260629140000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Medjedović - Ofner</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Medjedović - Ofner</desc>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629153000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Tararudee - Tagger</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Tararudee - Tagger</desc>
+</programme>
+<programme start="20260629153000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Maneiro - Potapova</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Maneiro - Potapova</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629222000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>NCAA Atletika: FINALE (M) - 2. DAN</title>
+<desc>NCAA Atletika: FINALE (M) - 2. DAN</desc>
+</programme>
+<programme start="20260629222000 +0000" stop="20260630002500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): Argentina - Germany</title>
+<desc>Odbojka - Liga nacija (M): Argentina - Germany</desc>
+</programme>
+<programme start="20260630002500 +0000" stop="20260630024500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): Ukraine - Brazil</title>
+<desc>Odbojka - Liga nacija (M): Ukraine - Brazil</desc>
+</programme>
+<programme start="20260630024500 +0000" stop="20260630045500 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): Slovenia - Canada</title>
+<desc>Odbojka - Liga nacija (M): Slovenia - Canada</desc>
+</programme>
+<programme start="20260630045500 +0000" stop="20260630072000 +0000" channel="SPORT KLUB 5 Croatia">
+<title>Odbojka - Liga nacija (M): Poland - Belgium</title>
+<desc>Odbojka - Liga nacija (M): Poland - Belgium</desc>
+</programme>
+<programme start="20260627223500 +0000" stop="20260628002000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Francuska košarka Playoffs - FINALE (G5): Paris - Monaco</title>
+<desc>Francuska košarka Playoffs - FINALE (G5): Paris - Monaco</desc>
+</programme>
+<programme start="20260628002000 +0000" stop="20260628004500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Život nogometaša</title>
+<desc>Život nogometaša</desc>
+</programme>
+<programme start="20260628004500 +0000" stop="20260628013000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto 3 - Kvalifikacije</title>
+<desc>Moto GP Assen: Moto 3 - Kvalifikacije</desc>
+</programme>
+<programme start="20260628013000 +0000" stop="20260628021500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto 2 - Kvalifikacije</title>
+<desc>Moto GP Assen: Moto 2 - Kvalifikacije</desc>
+</programme>
+<programme start="20260628021500 +0000" stop="20260628031000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto GP - Kvalifikacije</title>
+<desc>Moto GP Assen: Moto GP - Kvalifikacije</desc>
+</programme>
+<programme start="20260628031000 +0000" stop="20260628041000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto GP - Sprint UTRKA</title>
+<desc>Moto GP Assen: Moto GP - Sprint UTRKA</desc>
+</programme>
+<programme start="20260628041000 +0000" stop="20260628055500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Turska liga 2025/26: Trabzon - Basaksehir</title>
+<desc>Turska liga 2025/26: Trabzon - Basaksehir</desc>
+</programme>
+<programme start="20260628055500 +0000" stop="20260628074000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Bundesliga 2025/26: Augsburg - Monchengladbach</title>
+<desc>Bundesliga 2025/26: Augsburg - Monchengladbach</desc>
+</programme>
+<programme start="20260628074000 +0000" stop="20260628092500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Nizozemska liga 2025/26: Ajax - Excelsior</title>
+<desc>Nizozemska liga 2025/26: Ajax - Excelsior</desc>
+</programme>
+<programme start="20260628092500 +0000" stop="20260628111000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Saudijska liga 2025/26: Ahli - Kholood</title>
+<desc>Saudijska liga 2025/26: Ahli - Kholood</desc>
+</programme>
+<programme start="20260628111000 +0000" stop="20260628113500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>50 godina sporta</title>
+<desc>50 godina sporta</desc>
+</programme>
+<programme start="20260628113500 +0000" stop="20260628132500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Turska liga 2025/26: Alanya - Trabzon</title>
+<desc>Turska liga 2025/26: Alanya - Trabzon</desc>
+</programme>
+<programme start="20260628132500 +0000" stop="20260628152000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Bundesliga 2025/26: Bayern - Eintracht</title>
+<desc>Bundesliga 2025/26: Bayern - Eintracht</desc>
+</programme>
+<programme start="20260628152000 +0000" stop="20260628171000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Nizozemska liga 2025/26: AZ Alkmaar- Feyenoord</title>
+<desc>Nizozemska liga 2025/26: AZ Alkmaar- Feyenoord</desc>
+</programme>
+<programme start="20260628171000 +0000" stop="20260628191000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Saudijska liga 2025/26: Damac - Ittihad</title>
+<desc>Saudijska liga 2025/26: Damac - Ittihad</desc>
+</programme>
+<programme start="20260628191000 +0000" stop="20260628214000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Basket 3x3 Pro Tour: Hvar</title>
+<desc>Basket 3x3 Pro Tour: Hvar</desc>
+</programme>
+<programme start="20260628214000 +0000" stop="20260628220500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Idealna putanja</title>
+<desc>Idealna putanja</desc>
+</programme>
+<programme start="20260628220500 +0000" stop="20260628235000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Španjolska košarka Playoffs - FINALE (G3): Barcelona - Valencia</title>
+<desc>Španjolska košarka Playoffs - FINALE (G3): Barcelona - Valencia</desc>
+</programme>
+<programme start="20260628235000 +0000" stop="20260629012000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Košarka - prijateljska: Slovenia - Italy</title>
+<desc>Košarka - prijateljska: Slovenia - Italy</desc>
+</programme>
+<programme start="20260629012000 +0000" stop="20260629014500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>The Greatest of All Time</title>
+<desc>The Greatest of All Time</desc>
+</programme>
+<programme start="20260629014500 +0000" stop="20260629024500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto 3 - UTRKA</title>
+<desc>Moto GP Assen: Moto 3 - UTRKA</desc>
+</programme>
+<programme start="20260629024500 +0000" stop="20260629034500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto 2 - UTRKA</title>
+<desc>Moto GP Assen: Moto 2 - UTRKA</desc>
+</programme>
+<programme start="20260629034500 +0000" stop="20260629045500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Moto GP Assen: Moto GP - UTRKA</title>
+<desc>Moto GP Assen: Moto GP - UTRKA</desc>
+</programme>
+<programme start="20260629045500 +0000" stop="20260629064500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Turska liga 2025/26: Basaksehir - Fenerbahce</title>
+<desc>Turska liga 2025/26: Basaksehir - Fenerbahce</desc>
+</programme>
+<programme start="20260629064500 +0000" stop="20260629084000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Bundesliga 2025/26: Dortmund - Bayern</title>
+<desc>Bundesliga 2025/26: Dortmund - Bayern</desc>
+</programme>
+<programme start="20260629084000 +0000" stop="20260629090500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>50 godina sporta (06)</title>
+<desc>50 godina sporta (06)</desc>
+</programme>
+<programme start="20260629090500 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Bundesliga - Pregled sezone</title>
+<desc>Bundesliga - Pregled sezone</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629120000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Jodar - Gill</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Jodar - Gill</desc>
+</programme>
+<programme start="20260629120000 +0000" stop="20260629140000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Ruud - Hurkacz</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Ruud - Hurkacz</desc>
+</programme>
+<programme start="20260629140000 +0000" stop="20260629153000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Jacquemot - Osaka</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Jacquemot - Osaka</desc>
+</programme>
+<programme start="20260629153000 +0000" stop="20260629193000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>UŽIVO: Grand Slam Wimbledon: Krejcikova - Klugman</title>
+<desc>UŽIVO: Grand Slam Wimbledon: Krejcikova - Klugman</desc>
+</programme>
+<programme start="20260629193000 +0000" stop="20260629195500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Idealna putanja (26)</title>
+<desc>Idealna putanja (26)</desc>
+</programme>
+<programme start="20260629195500 +0000" stop="20260629222500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Basket 3x3 Pro Tour: Hvar</title>
+<desc>Basket 3x3 Pro Tour: Hvar</desc>
+</programme>
+<programme start="20260629222500 +0000" stop="20260630002000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Nizozemska liga 2025/26: Excelsior - Feyenoord</title>
+<desc>Nizozemska liga 2025/26: Excelsior - Feyenoord</desc>
+</programme>
+<programme start="20260630002000 +0000" stop="20260630004500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>The Greatest of All Time (02)</title>
+<desc>The Greatest of All Time (02)</desc>
+</programme>
+<programme start="20260630004500 +0000" stop="20260630024000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Saudijska liga 2025/26: Ettifaq - Hilal</title>
+<desc>Saudijska liga 2025/26: Ettifaq - Hilal</desc>
+</programme>
+<programme start="20260630024000 +0000" stop="20260630042000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Odbojka - Liga nacija (M): USA - Japan</title>
+<desc>Odbojka - Liga nacija (M): USA - Japan</desc>
+</programme>
+<programme start="20260630042000 +0000" stop="20260630061000 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Turska liga 2025/26: Besiktas - Antalya</title>
+<desc>Turska liga 2025/26: Besiktas - Antalya</desc>
+</programme>
+<programme start="20260630061000 +0000" stop="20260630075500 +0000" channel="SPORT KLUB 6 Croatia">
+<title>Bundesliga 2025/26: Eintracht - Freiburg</title>
+<desc>Bundesliga 2025/26: Eintracht - Freiburg</desc>
+</programme>
+<programme start="20260627210000 +0000" stop="20260627220000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627230000 +0000" stop="20260628010000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628020000 +0000" stop="20260628030000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628120000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628170000 +0000" stop="20260628180000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628180000 +0000" stop="20260628190000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628190000 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628210000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628210000 +0000" stop="20260628220000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628230000 +0000" stop="20260629000000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629000000 +0000" stop="20260629010000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629020000 +0000" stop="20260629030000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629050000 +0000" stop="20260629060000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629060000 +0000" stop="20260629070000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629070000 +0000" stop="20260629080000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629080000 +0000" stop="20260629090000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629190000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Tenis - Wimbledon</title>
+<desc>Zovu ga nezvaničnim prvenstvom sveta. Uporno tvrde da je više od teniskog turnira. Pun je tradicije i kontrasta.</desc>
+</programme>
+<programme start="20260629190000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629210000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630000000 +0000" stop="20260630010000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630020000 +0000" stop="20260630030000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630030000 +0000" stop="20260630040000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630040000 +0000" stop="20260630050000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630060000 +0000" stop="20260630070000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="SPORT KLUB 7 Croatia">
+<title>Sport Klub 7 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627210000 +0000" stop="20260627220000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627230000 +0000" stop="20260628010000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628020000 +0000" stop="20260628030000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628100000 +0000" stop="20260628110000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628120000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628170000 +0000" stop="20260628180000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628180000 +0000" stop="20260628190000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628190000 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628210000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628210000 +0000" stop="20260628220000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628230000 +0000" stop="20260629000000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629000000 +0000" stop="20260629010000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629020000 +0000" stop="20260629030000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629050000 +0000" stop="20260629060000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629060000 +0000" stop="20260629070000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629070000 +0000" stop="20260629080000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629080000 +0000" stop="20260629090000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629190000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Tenis - Wimbledon</title>
+<desc>Zovu ga nezvaničnim prvenstvom sveta. Uporno tvrde da je više od teniskog turnira. Pun je tradicije i kontrasta.</desc>
+</programme>
+<programme start="20260629190000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629210000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630000000 +0000" stop="20260630010000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630020000 +0000" stop="20260630030000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630030000 +0000" stop="20260630040000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630040000 +0000" stop="20260630050000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630060000 +0000" stop="20260630070000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="SPORT KLUB 8 Croatia">
+<title>Sport Klub 8 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627210000 +0000" stop="20260627220000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627220000 +0000" stop="20260627230000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260627230000 +0000" stop="20260628010000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628010000 +0000" stop="20260628020000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628020000 +0000" stop="20260628030000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628030000 +0000" stop="20260628040000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628040000 +0000" stop="20260628050000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628050000 +0000" stop="20260628060000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628060000 +0000" stop="20260628070000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628070000 +0000" stop="20260628080000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628080000 +0000" stop="20260628090000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628090000 +0000" stop="20260628100000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Moto GP Assen: Moto 3: UTRKA - HELIKOPTER</title>
+<desc>Mlade zvijezde svjetskog motociklizma krajem lipnja stižu u Assen, gdje će se od 26. do 28. lipnja 2026. na legendarnoj stazi TT Circuit Assen u Nizozemskoj, poznatoj kao &quot;Katedrala motociklizma&quot;,...</desc>
+</programme>
+<programme start="20260628100000 +0000" stop="20260628101500 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628101500 +0000" stop="20260628110000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Moto GP Assen: Moto 2: UTRKA - HELIKOPTER</title>
+<desc>Najbolji svjetski motociklisti Moto2 kategorije krajem lipnja stižu u Assen, gdje će se od 26. do 28. lipnja 2026. na legendarnoj stazi TT Circuit Assen u Nizozemskoj, poznatoj kao &quot;Katedrala...</desc>
+</programme>
+<programme start="20260628110000 +0000" stop="20260628120000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628120000 +0000" stop="20260628130000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Moto GP Assen: Moto GP: UTRKA - HELIKOPTER</title>
+<desc>Od 26. do 28. lipnja 2026. na legendarnoj stazi TT Circuit Assen u Nizozemskoj održat će se MotoGP Grand Prix of Netherlands, poznat kao &quot;Dutch TT&quot;. Staza u Assenu, često nazivana &quot;Katedralom...</desc>
+</programme>
+<programme start="20260628130000 +0000" stop="20260628140000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628140000 +0000" stop="20260628150000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628150000 +0000" stop="20260628160000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628160000 +0000" stop="20260628170000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628170000 +0000" stop="20260628180000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628180000 +0000" stop="20260628190000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628190000 +0000" stop="20260628200000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628200000 +0000" stop="20260628210000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628210000 +0000" stop="20260628220000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628220000 +0000" stop="20260628230000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260628230000 +0000" stop="20260629000000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629000000 +0000" stop="20260629010000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629010000 +0000" stop="20260629020000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629020000 +0000" stop="20260629030000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629030000 +0000" stop="20260629040000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629040000 +0000" stop="20260629050000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629050000 +0000" stop="20260629060000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629060000 +0000" stop="20260629070000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629070000 +0000" stop="20260629080000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629080000 +0000" stop="20260629090000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629090000 +0000" stop="20260629100000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629100000 +0000" stop="20260629190000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Tenis - Wimbledon</title>
+<desc>Zovu ga nezvaničnim prvenstvom sveta. Uporno tvrde da je više od teniskog turnira. Pun je tradicije i kontrasta.</desc>
+</programme>
+<programme start="20260629190000 +0000" stop="20260629200000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629200000 +0000" stop="20260629210000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629210000 +0000" stop="20260629220000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629220000 +0000" stop="20260629230000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260629230000 +0000" stop="20260630000000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630000000 +0000" stop="20260630010000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630010000 +0000" stop="20260630020000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630020000 +0000" stop="20260630030000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630030000 +0000" stop="20260630040000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630040000 +0000" stop="20260630050000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630050000 +0000" stop="20260630060000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630060000 +0000" stop="20260630070000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
+</programme>
+<programme start="20260630070000 +0000" stop="20260630080000 +0000" channel="SPORT KLUB 9 Croatia">
+<title>Sport Klub 9 Promo</title>
+<desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
 </programme>
 <programme start="20260627190000 +0000" stop="20260628060000 +0000" channel="Super Sport 1AL">
 <title>Sport News</title>
