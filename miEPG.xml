@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 02/08/2026 08:36" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 02/08/2026 15:15" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Eurosport 1 (MAX)">
     <display-name>Eurosport 1 (MAX)</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -1757,7 +1757,7 @@
 	</programme>
 	<programme start="20260802123000 +0200" stop="20260802133000 +0200" channel="Eurosport 1 (MAX)">
     <title>Vuelta a Dinamarca T2026 · Etapa 4 - Rudkøbing - Faaborg</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Ciclismo | 2026 | TP
 · Cinco etapas componen el recorrido de la 36ª edición de la Vuelta a Dinamarca. La carrera está englobada en el calendario ProSeries, el segundo escalafón de la UCI. El danés Mads Pedersen se impuso en la última celebrada, la de 2025.
 · País: Dinamarca</desc>
 	</programme>
@@ -1781,7 +1781,7 @@
 	</programme>
 	<programme start="20260802183000 +0200" stop="20260802193000 +0200" channel="Eurosport 1 (MAX)">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -1811,7 +1811,7 @@
 	</programme>
 	<programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="Eurosport 1 (MAX)">
     <title>World Series of Poker T2026 E3</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Ganar las World Series of Poker es el mayor honor de cualquier jugador de póquer.
 · País: Estados Unidos</desc>
 	</programme>
@@ -1823,7 +1823,7 @@
 	</programme>
 	<programme start="20260803020000 +0200" stop="20260803024500 +0200" channel="Eurosport 1 (MAX)">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -1877,7 +1877,7 @@
 	</programme>
 	<programme start="20260803110000 +0200" stop="20260803120000 +0200" channel="Eurosport 1 (MAX)">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -2399,7 +2399,7 @@
 	</programme>
 	<programme start="20260802170000 +0200" stop="20260802180000 +0200" channel="Eurosport 2 (MAX)">
     <title>DIRECTO MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -2787,7 +2787,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806110000 +0200" channel="Eurosport 2 (MAX)">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -2925,7 +2925,7 @@
 	</programme>
 	<programme start="20260802123000 +0200" stop="20260802133000 +0200" channel="EUROSPORT 1 EU">
     <title>Vuelta a Dinamarca T2026 · Etapa 4 - Rudkøbing - Faaborg</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Ciclismo | 2026 | TP
 · Cinco etapas componen el recorrido de la 36ª edición de la Vuelta a Dinamarca. La carrera está englobada en el calendario ProSeries, el segundo escalafón de la UCI. El danés Mads Pedersen se impuso en la última celebrada, la de 2025.
 · País: Dinamarca</desc>
 	</programme>
@@ -2949,7 +2949,7 @@
 	</programme>
 	<programme start="20260802183000 +0200" stop="20260802193000 +0200" channel="EUROSPORT 1 EU">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -2979,7 +2979,7 @@
 	</programme>
 	<programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="EUROSPORT 1 EU">
     <title>World Series of Poker T2026 E3</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Ganar las World Series of Poker es el mayor honor de cualquier jugador de póquer.
 · País: Estados Unidos</desc>
 	</programme>
@@ -2991,7 +2991,7 @@
 	</programme>
 	<programme start="20260803020000 +0200" stop="20260803024500 +0200" channel="EUROSPORT 1 EU">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -3045,7 +3045,7 @@
 	</programme>
 	<programme start="20260803110000 +0200" stop="20260803120000 +0200" channel="EUROSPORT 1 EU">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -3567,7 +3567,7 @@
 	</programme>
 	<programme start="20260802170000 +0200" stop="20260802180000 +0200" channel="EUROSPORT 2 EU">
     <title>DIRECTO MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -3955,7 +3955,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806110000 +0200" channel="EUROSPORT 2 EU">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -4093,7 +4093,7 @@
 	</programme>
 	<programme start="20260802123000 +0200" stop="20260802133000 +0200" channel="Eurosport 1">
     <title>Vuelta a Dinamarca T2026 · Etapa 4 - Rudkøbing - Faaborg</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Ciclismo | 2026 | TP
 · Cinco etapas componen el recorrido de la 36ª edición de la Vuelta a Dinamarca. La carrera está englobada en el calendario ProSeries, el segundo escalafón de la UCI. El danés Mads Pedersen se impuso en la última celebrada, la de 2025.
 · País: Dinamarca</desc>
 	</programme>
@@ -4117,7 +4117,7 @@
 	</programme>
 	<programme start="20260802183000 +0200" stop="20260802193000 +0200" channel="Eurosport 1">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -4147,7 +4147,7 @@
 	</programme>
 	<programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="Eurosport 1">
     <title>World Series of Poker T2026 E3</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Ganar las World Series of Poker es el mayor honor de cualquier jugador de póquer.
 · País: Estados Unidos</desc>
 	</programme>
@@ -4159,7 +4159,7 @@
 	</programme>
 	<programme start="20260803020000 +0200" stop="20260803024500 +0200" channel="Eurosport 1">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -4213,7 +4213,7 @@
 	</programme>
 	<programme start="20260803110000 +0200" stop="20260803120000 +0200" channel="Eurosport 1">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -4735,7 +4735,7 @@
 	</programme>
 	<programme start="20260802170000 +0200" stop="20260802180000 +0200" channel="Eurosport 2">
     <title>DIRECTO MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -5123,7 +5123,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806110000 +0200" channel="Eurosport 2">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -5247,7 +5247,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LALIGA">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -5788,7 +5788,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LALIGA (MAX)">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -6330,7 +6330,7 @@
 	</programme>
 	<programme start="20260802085000 +0200" stop="20260802105500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802105500 +0200" stop="20260802115500 +0200" channel="DAZN F1">
@@ -6340,7 +6340,7 @@
 	</programme>
 	<programme start="20260802115500 +0200" stop="20260802135500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802135500 +0200" stop="20260802150000 +0200" channel="DAZN F1">
@@ -6585,7 +6585,7 @@
 	</programme>
 	<programme start="20260805102500 +0200" stop="20260805122500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260805122500 +0200" stop="20260805132500 +0200" channel="DAZN F1">
@@ -6670,7 +6670,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806123500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260806123500 +0200" stop="20260806134000 +0200" channel="DAZN F1">
@@ -6846,7 +6846,7 @@
 	</programme>
 	<programme start="20260808081500 +0200" stop="20260808102500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Estados Unidos T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260808102500 +0200" stop="20260808124500 +0200" channel="DAZN F1">
@@ -8732,7 +8732,7 @@
 	</programme>
 	<programme start="20260802123000 +0200" stop="20260802133000 +0200" channel="EUROSPORT 1 ES (Max)">
     <title>Vuelta a Dinamarca T2026 · Etapa 4 - Rudkøbing - Faaborg</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Ciclismo | 2026 | TP
 · Cinco etapas componen el recorrido de la 36ª edición de la Vuelta a Dinamarca. La carrera está englobada en el calendario ProSeries, el segundo escalafón de la UCI. El danés Mads Pedersen se impuso en la última celebrada, la de 2025.
 · País: Dinamarca</desc>
 	</programme>
@@ -8756,7 +8756,7 @@
 	</programme>
 	<programme start="20260802183000 +0200" stop="20260802193000 +0200" channel="EUROSPORT 1 ES (Max)">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -8786,7 +8786,7 @@
 	</programme>
 	<programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="EUROSPORT 1 ES (Max)">
     <title>World Series of Poker T2026 E3</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Ganar las World Series of Poker es el mayor honor de cualquier jugador de póquer.
 · País: Estados Unidos</desc>
 	</programme>
@@ -8798,7 +8798,7 @@
 	</programme>
 	<programme start="20260803020000 +0200" stop="20260803024500 +0200" channel="EUROSPORT 1 ES (Max)">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -8852,7 +8852,7 @@
 	</programme>
 	<programme start="20260803110000 +0200" stop="20260803120000 +0200" channel="EUROSPORT 1 ES (Max)">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -9374,7 +9374,7 @@
 	</programme>
 	<programme start="20260802170000 +0200" stop="20260802180000 +0200" channel="EUROSPORT 2 ES (Max)">
     <title>DIRECTO MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -9762,7 +9762,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806110000 +0200" channel="EUROSPORT 2 ES (Max)">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -9900,7 +9900,7 @@
 	</programme>
 	<programme start="20260802123000 +0200" stop="20260802133000 +0200" channel="EUROSPORT 1 ES">
     <title>Vuelta a Dinamarca T2026 · Etapa 4 - Rudkøbing - Faaborg</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Ciclismo | 2026 | TP
 · Cinco etapas componen el recorrido de la 36ª edición de la Vuelta a Dinamarca. La carrera está englobada en el calendario ProSeries, el segundo escalafón de la UCI. El danés Mads Pedersen se impuso en la última celebrada, la de 2025.
 · País: Dinamarca</desc>
 	</programme>
@@ -9924,7 +9924,7 @@
 	</programme>
 	<programme start="20260802183000 +0200" stop="20260802193000 +0200" channel="EUROSPORT 1 ES">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -9954,7 +9954,7 @@
 	</programme>
 	<programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="EUROSPORT 1 ES">
     <title>World Series of Poker T2026 E3</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Ganar las World Series of Poker es el mayor honor de cualquier jugador de póquer.
 · País: Estados Unidos</desc>
 	</programme>
@@ -9966,7 +9966,7 @@
 	</programme>
 	<programme start="20260803020000 +0200" stop="20260803024500 +0200" channel="EUROSPORT 1 ES">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -10020,7 +10020,7 @@
 	</programme>
 	<programme start="20260803110000 +0200" stop="20260803120000 +0200" channel="EUROSPORT 1 ES">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -10542,7 +10542,7 @@
 	</programme>
 	<programme start="20260802170000 +0200" stop="20260802180000 +0200" channel="EUROSPORT 2 ES">
     <title>DIRECTO MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -10930,7 +10930,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806110000 +0200" channel="EUROSPORT 2 ES">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -11068,7 +11068,7 @@
 	</programme>
 	<programme start="20260802123000 +0200" stop="20260802133000 +0200" channel="EUROSPORT 1">
     <title>Vuelta a Dinamarca T2026 · Etapa 4 - Rudkøbing - Faaborg</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.0/10
+    <desc>Deportes,Ciclismo | 2026 | TP
 · Cinco etapas componen el recorrido de la 36ª edición de la Vuelta a Dinamarca. La carrera está englobada en el calendario ProSeries, el segundo escalafón de la UCI. El danés Mads Pedersen se impuso en la última celebrada, la de 2025.
 · País: Dinamarca</desc>
 	</programme>
@@ -11092,7 +11092,7 @@
 	</programme>
 	<programme start="20260802183000 +0200" stop="20260802193000 +0200" channel="EUROSPORT 1">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -11122,7 +11122,7 @@
 	</programme>
 	<programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="EUROSPORT 1">
     <title>World Series of Poker T2026 E3</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
 · Ganar las World Series of Poker es el mayor honor de cualquier jugador de póquer.
 · País: Estados Unidos</desc>
 	</programme>
@@ -11134,7 +11134,7 @@
 	</programme>
 	<programme start="20260803020000 +0200" stop="20260803024500 +0200" channel="EUROSPORT 1">
     <title>Europeo de bicicleta de montaña T2026 · Campo a través olímpico F</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | *6.8/10
+    <desc>Deportes,Ciclismo | 2026 | TP | *6.6/10
 · El Campeonato de Europa de Mountain Bike de la UEC se disputa en Monteceneri, Suiza.
 · País: Suiza</desc>
 	</programme>
@@ -11188,7 +11188,7 @@
 	</programme>
 	<programme start="20260803110000 +0200" stop="20260803120000 +0200" channel="EUROSPORT 1">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -11710,7 +11710,7 @@
 	</programme>
 	<programme start="20260802170000 +0200" stop="20260802180000 +0200" channel="EUROSPORT 2">
     <title>DIRECTO MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -12098,7 +12098,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806110000 +0200" channel="EUROSPORT 2">
     <title>MXGP - Segunda carrera T2026 · Mundial de motocross - Flandes</title>
-    <desc>Deportes,Motocross | 2026 | TP | *6.2/10
+    <desc>Deportes,Motocross | 2026 | TP | *6.4/10
 · El Gran Premio de Flandes del Campeonato Mundial MXGP se celebra en Bélgica.
 · País: Bélgica</desc>
 	</programme>
@@ -30236,7 +30236,7 @@
 	</programme>
 	<programme start="20260802085000 +0200" stop="20260802105500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802105500 +0200" stop="20260802115500 +0200" channel="DAZN F1">
@@ -30246,7 +30246,7 @@
 	</programme>
 	<programme start="20260802115500 +0200" stop="20260802135500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802135500 +0200" stop="20260802150000 +0200" channel="DAZN F1">
@@ -30491,7 +30491,7 @@
 	</programme>
 	<programme start="20260805102500 +0200" stop="20260805122500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260805122500 +0200" stop="20260805132500 +0200" channel="DAZN F1">
@@ -30576,7 +30576,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806123500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260806123500 +0200" stop="20260806134000 +0200" channel="DAZN F1">
@@ -30752,7 +30752,7 @@
 	</programme>
 	<programme start="20260808081500 +0200" stop="20260808102500 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Estados Unidos T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260808102500 +0200" stop="20260808124500 +0200" channel="DAZN F1">
@@ -30826,7 +30826,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LaLiga ES">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -31367,7 +31367,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LaLiga">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -32808,7 +32808,7 @@
 	</programme>
 	<programme start="20260802085000 +0200" stop="20260802105500 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802105500 +0200" stop="20260802115500 +0200" channel="DAZN F1 HD">
@@ -32818,7 +32818,7 @@
 	</programme>
 	<programme start="20260802115500 +0200" stop="20260802135500 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802135500 +0200" stop="20260802150000 +0200" channel="DAZN F1 HD">
@@ -33063,7 +33063,7 @@
 	</programme>
 	<programme start="20260805102500 +0200" stop="20260805122500 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260805122500 +0200" stop="20260805132500 +0200" channel="DAZN F1 HD">
@@ -33148,7 +33148,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806123500 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260806123500 +0200" stop="20260806134000 +0200" channel="DAZN F1 HD">
@@ -33324,7 +33324,7 @@
 	</programme>
 	<programme start="20260808081500 +0200" stop="20260808102500 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Estados Unidos T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260808102500 +0200" stop="20260808124500 +0200" channel="DAZN F1 HD">
@@ -33398,7 +33398,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LaLiga HD">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -34839,7 +34839,7 @@
 	</programme>
 	<programme start="20260802085000 +0200" stop="20260802105500 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802105500 +0200" stop="20260802115500 +0200" channel="DAZN F1 HD (Max)">
@@ -34849,7 +34849,7 @@
 	</programme>
 	<programme start="20260802115500 +0200" stop="20260802135500 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802135500 +0200" stop="20260802150000 +0200" channel="DAZN F1 HD (Max)">
@@ -35094,7 +35094,7 @@
 	</programme>
 	<programme start="20260805102500 +0200" stop="20260805122500 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260805122500 +0200" stop="20260805132500 +0200" channel="DAZN F1 HD (Max)">
@@ -35179,7 +35179,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806123500 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260806123500 +0200" stop="20260806134000 +0200" channel="DAZN F1 HD (Max)">
@@ -35355,7 +35355,7 @@
 	</programme>
 	<programme start="20260808081500 +0200" stop="20260808102500 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Estados Unidos T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260808102500 +0200" stop="20260808124500 +0200" channel="DAZN F1 HD (Max)">
@@ -35430,7 +35430,7 @@
 	</programme>
 	<programme start="20260802085000 +0200" stop="20260802105500 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802105500 +0200" stop="20260802115500 +0200" channel="DAZN F1 (MAX)">
@@ -35440,7 +35440,7 @@
 	</programme>
 	<programme start="20260802115500 +0200" stop="20260802135500 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260802135500 +0200" stop="20260802150000 +0200" channel="DAZN F1 (MAX)">
@@ -35685,7 +35685,7 @@
 	</programme>
 	<programme start="20260805102500 +0200" stop="20260805122500 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Bélgica T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *5.6/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260805122500 +0200" stop="20260805132500 +0200" channel="DAZN F1 (MAX)">
@@ -35770,7 +35770,7 @@
 	</programme>
 	<programme start="20260806103000 +0200" stop="20260806123500 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP | *6.2/10
+    <desc>Deportes,Motor | 2025 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260806123500 +0200" stop="20260806134000 +0200" channel="DAZN F1 (MAX)">
@@ -35946,7 +35946,7 @@
 	</programme>
 	<programme start="20260808081500 +0200" stop="20260808102500 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Estados Unidos T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260808102500 +0200" stop="20260808124500 +0200" channel="DAZN F1 (MAX)">
@@ -36020,7 +36020,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LaLiga HD (Max)">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -36561,7 +36561,7 @@
 	</programme>
 	<programme start="20260802120000 +0200" stop="20260802140000 +0200" channel="DAZN LALIGA (MAX)">
     <title>LaLiga Santander T22/23 · Jornada 9: Real Madrid - Barcelona</title>
-    <desc>Deportes,Fútbol | 2022 | TP | *6.6/10
+    <desc>Deportes,Fútbol | 2022 | TP
 · Partido de la novena jornada del campeonato liguero entre Real Madrid y Barcelona.
 · País: España</desc>
 	</programme>
@@ -92045,14 +92045,6 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>Sport Klub 9 Promo</title>
 <desc>Najava direktnih prenosa sportskih događaja koji će se prenositi na programu.</desc>
 </programme>
-<programme start="20260731180000 +0000" stop="20260801060000 +0000" channel="Super Sport 1AL">
-<title>Sport News</title>
-<desc>Sport News</desc>
-</programme>
-<programme start="20260801060000 +0000" stop="20260801180000 +0000" channel="Super Sport 1AL">
-<title>Sport News</title>
-<desc>Sport News</desc>
-</programme>
 <programme start="20260801180000 +0000" stop="20260802060000 +0000" channel="Super Sport 1AL">
 <title>Sport News</title>
 <desc>Sport News</desc>
@@ -92065,61 +92057,13 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>Sport News</title>
 <desc>Sport News</desc>
 </programme>
-<programme start="20260731230000 +0000" stop="20260801000000 +0000" channel="Super Sport 2AL">
-<title>Football Nation</title>
-<desc>Football Nation</desc>
+<programme start="20260803060000 +0000" stop="20260803180000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Sport News</desc>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="Super Sport 2AL">
-<title>Liverpool-Chelsea</title>
-<desc>Liverpool-Chelsea</desc>
-</programme>
-<programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="Super Sport 2AL">
-<title>Roma-Feyenoord</title>
-<desc>Roma-Feyenoord</desc>
-</programme>
-<programme start="20260801040000 +0000" stop="20260801060000 +0000" channel="Super Sport 2AL">
-<title>Suedi-Shqiperi</title>
-<desc>Suedi-Shqiperi</desc>
-</programme>
-<programme start="20260801060000 +0000" stop="20260801070000 +0000" channel="Super Sport 2AL">
-<title>Football Nation</title>
-<desc>Football Nation</desc>
-</programme>
-<programme start="20260801070000 +0000" stop="20260801093000 +0000" channel="Super Sport 2AL">
-<title>Slloveni-Poloni volley</title>
-<desc>Slloveni-Poloni volley</desc>
-</programme>
-<programme start="20260801093000 +0000" stop="20260801103000 +0000" channel="Super Sport 2AL">
-<title>Football Nation</title>
-<desc>Football Nation</desc>
-</programme>
-<programme start="20260801103000 +0000" stop="20260801113000 +0000" channel="Super Sport 2AL">
-<title>Dokumentar: Historia e kupave te botes</title>
-<desc>Dokumentar: Historia e kupave te botes</desc>
-</programme>
-<programme start="20260801113000 +0000" stop="20260801140000 +0000" channel="Super Sport 2AL">
-<title>Japoni-ShBA volley</title>
-<desc>Japoni-ShBA volley</desc>
-</programme>
-<programme start="20260801140000 +0000" stop="20260801150000 +0000" channel="Super Sport 2AL">
-<title>Football Nation</title>
-<desc>Football Nation</desc>
-</programme>
-<programme start="20260801150000 +0000" stop="20260801170000 +0000" channel="Super Sport 2AL">
-<title>Holande-Gjermani</title>
-<desc>Holande-Gjermani</desc>
-</programme>
-<programme start="20260801170000 +0000" stop="20260801200000 +0000" channel="Super Sport 2AL">
-<title>UFC: Medic-Rodriguez</title>
-<desc>UFC: Medic-Rodriguez</desc>
-</programme>
-<programme start="20260801200000 +0000" stop="20260801210000 +0000" channel="Super Sport 2AL">
-<title>Dokumentar: Historia e kupave te botes</title>
-<desc>Dokumentar: Historia e kupave te botes</desc>
-</programme>
-<programme start="20260801210000 +0000" stop="20260801233500 +0000" channel="Super Sport 2AL">
-<title>UEFA Champions League: Celje-Egnatia</title>
-<desc>UEFA Champions League: Celje-Egnatia</desc>
+<programme start="20260803180000 +0000" stop="20260804060000 +0000" channel="Super Sport 1AL">
+<title>Sport News</title>
+<desc>Sport News</desc>
 </programme>
 <programme start="20260801233500 +0000" stop="20260802000000 +0000" channel="Super Sport 2AL">
 <title>Football Nation</title>
@@ -92181,13 +92125,57 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>SHBA-Brazil</title>
 <desc>SHBA-Brazil</desc>
 </programme>
-<programme start="20260731180000 +0000" stop="20260801060000 +0000" channel="Super Sport 3AL">
-<title>Premier League Channel</title>
-<desc>Premier League Channel</desc>
+<programme start="20260803040000 +0000" stop="20260803060000 +0000" channel="Super Sport 2AL">
+<title>Shqiperi-Slloveni</title>
+<desc>Shqiperi-Slloveni</desc>
 </programme>
-<programme start="20260801060000 +0000" stop="20260801180000 +0000" channel="Super Sport 3AL">
-<title>Premier League Channel</title>
-<desc>Premier League Channel</desc>
+<programme start="20260803060000 +0000" stop="20260803080000 +0000" channel="Super Sport 2AL">
+<title>Dundee Utd-Rangers</title>
+<desc>Dundee Utd-Rangers</desc>
+</programme>
+<programme start="20260803080000 +0000" stop="20260803100000 +0000" channel="Super Sport 2AL">
+<title>Dinamo-Aluminij</title>
+<desc>Dinamo-Aluminij</desc>
+</programme>
+<programme start="20260803100000 +0000" stop="20260803110000 +0000" channel="Super Sport 2AL">
+<title>Football Nation</title>
+<desc>Football Nation</desc>
+</programme>
+<programme start="20260803110000 +0000" stop="20260803134000 +0000" channel="Super Sport 2AL">
+<title>Turqi-Brazil finale volley</title>
+<desc>Turqi-Brazil finale volley</desc>
+</programme>
+<programme start="20260803134000 +0000" stop="20260803140000 +0000" channel="Super Sport 2AL">
+<title>Permbledhje golash</title>
+<desc>Permbledhje golash</desc>
+</programme>
+<programme start="20260803140000 +0000" stop="20260803161500 +0000" channel="Super Sport 2AL">
+<title>PSV-AZ Alkmaar</title>
+<desc>PSV-AZ Alkmaar</desc>
+</programme>
+<programme start="20260803161500 +0000" stop="20260803170000 +0000" channel="Super Sport 2AL">
+<title>Football Nation</title>
+<desc>Football Nation</desc>
+</programme>
+<programme start="20260803170000 +0000" stop="20260803183000 +0000" channel="Super Sport 2AL">
+<title>Champions League: Dokumentar: All or nothing Juventus</title>
+<desc>Champions League: Dokumentar: All or nothing Juventus</desc>
+</programme>
+<programme start="20260803183000 +0000" stop="20260803203000 +0000" channel="Super Sport 2AL">
+<title>Celtic-Dundee</title>
+<desc>Celtic-Dundee</desc>
+</programme>
+<programme start="20260803203000 +0000" stop="20260803220000 +0000" channel="Super Sport 2AL">
+<title>Dokumentar: Conor Mc Gregor: Famekeq</title>
+<desc>Dokumentar: Conor Mc Gregor: Famekeq</desc>
+</programme>
+<programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="Super Sport 2AL">
+<title>Celtic-Dundee</title>
+<desc>Celtic-Dundee</desc>
+</programme>
+<programme start="20260804000000 +0000" stop="20260804032000 +0000" channel="Super Sport 2AL">
+<title>Itali-France 2006</title>
+<desc>Itali-France 2006</desc>
 </programme>
 <programme start="20260801180000 +0000" stop="20260802060000 +0000" channel="Super Sport 3AL">
 <title>Premier League Channel</title>
@@ -92201,57 +92189,13 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>Premier League Channel</title>
 <desc>Premier League Channel</desc>
 </programme>
-<programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20260803060000 +0000" stop="20260803180000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Premier League Channel</desc>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801040000 +0000" stop="20260801060000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801060000 +0000" stop="20260801080000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801080000 +0000" stop="20260801100000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801100000 +0000" stop="20260801120000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801120000 +0000" stop="20260801140000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801140000 +0000" stop="20260801160000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801160000 +0000" stop="20260801180000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801180000 +0000" stop="20260801200000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801200000 +0000" stop="20260801220000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
-</programme>
-<programme start="20260801220000 +0000" stop="20260801223000 +0000" channel="Super Sport 4AL">
-<title>SuperSport 4 - Program Sportiv</title>
-<desc>SuperSport 4 - Program Sportiv</desc>
+<programme start="20260803180000 +0000" stop="20260804060000 +0000" channel="Super Sport 3AL">
+<title>Premier League Channel</title>
+<desc>Premier League Channel</desc>
 </programme>
 <programme start="20260801223000 +0000" stop="20260802003000 +0000" channel="Super Sport 4AL">
 <title>SuperSport 4 - Program Sportiv</title>
@@ -92313,17 +92257,37 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>SuperSport 4 - Program Sportiv</title>
 <desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20260731180000 +0000" stop="20260801000000 +0000" channel="Super Sport 5AL">
-<title>ATP Washington 2026</title>
-<desc>ATP Washington 2026</desc>
+<programme start="20260803040000 +0000" stop="20260803060000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801060000 +0000" channel="Super Sport 5AL">
-<title>INFO</title>
-<desc>INFO</desc>
+<programme start="20260803060000 +0000" stop="20260803080000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
-<programme start="20260801060000 +0000" stop="20260801180000 +0000" channel="Super Sport 5AL">
-<title>INFO</title>
-<desc>INFO</desc>
+<programme start="20260803080000 +0000" stop="20260803100000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20260803100000 +0000" stop="20260803120000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20260803120000 +0000" stop="20260803140000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20260803140000 +0000" stop="20260803150000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
+</programme>
+<programme start="20260803150000 +0000" stop="20260804010000 +0000" channel="Super Sport 4AL">
+<title>Tenis ATP Montreal 2026</title>
+<desc>Tenis ATP Montreal 2026</desc>
+</programme>
+<programme start="20260804010000 +0000" stop="20260804030000 +0000" channel="Super Sport 4AL">
+<title>SuperSport 4 - Program Sportiv</title>
+<desc>SuperSport 4 - Program Sportiv</desc>
 </programme>
 <programme start="20260801180000 +0000" stop="20260802060000 +0000" channel="Super Sport 5AL">
 <title>INFO</title>
@@ -92337,11 +92301,11 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>INFO</title>
 <desc>INFO</desc>
 </programme>
-<programme start="20260731180000 +0000" stop="20260801060000 +0000" channel="Super Sport 6AL">
+<programme start="20260803060000 +0000" stop="20260803180000 +0000" channel="Super Sport 5AL">
 <title>INFO</title>
 <desc>INFO</desc>
 </programme>
-<programme start="20260801060000 +0000" stop="20260801180000 +0000" channel="Super Sport 6AL">
+<programme start="20260803180000 +0000" stop="20260804060000 +0000" channel="Super Sport 5AL">
 <title>INFO</title>
 <desc>INFO</desc>
 </programme>
@@ -92357,23 +92321,11 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <title>INFO</title>
 <desc>INFO</desc>
 </programme>
-<programme start="20260731220000 +0000" stop="20260801000000 +0000" channel="Super Sport 7AL">
-<title>SuperSport 7 AL</title>
-<desc>SuperSport 7 AL</desc>
+<programme start="20260803060000 +0000" stop="20260803180000 +0000" channel="Super Sport 6AL">
+<title>INFO</title>
+<desc>INFO</desc>
 </programme>
-<programme start="20260801000000 +0000" stop="20260801020000 +0000" channel="Super Sport 7AL">
-<title>SuperSport 7 AL</title>
-<desc>SuperSport 7 AL</desc>
-</programme>
-<programme start="20260801020000 +0000" stop="20260801040000 +0000" channel="Super Sport 7AL">
-<title>SuperSport 7 AL</title>
-<desc>SuperSport 7 AL</desc>
-</programme>
-<programme start="20260801040000 +0000" stop="20260801060000 +0000" channel="Super Sport 7AL">
-<title>SuperSport 7 AL</title>
-<desc>SuperSport 7 AL</desc>
-</programme>
-<programme start="20260801060000 +0000" stop="20260801180000 +0000" channel="Super Sport 7AL">
+<programme start="20260803180000 +0000" stop="20260804060000 +0000" channel="Super Sport 6AL">
 <title>INFO</title>
 <desc>INFO</desc>
 </programme>
@@ -92402,6 +92354,34 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 <desc>SuperSport 7 AL</desc>
 </programme>
 <programme start="20260803020000 +0000" stop="20260803040000 +0000" channel="Super Sport 7AL">
+<title>SuperSport 7 AL</title>
+<desc>SuperSport 7 AL</desc>
+</programme>
+<programme start="20260803040000 +0000" stop="20260803060000 +0000" channel="Super Sport 7AL">
+<title>SuperSport 7 AL</title>
+<desc>SuperSport 7 AL</desc>
+</programme>
+<programme start="20260803060000 +0000" stop="20260803180000 +0000" channel="Super Sport 7AL">
+<title>INFO</title>
+<desc>INFO</desc>
+</programme>
+<programme start="20260803180000 +0000" stop="20260803200000 +0000" channel="Super Sport 7AL">
+<title>SuperSport 7 AL</title>
+<desc>SuperSport 7 AL</desc>
+</programme>
+<programme start="20260803200000 +0000" stop="20260803220000 +0000" channel="Super Sport 7AL">
+<title>SuperSport 7 AL</title>
+<desc>SuperSport 7 AL</desc>
+</programme>
+<programme start="20260803220000 +0000" stop="20260804000000 +0000" channel="Super Sport 7AL">
+<title>SuperSport 7 AL</title>
+<desc>SuperSport 7 AL</desc>
+</programme>
+<programme start="20260804000000 +0000" stop="20260804020000 +0000" channel="Super Sport 7AL">
+<title>SuperSport 7 AL</title>
+<desc>SuperSport 7 AL</desc>
+</programme>
+<programme start="20260804020000 +0000" stop="20260804040000 +0000" channel="Super Sport 7AL">
 <title>SuperSport 7 AL</title>
 <desc>SuperSport 7 AL</desc>
 </programme>
@@ -103708,7 +103688,7 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 	</programme>
 	<programme start="20260802095500 +0200" stop="20260802114600 +0200" channel="LaLiga TV 🇪🇸">
     <title>LALIGA EA SPORTS T25/26 · Jornada 33: Mallorca - Valencia</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · Mallorca y Valencia se miden en un duelo directo por evitar el descenso. El cuadro balear llega tras dos victorias consecutivas. Los valencianos, de perder dos seguidos.
 · País: España</desc>
 	</programme>
@@ -104458,7 +104438,7 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 	</programme>
 	<programme start="20260802095500 +0200" stop="20260802114600 +0200" channel="LaLiga TV ES">
     <title>LALIGA EA SPORTS T25/26 · Jornada 33: Mallorca - Valencia</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · Mallorca y Valencia se miden en un duelo directo por evitar el descenso. El cuadro balear llega tras dos victorias consecutivas. Los valencianos, de perder dos seguidos.
 · País: España</desc>
 	</programme>
@@ -105208,7 +105188,7 @@ Es gibt all das, was den Fußball so emotional macht. Hinzu kommen wichtige Hint
 	</programme>
 	<programme start="20260802095500 +0200" stop="20260802114600 +0200" channel="M+ LaLiga HD">
     <title>LALIGA EA SPORTS T25/26 · Jornada 33: Mallorca - Valencia</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · Mallorca y Valencia se miden en un duelo directo por evitar el descenso. El cuadro balear llega tras dos victorias consecutivas. Los valencianos, de perder dos seguidos.
 · País: España</desc>
 	</programme>
