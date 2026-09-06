@@ -1,0 +1,50 @@
+name: Fusionar EPG TDTChannels + DavidMM
+
+on:
+  schedule:
+    - cron: "10 0 * * *"   # 00:10 todos los días
+    - cron: "10 12 * * *"  # 12:10 todos los días
+  workflow_dispatch:
+
+jobs:
+  fusionar_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Descargar EPGs
+      run: |
+        wget -q -O epg1.xml.gz https://www.tdtchannels.com/epg/TV.xml.gz
+        wget -q -O epg2.xml.gz https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv_color.xml.gz
+
+    - name: Descomprimir
+      run: |
+        gunzip -f epg1.xml.gz
+        gunzip -f epg2.xml.gz
+
+    - name: Fusionar EPGs
+      run: |
+        echo '<?xml version="1.0" encoding="UTF-8"?>' > EPG.TDTChannels.DavidMM.xml
+        echo '<tv>' >> EPG.TDTChannels.DavidMM.xml
+
+        # Añadir contenido de epg1 sin cabecera ni cierre
+        grep -v '<?xml' epg1.xml | grep -v '</tv>' >> EPG.TDTChannels.DavidMM.xml
+
+        # Añadir contenido de epg2 sin cabecera ni cierre
+        grep -v '<?xml' epg2.xml | grep -v '</tv>' >> EPG.TDTChannels.DavidMM.xml
+
+        echo '</tv>' >> EPG.TDTChannels.DavidMM.xml
+
+    - name: Comprimir EPG final
+      run: |
+        gzip -f EPG.TDTChannels.DavidMM.xml
+
+    - name: Commit y push
+      run: |
+        git config --global user.email "github-actions@users.noreply.github.com"
+        git config --global user.name "GitHub Actions"
+        git add EPG.TDTChannels.DavidMM.xml.gz
+        git commit -m "EPG fusionada actualizada"
+        git push
