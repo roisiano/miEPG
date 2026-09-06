@@ -2,8 +2,8 @@ name: Fusionar EPG TDTChannels + DavidMM
 
 on:
   schedule:
-    - cron: "10 0 * * *"   # 00:10 todos los días
-    - cron: "10 12 * * *"  # 12:10 todos los días
+    - cron: "10 0 * * *"
+    - cron: "10 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -24,16 +24,16 @@ jobs:
         gunzip -f epg1.xml.gz
         gunzip -f epg2.xml.gz
 
-    - name: Fusionar EPGs
+    - name: Fusionar EPGs correctamente
       run: |
         echo '<?xml version="1.0" encoding="UTF-8"?>' > EPG.TDTChannels.DavidMM.xml
         echo '<tv>' >> EPG.TDTChannels.DavidMM.xml
 
-        # Añadir contenido de epg1 sin cabecera ni cierre
-        grep -v '<?xml' epg1.xml | grep -v '</tv>' >> EPG.TDTChannels.DavidMM.xml
+        # Limpiar epg1: eliminar cabecera y cualquier <tv> o </tv>
+        grep -v '<?xml' epg1.xml | grep -v '<tv>' | grep -v '</tv>' >> EPG.TDTChannels.DavidMM.xml
 
-        # Añadir contenido de epg2 sin cabecera ni cierre
-        grep -v '<?xml' epg2.xml | grep -v '</tv>' >> EPG.TDTChannels.DavidMM.xml
+        # Limpiar epg2: eliminar cabecera y cualquier <tv> o </tv>
+        grep -v '<?xml' epg2.xml | grep -v '<tv>' | grep -v '</tv>' >> EPG.TDTChannels.DavidMM.xml
 
         echo '</tv>' >> EPG.TDTChannels.DavidMM.xml
 
