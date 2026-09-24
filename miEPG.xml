@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 24/09/2026 11:22" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 24/09/2026 15:23" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="Eurosport 1 (MAX)">
     <display-name>Eurosport 1 (MAX)</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
@@ -1829,6 +1829,41 @@
     <display-name>Fox.Sports.4K</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s110839_h15_aa.png" />
   </channel>
+  <channel id="ESPN.bo">
+    <display-name>ESPN.bo</display-name>
+<channel id="ESPN.bo"><display-name>ESPN.bo</display-name><icon src="https://images.open-epg.com/11574643.png"/></channel>
+<channel id="ESPN2.bo"><display-name>ESPN 2.bo</display-name><icon src="https://images.open-epg.com/11574640.png"/></channel>
+  </channel>
+  <channel id="ESPN2.bo">
+    <display-name>ESPN2.bo</display-name>
+<channel id="ESPN2.bo"><display-name>ESPN 2.bo</display-name><icon src="https://images.open-epg.com/11574640.png"/></channel>
+<channel id="ESPN2Chile.bo"><display-name>ESPN 2 Chile.bo</display-name><icon src="https://images.open-epg.com/x2182.png"/></channel>
+  </channel>
+  <channel id="ESPN3.bo">
+    <display-name>ESPN3.bo</display-name>
+<channel id="ESPN3.bo"><display-name>ESPN 3.bo</display-name><icon src="https://images.open-epg.com/11574641.png"/></channel>
+<channel id="ESPN4.bo"><display-name>ESPN 4.bo</display-name><icon src="https://images.open-epg.com/11574642.png"/></channel>
+  </channel>
+  <channel id="ESPN4.bo">
+    <display-name>ESPN4.bo</display-name>
+<channel id="ESPN4.bo"><display-name>ESPN 4.bo</display-name><icon src="https://images.open-epg.com/11574642.png"/></channel>
+<channel id="ESPN5.bo"><display-name>ESPN 5.bo</display-name><icon src="https://images.open-epg.com/11574699.png"/></channel>
+  </channel>
+  <channel id="ESPN5.bo">
+    <display-name>ESPN5.bo</display-name>
+<channel id="ESPN5.bo"><display-name>ESPN 5.bo</display-name><icon src="https://images.open-epg.com/11574699.png"/></channel>
+<channel id="ESPN6.bo"><display-name>ESPN 6.bo</display-name><icon src="https://images.open-epg.com/11574700.png"/></channel>
+  </channel>
+  <channel id="ESPN6.bo">
+    <display-name>ESPN6.bo</display-name>
+<channel id="ESPN6.bo"><display-name>ESPN 6.bo</display-name><icon src="https://images.open-epg.com/11574700.png"/></channel>
+<channel id="ESPN7.bo"><display-name>ESPN 7.bo</display-name><icon src="https://images.open-epg.com/11574701.png"/></channel>
+  </channel>
+  <channel id="ESPN7.bo">
+    <display-name>ESPN7.bo</display-name>
+<channel id="ESPN7.bo"><display-name>ESPN 7.bo</display-name><icon src="https://images.open-epg.com/11574701.png"/></channel>
+<channel id="EuropaEuropa.bo"><display-name>Europa Europa.bo</display-name><icon src="https://images.open-epg.com/18939775.png"/></channel>
+  </channel>
 	<programme start="20260924063000 +0200" stop="20260924083000 +0200" channel="Eurosport 1 (MAX)">
     <title>Abierto de Gran Bretaña de snooker T26/27 · Final: Mark Selby vs Jak Jones</title>
     <desc>Deportes,Snooker | 2026 | TP
@@ -1991,7 +2026,7 @@
 	</programme>
 	<programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="Eurosport 1 (MAX)">
     <title>DIRECTO Día 1 - Partido 3 T2026 · Laver Cup</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.2/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · El Team Europa y el Team Mundial chocan en Londres para la Laver Cup 2026.
 · País: Reino Unido</desc>
 	</programme>
@@ -2596,7 +2631,7 @@
 	</programme>
 	<programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="EUROSPORT 1 EU">
     <title>DIRECTO Día 1 - Partido 3 T2026 · Laver Cup</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.2/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · El Team Europa y el Team Mundial chocan en Londres para la Laver Cup 2026.
 · País: Reino Unido</desc>
 	</programme>
@@ -3201,7 +3236,7 @@
 	</programme>
 	<programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="Eurosport 1">
     <title>DIRECTO Día 1 - Partido 3 T2026 · Laver Cup</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.2/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · El Team Europa y el Team Mundial chocan en Londres para la Laver Cup 2026.
 · País: Reino Unido</desc>
 	</programme>
@@ -4094,7 +4129,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LALIGA">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -4940,7 +4975,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LALIGA (MAX)">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -5342,23 +5377,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260924100000 +0200" stop="20260924102500 +0200" channel="DAZN F1">
-    <title>DIRECTO Previo Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Previo Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924102500 +0200" stop="20260924113000 +0200" channel="DAZN F1">
-    <title>DIRECTO Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924113000 +0200" stop="20260924115800 +0200" channel="DAZN F1">
-    <title>DIRECTO Post Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Post Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924115800 +0200" stop="20260924124500 +0200" channel="DAZN F1">
-    <title>DIRECTO Clasificación T2026 · Campeonato F2 de la FIA - Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+    <title>Campeonato F2 de la FIA - Azerbaiyán T2026 · Clasificación</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
 	<programme start="20260924124500 +0200" stop="20260924132800 +0200" channel="DAZN F1">
@@ -5373,7 +5408,7 @@
 	</programme>
 	<programme start="20260924135500 +0200" stop="20260924151000 +0200" channel="DAZN F1">
     <title>DIRECTO Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924151000 +0200" stop="20260924153000 +0200" channel="DAZN F1">
@@ -5398,8 +5433,8 @@
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
 	<programme start="20260924183000 +0200" stop="20260924193000 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924193000 +0200" stop="20260924203000 +0200" channel="DAZN F1">
@@ -5414,7 +5449,7 @@
 	</programme>
 	<programme start="20260924210500 +0200" stop="20260924220500 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924220500 +0200" stop="20260925000500 +0200" channel="DAZN F1">
@@ -5449,13 +5484,13 @@
 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
 	<programme start="20260925080000 +0200" stop="20260925090000 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925090000 +0200" stop="20260925100000 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925100000 +0200" stop="20260925102500 +0200" channel="DAZN F1">
@@ -5465,7 +5500,7 @@
 	</programme>
 	<programme start="20260925102500 +0200" stop="20260925114000 +0200" channel="DAZN F1">
     <title>DIRECTO Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925114000 +0200" stop="20260925121000 +0200" channel="DAZN F1">
@@ -5484,13 +5519,13 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925135500 +0200" stop="20260925151000 +0200" channel="DAZN F1">
-    <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <title>DIRECTO Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925151000 +0200" stop="20260925160000 +0200" channel="DAZN F1">
     <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925160000 +0200" stop="20260925163700 +0200" channel="DAZN F1">
@@ -5510,7 +5545,7 @@
 	</programme>
 	<programme start="20260925190100 +0200" stop="20260925200100 +0200" channel="DAZN F1">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925200100 +0200" stop="20260925215800 +0200" channel="DAZN F1">
@@ -5530,7 +5565,7 @@
 	</programme>
 	<programme start="20260925223700 +0200" stop="20260925233700 +0200" channel="DAZN F1">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925233700 +0200" stop="20260926013700 +0200" channel="DAZN F1">
@@ -5600,23 +5635,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260926180400 +0200" stop="20260926190400 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926190400 +0200" stop="20260926200400 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926200400 +0200" stop="20260926210400 +0200" channel="DAZN F1">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926210400 +0200" stop="20260926220400 +0200" channel="DAZN F1">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926220400 +0200" stop="20260927000400 +0200" channel="DAZN F1">
@@ -5660,23 +5695,23 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927105300 +0200" stop="20260927115300 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927115300 +0200" stop="20260927125300 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927125300 +0200" stop="20260927135300 +0200" channel="DAZN F1">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927135300 +0200" stop="20260927145300 +0200" channel="DAZN F1">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927145300 +0200" stop="20260927165300 +0200" channel="DAZN F1">
@@ -5732,7 +5767,7 @@
 	</programme>
 	<programme start="20260928070500 +0200" stop="20260928085500 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928085500 +0200" stop="20260928104900 +0200" channel="DAZN F1">
@@ -5773,12 +5808,12 @@
 	</programme>
 	<programme start="20260928172100 +0200" stop="20260928193800 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928193800 +0200" stop="20260928214300 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928214300 +0200" stop="20260928220000 +0200" channel="DAZN F1">
@@ -5798,32 +5833,32 @@
 	</programme>
 	<programme start="20260929010600 +0200" stop="20260929030700 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929030700 +0200" stop="20260929045900 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929045900 +0200" stop="20260929070400 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929070400 +0200" stop="20260929090300 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
 · Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
 	</programme>
 	<programme start="20260929090300 +0200" stop="20260929110700 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929110700 +0200" stop="20260929132000 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929132000 +0200" stop="20260929150900 +0200" channel="DAZN F1">
@@ -5888,7 +5923,7 @@
 	</programme>
 	<programme start="20260930044900 +0200" stop="20260930065400 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260930065400 +0200" stop="20260930090300 +0200" channel="DAZN F1">
@@ -6015,7 +6050,7 @@
 	</programme>
 	<programme start="20260924233600 +0200" stop="20260925000300 +0200" channel="DAZN 1">
     <title>Código MotoGP T2026 · Austria</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -6238,7 +6273,7 @@
 	</programme>
 	<programme start="20260927155000 +0200" stop="20260927180500 +0200" channel="DAZN 1">
     <title>DIRECTO Jornada 5: Sevilla - Eibar T26/27 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
 	</programme>
@@ -6806,7 +6841,7 @@
 	</programme>
 	<programme start="20260927185000 +0200" stop="20260927222000 +0200" channel="DAZN 3">
     <title>DIRECTO Jornada 3: Cincinnati Bengals - Pittsburgh Steelers T26/27 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
 	</programme>
@@ -7115,7 +7150,7 @@
 	</programme>
 	<programme start="20260924233600 +0200" stop="20260925000300 +0200" channel="DAZN 1 (MAX)">
     <title>Código MotoGP T2026 · Austria</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -7338,7 +7373,7 @@
 	</programme>
 	<programme start="20260927155000 +0200" stop="20260927180500 +0200" channel="DAZN 1 (MAX)">
     <title>DIRECTO Jornada 5: Sevilla - Eibar T26/27 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
 	</programme>
@@ -7906,7 +7941,7 @@
 	</programme>
 	<programme start="20260927185000 +0200" stop="20260927222000 +0200" channel="DAZN 3 (MAX)">
     <title>DIRECTO Jornada 3: Cincinnati Bengals - Pittsburgh Steelers T26/27 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
 	</programme>
@@ -8323,7 +8358,7 @@
 	</programme>
 	<programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="EUROSPORT 1 ES (Max)">
     <title>DIRECTO Día 1 - Partido 3 T2026 · Laver Cup</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.2/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · El Team Europa y el Team Mundial chocan en Londres para la Laver Cup 2026.
 · País: Reino Unido</desc>
 	</programme>
@@ -8928,7 +8963,7 @@
 	</programme>
 	<programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="EUROSPORT 1 ES">
     <title>DIRECTO Día 1 - Partido 3 T2026 · Laver Cup</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.2/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · El Team Europa y el Team Mundial chocan en Londres para la Laver Cup 2026.
 · País: Reino Unido</desc>
 	</programme>
@@ -9533,7 +9568,7 @@
 	</programme>
 	<programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="EUROSPORT 1">
     <title>DIRECTO Día 1 - Partido 3 T2026 · Laver Cup</title>
-    <desc>Deportes,Tenis | 2026 | TP | *6.2/10
+    <desc>Deportes,Tenis | 2026 | TP | *5.8/10
 · El Team Europa y el Team Mundial chocan en Londres para la Laver Cup 2026.
 · País: Reino Unido</desc>
 	</programme>
@@ -26587,7 +26622,7 @@
 	</programme>
 	<programme start="20260924233600 +0200" stop="20260925000300 +0200" channel="DAZN 1 Espana">
     <title>Código MotoGP T2026 · Austria</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -26810,7 +26845,7 @@
 	</programme>
 	<programme start="20260927155000 +0200" stop="20260927180500 +0200" channel="DAZN 1 Espana">
     <title>DIRECTO Jornada 5: Sevilla - Eibar T26/27 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
 	</programme>
@@ -27378,7 +27413,7 @@
 	</programme>
 	<programme start="20260927185000 +0200" stop="20260927222000 +0200" channel="DAZN 3 Espana">
     <title>DIRECTO Jornada 3: Cincinnati Bengals - Pittsburgh Steelers T26/27 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
 	</programme>
@@ -27639,23 +27674,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260924100000 +0200" stop="20260924102500 +0200" channel="DAZN F1">
-    <title>DIRECTO Previo Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Previo Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924102500 +0200" stop="20260924113000 +0200" channel="DAZN F1">
-    <title>DIRECTO Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924113000 +0200" stop="20260924115800 +0200" channel="DAZN F1">
-    <title>DIRECTO Post Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Post Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924115800 +0200" stop="20260924124500 +0200" channel="DAZN F1">
-    <title>DIRECTO Clasificación T2026 · Campeonato F2 de la FIA - Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+    <title>Campeonato F2 de la FIA - Azerbaiyán T2026 · Clasificación</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
 	<programme start="20260924124500 +0200" stop="20260924132800 +0200" channel="DAZN F1">
@@ -27670,7 +27705,7 @@
 	</programme>
 	<programme start="20260924135500 +0200" stop="20260924151000 +0200" channel="DAZN F1">
     <title>DIRECTO Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924151000 +0200" stop="20260924153000 +0200" channel="DAZN F1">
@@ -27695,8 +27730,8 @@
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
 	<programme start="20260924183000 +0200" stop="20260924193000 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924193000 +0200" stop="20260924203000 +0200" channel="DAZN F1">
@@ -27711,7 +27746,7 @@
 	</programme>
 	<programme start="20260924210500 +0200" stop="20260924220500 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924220500 +0200" stop="20260925000500 +0200" channel="DAZN F1">
@@ -27746,13 +27781,13 @@
 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
 	<programme start="20260925080000 +0200" stop="20260925090000 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925090000 +0200" stop="20260925100000 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925100000 +0200" stop="20260925102500 +0200" channel="DAZN F1">
@@ -27762,7 +27797,7 @@
 	</programme>
 	<programme start="20260925102500 +0200" stop="20260925114000 +0200" channel="DAZN F1">
     <title>DIRECTO Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925114000 +0200" stop="20260925121000 +0200" channel="DAZN F1">
@@ -27781,13 +27816,13 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925135500 +0200" stop="20260925151000 +0200" channel="DAZN F1">
-    <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <title>DIRECTO Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925151000 +0200" stop="20260925160000 +0200" channel="DAZN F1">
     <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925160000 +0200" stop="20260925163700 +0200" channel="DAZN F1">
@@ -27807,7 +27842,7 @@
 	</programme>
 	<programme start="20260925190100 +0200" stop="20260925200100 +0200" channel="DAZN F1">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925200100 +0200" stop="20260925215800 +0200" channel="DAZN F1">
@@ -27827,7 +27862,7 @@
 	</programme>
 	<programme start="20260925223700 +0200" stop="20260925233700 +0200" channel="DAZN F1">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925233700 +0200" stop="20260926013700 +0200" channel="DAZN F1">
@@ -27897,23 +27932,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260926180400 +0200" stop="20260926190400 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926190400 +0200" stop="20260926200400 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926200400 +0200" stop="20260926210400 +0200" channel="DAZN F1">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926210400 +0200" stop="20260926220400 +0200" channel="DAZN F1">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926220400 +0200" stop="20260927000400 +0200" channel="DAZN F1">
@@ -27957,23 +27992,23 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927105300 +0200" stop="20260927115300 +0200" channel="DAZN F1">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927115300 +0200" stop="20260927125300 +0200" channel="DAZN F1">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927125300 +0200" stop="20260927135300 +0200" channel="DAZN F1">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927135300 +0200" stop="20260927145300 +0200" channel="DAZN F1">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927145300 +0200" stop="20260927165300 +0200" channel="DAZN F1">
@@ -28029,7 +28064,7 @@
 	</programme>
 	<programme start="20260928070500 +0200" stop="20260928085500 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928085500 +0200" stop="20260928104900 +0200" channel="DAZN F1">
@@ -28070,12 +28105,12 @@
 	</programme>
 	<programme start="20260928172100 +0200" stop="20260928193800 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928193800 +0200" stop="20260928214300 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928214300 +0200" stop="20260928220000 +0200" channel="DAZN F1">
@@ -28095,32 +28130,32 @@
 	</programme>
 	<programme start="20260929010600 +0200" stop="20260929030700 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929030700 +0200" stop="20260929045900 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929045900 +0200" stop="20260929070400 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929070400 +0200" stop="20260929090300 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
 · Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
 	</programme>
 	<programme start="20260929090300 +0200" stop="20260929110700 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929110700 +0200" stop="20260929132000 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929132000 +0200" stop="20260929150900 +0200" channel="DAZN F1">
@@ -28185,7 +28220,7 @@
 	</programme>
 	<programme start="20260930044900 +0200" stop="20260930065400 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260930065400 +0200" stop="20260930090300 +0200" channel="DAZN F1">
@@ -28708,7 +28743,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LaLiga ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -29554,7 +29589,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -30004,7 +30039,7 @@
 	</programme>
 	<programme start="20260924233600 +0200" stop="20260925000300 +0200" channel="DAZN 1 HD">
     <title>Código MotoGP T2026 · Austria</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -30227,7 +30262,7 @@
 	</programme>
 	<programme start="20260927155000 +0200" stop="20260927180500 +0200" channel="DAZN 1 HD">
     <title>DIRECTO Jornada 5: Sevilla - Eibar T26/27 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
 	</programme>
@@ -30795,7 +30830,7 @@
 	</programme>
 	<programme start="20260927185000 +0200" stop="20260927222000 +0200" channel="DAZN 3 HD">
     <title>DIRECTO Jornada 3: Cincinnati Bengals - Pittsburgh Steelers T26/27 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
 	</programme>
@@ -31056,23 +31091,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260924100000 +0200" stop="20260924102500 +0200" channel="DAZN F1 HD">
-    <title>DIRECTO Previo Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Previo Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924102500 +0200" stop="20260924113000 +0200" channel="DAZN F1 HD">
-    <title>DIRECTO Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924113000 +0200" stop="20260924115800 +0200" channel="DAZN F1 HD">
-    <title>DIRECTO Post Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Post Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924115800 +0200" stop="20260924124500 +0200" channel="DAZN F1 HD">
-    <title>DIRECTO Clasificación T2026 · Campeonato F2 de la FIA - Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+    <title>Campeonato F2 de la FIA - Azerbaiyán T2026 · Clasificación</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
 	<programme start="20260924124500 +0200" stop="20260924132800 +0200" channel="DAZN F1 HD">
@@ -31087,7 +31122,7 @@
 	</programme>
 	<programme start="20260924135500 +0200" stop="20260924151000 +0200" channel="DAZN F1 HD">
     <title>DIRECTO Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924151000 +0200" stop="20260924153000 +0200" channel="DAZN F1 HD">
@@ -31112,8 +31147,8 @@
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
 	<programme start="20260924183000 +0200" stop="20260924193000 +0200" channel="DAZN F1 HD">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924193000 +0200" stop="20260924203000 +0200" channel="DAZN F1 HD">
@@ -31128,7 +31163,7 @@
 	</programme>
 	<programme start="20260924210500 +0200" stop="20260924220500 +0200" channel="DAZN F1 HD">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924220500 +0200" stop="20260925000500 +0200" channel="DAZN F1 HD">
@@ -31163,13 +31198,13 @@
 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
 	<programme start="20260925080000 +0200" stop="20260925090000 +0200" channel="DAZN F1 HD">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925090000 +0200" stop="20260925100000 +0200" channel="DAZN F1 HD">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925100000 +0200" stop="20260925102500 +0200" channel="DAZN F1 HD">
@@ -31179,7 +31214,7 @@
 	</programme>
 	<programme start="20260925102500 +0200" stop="20260925114000 +0200" channel="DAZN F1 HD">
     <title>DIRECTO Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925114000 +0200" stop="20260925121000 +0200" channel="DAZN F1 HD">
@@ -31198,13 +31233,13 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925135500 +0200" stop="20260925151000 +0200" channel="DAZN F1 HD">
-    <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <title>DIRECTO Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925151000 +0200" stop="20260925160000 +0200" channel="DAZN F1 HD">
     <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925160000 +0200" stop="20260925163700 +0200" channel="DAZN F1 HD">
@@ -31224,7 +31259,7 @@
 	</programme>
 	<programme start="20260925190100 +0200" stop="20260925200100 +0200" channel="DAZN F1 HD">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925200100 +0200" stop="20260925215800 +0200" channel="DAZN F1 HD">
@@ -31244,7 +31279,7 @@
 	</programme>
 	<programme start="20260925223700 +0200" stop="20260925233700 +0200" channel="DAZN F1 HD">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925233700 +0200" stop="20260926013700 +0200" channel="DAZN F1 HD">
@@ -31314,23 +31349,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260926180400 +0200" stop="20260926190400 +0200" channel="DAZN F1 HD">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926190400 +0200" stop="20260926200400 +0200" channel="DAZN F1 HD">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926200400 +0200" stop="20260926210400 +0200" channel="DAZN F1 HD">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926210400 +0200" stop="20260926220400 +0200" channel="DAZN F1 HD">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926220400 +0200" stop="20260927000400 +0200" channel="DAZN F1 HD">
@@ -31374,23 +31409,23 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927105300 +0200" stop="20260927115300 +0200" channel="DAZN F1 HD">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927115300 +0200" stop="20260927125300 +0200" channel="DAZN F1 HD">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927125300 +0200" stop="20260927135300 +0200" channel="DAZN F1 HD">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927135300 +0200" stop="20260927145300 +0200" channel="DAZN F1 HD">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927145300 +0200" stop="20260927165300 +0200" channel="DAZN F1 HD">
@@ -31446,7 +31481,7 @@
 	</programme>
 	<programme start="20260928070500 +0200" stop="20260928085500 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928085500 +0200" stop="20260928104900 +0200" channel="DAZN F1 HD">
@@ -31487,12 +31522,12 @@
 	</programme>
 	<programme start="20260928172100 +0200" stop="20260928193800 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928193800 +0200" stop="20260928214300 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928214300 +0200" stop="20260928220000 +0200" channel="DAZN F1 HD">
@@ -31512,32 +31547,32 @@
 	</programme>
 	<programme start="20260929010600 +0200" stop="20260929030700 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929030700 +0200" stop="20260929045900 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929045900 +0200" stop="20260929070400 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929070400 +0200" stop="20260929090300 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
 · Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
 	</programme>
 	<programme start="20260929090300 +0200" stop="20260929110700 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929110700 +0200" stop="20260929132000 +0200" channel="DAZN F1 HD">
     <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929132000 +0200" stop="20260929150900 +0200" channel="DAZN F1 HD">
@@ -31602,7 +31637,7 @@
 	</programme>
 	<programme start="20260930044900 +0200" stop="20260930065400 +0200" channel="DAZN F1 HD">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260930065400 +0200" stop="20260930090300 +0200" channel="DAZN F1 HD">
@@ -32125,7 +32160,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -32575,7 +32610,7 @@
 	</programme>
 	<programme start="20260924233600 +0200" stop="20260925000300 +0200" channel="DAZN 1 HD (Max)">
     <title>Código MotoGP T2026 · Austria</title>
-    <desc>Deportes,Programa deportes | 2026 | TP | *6.2/10
+    <desc>Deportes,Programa deportes | 2026 | TP | *6.6/10
 · Código MotoGP es un programa en el que Natacha Alfageme descubre todos los secretos de los Grandes Premios de MotoGP desde un punto de vista diferente y con imágenes en exclusiva.
 · País: España
 · Presenta: Natacha Alfageme.</desc>
@@ -32798,7 +32833,7 @@
 	</programme>
 	<programme start="20260927155000 +0200" stop="20260927180500 +0200" channel="DAZN 1 HD (Max)">
     <title>DIRECTO Jornada 5: Sevilla - Eibar T26/27 · Liga F</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
 	</programme>
@@ -33366,7 +33401,7 @@
 	</programme>
 	<programme start="20260927185000 +0200" stop="20260927222000 +0200" channel="DAZN 3 HD (Max)">
     <title>DIRECTO Jornada 3: Cincinnati Bengals - Pittsburgh Steelers T26/27 · NFL</title>
-    <desc>Deportes,Fútbol americano | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol americano | 2026 | TP | *6.2/10
 · La NFL es la liga de fútbol americano estadounidense.
 · País: Estados Unidos</desc>
 	</programme>
@@ -33627,23 +33662,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260924100000 +0200" stop="20260924102500 +0200" channel="DAZN F1 HD (Max)">
-    <title>DIRECTO Previo Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Previo Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924102500 +0200" stop="20260924113000 +0200" channel="DAZN F1 HD (Max)">
-    <title>DIRECTO Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924113000 +0200" stop="20260924115800 +0200" channel="DAZN F1 HD (Max)">
-    <title>DIRECTO Post Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Post Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924115800 +0200" stop="20260924124500 +0200" channel="DAZN F1 HD (Max)">
-    <title>DIRECTO Clasificación T2026 · Campeonato F2 de la FIA - Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+    <title>Campeonato F2 de la FIA - Azerbaiyán T2026 · Clasificación</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
 	<programme start="20260924124500 +0200" stop="20260924132800 +0200" channel="DAZN F1 HD (Max)">
@@ -33658,7 +33693,7 @@
 	</programme>
 	<programme start="20260924135500 +0200" stop="20260924151000 +0200" channel="DAZN F1 HD (Max)">
     <title>DIRECTO Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924151000 +0200" stop="20260924153000 +0200" channel="DAZN F1 HD (Max)">
@@ -33683,8 +33718,8 @@
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
 	<programme start="20260924183000 +0200" stop="20260924193000 +0200" channel="DAZN F1 HD (Max)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924193000 +0200" stop="20260924203000 +0200" channel="DAZN F1 HD (Max)">
@@ -33699,7 +33734,7 @@
 	</programme>
 	<programme start="20260924210500 +0200" stop="20260924220500 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924220500 +0200" stop="20260925000500 +0200" channel="DAZN F1 HD (Max)">
@@ -33734,13 +33769,13 @@
 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
 	<programme start="20260925080000 +0200" stop="20260925090000 +0200" channel="DAZN F1 HD (Max)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925090000 +0200" stop="20260925100000 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925100000 +0200" stop="20260925102500 +0200" channel="DAZN F1 HD (Max)">
@@ -33750,7 +33785,7 @@
 	</programme>
 	<programme start="20260925102500 +0200" stop="20260925114000 +0200" channel="DAZN F1 HD (Max)">
     <title>DIRECTO Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925114000 +0200" stop="20260925121000 +0200" channel="DAZN F1 HD (Max)">
@@ -33769,13 +33804,13 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925135500 +0200" stop="20260925151000 +0200" channel="DAZN F1 HD (Max)">
-    <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <title>DIRECTO Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925151000 +0200" stop="20260925160000 +0200" channel="DAZN F1 HD (Max)">
     <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925160000 +0200" stop="20260925163700 +0200" channel="DAZN F1 HD (Max)">
@@ -33795,7 +33830,7 @@
 	</programme>
 	<programme start="20260925190100 +0200" stop="20260925200100 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925200100 +0200" stop="20260925215800 +0200" channel="DAZN F1 HD (Max)">
@@ -33815,7 +33850,7 @@
 	</programme>
 	<programme start="20260925223700 +0200" stop="20260925233700 +0200" channel="DAZN F1 HD (Max)">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925233700 +0200" stop="20260926013700 +0200" channel="DAZN F1 HD (Max)">
@@ -33885,23 +33920,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260926180400 +0200" stop="20260926190400 +0200" channel="DAZN F1 HD (Max)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926190400 +0200" stop="20260926200400 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926200400 +0200" stop="20260926210400 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926210400 +0200" stop="20260926220400 +0200" channel="DAZN F1 HD (Max)">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926220400 +0200" stop="20260927000400 +0200" channel="DAZN F1 HD (Max)">
@@ -33945,23 +33980,23 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927105300 +0200" stop="20260927115300 +0200" channel="DAZN F1 HD (Max)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927115300 +0200" stop="20260927125300 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927125300 +0200" stop="20260927135300 +0200" channel="DAZN F1 HD (Max)">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927135300 +0200" stop="20260927145300 +0200" channel="DAZN F1 HD (Max)">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927145300 +0200" stop="20260927165300 +0200" channel="DAZN F1 HD (Max)">
@@ -34017,7 +34052,7 @@
 	</programme>
 	<programme start="20260928070500 +0200" stop="20260928085500 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928085500 +0200" stop="20260928104900 +0200" channel="DAZN F1 HD (Max)">
@@ -34058,12 +34093,12 @@
 	</programme>
 	<programme start="20260928172100 +0200" stop="20260928193800 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928193800 +0200" stop="20260928214300 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928214300 +0200" stop="20260928220000 +0200" channel="DAZN F1 HD (Max)">
@@ -34083,32 +34118,32 @@
 	</programme>
 	<programme start="20260929010600 +0200" stop="20260929030700 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929030700 +0200" stop="20260929045900 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929045900 +0200" stop="20260929070400 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929070400 +0200" stop="20260929090300 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
 · Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
 	</programme>
 	<programme start="20260929090300 +0200" stop="20260929110700 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929110700 +0200" stop="20260929132000 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929132000 +0200" stop="20260929150900 +0200" channel="DAZN F1 HD (Max)">
@@ -34173,7 +34208,7 @@
 	</programme>
 	<programme start="20260930044900 +0200" stop="20260930065400 +0200" channel="DAZN F1 HD (Max)">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260930065400 +0200" stop="20260930090300 +0200" channel="DAZN F1 HD (Max)">
@@ -34252,23 +34287,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260924100000 +0200" stop="20260924102500 +0200" channel="DAZN F1 (MAX)">
-    <title>DIRECTO Previo Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Previo Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924102500 +0200" stop="20260924113000 +0200" channel="DAZN F1 (MAX)">
-    <title>DIRECTO Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924113000 +0200" stop="20260924115800 +0200" channel="DAZN F1 (MAX)">
-    <title>DIRECTO Post Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Post Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924115800 +0200" stop="20260924124500 +0200" channel="DAZN F1 (MAX)">
-    <title>DIRECTO Clasificación T2026 · Campeonato F2 de la FIA - Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.0/10
+    <title>Campeonato F2 de la FIA - Azerbaiyán T2026 · Clasificación</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
 	</programme>
 	<programme start="20260924124500 +0200" stop="20260924132800 +0200" channel="DAZN F1 (MAX)">
@@ -34283,7 +34318,7 @@
 	</programme>
 	<programme start="20260924135500 +0200" stop="20260924151000 +0200" channel="DAZN F1 (MAX)">
     <title>DIRECTO Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924151000 +0200" stop="20260924153000 +0200" channel="DAZN F1 (MAX)">
@@ -34308,8 +34343,8 @@
 · Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
 	</programme>
 	<programme start="20260924183000 +0200" stop="20260924193000 +0200" channel="DAZN F1 (MAX)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924193000 +0200" stop="20260924203000 +0200" channel="DAZN F1 (MAX)">
@@ -34324,7 +34359,7 @@
 	</programme>
 	<programme start="20260924210500 +0200" stop="20260924220500 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260924220500 +0200" stop="20260925000500 +0200" channel="DAZN F1 (MAX)">
@@ -34359,13 +34394,13 @@
 · Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
 	</programme>
 	<programme start="20260925080000 +0200" stop="20260925090000 +0200" channel="DAZN F1 (MAX)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925090000 +0200" stop="20260925100000 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925100000 +0200" stop="20260925102500 +0200" channel="DAZN F1 (MAX)">
@@ -34375,7 +34410,7 @@
 	</programme>
 	<programme start="20260925102500 +0200" stop="20260925114000 +0200" channel="DAZN F1 (MAX)">
     <title>DIRECTO Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925114000 +0200" stop="20260925121000 +0200" channel="DAZN F1 (MAX)">
@@ -34394,13 +34429,13 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925135500 +0200" stop="20260925151000 +0200" channel="DAZN F1 (MAX)">
-    <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <title>DIRECTO Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925151000 +0200" stop="20260925160000 +0200" channel="DAZN F1 (MAX)">
     <title>DIRECTO El Post de la Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.6/10
+    <desc>Deportes,Motor | 2026 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925160000 +0200" stop="20260925163700 +0200" channel="DAZN F1 (MAX)">
@@ -34420,7 +34455,7 @@
 	</programme>
 	<programme start="20260925190100 +0200" stop="20260925200100 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925200100 +0200" stop="20260925215800 +0200" channel="DAZN F1 (MAX)">
@@ -34440,7 +34475,7 @@
 	</programme>
 	<programme start="20260925223700 +0200" stop="20260925233700 +0200" channel="DAZN F1 (MAX)">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260925233700 +0200" stop="20260926013700 +0200" channel="DAZN F1 (MAX)">
@@ -34510,23 +34545,23 @@
 · Próxima Parada: Madring.</desc>
 	</programme>
 	<programme start="20260926180400 +0200" stop="20260926190400 +0200" channel="DAZN F1 (MAX)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926190400 +0200" stop="20260926200400 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926200400 +0200" stop="20260926210400 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926210400 +0200" stop="20260926220400 +0200" channel="DAZN F1 (MAX)">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260926220400 +0200" stop="20260927000400 +0200" channel="DAZN F1 (MAX)">
@@ -34570,23 +34605,23 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927105300 +0200" stop="20260927115300 +0200" channel="DAZN F1 (MAX)">
-    <title>Libres 1 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.4/10
+    <title>Mundial F1 - GP de Azerbaiyán T2026 · Libres 1</title>
+    <desc>Deportes,Motor | 2026 | TP
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927115300 +0200" stop="20260927125300 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 2 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.8/10
+    <desc>Deportes,Motor | 2026 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927125300 +0200" stop="20260927135300 +0200" channel="DAZN F1 (MAX)">
     <title>Libres 3 T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *5.6/10
+    <desc>Deportes,Motor | 2026 | TP | *5.8/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927135300 +0200" stop="20260927145300 +0200" channel="DAZN F1 (MAX)">
     <title>Clasificación T2026 · Mundial F1 - GP de Azerbaiyán</title>
-    <desc>Deportes,Motor | 2026 | TP | *6.2/10
+    <desc>Deportes,Motor | 2026 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260927145300 +0200" stop="20260927165300 +0200" channel="DAZN F1 (MAX)">
@@ -34642,7 +34677,7 @@
 	</programme>
 	<programme start="20260928070500 +0200" stop="20260928085500 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2023 · GP de Bélgica: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928085500 +0200" stop="20260928104900 +0200" channel="DAZN F1 (MAX)">
@@ -34683,12 +34718,12 @@
 	</programme>
 	<programme start="20260928172100 +0200" stop="20260928193800 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2023 · GP de Países Bajos: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928193800 +0200" stop="20260928214300 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Miami T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260928214300 +0200" stop="20260928220000 +0200" channel="DAZN F1 (MAX)">
@@ -34708,32 +34743,32 @@
 	</programme>
 	<programme start="20260929010600 +0200" stop="20260929030700 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2024 · GP de Japón: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929030700 +0200" stop="20260929045900 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2023 · GP de Italia: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929045900 +0200" stop="20260929070400 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Emilia Romagna T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929070400 +0200" stop="20260929090300 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.6/10
 · Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
 	</programme>
 	<programme start="20260929090300 +0200" stop="20260929110700 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
-    <desc>Deportes,Motor | 2023 | TP
+    <desc>Deportes,Motor | 2023 | TP | *6.4/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929110700 +0200" stop="20260929132000 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial F1 - GP de Mónaco T2025 · Carrera</title>
-    <desc>Deportes,Motor | 2025 | TP
+    <desc>Deportes,Motor | 2025 | TP | *6.2/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260929132000 +0200" stop="20260929150900 +0200" channel="DAZN F1 (MAX)">
@@ -34798,7 +34833,7 @@
 	</programme>
 	<programme start="20260930044900 +0200" stop="20260930065400 +0200" channel="DAZN F1 (MAX)">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
-    <desc>Deportes,Motor | 2024 | TP
+    <desc>Deportes,Motor | 2024 | TP | *6.0/10
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
 	</programme>
 	<programme start="20260930065400 +0200" stop="20260930090300 +0200" channel="DAZN F1 (MAX)">
@@ -35321,7 +35356,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LaLiga HD (Max)">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -36167,7 +36202,7 @@
 	</programme>
 	<programme start="20260927224500 +0200" stop="20260927230000 +0200" channel="DAZN LALIGA (MAX)">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -97830,7 +97865,7 @@
 	</programme>
 	<programme start="20260926210000 +0200" stop="20260926230000 +0200" channel="LaLiga TV Hypermotion">
     <title>Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -97850,7 +97885,7 @@
 	</programme>
 	<programme start="20260927080000 +0200" stop="20260927100000 +0200" channel="LaLiga TV Hypermotion">
     <title>Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -98128,7 +98163,7 @@
 	</programme>
 	<programme start="20260926210000 +0200" stop="20260926230000 +0200" channel="LALIGA TV HYPERMOTION">
     <title>Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -98148,7 +98183,7 @@
 	</programme>
 	<programme start="20260927080000 +0200" stop="20260927100000 +0200" channel="LALIGA TV HYPERMOTION">
     <title>Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -98426,7 +98461,7 @@
 	</programme>
 	<programme start="20260926210000 +0200" stop="20260926230000 +0200" channel="LaLiga TV HYPERMOTION ES">
     <title>Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -98446,7 +98481,7 @@
 	</programme>
 	<programme start="20260927080000 +0200" stop="20260927100000 +0200" channel="LaLiga TV HYPERMOTION ES">
     <title>Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -98662,7 +98697,7 @@
 	</programme>
 	<programme start="20260926183000 +0200" stop="20260926203000 +0200" channel="LaLiga TV HYPERMOTION 2">
     <title>DIRECTO Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -98838,7 +98873,7 @@
 	</programme>
 	<programme start="20260926183000 +0200" stop="20260926203000 +0200" channel="LaLiga TV HYPERMOTION 2 ES">
     <title>DIRECTO Jornada 7: RC Celta B - CE Sabadell T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.2/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
 · El Celta Fortuna afronta el encuentro después de perder 2-0 en Almería, su segundo tropiezo consecutivo y el segundo partido seguido sin marcar. El CE Sabadell llega reforzado por el 3-1 ante el Real Oviedo, una victoria de peso.
 · País: España</desc>
 	</programme>
@@ -106686,7 +106721,7 @@
 	</programme>
 	<programme start="20260926035300 +0200" stop="20260926045500 +0200" channel="LaLiga TV 🇪🇸">
     <title>Momentazos de LaLiga T19/20 · Los otros 18</title>
-    <desc>Deportes,Programa deportes | 2020 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2020 | TP | *5.8/10
 · Más de 120 personajes entre los que se encuentran ex jugadores, entrenadores, periodistas y las caras más reconocidas de Movistar+ repasan momentos, partidos o jugadores destacados de la historia de LaLiga en un formato de Ranking formado por 15 puestos.
 · País: España</desc>
 	</programme>
@@ -107067,7 +107102,7 @@
 	</programme>
 	<programme start="20260929113500 +0200" stop="20260929114000 +0200" channel="LaLiga TV 🇪🇸">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -107157,7 +107192,7 @@
 	</programme>
 	<programme start="20260929181500 +0200" stop="20260929182000 +0200" channel="LaLiga TV 🇪🇸">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -107243,7 +107278,7 @@
 	</programme>
 	<programme start="20260930003000 +0200" stop="20260930003500 +0200" channel="LaLiga TV 🇪🇸">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -107359,7 +107394,7 @@
 	</programme>
 	<programme start="20260930145000 +0200" stop="20260930145500 +0200" channel="LaLiga TV 🇪🇸">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -107443,7 +107478,7 @@
 	</programme>
 	<programme start="20260930204500 +0200" stop="20260930205000 +0200" channel="LaLiga TV 🇪🇸">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -107529,7 +107564,7 @@
 	</programme>
 	<programme start="20261001022500 +0200" stop="20261001023000 +0200" channel="LaLiga TV 🇪🇸">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -107937,7 +107972,7 @@
 	</programme>
 	<programme start="20260926035300 +0200" stop="20260926045500 +0200" channel="LaLiga TV ES">
     <title>Momentazos de LaLiga T19/20 · Los otros 18</title>
-    <desc>Deportes,Programa deportes | 2020 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2020 | TP | *5.8/10
 · Más de 120 personajes entre los que se encuentran ex jugadores, entrenadores, periodistas y las caras más reconocidas de Movistar+ repasan momentos, partidos o jugadores destacados de la historia de LaLiga en un formato de Ranking formado por 15 puestos.
 · País: España</desc>
 	</programme>
@@ -108318,7 +108353,7 @@
 	</programme>
 	<programme start="20260929113500 +0200" stop="20260929114000 +0200" channel="LaLiga TV ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -108408,7 +108443,7 @@
 	</programme>
 	<programme start="20260929181500 +0200" stop="20260929182000 +0200" channel="LaLiga TV ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -108494,7 +108529,7 @@
 	</programme>
 	<programme start="20260930003000 +0200" stop="20260930003500 +0200" channel="LaLiga TV ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -108610,7 +108645,7 @@
 	</programme>
 	<programme start="20260930145000 +0200" stop="20260930145500 +0200" channel="LaLiga TV ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -108694,7 +108729,7 @@
 	</programme>
 	<programme start="20260930204500 +0200" stop="20260930205000 +0200" channel="LaLiga TV ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -108780,7 +108815,7 @@
 	</programme>
 	<programme start="20261001022500 +0200" stop="20261001023000 +0200" channel="LaLiga TV ES">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -109188,7 +109223,7 @@
 	</programme>
 	<programme start="20260926035300 +0200" stop="20260926045500 +0200" channel="M+ LaLiga HD">
     <title>Momentazos de LaLiga T19/20 · Los otros 18</title>
-    <desc>Deportes,Programa deportes | 2020 | TP | *6.0/10
+    <desc>Deportes,Programa deportes | 2020 | TP | *5.8/10
 · Más de 120 personajes entre los que se encuentran ex jugadores, entrenadores, periodistas y las caras más reconocidas de Movistar+ repasan momentos, partidos o jugadores destacados de la historia de LaLiga en un formato de Ranking formado por 15 puestos.
 · País: España</desc>
 	</programme>
@@ -109569,7 +109604,7 @@
 	</programme>
 	<programme start="20260929113500 +0200" stop="20260929114000 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -109659,7 +109694,7 @@
 	</programme>
 	<programme start="20260929181500 +0200" stop="20260929182000 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -109745,7 +109780,7 @@
 	</programme>
 	<programme start="20260930003000 +0200" stop="20260930003500 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -109861,7 +109896,7 @@
 	</programme>
 	<programme start="20260930145000 +0200" stop="20260930145500 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -109945,7 +109980,7 @@
 	</programme>
 	<programme start="20260930204500 +0200" stop="20260930205000 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -110031,7 +110066,7 @@
 	</programme>
 	<programme start="20261001022500 +0200" stop="20261001023000 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 7: SD Eibar - UD Las Palmas</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *5.4/10
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
 	</programme>
@@ -163871,8 +163906,10 @@ En Vivo</title>
     </rating>
   </programme>
 	<programme start="20260924063000 +0200" stop="20260924083000 +0200" channel="M+ Liga de Campeones ES">
-    <title>Movistar Liga de Campeones</title>
-    <desc>· Programa por determinar...</desc>
+    <title>UEFA Europa League T26/27 · Jornada 1: Ararat Armenia - Sparta Praga</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Armenia</desc>
 	</programme>
 	<programme start="20260924083000 +0200" stop="20260924103000 +0200" channel="M+ Liga de Campeones ES">
     <title>UEFA Europa League T26/27 · Jornada 1: Olympiacos - Jagiellonia Bialystok</title>
@@ -163965,8 +164002,10 @@ En Vivo</title>
 · País: Bulgaria</desc>
 	</programme>
 	<programme start="20260925063000 +0200" stop="20260925083000 +0200" channel="M+ Liga de Campeones ES">
-    <title>Movistar Liga de Campeones</title>
-    <desc>· Programa por determinar...</desc>
+    <title>UEFA Europa League T26/27 · Jornada 1: OFI Creta - Hoffenheim</title>
+    <desc>Deportes,Fútbol | 2026 | TP
+· Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Chipre</desc>
 	</programme>
 	<programme start="20260925083000 +0200" stop="20260925103000 +0200" channel="M+ Liga de Campeones ES">
     <title>UEFA Europa League T26/27 · Jornada 1: Celtic - Ferencváros</title>
@@ -164449,7 +164488,7 @@ En Vivo</title>
 	</programme>
 	<programme start="20260929063000 +0200" stop="20260929083000 +0200" channel="M+ Liga de Campeones ES">
     <title>UEFA Europa League T26/27 · Jornada 1: Ararat Armenia - Sparta Praga</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
 · País: Armenia</desc>
 	</programme>
@@ -252527,4 +252566,1176 @@ Repetición</title>
       <value>TVPG</value>
     </rating>
   </programme>
+<programme start="20260924055500 +0000" stop="20260924065000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924065000 +0000" stop="20260924075500 +0000" channel="ESPN.bo">
+<title>Práctica - Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924075500 +0000" stop="20260924085500 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924085500 +0000" stop="20260924095000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924095000 +0000" stop="20260924105000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924105000 +0000" stop="20260924120000 +0000" channel="ESPN.bo">
+<title>Clasificación - Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924120000 +0000" stop="20260924130000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924140000 +0000" stop="20260924160000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924160000 +0000" stop="20260924165000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924165000 +0000" stop="20260924190000 +0000" channel="ESPN.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924190000 +0000" stop="20260924193000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924193000 +0000" stop="20260924214000 +0000" channel="ESPN.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924214000 +0000" stop="20260925000000 +0000" channel="ESPN.bo">
+<title>ESPN F360</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925000000 +0000" stop="20260925010000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925010000 +0000" stop="20260925023000 +0000" channel="ESPN.bo">
+<title>ESPN F90</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925023000 +0000" stop="20260925040000 +0000" channel="ESPN.bo">
+<title>ESPN F Show</title>
+<desc>Magazine</desc>
+</programme>
+<programme start="20260925040000 +0000" stop="20260925050000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925050000 +0000" stop="20260925061500 +0000" channel="ESPN.bo">
+<title>Fórmula 2 - Sprint Race</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925061500 +0000" stop="20260925071500 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925071500 +0000" stop="20260925081000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925081000 +0000" stop="20260925090500 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925090500 +0000" stop="20260925093500 +0000" channel="ESPN.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925093500 +0000" stop="20260925110500 +0000" channel="ESPN.bo">
+<title>ESPN F90</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925110500 +0000" stop="20260925123000 +0000" channel="ESPN.bo">
+<title>Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925123000 +0000" stop="20260925130000 +0000" channel="ESPN.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925130000 +0000" stop="20260925140000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925160000 +0000" stop="20260925174500 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925174500 +0000" stop="20260925193000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925193000 +0000" stop="20260925214000 +0000" channel="ESPN.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925214000 +0000" stop="20260926000000 +0000" channel="ESPN.bo">
+<title>ESPN F360</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926010000 +0000" stop="20260926023000 +0000" channel="ESPN.bo">
+<title>ESPN F90</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926023000 +0000" stop="20260926040000 +0000" channel="ESPN.bo">
+<title>ESPN F Show</title>
+<desc>Magazine</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926060000 +0000" stop="20260926065500 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926065500 +0000" stop="20260926075000 +0000" channel="ESPN.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926075000 +0000" stop="20260926091500 +0000" channel="ESPN.bo">
+<title>Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="ESPN2.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924070000 +0000" stop="20260924080000 +0000" channel="ESPN2.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924080000 +0000" stop="20260924090000 +0000" channel="ESPN2.bo">
+<title>Dutch League Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924090000 +0000" stop="20260924093000 +0000" channel="ESPN2.bo">
+<title>EFL Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="ESPN2.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260924100000 +0000" stop="20260924103000 +0000" channel="ESPN2.bo">
+<title>Top 14 de Francia - Resumen semanal</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260924103000 +0000" stop="20260924105000 +0000" channel="ESPN2.bo">
+<title>Manchester City campeón - Carabao Cup</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924105000 +0000" stop="20260924120000 +0000" channel="ESPN2.bo">
+<title>Clasificación - Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924120000 +0000" stop="20260924140000 +0000" channel="ESPN2.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924140000 +0000" stop="20260924160000 +0000" channel="ESPN2.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="ESPN2.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260924163000 +0000" stop="20260924165000 +0000" channel="ESPN2.bo">
+<title>Manchester City campeón - Carabao Cup</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924165000 +0000" stop="20260924190000 +0000" channel="ESPN2.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924190000 +0000" stop="20260924193000 +0000" channel="ESPN2.bo">
+<title>Goles de LaLiga</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924193000 +0000" stop="20260924214500 +0000" channel="ESPN2.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924214500 +0000" stop="20260924224500 +0000" channel="ESPN2.bo">
+<title>Italian Serie A Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924224500 +0000" stop="20260924230000 +0000" channel="ESPN2.bo">
+<title>Manchester City campeón - Carabao Cup</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924230000 +0000" stop="20260925003000 +0000" channel="ESPN2.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925003000 +0000" stop="20260925010000 +0000" channel="ESPN2.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925010000 +0000" stop="20260925020000 +0000" channel="ESPN2.bo">
+<title>El show de la F1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925020000 +0000" stop="20260925023000 +0000" channel="ESPN2.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925023000 +0000" stop="20260925033000 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925033000 +0000" stop="20260925043000 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925043000 +0000" stop="20260925050000 +0000" channel="ESPN2.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925050000 +0000" stop="20260925053000 +0000" channel="ESPN2.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925053000 +0000" stop="20260925060000 +0000" channel="ESPN2.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925060000 +0000" stop="20260925070200 +0000" channel="ESPN2.bo">
+<title>El show de la F1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925070200 +0000" stop="20260925080500 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925080500 +0000" stop="20260925083500 +0000" channel="ESPN2.bo">
+<title>Aguas arriba</title>
+<desc>Caza y pesca</desc>
+</programme>
+<programme start="20260925083500 +0000" stop="20260925090500 +0000" channel="ESPN2.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925090500 +0000" stop="20260925093500 +0000" channel="ESPN2.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925093500 +0000" stop="20260925100500 +0000" channel="ESPN2.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925100500 +0000" stop="20260925110500 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925110500 +0000" stop="20260925123000 +0000" channel="ESPN2.bo">
+<title>Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925123000 +0000" stop="20260925133000 +0000" channel="ESPN2.bo">
+<title>UEFA Nations League Match Night Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925133000 +0000" stop="20260925140000 +0000" channel="ESPN2.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="ESPN2.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260925160000 +0000" stop="20260925165000 +0000" channel="ESPN2.bo">
+<title>UEFA Nations League Match Night Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925165000 +0000" stop="20260925190000 +0000" channel="ESPN2.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925190000 +0000" stop="20260925230000 +0000" channel="ESPN2.bo">
+<title>Laver Cup</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="ESPN2.bo">
+<title>SportsCenter</title>
+<desc>Noticiero</desc>
+</programme>
+<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="ESPN2.bo">
+<title>UEFA Champions League Weekly</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926010000 +0000" stop="20260926021000 +0000" channel="ESPN2.bo">
+<title>Práctica - Fórmula 1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260926021000 +0000" stop="20260926033000 +0000" channel="ESPN2.bo">
+<title>Clasificación - Fórmula 1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260926033000 +0000" stop="20260926033000 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926033000 +0000" stop="20260926033000 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926033000 +0000" stop="20260926130000 +0000" channel="ESPN2.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924063000 +0000" stop="20260924070000 +0000" channel="ESPN3.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260924070000 +0000" stop="20260924080000 +0000" channel="ESPN3.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260924080000 +0000" stop="20260924090000 +0000" channel="ESPN3.bo">
+<title>Italian Serie A Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924090000 +0000" stop="20260924100000 +0000" channel="ESPN3.bo">
+<title>Goles de la Eredivisie</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="ESPN3.bo">
+<title>LaLiga</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924120000 +0000" stop="20260924130000 +0000" channel="ESPN3.bo">
+<title>Italian Serie A Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924130000 +0000" stop="20260924140000 +0000" channel="ESPN3.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260924140000 +0000" stop="20260924143000 +0000" channel="ESPN3.bo">
+<title>Top 14 de Francia - Resumen semanal</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260924143000 +0000" stop="20260924144000 +0000" channel="ESPN3.bo">
+<title>Manchester City campeón - Carabao Cup 2025-2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924144000 +0000" stop="20260924155000 +0000" channel="ESPN3.bo">
+<title>Práctica - Fórmula 1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924155000 +0000" stop="20260924170000 +0000" channel="ESPN3.bo">
+<title>Práctica - Fórmula 1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924170000 +0000" stop="20260924173000 +0000" channel="ESPN3.bo">
+<title>PGA Tour - Presidents Cup: ceremonia inaugural</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924173000 +0000" stop="20260925000000 +0000" channel="ESPN3.bo">
+<title>PGA Tour - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925000000 +0000" stop="20260925010000 +0000" channel="ESPN3.bo">
+<title>Italian Serie A Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925010000 +0000" stop="20260925030000 +0000" channel="ESPN3.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925030000 +0000" stop="20260925050000 +0000" channel="ESPN3.bo">
+<title>LaLiga</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925050000 +0000" stop="20260925060000 +0000" channel="ESPN3.bo">
+<title>Goles de la Eredivisie</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925060000 +0000" stop="20260925070000 +0000" channel="ESPN3.bo">
+<title>Italian Serie A Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925070000 +0000" stop="20260925073000 +0000" channel="ESPN3.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925073000 +0000" stop="20260925080000 +0000" channel="ESPN3.bo">
+<title>Goles de la Ligue 1</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="ESPN3.bo">
+<title>Ligue 1</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925100000 +0000" stop="20260925110000 +0000" channel="ESPN3.bo">
+<title>Compacto - Liga de Naciones de la UEFA</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925110000 +0000" stop="20260925130000 +0000" channel="ESPN3.bo">
+<title>Top 14</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260925130000 +0000" stop="20260925150000 +0000" channel="ESPN3.bo">
+<title>Top 14</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260925150000 +0000" stop="20260925170000 +0000" channel="ESPN3.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925170000 +0000" stop="20260925190000 +0000" channel="ESPN3.bo">
+<title>PGA Tour - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925190000 +0000" stop="20260926000000 +0000" channel="ESPN3.bo">
+<title>PGA Tour - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="ESPN3.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="ESPN3.bo">
+<title>ESPN KnockOut</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="ESPN3.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN3.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN3.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ESPN3.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="ESPN3.bo">
+<title>Italian Serie A Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926060000 +0000" stop="20260926080000 +0000" channel="ESPN3.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926080000 +0000" stop="20260926100000 +0000" channel="ESPN3.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924080000 +0000" stop="20260924090000 +0000" channel="ESPN4.bo">
+<title>Sail GP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260924090000 +0000" stop="20260924093000 +0000" channel="ESPN4.bo">
+<title>Top 14 de Francia - Resumen Semanal</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="ESPN4.bo">
+<title>Skiing Winter News</title>
+<desc>Ski</desc>
+</programme>
+<programme start="20260924100000 +0000" stop="20260924110000 +0000" channel="ESPN4.bo">
+<title>Eredivisie Highlight</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924110000 +0000" stop="20260924120000 +0000" channel="ESPN4.bo">
+<title>NFL Semanal</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260924120000 +0000" stop="20260924125800 +0000" channel="ESPN4.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924125800 +0000" stop="20260924135600 +0000" channel="ESPN4.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924135600 +0000" stop="20260924145400 +0000" channel="ESPN4.bo">
+<title>Sail GP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260924145400 +0000" stop="20260924165000 +0000" channel="ESPN4.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924165000 +0000" stop="20260924184500 +0000" channel="ESPN4.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="ESPN4.bo">
+<title>Torneo Proyección Sur Finanzas</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924210000 +0000" stop="20260924213000 +0000" channel="ESPN4.bo">
+<title>Top 14 de Francia - Resumen Semanal</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260924213000 +0000" stop="20260924220000 +0000" channel="ESPN4.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260924220000 +0000" stop="20260924230000 +0000" channel="ESPN4.bo">
+<title>NFL Semanal</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260924230000 +0000" stop="20260924233000 +0000" channel="ESPN4.bo">
+<title>Goles de la Ligue 1</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924233000 +0000" stop="20260925000000 +0000" channel="ESPN4.bo">
+<title>Goles de LaLiga</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925000000 +0000" stop="20260925020000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925020000 +0000" stop="20260925030000 +0000" channel="ESPN4.bo">
+<title>El show de la F1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="ESPN4.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="ESPN4.bo">
+<title>Goles de la UEFA Champions League Femenina</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925040000 +0000" stop="20260925060000 +0000" channel="ESPN4.bo">
+<title>PGA Golf Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925060000 +0000" stop="20260925063000 +0000" channel="ESPN4.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925063000 +0000" stop="20260925070000 +0000" channel="ESPN4.bo">
+<title>Lo mejor de MotoGP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260925070000 +0000" stop="20260925080000 +0000" channel="ESPN4.bo">
+<title>El show de la F1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="ESPN4.bo">
+<title>Top 14 de Francia - Resumen Semanal</title>
+<desc>Rugby</desc>
+</programme>
+<programme start="20260925123000 +0000" stop="20260925133000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925133000 +0000" stop="20260925140000 +0000" channel="ESPN4.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925140000 +0000" stop="20260925143000 +0000" channel="ESPN4.bo">
+<title>Aguas arriba</title>
+<desc>Caza y pesca</desc>
+</programme>
+<programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="ESPN4.bo">
+<title>Goles de la UEFA Champions League Femenina</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925150000 +0000" stop="20260925170000 +0000" channel="ESPN4.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260925170000 +0000" stop="20260925184500 +0000" channel="ESPN4.bo">
+<title>Fórmula S</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925184500 +0000" stop="20260925190000 +0000" channel="ESPN4.bo">
+<title>Tales of Valentino</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925190000 +0000" stop="20260925193000 +0000" channel="ESPN4.bo">
+<title>Aguas arriba</title>
+<desc>Caza y pesca</desc>
+</programme>
+<programme start="20260925193000 +0000" stop="20260925203000 +0000" channel="ESPN4.bo">
+<title>Spruce Meadows</title>
+<desc>Equitación</desc>
+</programme>
+<programme start="20260925203000 +0000" stop="20260925213000 +0000" channel="ESPN4.bo">
+<title>Sail GP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260925213000 +0000" stop="20260925220000 +0000" channel="ESPN4.bo">
+<title>Lo mejor de MotoGP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260925220000 +0000" stop="20260925230000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League Highlight</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="ESPN4.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="ESPN4.bo">
+<title>Lo mejor de MotoGP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="ESPN4.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN4.bo">
+<title>PGA Golf Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN4.bo">
+<title>PGA Golf Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="ESPN4.bo">
+<title>PGA Golf Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260926060000 +0000" stop="20260926072500 +0000" channel="ESPN4.bo">
+<title>Fórmula 2</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260926072500 +0000" stop="20260926075500 +0000" channel="ESPN4.bo">
+<title>Goles de la UEFA Champions League Femenina</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926075500 +0000" stop="20260926085500 +0000" channel="ESPN4.bo">
+<title>Sail GP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260924080000 +0000" stop="20260924100000 +0000" channel="ESPN5.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="ESPN5.bo">
+<title>Serie A</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924120000 +0000" stop="20260924140000 +0000" channel="ESPN5.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="ESPN5.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924150000 +0000" stop="20260924160000 +0000" channel="ESPN5.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924160000 +0000" stop="20260924170000 +0000" channel="ESPN5.bo">
+<title>SailGP</title>
+<desc>Náutica</desc>
+</programme>
+<programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ESPN5.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ESPN5.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924210000 +0000" stop="20260924211000 +0000" channel="ESPN5.bo">
+<title>Especiales Moto GP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260924211000 +0000" stop="20260924214000 +0000" channel="ESPN5.bo">
+<title>Lo mejor de MotoGP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260924214000 +0000" stop="20260924225000 +0000" channel="ESPN5.bo">
+<title>Práctica - Fórmula 1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260924225000 +0000" stop="20260925000000 +0000" channel="ESPN5.bo">
+<title>Práctica - Fórmula 1</title>
+<desc>Automovilismo</desc>
+</programme>
+<programme start="20260925000000 +0000" stop="20260925010000 +0000" channel="ESPN5.bo">
+<title>NFL Live desde México</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260925010000 +0000" stop="20260925043000 +0000" channel="ESPN5.bo">
+<title>NFL</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260925043000 +0000" stop="20260925053000 +0000" channel="ESPN5.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925053000 +0000" stop="20260925063000 +0000" channel="ESPN5.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925063000 +0000" stop="20260925070000 +0000" channel="ESPN5.bo">
+<title>F Táctico</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925070000 +0000" stop="20260925073000 +0000" channel="ESPN5.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925073000 +0000" stop="20260925080000 +0000" channel="ESPN5.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="ESPN5.bo">
+<title>PGA Tour - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="ESPN5.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="ESPN5.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925123000 +0000" stop="20260925170000 +0000" channel="ESPN5.bo">
+<title>Laver Cup</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260925170000 +0000" stop="20260925190000 +0000" channel="ESPN5.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260925190000 +0000" stop="20260925193000 +0000" channel="ESPN5.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925193000 +0000" stop="20260925214500 +0000" channel="ESPN5.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925214500 +0000" stop="20260925235000 +0000" channel="ESPN5.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925235000 +0000" stop="20260926000000 +0000" channel="ESPN5.bo">
+<title>Bayern Munich campeón de la Bundesliga 2025-2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926000000 +0000" stop="20260926030000 +0000" channel="ESPN5.bo">
+<title>MLB</title>
+<desc>Béisbol</desc>
+</programme>
+<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="ESPN5.bo">
+<title>ATP Tour: This Week</title>
+<desc>Tenis</desc>
+</programme>
+<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="ESPN5.bo">
+<title>UEFA Champions League Weekly</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN5.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN5.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="ESPN5.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="ESPN5.bo">
+<title>Compacto - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="ESPN5.bo">
+<title>Compacto - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926080000 +0000" stop="20260926100000 +0000" channel="ESPN5.bo">
+<title>PGA Tour - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924080000 +0000" stop="20260924100000 +0000" channel="ESPN6.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924100000 +0000" stop="20260924110000 +0000" channel="ESPN6.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924110000 +0000" stop="20260924140000 +0000" channel="ESPN6.bo">
+<title>NFL</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260924140000 +0000" stop="20260924160000 +0000" channel="ESPN6.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924160000 +0000" stop="20260924170000 +0000" channel="ESPN6.bo">
+<title>Dutch League Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924170000 +0000" stop="20260924180000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260924180000 +0000" stop="20260924190000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ESPN6.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ESPN6.bo">
+<title>PGA Tour Highlights - Road to the Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260924220000 +0000" stop="20260924230000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto GP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260924230000 +0000" stop="20260925000000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 3</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260925000000 +0000" stop="20260925020000 +0000" channel="ESPN6.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925020000 +0000" stop="20260925040000 +0000" channel="ESPN6.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925040000 +0000" stop="20260925060000 +0000" channel="ESPN6.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="ESPN6.bo">
+<title>PGA - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="ESPN6.bo">
+<title>English League Championship</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925100000 +0000" stop="20260925103000 +0000" channel="ESPN6.bo">
+<title>EFL Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925103000 +0000" stop="20260925110000 +0000" channel="ESPN6.bo">
+<title>El show de la Copa Libertadores</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925110000 +0000" stop="20260925130000 +0000" channel="ESPN6.bo">
+<title>PGA - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925130000 +0000" stop="20260925160000 +0000" channel="ESPN6.bo">
+<title>NFL</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260925160000 +0000" stop="20260925170000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260925170000 +0000" stop="20260925180000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260925180000 +0000" stop="20260925195000 +0000" channel="ESPN6.bo">
+<title>Liga Profesional 2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925195000 +0000" stop="20260925200000 +0000" channel="ESPN6.bo">
+<title>PSG Campeón UCL 2025-2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 3</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 2</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="ESPN6.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="ESPN6.bo">
+<title>English League Championship</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="ESPN6.bo">
+<title>EFL Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="ESPN6.bo">
+<title>UEFA Champions League Weekly</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="ESPN6.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="ESPN6.bo">
+<title>El show de la Copa Libertadores</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 3</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 3</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 3</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="ESPN6.bo">
+<title>ESPN Compact - Moto 2</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260926060000 +0000" stop="20260926080000 +0000" channel="ESPN6.bo">
+<title>PGA - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260926080000 +0000" stop="20260926100000 +0000" channel="ESPN6.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924060000 +0000" stop="20260924080000 +0000" channel="ESPN7.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260924080000 +0000" stop="20260924083000 +0000" channel="ESPN7.bo">
+<title>EFL Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924083000 +0000" stop="20260924090000 +0000" channel="ESPN7.bo">
+<title>El show de la Copa Libertadores</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924090000 +0000" stop="20260924100000 +0000" channel="ESPN7.bo">
+<title>Dutch League Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="ESPN7.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924120000 +0000" stop="20260924140000 +0000" channel="ESPN7.bo">
+<title>UEFA Women&apos;s Champions League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260924140000 +0000" stop="20260924170000 +0000" channel="ESPN7.bo">
+<title>NFL</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260924170000 +0000" stop="20260924180000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Moto GP</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260924180000 +0000" stop="20260924190000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Moto 3</title>
+<desc>Motociclismo</desc>
+</programme>
+<programme start="20260924190000 +0000" stop="20260924220000 +0000" channel="ESPN7.bo">
+<title>MLB</title>
+<desc>Béisbol</desc>
+</programme>
+<programme start="20260924220000 +0000" stop="20260925000000 +0000" channel="ESPN7.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925000000 +0000" stop="20260925020000 +0000" channel="ESPN7.bo">
+<title>ESPN Knockout</title>
+<desc>Boxeo</desc>
+</programme>
+<programme start="20260925020000 +0000" stop="20260925040000 +0000" channel="ESPN7.bo">
+<title>English League Championship</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925040000 +0000" stop="20260925050000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925050000 +0000" stop="20260925060000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="ESPN7.bo">
+<title>UEFA Nations League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925080000 +0000" stop="20260925090000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260925090000 +0000" stop="20260925100000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260925100000 +0000" stop="20260925130000 +0000" channel="ESPN7.bo">
+<title>NFL</title>
+<desc>Fútbol americano</desc>
+</programme>
+<programme start="20260925130000 +0000" stop="20260925133000 +0000" channel="ESPN7.bo">
+<title>EFL Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925133000 +0000" stop="20260925140000 +0000" channel="ESPN7.bo">
+<title>El show de la Copa Libertadores</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925140000 +0000" stop="20260925160000 +0000" channel="ESPN7.bo">
+<title>PGA - Presidents Cup</title>
+<desc>Golf</desc>
+</programme>
+<programme start="20260925160000 +0000" stop="20260925170000 +0000" channel="ESPN7.bo">
+<title>UEFA Nations League Match Night Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925170000 +0000" stop="20260925173000 +0000" channel="ESPN7.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="ESPN7.bo">
+<title>EFL Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925180000 +0000" stop="20260925190000 +0000" channel="ESPN7.bo">
+<title>Dutch League Highlights</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925190000 +0000" stop="20260925200000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ESPN7.bo">
+<title>Highlights - UEFA Europa League</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="ESPN7.bo">
+<title>English League Championship</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926000000 +0000" stop="20260926015000 +0000" channel="ESPN7.bo">
+<title>Liga Profesional 2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926015000 +0000" stop="20260926020000 +0000" channel="ESPN7.bo">
+<title>PSG Campeón UCL 2025-2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="ESPN7.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="ESPN7.bo">
+<title>El show de la Copa Libertadores</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926040000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ESPN7.bo">
+<title>ESPN Compact - Premier Padel - Paris Major</title>
+<desc>Pádel</desc>
+</programme>
+<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="ESPN7.bo">
+<title>UEFA Champions League Weekly</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="ESPN7.bo">
+<title>UEFA Women&apos;s Champions League Highlight Show</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926060000 +0000" stop="20260926075000 +0000" channel="ESPN7.bo">
+<title>Liga Profesional 2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926075000 +0000" stop="20260926080000 +0000" channel="ESPN7.bo">
+<title>PSG Campeón UCL 2025-2026</title>
+<desc>Fútbol</desc>
+</programme>
+<programme start="20260926080000 +0000" stop="20260926110000 +0000" channel="ESPN7.bo">
+<title>NFL</title>
+<desc>Fútbol americano</desc>
+</programme>
 </tv>
