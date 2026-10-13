@@ -1,0 +1,43 @@
+name: Ejecutar todos los workflows
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  ejecutar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Lanzar todos los workflows compatibles
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          echo "Buscando workflows del repositorio..."
+
+          gh workflow list \
+            --repo "$GH_REPO" \
+            --all \
+            --limit 200 \
+            --json name,path,state \
+            --jq '.[] | select(.path != ".github/workflows/ejecutar-todos.yml") | select(.state == "active") | .path' |
+          while IFS= read -r workflow; do
+            [ -n "$workflow" ] || continue
+
+            echo "Lanzando: $workflow"
+
+            if gh workflow run "$workflow" \
+              --repo "$GH_REPO" \
+              --ref main; then
+              echo "Solicitud enviada: $workflow"
+            else
+              echo "ERROR al lanzar: $workflow"
+            fi
+          done
