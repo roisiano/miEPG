@@ -3,7 +3,7 @@ name: Descargar y subir EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: '25 6 * * *'  # Ejecuta todos los días a las 6:00 UTC
+    - cron: '25 2 * * *'  # Ejecuta todos los días a las 6:00 UTC
 
 jobs:
   sync-epg:
