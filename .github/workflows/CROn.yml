@@ -3,7 +3,6 @@ name: Update EPG File CRO.xml
 on:
   schedule:
     - cron: '45 5 * * *'
-    - cron: '45 13 * * *'
     - cron: '45 18 * * *'
   workflow_dispatch:
 
