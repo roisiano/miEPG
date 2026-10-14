@@ -3,11 +3,7 @@ name: Update EPG File TDTchannels.xml
 on:
   schedule:
     - cron: '45 2 * * *'  # Ejecuta a las 2:45 AM cada día.
-    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
-    - cron: '45 8 * * *'  # Ejecuta a las 8:45 AM cada día.
-    - cron: '45 13 * * *' # Ejecuta a la 1:45 PM cada día.
     - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
-    - cron: '45 21 * * *' # Ejecuta a las 9:45 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
