@@ -1,0 +1,60 @@
+name: miEPG
+
+on:
+  schedule:
+    - cron: '45 5 * * *'
+    - cron: '27 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Procesar OpenEPG
+      shell: bash
+      run: |
+
+        set -e
+
+        while IFS= read -r URL
+        do
+
+          [ -z "$URL" ] && continue
+
+          echo "Procesando: $URL"
+
+          GZFILE=$(basename "$URL")
+
+          XMLFILE="${GZFILE%.gz}"
+
+          wget -q "$URL" -O "$GZFILE"
+
+          gunzip -f "$GZFILE"
+
+          sed -i 's/<title/\n<title/g' "$XMLFILE"
+          sed -i 's/<sub/\n<sub/g' "$XMLFILE"
+          sed -i 's/<desc/\n<desc/g' "$XMLFILE"
+          sed -i 's/<episode/\n<episode/g' "$XMLFILE"
+          sed -i 's#</programme>#\n</programme>#g' "$XMLFILE"
+
+        done < OpenEPGacambiar.txt
+
+    - name: Commit
+      run: |
+
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+
+        git add *.xml
+
+        git diff --cached --quiet || \
+        git commit -m "Actualización automática EPG"
+
+        git push
