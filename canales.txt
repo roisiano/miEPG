@@ -59,6 +59,8 @@ PT | Sport TV NBA,SPORT.TV NBA
 PT | Sport TV +,SPORT.TV PT +
 Eurosport.1.it,EUROSPORT 1 IT
 Eurosport.2.it,EUROSPORT 2 IT
+Eurosport.Italia.it,EUROSPORT 1 IT
+Eurosport.2.Italia.it,EUROSPORT 2 IT
 DAZN 1 HD,DAZN 1 Espana
 DAZN 2 HD,DAZN 2 Espana
 DAZN 3 HD,DAZN 3 Espana
@@ -105,11 +107,13 @@ Play.Sports.HD1.be,PLAY SPORTS 1
 Play.Sports.HD2.be,PLAY SPORTS 2
 Play.Sports.HD3.be,PLAY SPORTS 3
 Ziggo.Sport.nl,Ziggo HD
+Ziggo.Sport.1.nl,Ziggo HD
 Ziggo.Sport.2.nl,Ziggo 2 HD
 Ziggo.Sport.3.nl,Ziggo 3 HD
 Ziggo.Sport.4.nl,Ziggo 4 HD
 Ziggo.Sport.5.nl,Ziggo 5 HD
 Ziggo.Sport.6.nl,Ziggo 6 HD
+ESPN.nl,ESPN Nederland
 ESPN.1.nl,ESPN Nederland
 ESPN.2.nl,ESPN 2 Nederland
 ESPN.3.nl,ESPN 3 Nederland
@@ -161,6 +165,13 @@ Sky.Sport..259.it,SKY SPORT 259 IT
 Fox.Sports.Latin.America.(Cono.Norte).(FSA).mx,Fox Sports
 Fox.Sports.2.(Cono.Norte).(FOXSP2).mx,Fox Sports 2
 FOX.Sports.Premium.MEXICO.mx,Fox Sports Premium
+Canal.Fox.Sports.(México).mx,Fox Sports
+Canal.Fox.Sports.2.(México).mx,Fox Sports 2
+Canal.Fox.Sports.3.(México).mx
+FOX.SPORTS.mx,Fox Sports
+FOX.SPORTS.2.mx,Fox Sports 2
+FOX.SPORTS.3.mx,Fox Sports 3
+FOX.SPORTS.PREMIUM.mx,Fox Sports Premium
 Nova.Sport.1.cz,Nova Sport 1 SK
 Nova.Sport.2.cz,Nova Sport 2 SK
 Nova.Sport.1.cz,Nova Sport 1 (Slovakia)
@@ -292,6 +303,11 @@ Setanta Sports.ee,Setanta Sport 1
 Setanta Sports 2.ee,Setanta Sport 2
 Setanta LV.lv,Setanta Sports 1
 Setanta Sports 2.lv,Setanta Sports 2
+Setanta Sports 1.lt,Setanta Sports 1
+Setanta Sports 2.lt,Setanta Sports 2
+Setanta.Sports.1.HD.lv,Setanta Sports 1
+Setanta.Sports.2.HD.lv,Setanta Sports 2
+SkySpMainEvHD.uk,Sky Sports Main Event GB
 SkySpMainEv.uk,Sky Sports Main Event GB
 Sky.Sports.Football.HD.uk,Sky Sports Football GB
 SkyPremiereHD.uk,Sky Sports Premier League GB
@@ -308,6 +324,7 @@ FOX SPORTS.mx,FOX Sports.MX,https://upload.wikimedia.org/wikipedia/commons/e/e5/
 FOX SPORTS 2.mx,FOX Sports 2.MX,https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png
 FOX SPORTS 3.mx,FOX Sports 3.MX,https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png
 ESPN.mx,ESPN.MX,https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png
+ESPN.MX.mx,ESPN.MX,https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png
 ESPN 2.mx,ESPN 2.MX,https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png
 ESPN 3.mx,ESPN 3.MX,https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png
 ESPN 4.mx,ESPN 4.MX,https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png
@@ -524,6 +541,8 @@ NPO.2.nl,NPO 2
 NPO.3.nl,NPO 3
 NPO.1.extra.nl,NPO Extra 1
 NPO.2.extra.nl,NPO Extra 2
+NPO.1.Extra.nl,NPO Extra 1
+NPO.2.Extra.nl,NPO Extra 2
 RMC.Sport.Access.fr,RMC Sport Access
 RMC.Sport.1.fr,RMC Sport 1
 RMC.Sport.Live.1.fr,RMC Sport 1 Live
