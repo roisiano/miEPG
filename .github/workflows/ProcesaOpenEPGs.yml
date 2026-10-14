@@ -2,8 +2,8 @@ name: miEPG
 
 on:
   schedule:
-    - cron: '45 5 * * *'
-    - cron: '27 20 * * *'
+    - cron: '45 3 * * *'
+    - cron: '27 15 * * *'
   workflow_dispatch:
 
 permissions:
