@@ -2,8 +2,8 @@ name: Descargar y subir EPG
 
 on:
   schedule:
-    - cron: '45 5 * * *'  # Ejecuta a las 5:45 AM cada día.
-    - cron: '45 18 * * *' # Ejecuta a las 6:45 PM cada día.
+    - cron: '54 5 * * *'  # Ejecuta a las 5:45 AM cada día.
+    - cron: '42 18 * * *' # Ejecuta a las 6:45 PM cada día.
   workflow_dispatch: # Permite ejecutar manualmente el flujo de trabajo.
 
 jobs:
