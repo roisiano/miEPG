@@ -1,0 +1,31 @@
+name: Borrar XML de la raíz
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  borrar_xml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Eliminar XML de la raíz
+        run: |
+          find . -maxdepth 1 -type f -name "*.xml" -print -delete
+
+      - name: Commit cambios
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add -A
+
+          git diff --cached --quiet || \
+          git commit -m "Eliminar XML de la raíz"
+
+          git push
