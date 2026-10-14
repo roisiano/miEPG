@@ -2,7 +2,7 @@ name: Fusionar EPG TDTChannels + DavidMM
 
 on:
   schedule:
-    - cron: "25 0 * * *"   # 00:10 todos los días
+    - cron: "12 0 * * *"   # 00:10 todos los días
     - cron: "10 12 * * *"  # 12:10 todos los días
   workflow_dispatch:
 
