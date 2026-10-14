@@ -3,7 +3,6 @@ name: EPG TDT corregido
 on:
   schedule:
     - cron: '55 6 * * *'
-    - cron: '55 14 * * *'
     - cron: '55 19 * * *'
   workflow_dispatch:
 
